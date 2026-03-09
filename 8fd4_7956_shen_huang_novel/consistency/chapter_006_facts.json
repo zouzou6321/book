@@ -1,0 +1,120 @@
+{
+  "characters_present": [
+    {
+      "name": "林野",
+      "age": null,
+      "role": "主角/觉醒者",
+      "description": "E级巅峰肉体，开启狂血状态，浑身浴血，身穿牛仔外套或黑色T恤",
+      "status": "active"
+    },
+    {
+      "name": "二阶骨刺虎",
+      "age": null,
+      "role": "二阶变异兽",
+      "description": "灰褐色庞大身躯，双猩红竖瞳，有墨绿色毒液，尾有骨刺",
+      "status": "deceased"
+    },
+    {
+      "name": "黑风衣男子",
+      "age": null,
+      "role": "不明势力观察者",
+      "description": "身穿黑风衣，手持长焦相机，神情贪婪阴冷",
+      "status": "departed"
+    },
+    {
+      "name": "苏清鸢",
+      "age": null,
+      "role": "少女/龙组相关人员",
+      "description": "双手捂嘴，面色兴奋涨红",
+      "status": "active"
+    },
+    {
+      "name": "龙组督查",
+      "age": null,
+      "role": "官方调查员",
+      "description": "领队，手持黑色终端，一脸敬畏",
+      "status": "active"
+    },
+    {
+      "name": "王秃子",
+      "age": "中年",
+      "role": "房东",
+      "description": "顶大肚腩，谢顶，穿着花裤衩，市侩嘴脸",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "黑风衣男子",
+    "王秃子"
+  ],
+  "character_exits": [
+    {
+      "name": "黑风衣男子",
+      "reason": "离开"
+    },
+    {
+      "name": "王秃子",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "kill_tier2_tiger",
+      "description": "林野击杀二阶骨刺虎，达成首杀二阶成就",
+      "time": "第1天 晚8:32后"
+    },
+    {
+      "id": "receive_system_rewards",
+      "description": "获得现金30万元、蚩尤牙碎片、血脉进度提升及新神通血气探查",
+      "time": "击杀野兽后"
+    },
+    {
+      "id": "interact_with_officials",
+      "description": "龙组督查澄清污蔑并承诺发放20万危难救助金，林野拒绝上交蚩尤牙碎片",
+      "time": "第1天 晚9点左右"
+    },
+    {
+      "id": "rent_payment_conflict",
+      "description": "林野因测试力量损坏承重墙，房东王秃子索赔，林野转账10万元（修墙费与租金）并震慑房东",
+      "time": "深夜"
+    },
+    {
+      "id": "accept_mother_protection_task",
+      "description": "接受系统任务，要求24小时内将母亲转移至军区医院并消除窥视者",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "第1天 晚8:32 至 深夜",
+  "locations": [
+    "东海市郊区地铁口施工路段",
+    "幸福里小区",
+    "林野的出租屋"
+  ],
+  "key_facts": [
+    {
+      "id": "linye_bank_balance",
+      "content": "林野银行卡余额为412,500元（含系统奖励30万及原有存款，龙组后续另发20万，此处显示已到账或指当前操作余额）"
+    },
+    {
+      "id": "linye_bloodline_progress",
+      "content": "蚩尤血脉解锁进度为14.8%"
+    },
+    {
+      "id": "linye_new_ability",
+      "content": "林野获得新神通「血气探查」，可感知方圆百米内敌意目标"
+    },
+    {
+      "id": "linye_mother_condition",
+      "content": "林野母亲需要透析费、特护病房及后续营养费"
+    },
+    {
+      "id": "linye_body_defense",
+      "content": "霸体神通被动防御凡兵难伤、毒火不侵，免疫F级及以下攻击，减免E级攻击70%"
+    },
+    {
+      "id": "task_24h_transfer_mom",
+      "content": "系统发布任务要求24小时内转移母亲至东海市第一军区医院特护病房并消除窥视者"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,95 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "主角/潜在“主厨”",
+      "description": "消瘦，脸上有瓷纹裂纹，胸挂生锈钥匙，身穿印有“V me 50”的T恤，腰别生锈勺子",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "收容局特工/代号“净化者”",
+      "description": "戴战术护目镜，持黑色手枪，穿战术风衣",
+      "status": "active"
+    },
+    {
+      "name": "李小鱼",
+      "age": "16岁",
+      "role": "李疯狂的妹妹/“容器”",
+      "description": "身体因适应功能停止生长呈幼态，抱着破旧泰迪熊，头发干枯发黄",
+      "status": "active"
+    },
+    {
+      "name": "财务总监",
+      "age": null,
+      "role": "变异柯基",
+      "description": "三个穿着不同颜色迷你西装的脑袋",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "李疯狂",
+    "苏浅",
+    "李小鱼",
+    "财务总监"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "manual_handover",
+      "description": "李疯狂将自己的身体弱点分析（离职申请/说明书）交给苏浅，委托她在自己失控时处决自己。",
+      "time": "周三 23:00-23:45"
+    },
+    {
+      "id": "bedtime_story",
+      "description": "李疯狂给李小鱼讲述了一只小鸡为了飞翔跳进油锅变成炸鸡的睡前故事。",
+      "time": "23:45"
+    },
+    {
+      "id": "crazy_thursday_restart",
+      "description": "零点到来，“疯狂星期四”重启，世界崩解为数据流，高维香气涌入，李疯狂被“主厨”人格彻底接管。",
+      "time": "00:00"
+    }
+  ],
+  "time_period": "第一周期·周三 23:00 至 周四 00:00",
+  "locations": [
+    "地下B4层·前中央银行地下金库遗址"
+  ],
+  "key_facts": [
+    {
+      "id": "li_weakness_logic_paradox",
+      "content": "李疯狂的弱点位于左臂动脉（逻辑悖论节点），注入高浓度理智抑制剂可暂停运动3秒。"
+    },
+    {
+      "id": "li_weakness_blind_spot",
+      "content": "李疯狂的视觉盲区在右眼下方45度角，即“真理之胃”的排气口，爆破可使其失去吞咽能力。"
+    },
+    {
+      "id": "li_weakness_kill_code",
+      "content": "击杀李疯狂的方法是瞄准眉心，其再生能力强，必须打准。"
+    },
+    {
+      "id": "mysterious_items",
+      "content": "李疯狂持有一串生锈钥匙（传闻能通往“核心后厨”）和一把生锈的勺子。"
+    },
+    {
+      "id": "world_setting_thursday",
+      "content": "“疯狂星期四”是世界全面重启/异常爆发的时间点，高维污染会挤压现实空间导致含氧量降低。"
+    },
+    {
+      "id": "character_identity_suqian",
+      "content": "苏浅是收容局特工，代号“净化者”，与李疯狂存在对赌协议。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角（李疯狂）",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

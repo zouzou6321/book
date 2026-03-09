@@ -1,0 +1,68 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "26",
+      "role": "篡改者/暴食者/普通社畜",
+      "description": "发际线略微后移，左眼深褐色有倒置V形符号，手指苍白并在使用黑墨水后发黑",
+      "status": "active"
+    },
+    {
+      "name": "无面外卖员",
+      "age": "未知",
+      "role": "异化怪物/怨念实体",
+      "description": "穿着美团外卖黄色制服，腹部掏空塞满废弃物，面部是巨大的旋转二维码",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "无面外卖员"
+  ],
+  "character_exits": [
+    {
+      "name": "无面外卖员",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "create_first_coupon",
+      "description": "李疯狂利用红墨水笔、A4纸和古神切片结合‘V我50’逻辑，成功制造出第一张高危精神污染物‘兑换券’",
+      "time": "2024年10月23日 15:20左右"
+    },
+    {
+      "id": "consume_coupon_power",
+      "description": "李疯狂吞下兑换券进行自体测试，身体数据化增强，通过因果线看见了苏浅的现状",
+      "time": "2024年10月23日 15:35左右"
+    },
+    {
+      "id": "feed_delIVERY_monster",
+      "description": "无面外卖员闻味闯入，李疯狂投喂了一张兑换券，使其异化消退并离去",
+      "time": "2024年10月23日 下午"
+    }
+  ],
+  "time_period": "2024年10月23日 15:20 - 下午",
+  "locations": [
+    "旧城区",
+    "废弃纺织厂仓库"
+  ],
+  "key_facts": [
+    {
+      "id": "world_logic_transaction",
+      "content": "世界的底层逻辑是‘交易’，古神吃理智产出贪婪，人付出劳动换取生存"
+    },
+    {
+      "id": "coupon_function",
+      "content": "兑换券（伪装版/KFC兑换券）功能是食用后获3分钟【理智之主（伪）】权限，副作用是背诵疯狂星期四文案"
+    },
+    {
+      "id": "countdown_timer",
+      "content": "距离‘开饭’（古神/账单相关事件）还有不到两小时（倒计时显示01:59:00）"
+    },
+    {
+      "id": "connection_su_qian",
+      "content": "李疯狂与苏浅之间存在一条坚韧的金色因果线，苏浅灵魂深处有保护李疯狂的冰蓝色防火墙"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

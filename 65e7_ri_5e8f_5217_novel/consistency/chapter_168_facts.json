@@ -1,0 +1,94 @@
+{
+  "characters_present": [
+    {
+      "name": "苏浅",
+      "age": "未明确",
+      "role": "精神科医生",
+      "description": "手持裁纸刀，拥有旧日直觉，能感知世界Bug，手心有一道浅浅的未愈合纹路",
+      "status": "active"
+    },
+    {
+      "name": "李疯狂",
+      "age": "未明确",
+      "role": "世界后台进程/防火墙（高维病毒）",
+      "description": "躯体呈数据化/半透明状，有些部位是马赛克或修正色块，穿着廉价T恤",
+      "status": "active"
+    },
+    {
+      "name": "老王",
+      "age": "老年",
+      "role": "市立精神卫生中心保安",
+      "description": "满脸褶子，端着不锈钢保温杯",
+      "status": "departed"
+    },
+    {
+      "name": "变异怪物（旧日残渣）",
+      "age": "未知",
+      "role": "旧日废料与新规则的融合怪",
+      "description": "起初形似无五官的孩子，怀抱带血管电线的泰迪熊，后显形为漆黑物质",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "老王",
+      "reason": "离开"
+    },
+    {
+      "name": "变异怪物（旧日残渣）",
+      "reason": "死亡"
+    },
+    {
+      "name": "李疯狂",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "glitch_observation",
+      "description": "苏浅在精神卫生中心门口目睹路灯“卡顿”和LED屏出现复古代码与笑脸，察觉世界Bug。",
+      "time": "18:45"
+    },
+    {
+      "id": "monster_encounter",
+      "description": "苏浅在回家巷口遭遇试图吞噬路人的变异怪物，世界开始崩塌。",
+      "time": "入夜后"
+    },
+    {
+      "id": "li_crazy_intervention",
+      "description": "李疯狂消耗快乐币现身，使用系统指令将怪物强制改写为过期外卖垃圾。",
+      "time": "入夜后"
+    },
+    {
+      "id": "memory_restoration",
+      "description": "李疯狂发短信后消失，苏浅记起了他的名字“李疯狂”。",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "新时间线·首个“疯狂星期四”前夕，18:45及随后的夜晚",
+  "locations": [
+    "市立精神卫生中心门口",
+    "城市网络主动脉（数据维度）",
+    "苏浅回家路上的昏暗巷子"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_status",
+      "content": "李疯狂已失去实体，转化为高维病毒或世界后台进程，作为防火墙维护现实逻辑。"
+    },
+    {
+      "id": "happy_coin_currency",
+      "content": "修复现实裂缝需要消耗“快乐币”，该货币由人类的快乐情绪充值。"
+    },
+    {
+      "id": "su_qian_resistance",
+      "content": "苏浅是唯一保留“旧时代抗性”的人，能看到常人无法察觉的Bug。"
+    },
+    {
+      "id": "monster_origin",
+      "content": "怪物是上一个世界残留的“废料”因逻辑排斥发生畸形变异，试图利用营销规则食人。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

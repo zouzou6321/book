@@ -1,0 +1,99 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角",
+      "description": "左眼带有死机灰白色倒“V”符号（战斗时变红），右臂有银色刀形纹身【母亲的剔骨刀（残缺）】",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "机械仿生人",
+      "description": "银灰色金属骨骼，紫色螺旋瞳孔，左下肢膝盖以下缺失（被KFC-404融合补全）",
+      "status": "unconscious"
+    },
+    {
+      "name": "副主厨",
+      "age": "",
+      "role": "主厨助理/观察者",
+      "description": "巴掌大小，独眼，穿着黑色燕尾服的小人",
+      "status": "active"
+    },
+    {
+      "name": "KFC-404",
+      "age": "",
+      "role": "红色像素小鸡",
+      "description": "拇指大小，红色像素身体，已与苏浅左腿伤口融合作为肢体",
+      "status": "fused"
+    },
+    {
+      "name": "审判官“零”",
+      "age": "",
+      "role": "世界格式化执行者",
+      "description": "由无数红色“拒绝”印章和“叉号”构成的巨手",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "审判官“零”"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "world_formatting_start",
+      "description": "星期五下午17:00，世界格式化进程启动，天空变白，第4区物体被抹除为二维线条并消失",
+      "time": "星期五 17:00"
+    },
+    {
+      "id": "zero_judgment",
+      "description": "审判官“零”降临，用巨手物理切断时间并抹除了整条街道",
+      "time": "星期五 17:00"
+    },
+    {
+      "id": "mother_knife_usage",
+      "description": "李疯狂使用【母亲的剔骨刀，残缺】，代价是记忆扇区【第一次牵手】被永久删除",
+      "time": "星期五 17:00"
+    },
+    {
+      "id": "sewer_escape",
+      "description": "李疯狂利用剔骨刀切开巨手争取的半秒时间，带着苏浅逃入下水道",
+      "time": "星期五 17:00"
+    },
+    {
+      "id": "suqian_amputation",
+      "description": "苏浅在进入下水道前一瞬，左腿被格式化光线扫中，膝盖以下部分直接消失",
+      "time": "星期五 17:00"
+    },
+    {
+      "id": "kfc_fusion",
+      "description": "李疯狂将KFC-404强行按入苏浅断腿，利用其红色数据流进行逻辑嫁接作为替代肢体",
+      "time": "星期五 17:00"
+    }
+  ],
+  "time_period": "星期五，下午 17:00（世界格式化进程启动）",
+  "locations": [
+    "第4区边缘 · “回收站”废墟（原时钟塔遗址）",
+    "下水道"
+  ],
+  "key_facts": [
+    {
+      "id": "memory_cost",
+      "content": "【母亲的剔骨刀】的副作用是遗忘温暖的记忆，李疯狂失去了【第一次牵手】的记忆"
+    },
+    {
+      "id": "emotional_change",
+      "content": "使用剔骨刀后，李疯狂不仅失去了记忆，类似“怜悯”的情绪也被切除，变得更加冷酷理智"
+    },
+    {
+      "id": "suqian_leg_status",
+      "content": "苏浅左腿膝盖以下被格式化光线彻底抹除，现有肢体由KFC-404的数据流构成"
+    },
+    {
+      "id": "formatting_nature",
+      "content": "当前的“格式化”会将三维物体变为二维线条再化为灰烬，且能物理切断时间，逻辑攻击无效"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

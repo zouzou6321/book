@@ -1,0 +1,89 @@
+{
+  "characters_present": [
+    {
+      "name": "林野",
+      "age": "22岁",
+      "role": "底层社畜、上古返祖系统宿主、蚩尤血脉持有者",
+      "description": "眼底有常年加班熬出的厚重乌青，身着洗得发白的牛仔外套",
+      "status": "active"
+    },
+    {
+      "name": "苏清鸢",
+      "age": "十六七岁",
+      "role": "刚考完高考的未成年少女",
+      "description": "高马尾发梢有浅棕色挑染，身着白色连帽卫衣",
+      "status": "active"
+    },
+    {
+      "name": "张磊",
+      "age": "三十岁上下",
+      "role": "龙组东海分队小队长",
+      "description": "满脸横肉，脖子有刀疤，作训服领口敞开",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "林野",
+    "苏清鸢",
+    "张磊"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "kill_5_first_order_bone_spike_tigers",
+      "description": "林野激活狂血、霸体神通，20秒内击杀5头一阶骨刺虎，完成新手任务，获得10万元现金奖励，蚩尤血脉解锁进度提升1%至11%",
+      "time": "第1天晚8:20左右"
+    },
+    {
+      "id": "long_group_arrive_at_scene",
+      "description": "龙组东海分队驾驶3辆刷有防腐蚀涂层的黑色装甲车抵达现场，拉起防爆警戒线疏散围观路人",
+      "time": "林野击杀5头一阶骨刺虎后"
+    },
+    {
+      "id": "zhanglei_accuse_linye",
+      "description": "龙组东海分队小队长张磊污蔑林野私藏违禁上古遗珍、勾结异兽危害公共安全，要求没收其蚩尤指骨并带其回去调查",
+      "time": "龙组抵达现场后"
+    },
+    {
+      "id": "su_qingyuan_defend_linye",
+      "description": "苏清鸢挡在林野身前驳斥张磊，张磊欲推开苏清鸢时被林野攥住手腕，随行龙组队员举特制麻醉枪对准林野",
+      "time": "张磊要求抓捕林野时"
+    },
+    {
+      "id": "second_order_bone_spike_tiger_warning",
+      "description": "系统检测到二阶骨刺虎预计8分钟后从空间裂缝降临，当前空间裂缝扩张速度提升500%",
+      "time": "龙组队员举枪对准林野时"
+    }
+  ],
+  "time_period": "第1天晚8:20前后",
+  "locations": [
+    "东海市郊区16号线地铁口施工路段"
+  ],
+  "key_facts": [
+    {
+      "id": "linye_basic_info",
+      "content": "林野是22岁底层社畜，母亲需透析，此前被部门经理扣除一半绩效，凑钱困难，觉醒上古返祖系统，拥有蚩尤血脉，持有蚩尤指骨"
+    },
+    {
+      "id": "su_qingyuan_basic_info",
+      "content": "苏清鸢是十六七岁的刚高考完的未成年少女，来东海投奔父亲，此前被林野从一阶骨刺虎口中救下"
+    },
+    {
+      "id": "bone_spike_tiger_feature",
+      "content": "一阶骨刺虎是异兽，长有骨刺与20厘米长獠牙，涎水有腐蚀性；二阶骨刺虎实力远强于一阶，预计8分钟后从空间裂缝降临"
+    },
+    {
+      "id": "long_group_zhanglei_motivation",
+      "content": "张磊是龙组东海分队小队长，得知施工路段出土上古遗珍，意图赶在异兽扩散前捡漏，觊觎林野持有的蚩尤指骨"
+    },
+    {
+      "id": "linye_newbie_task_result",
+      "content": "林野击杀5头一阶骨刺虎完成新手任务，10万元奖励已到账，蚩尤血脉当前解锁进度为11%"
+    },
+    {
+      "id": "space_crack_current_status",
+      "content": "东海市郊区16号线地铁口施工路段存在半米宽的空间裂缝，持续扩张，不断有异兽从中出现，周边温度较10分钟前下降4度"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,86 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "二十五六岁",
+      "role": "长生卫首领/前朝神机营督师",
+      "description": "皮肤白皙病态，神情死寂，像被时光遗忘的泥塑",
+      "status": "active"
+    },
+    {
+      "name": "顾炎武",
+      "age": "中年",
+      "role": "大儒/学者",
+      "description": "面容清瘦，颧骨微凸，留着三缕稀疏胡须，眼神亮得吓人",
+      "status": "active"
+    },
+    {
+      "name": "茶寮伙计",
+      "age": "十二三岁",
+      "role": "茶寮服务员",
+      "description": "秃头少年",
+      "status": "active"
+    },
+    {
+      "name": "长生卫统领",
+      "age": "未提及",
+      "role": "长生卫统领",
+      "description": "像鬼魅一样从阴影中浮现",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "顾炎武",
+    "长生卫统领"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "gu_meeting_chen",
+      "description": "顾炎武在茶寮找到陈默，出示名单请求救援三百名铁匠和二十位精通格物的先生",
+      "time": "永历二年五月某日白天"
+    },
+    {
+      "id": "evacuation_deal",
+      "description": "陈默同意秘密带工匠撤离，并计划利用此次行动清除跟踪的西班牙间谍",
+      "time": "永历二年五月某日白天至夜晚"
+    },
+    {
+      "id": "siege_imminent",
+      "description": "尚可喜的汉军前锋逼近肇庆，距离不足百里",
+      "time": "永历二年五月（背景事件）"
+    }
+  ],
+  "time_period": "永历二年（1648年）五月",
+  "locations": [
+    "广东肇庆",
+    "端州行在",
+    "西江码头",
+    "茶寮",
+    "城南码头",
+    "大榕树"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_mo_immortality",
+      "content": "陈默是长生不死者，外貌维持在二十五六岁，曾化名活跃于江浙，是前朝神机营督师"
+    },
+    {
+      "id": "craftsmen_rescue_plan",
+      "content": "顾炎武列出的名单包含300名铁匠和20名懂算学、格物的先生，定于今夜三更在城南码头大榕树下撤离，只许带人不许带家眷"
+    },
+    {
+      "id": "qing_army_location",
+      "content": "尚可喜的汉军前锋已过三水，距离肇庆不足百里，铁骑快马两天可到"
+    },
+    {
+      "id": "spanish_tracking",
+      "content": "自舟山海战后，名为“神之门”的西班牙间谍组织一直在追踪陈默，陈默计划借撤离行动将其清洗"
+    },
+    {
+      "id": "tiangong_kaiwu_copy",
+      "content": "陈默怀中藏有一份《天工开物》的副本残卷"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,123 @@
+{
+  "characters_present": [
+    {
+      "name": "萧严",
+      "age": "未知",
+      "role": "演员(剧中饰演太监魏忠)",
+      "description": "眼神冷冽深沉，修长的手指，有宿醉症状，气场强大",
+      "status": "active"
+    },
+    {
+      "name": "陈宇",
+      "age": "年轻",
+      "role": "当红小生(剧中饰演忠良之后沈长风)",
+      "description": "精致得像个瓷娃娃",
+      "status": "active"
+    },
+    {
+      "name": "张伟",
+      "age": "未知",
+      "role": "导演",
+      "description": "业内暴脾气，眉头紧锁，手指夹着烟",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "成熟",
+      "role": "影后(剧中饰演女皇)",
+      "description": "穿着米色高领针织衫，长发随意挽起，未施粉黛，清冷动人，身带沉水香气",
+      "status": "active"
+    },
+    {
+      "name": "编剧",
+      "age": "中年",
+      "role": "编剧",
+      "description": "戴厚底眼镜，唯唯诺诺",
+      "status": "active"
+    },
+    {
+      "name": "王胖子",
+      "age": "未知",
+      "role": "萧严的助理(御前带刀侍卫)",
+      "description": "胆小，怂样十足",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "王胖子"
+  ],
+  "character_exits": [
+    {
+      "name": "陈宇",
+      "reason": "黑着脸，带着助理生气离开"
+    },
+    {
+      "name": "张伟",
+      "reason": "留在会议室继续改剧本"
+    },
+    {
+      "name": "林清雪",
+      "reason": "对话结束，转身走向VIP通道离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "emergency_script_meeting",
+      "description": "《大梁谍影》剧组召开紧急剧本围读会，讨论连夜修改后的剧本",
+      "time": "2024年秋，傍晚六点"
+    },
+    {
+      "id": "chen_yu_protest",
+      "description": "陈宇强烈反对魏忠笑着赴死的设定，认为大反派应像狗一样痛哭流涕",
+      "time": "会议开始不久"
+    },
+    {
+      "id": "xiao_yan_analysis",
+      "description": "萧严指出魏忠是皇帝的刀，笑着赴死是觉悟与解脱，驳斥了陈宇的脸谱化理解",
+      "time": "会议中期"
+    },
+    {
+      "id": "lin_qingxue_inquiry",
+      "description": "萧严与林清雪讨论眼神戏，定调为“如释重负的悲悯”",
+      "time": "会议中后期"
+    },
+    {
+      "id": "hallway_confrontation",
+      "description": "散会后，林清雪在走廊试探萧严是否真的只是个新人，指出他懂真正的官场逻辑",
+      "time": "深夜"
+    },
+    {
+      "id": "private_acting_invitation",
+      "description": "林清雪邀请萧严明晚去她房间单独走一场“君臣对峙”的戏",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "2024年秋，傍晚六点至深夜",
+  "locations": [
+    "横店某五星级酒店·行政会议室",
+    "酒店走廊",
+    "电梯口"
+  ],
+  "key_facts": [
+    {
+      "id": "current Drama_project",
+      "content": "剧组名为《大梁谍影》"
+    },
+    {
+      "id": "role_wei_zhong_personality",
+      "content": "萧严饰演的魏忠被重新定义为看透生死的悲剧权臣，而非传统的卑鄙小人"
+    },
+    {
+      "id": "xiao_yan_secret",
+      "content": "萧严拥有前世在朝堂的政治经验和记忆（被视作真正的官场逻辑）"
+    },
+    {
+      "id": "relationship_development",
+      "content": "林清雪对萧严产生了超越普通同事的兴趣和探究欲"
+    },
+    {
+      "id": " upcoming_key_scene",
+      "content": "明晚有一场魏忠向女皇摊牌的高潮戏份，两人将私下排练"
+    }
+  ]
+}

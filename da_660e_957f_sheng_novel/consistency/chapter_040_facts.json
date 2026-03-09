@@ -1,0 +1,98 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "未知",
+      "role": "前神机营督师/隐形国师",
+      "description": "身穿被海雾打湿的青衫，身躯消瘦，蓄长发挽成道髻",
+      "status": "active"
+    },
+    {
+      "name": "郑成功",
+      "age": "弱冠之年（约20岁）",
+      "role": "国姓爷/将领",
+      "description": "身着亮银色鱼鳞甲、披着猩红大氅，面如冠玉，剑眉入鬓",
+      "status": "departed"
+    },
+    {
+      "name": "长生卫统领",
+      "age": "未知",
+      "role": "长生卫新任统领",
+      "description": "沉默寡言的汉子，像石头一样",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "郑成功",
+    "长生卫统领"
+  ],
+  "character_exits": [
+    {
+      "name": "郑成功",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "meeting_zheng_chenggong",
+      "description": "陈默在舟山群岛会见郑成功，并向其展示蒸汽动力船‘神龙’的图纸",
+      "time": "监国元年秋"
+    },
+    {
+      "id": "rejection_of_tech",
+      "description": "郑成功以‘奇技淫巧’为由拒绝了蒸汽船构想，坚持使用传统水师战术",
+      "time": "监国元年秋"
+    },
+    {
+      "id": "sinking_lead_coffin",
+      "description": "陈默下令将装有蒸汽机图纸、火药配方及战争推演的‘铅棺’沉入深海",
+      "time": "监国元年秋的夜晚"
+    },
+    {
+      "id": "spotting_western_spies",
+      "description": "陈默在海天尽头发现挂有红白蓝三色条纹旗的西方船只，怀疑是‘猎人’势力",
+      "time": "监国元年秋的夜晚"
+    },
+    {
+      "id": "decision_to_go_southwest",
+      "description": "陈默决定离开舟山，前往西南深山的蛮荒之地避世",
+      "time": "监国元年秋的夜晚"
+    }
+  ],
+  "time_period": "监国元年（1646年）秋",
+  "locations": [
+    "浙江舟山群岛",
+    "普陀山以东隐秘海湾"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_mo_current_hairstyle",
+      "content": "陈默留起长发并挽成道髻"
+    },
+    {
+      "id": "qinger_replaced",
+      "content": "原长生卫成员青儿已离任三年，现由新任统领接替"
+    },
+    {
+      "id": "lead_coffin_contents",
+      "content": "沉入海底的黑铁长箱内包含：蒸汽机图纸、燧发枪最佳配比数据、高纯度颗粒火药提炼法及未来战争形态推演手记"
+    },
+    {
+      "id": "western_hunters_presence",
+      "content": "西方势力（自称‘猎人’的碧眼洋人）正在监视该区域"
+    },
+    {
+      "id": "new_destination_plan",
+      "content": "陈默计划前往西南深山（瘴气、蛮族聚居地）"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "国姓爷",
+      "names": [
+        "郑成功",
+        "大木"
+      ]
+    }
+  ]
+}

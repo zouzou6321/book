@@ -1,0 +1,108 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "二十五六岁",
+      "role": "回春堂坐堂郎中",
+      "description": "面容清秀却透着病态苍白，常年不见阳光，眼窝有淡青黑，穿着洗得发白的青色布衣，手瘦削骨节分明。",
+      "status": "active"
+    },
+    {
+      "name": "赵掌柜",
+      "age": "未知",
+      "role": "回春堂掌柜",
+      "description": "老头，膝下无子，贪财但也胆小。",
+      "status": "active"
+    },
+    {
+      "name": "沈炼",
+      "age": "未知",
+      "role": "锦衣卫北镇抚司千户",
+      "description": "身材魁梧，满脸横肉，刚毅，杀人如麻，但也重义气。",
+      "status": "departed"
+    },
+    {
+      "name": "受伤锦衣卫",
+      "age": "约三十出头",
+      "role": "锦衣卫（沈炼下属/兄弟）",
+      "description": "左腹插有断刃，脸色惨白，重伤昏迷。",
+      "status": "departed"
+    },
+    {
+      "name": "锦衣卫校尉",
+      "age": "未知",
+      "role": "锦衣卫下属",
+      "description": "凶光毕露，按刀护卫。",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "沈炼",
+    "受伤锦衣卫",
+    "锦衣卫校尉"
+  ],
+  "character_exits": [
+    {
+      "name": "沈炼",
+      "reason": "离开"
+    },
+    {
+      "name": "受伤锦衣卫",
+      "reason": "离开"
+    },
+    {
+      "name": "锦衣卫校尉",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "jinyiwei_arrival",
+      "description": "沈炼带着腹部受重伤的下属闯入回春堂求医。",
+      "time": "泰昌元年九月某日下午"
+    },
+    {
+      "id": "surgery_negotiation",
+      "description": "陈默提出先付五十两纹银才救人，沈炼支付了钱款。",
+      "time": "泰昌元年九月某日下午"
+    },
+    {
+      "id": "emergency_surgery",
+      "description": "陈默使用烈酒清创、烧红铁丝止血、羊肠线缝合等现代外科手段，成功为重伤锦衣卫进行了开腹手术。",
+      "time": "泰昌元年九月某日下午至傍晚"
+    },
+    {
+      "id": "recruitment_attempt",
+      "description": "沈炼试图招揽陈默加入锦衣卫，被陈默婉拒，沈炼留下腰牌后离开。",
+      "time": "泰昌元年九月某日傍晚"
+    }
+  ],
+  "time_period": "泰昌元年（1620年）九月",
+  "locations": [
+    "北京城",
+    "外城",
+    "回春堂药铺",
+    "草场胡同",
+    "后厨",
+    "后堂/后屋"
+  ],
+  "key_facts": [
+    {
+      "id": "chenmo_immortal_secret",
+      "content": "陈默拥有现代外科缝合技术，且身体内部存在细胞躁动和虫噬感，需要服用含朱砂、硫磺的药丸（金丹/红丸）来压制，具有某种特殊的生理机制（如长生或受毒药控制）。"
+    },
+    {
+      "id": "shenlian_token",
+      "content": "陈默持有沈炼赠送的锦衣卫北镇抚司千户腰牌，作为日后寻求庇护的信物。"
+    },
+    {
+      "id": "surgery_methods",
+      "content": "陈默掌握远超时代的外科医疗技术，包括烈酒消毒、电烫（烧红铁丝）止血、羊肠线缝合内脏与皮肤。"
+    },
+    {
+      "id": "historical_background",
+      "content": "此时泰昌帝因服用红丸崩逝，京城正在办丧事，氛围压抑。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

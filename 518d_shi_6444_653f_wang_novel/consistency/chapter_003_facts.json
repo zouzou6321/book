@@ -1,0 +1,80 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "",
+      "role": "新人演员（前世记忆为大梁将军）",
+      "description": "脸色略显苍白，轮廓分明的脸，眼神锐利、充满痛楚与恨意",
+      "status": "active"
+    },
+    {
+      "name": "王胖子",
+      "age": "",
+      "role": "经纪人",
+      "description": "胖脸，满是横肉，满脸油汗，态度谄媚",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "影后（饰演女皇）",
+      "description": "白色极简风衣，戴墨镜，下颌线精致，气场高傲孤冷",
+      "status": "active"
+    },
+    {
+      "name": "张伟",
+      "age": "",
+      "role": "导演",
+      "description": "对林清雪极力讨好",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "林清雪",
+    "张伟"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "lin_qingxue_arrival",
+      "description": "影后林清雪乘坐迈巴赫抵达片场，引发围观骚动。",
+      "time": "上午九点后"
+    },
+    {
+      "id": "reunion_recognition",
+      "description": "萧寒见到林清雪，认定她是前世的仇人兼故人长公主李瑾，产生剧烈情绪波动并与其对视。",
+      "time": "上午九点后"
+    },
+    {
+      "id": "role_commentary",
+      "description": "林清雪评价萧寒眼神太凶，不适合演隐忍的奴才魏忠，随后进入保姆车。",
+      "time": "上午九点后"
+    },
+    {
+      "id": "acting_strategy",
+      "description": "得知下午将与林清雪对戏，萧寒决心通过演技演好阴鸷的魏忠来接近和应对林清雪。",
+      "time": "上午九点后"
+    }
+  ],
+  "time_period": "2024年某日上午九点",
+  "locations": [
+    "《大梁谍影》剧组拍摄基地外围",
+    "罗马柱阴影下",
+    "核心区域",
+    "专属休息区/保姆车"
+  ],
+  "key_facts": [
+    {
+      "id": "identity_crisis",
+      "content": "萧寒拥有大梁将军萧寒的记忆，认为林清雪是前世的李瑾。"
+    },
+    {
+      "id": "role_assignment",
+      "content": "萧寒确定了饰演的角色是“魏忠”（一个需要隐藏野心的阴鸷奴才），林清雪饰演“女皇”。"
+    },
+    {
+      "id": "character_dynamic",
+      "content": "萧寒对林清雪怀有复杂的恨意与深情，决定利用演戏作为手段来与其 interaction，并阻止前世悲剧重演。"
+    }
+  ]
+}

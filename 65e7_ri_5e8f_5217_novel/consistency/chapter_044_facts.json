@@ -1,0 +1,92 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "篡改者/主角",
+      "description": "左眼瞳孔深处有倒“V”字白色符号，右手可覆盖黑色金属角质，胃部吞下了“物理备份”纸条。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "收容局前王牌/母体",
+      "description": "左臂有一圈青色的电路板状花纹，手持黑色战术手枪，被称为“A级抗性容器”。",
+      "status": "active"
+    },
+    {
+      "name": "刀片嘴队长",
+      "age": "未知",
+      "role": "肃清者编外小队队长/审计组",
+      "description": "惨白脸，双眼被黑线缝合，嘴里是整齐排列的剃须刀片，一只巨大的电子眼。身体由旧报纸和公文纸构成。",
+      "status": "deceased"
+    },
+    {
+      "name": "肃清者编外小队特工",
+      "age": "未知",
+      "role": "收容局特工/催收办",
+      "description": "身穿全黑色紧身战术装甲，胸口印着收容局盾形徽章和鲜红笑脸纹章。",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "刀片嘴队长",
+    "肃清者编外小队（审计组/催收办）"
+  ],
+  "character_exits": [
+    {
+      "name": "肃清者编外小队特工",
+      "reason": "死亡"
+    },
+    {
+      "name": "刀片嘴队长",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "library_investigation",
+      "description": "李疯狂与苏浅进入城市图书馆废墟，穿过充满概念污染的大厅，到达深处档案室。",
+      "time": "伪·星期三 下午 14:30"
+    },
+    {
+      "id": "discovery_of_disc",
+      "description": "在“旧历202X年”区域的档案柜中找到一份名为“世界崩塌观测日志 · 未归档版”的光盘。",
+      "time": "伪·星期三 下午 14:30"
+    },
+    {
+      "id": "ambush_by_audit_team",
+      "description": "“审计组”（刀片嘴队长带领）出现，声称代表收容局新股东进行“催收”，要求交出数据核心和苏浅作为祭品。",
+      "time": "伪·星期三 下午 14:30"
+    },
+    {
+      "id": "battle_and_concept_rewrite",
+      "description": "战斗爆发，李疯狂使用【篡改者】能力将致命攻击改为气体、友军伤害及“肯德基疯狂星期四优惠券”，击杀敌方队长。",
+      "time": "伪·星期三 下午 14:30"
+    }
+  ],
+  "time_period": "伪·星期三 下午 14:30",
+  "locations": [
+    "城市图书馆废墟",
+    "深处档案室"
+  ],
+  "key_facts": [
+    {
+      "id": "suqian_identity",
+      "content": "苏浅被称为“母体”，是A级抗性容器和完美的精神共鸣体质，被预定为“董事会”的“星期四特餐”。"
+    },
+    {
+      "id": "audit_team_identity",
+      "content": "来袭敌人自称为“肃清者编外小队，代号‘审计组’”，也被称作“催收办”，属于收容局但换了新股东。"
+    },
+    {
+      "id": "mission_target",
+      "content": "获取数据核心（光盘）后，李疯狂命令苏浅前往“喉咙”。"
+    },
+    {
+      "id": "li_crazy_condition",
+      "content": "李疯狂吞下了“物理备份”纸条，使用大规模概念覆写后会遭受逻辑崩坏的反弹和脑部剧痛。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

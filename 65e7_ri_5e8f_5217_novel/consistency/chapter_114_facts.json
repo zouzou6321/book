@@ -1,0 +1,77 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/用户",
+      "description": "左眼尚未完全愈合，左眼下有暗红色图腾；掌心有模糊的“人”字印记。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "同伴",
+      "description": "异色瞳（左眼深邃如黑洞，右眼为像素风暴状，花蕊深处有红色呼吸灯）；身体硬度堪比新型复合材料；半边身体开始呈现透明化（数据溢出）。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "fall_into_sewer",
+      "description": "李疯狂与苏浅坠入“旧日餐厅”后厨废弃物处理区（下水道），位于巨大的垃圾山上。",
+      "time": "周五黄昏"
+    },
+    {
+      "id": "bounty_hunt_triggered",
+      "description": "视野中出现大量【悬赏：逃跑食材 x 2】（赏金50.00）的文字，导致周围垃圾怪围攻。",
+      "time": "周五黄昏"
+    },
+    {
+      "id": "fishbone_power_activated",
+      "description": "李疯狂解析并激活特性【鱼刺（伪）】，攻击他的汤勺蜘蛛因“逻辑噎住”炸裂，怪物们产生畏惧。",
+      "time": "周五黄昏"
+    },
+    {
+      "id": "clearance_sale_chaos",
+      "description": "李疯狂利用骨勺和收据逻辑发动“清仓大甩卖”，制造逻辑混乱引发怪物互斗。",
+      "time": "周五黄昏"
+    },
+    {
+      "id": "devourer_jump",
+      "description": "两人跳入名为“吞咽者”的巨兽喉咙，进入【主厨的盲肠】区域。",
+      "time": "周五黄昏"
+    }
+  ],
+  "time_period": "疯狂周期·第1.5个周期·周五黄昏（伪）",
+  "locations": [
+    "旧日餐厅·后厨废弃物处理区（下水道）",
+    "垃圾山",
+    "吞咽者的喉咙",
+    "主厨的盲肠"
+  ],
+  "key_facts": [
+    {
+      "id": "feature_fishbone",
+      "content": "李疯狂获得特性【鱼刺（伪）】，被目标吞噬/消化时，强制造成目标逻辑噎住、San值重击及反胃；副作用是口感极差，无法被治疗术式治愈，只能靠‘硬挺’回血。"
+    },
+    {
+      "id": "status_of_receipt",
+      "content": "李疯狂手中的购物小票显示【订单状态：已退款】，上有李小鱼的手印。这意味着他们在规则层面是无主之物或滞销商品。"
+    },
+    {
+      "id": "item_bone_spoon",
+      "content": "【李小鱼的肋骨（骨勺）】在李疯狂手中，能发出红光并将场景覆写为“跳楼价现场”，引发混乱。"
+    },
+    {
+      "id": "su_qian_state",
+      "content": "苏浅因环境充满“被遗弃”的绝望情绪，San值下降，身体开始数据溢出（透明化），净化序列正在反转。"
+    },
+    {
+      "id": "current_mission",
+      "content": "当前任务为在进入【主厨的盲肠】后，于消化液淹过头顶之前找到写着“退”字的开关。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

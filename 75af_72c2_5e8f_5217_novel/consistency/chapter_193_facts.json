@@ -1,0 +1,108 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "未知",
+      "role": "守密人 / 组长",
+      "description": "能够使用GM权限修改现实，性格冷静、冷漠且病态，居住在404室",
+      "status": "active"
+    },
+    {
+      "name": "小水",
+      "age": "未知",
+      "role": "生物地毯 (前真理会409号特勤)",
+      "description": "长满微型吸盘，具有强效去污能力，会分泌消化液，声音像坏掉的收音机",
+      "status": "active"
+    },
+    {
+      "name": "老板椅 (真理会B组首领)",
+      "age": "未知",
+      "role": "家具 (被改造的敌人)",
+      "description": "由B组首领异化而成，具有真皮质感（人皮）和温热柔软的触感，具备残存意识",
+      "status": "active"
+    },
+    {
+      "name": "落地灯 (真理会B组特勤)",
+      "age": "未知",
+      "role": "家具 (被改造的敌人)",
+      "description": "防毒面具作为灯罩，脊椎作为灯柱，散发2700K暖黄光，偶尔抽搐",
+      "status": "active"
+    },
+    {
+      "name": "电竞椅 (真理会A组杀手)",
+      "age": "未知",
+      "role": "家具 (被改造的敌人)",
+      "description": "黑色风衣布料，露出森白骨骼结构，扶手处为人类指骨",
+      "status": "active"
+    },
+    {
+      "name": "巨眼",
+      "age": "未知",
+      "role": "入侵怪物",
+      "description": "脸盆大小的眼球，横竖双瞳结构，浑浊眼白布满黑色血管，已被消灭",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "小水",
+    "巨眼",
+    "机械风向标"
+  ],
+  "character_exits": [
+    {
+      "name": "巨眼",
+      "reason": "被顾长歌定义为违章搭建并拆除，随后变成眼球树的肥料"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "optimize_chair_properties",
+      "description": "顾长歌使用能力调整老板椅（B组首领）的参数，优化腰椎支撑",
+      "time": "清晨 07:45"
+    },
+    {
+      "id": "giant_eye_invasion",
+      "description": "一只巨大的眼球怪物试图撞击404室窗户并进行精神污染",
+      "time": "清晨 07:45"
+    },
+    {
+      "id": "giant_eye_elimination",
+      "description": "顾长歌将巨眼和触手定义为‘违章搭建’并将其拆除，随后追加修正为‘绿化带肥料’喂给楼下的眼球树",
+      "time": "清晨 07:45"
+    },
+    {
+      "id": "new_enemy_approach",
+      "description": "听到沉重的金属脚步声和机械广播音，新的高级‘快递员’正在接近404室",
+      "time": "清晨 07:55"
+    }
+  ],
+  "time_period": "周三，清晨 07:45 至 07:55",
+  "locations": [
+    "幸福家园小区4号楼404室",
+    "404室窗外 (红雾)",
+    "4号楼楼道"
+  ],
+  "key_facts": [
+    {
+      "id": "bank_balance",
+      "content": "顾长歌目前的余额为297.6元"
+    },
+    {
+      "id": "soul_cost",
+      "content": "每次高强度规则改写大约消耗顾长歌0.01%的灵魂自由度"
+    },
+    {
+      "id": "furniture_origin",
+      "content": "404室的家具均由真理会成员改造而成：老板椅(B组首领)、落地灯(B组特勤)、电竞椅(A组杀手)、地毯小水(409号特勤)"
+    },
+    {
+      "id": "humanity_anchor",
+      "content": "顾长歌将一张肯德基半价优惠券作为自己的人性底线/锚点，夹在《序列考据》中"
+    },
+    {
+      "id": "su_tang_status",
+      "content": "苏糖位于隔壁402室，顾长歌预计她大约五分钟后会敲门求助"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

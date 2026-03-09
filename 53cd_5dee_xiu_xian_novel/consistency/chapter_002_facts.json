@@ -1,0 +1,88 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "主角/杂役弟子",
+      "description": "稍显稚嫩的脸颊，穿着破旧灰扑扑的杂役弟子服，乱糟糟的头发像鸟窝，眼神经系统调教后显得浑浊深邃。",
+      "status": "active"
+    },
+    {
+      "name": "赵锐",
+      "age": "未知",
+      "role": "外门精英弟子",
+      "description": "剑眉星目，身穿青色外门精英弟子服饰，腰间挂着一把做工精良的精钢长剑，浑身透着剑修凌厉气息。",
+      "status": "active"
+    },
+    {
+      "name": "赵锐的跟班",
+      "age": "未知",
+      "role": "外门弟子",
+      "description": "身穿青色外门精英弟子服饰，共两人。",
+      "status": "active"
+    },
+    {
+      "name": "画师",
+      "age": "未知",
+      "role": "情报收集闲散弟子/百晓生",
+      "description": "身穿灰袍，手持画笔，默默观察。",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "赵锐",
+    "赵锐的跟班",
+    "画师"
+  ],
+  "character_exits": [
+    {
+      "name": "江越",
+      "reason": "离开"
+    },
+    {
+      "name": "画师",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "sweeping_act",
+      "description": "江越为了躲避王虎同伙，在后山竹林拿枯枝扫地，伪装成隐世扫地僧。",
+      "time": "穿越第一天，午时"
+    },
+    {
+      "id": "zhao_rui_challenge",
+      "description": "赵锐带领两个跟班找到江越并出言嘲讽，赵锐拔剑准备攻击。",
+      "time": "穿越第一天，午时"
+    },
+    {
+      "id": "sword_blocking_event",
+      "description": "系统发布紧急任务，江越使用道具'自动挡挡挂'，用枯枝挡下并斩断了赵锐注入灵力的精钢长剑。",
+      "time": "穿越第一天，午时"
+    },
+    {
+      "id": "rumor_creation",
+      "description": "画师目睹了全过程，画下江越背影并拟定传单，将其描述为实力未知的危险扫地僧，向外门散布。",
+      "time": "穿越第一天，午时"
+    }
+  ],
+  "time_period": "穿越第一天，午时",
+  "locations": [
+    "太玄宗外门 - 后山竹林",
+    "隐蔽的山洞"
+  ],
+  "key_facts": [
+    {
+      "id": "wang_tuh_status",
+      "content": "王虎（炼气五层）早些时候被江越击飞，大概率断了三根肋骨。"
+    },
+    {
+      "id": "legend_of_monk",
+      "content": "外门开始流传'枯木亦可断精钢'的扫地僧传说，江越被视为危险等级极高的隐世高人。"
+    },
+    {
+      "id": "system_task_result",
+      "content": "江越完成'以弱胜强'任务，获得反差值+300及道具'太玄宗食堂免排队券x1'。"
+    }
+  ]
+}

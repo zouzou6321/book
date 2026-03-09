@@ -1,0 +1,90 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未提及",
+      "role": "主角",
+      "description": "左眼为深邃的幽蓝色瞳孔，正在高频率震颤；颅温维持在38度以上的低烧状态；手背浮现黑色鳞片。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未提及",
+      "role": "特工/同伴",
+      "description": "左臂有神圣而诡异的晶体化纹路蔓延至锁骨，金色珐琅质；神情脆弱，是主角的高维锚点。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "hatch_date_revealed",
+      "description": "李疯狂解析收容局局长硬盘数据，并在人皮日历上发现末日倒计时，目标时间是下周四，地点为南极，事件名为'孵化'。",
+      "time": "14:30"
+    },
+    {
+      "id": "ark_nature_reveal",
+      "description": "李疯狂揭示方舟并非救援船，而是运送幸存者作为食材前往孵化点的'餐盘'，并怀疑车长已沦为消化系统的一部分。",
+      "time": "14:35"
+    },
+    {
+      "id": "pre_cooking_start",
+      "description": "方舟广播宣布进入'快速预烹'阶段，开始喷洒雾化消化液，李疯狂决定夺取船只控制权。",
+      "time": "14:40"
+    },
+    {
+      "id": "waiters_defeated",
+      "description": "在舰桥通道遭遇两名'侍者'怪物，李疯狂使用技能【干涉者·属性修正：摩擦力归零】将其击败。",
+      "time": "14:45"
+    }
+  ],
+  "time_period": "清醒日 · 星期六 14:30",
+  "locations": [
+    "诺亚方舟01号 · 方舟底层图书馆",
+    "方舟走廊",
+    "舰桥VIP通道口"
+  ],
+  "key_facts": [
+    {
+      "id": "ark_destination",
+      "content": "诺亚方舟的目的地是南极，那里是蛋壳最薄弱的地方，也是'孵化'发生的地点。"
+    },
+    {
+      "id": "target_date",
+      "content": "关键事件'孵化'定于下周四。"
+    },
+    {
+      "id": "suqian_status",
+      "content": "苏浅是李疯狂的'高维锚点'，其左臂已晶体化蔓延至锁骨。"
+    },
+    {
+      "id": "li_ability",
+      "content": "李疯狂拥有序列能力'干涉者'，可使用如'摩擦力归零'等技能；体内拥有'真理之胃'。"
+    },
+    {
+      "id": "key_item",
+      "content": "李疯狂持有一把生锈的【门之匙（伪）】。"
+    },
+    {
+      "id": "captain_status",
+      "content": "车长可能已被转化或原本就是安插的'领班'，方舟底层逻辑已变。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    },
+    {
+      "role_or_identity": "反派头目/厨师",
+      "names": [
+        "厨师长",
+        "主厨"
+      ]
+    }
+  ]
+}

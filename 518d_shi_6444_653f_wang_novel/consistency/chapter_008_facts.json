@@ -1,0 +1,84 @@
+{
+  "characters_present": [
+    {
+      "name": "萧严",
+      "age": "未知",
+      "role": "男演员（饰演魏忠）",
+      "description": "眉角上挑，眼神阴鸷，修长的手指，化着具有阴柔感的妆",
+      "status": "active"
+    },
+    {
+      "name": "王胖子",
+      "age": "未知",
+      "role": "萧严的经纪人",
+      "description": "满面红光，身材肥胖，市侩",
+      "status": "departed"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "三金影后（饰演长公主李瑾）",
+      "description": "黑色羊绒大衣，白色高领毛衣，长发挽在脑后，气质清冷高傲",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "王胖子",
+    "林清雪"
+  ],
+  "character_exits": [
+    {
+      "name": "王胖子",
+      "reason": "去外面候着"
+    },
+    {
+      "name": "林清雪",
+      "reason": "离开去准备夜戏"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "solo_reflection",
+      "description": "萧严独自在化妆间反思前世今生的生存之道，通过魏忠的角色感悟弯腰是为了站立的道理",
+      "time": "下午四点"
+    },
+    {
+      "id": "wang_pangzi_visit",
+      "description": "经纪人王胖子进来送饭并告知导演认可了萧严的表演，陈宇被责骂",
+      "time": "下午四点后"
+    },
+    {
+      "id": "lin_qingxue_visit",
+      "description": "林清雪进入化妆间与萧严探讨演技，萧严情绪失控将其代入前世长公主李瑾，进行了极具压迫感的质问",
+      "time": "黄昏时分"
+    },
+    {
+      "id": "lin_qingxue_departure",
+      "description": "林清雪误以为萧严展现了绝妙的体验派演技，留下深意后离开",
+      "time": "黄昏至夜幕降临"
+    }
+  ],
+  "time_period": "2024年秋，下午四点至夜幕降临",
+  "locations": [
+    "横店影视城",
+    "《大梁谍影》男演员化妆间"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_yan_rebirth",
+      "content": "萧严是前世名为萧寒的亡国之臣转世，曾因刚直不阿被处决"
+    },
+    {
+      "id": "character_parallel",
+      "content": "林清雪的外貌气质与萧严前世记忆中的长公主李瑾极度相似"
+    },
+    {
+      "id": "acting_philosophy",
+      "content": "萧严认为娱乐圈名利场如同朝堂，只有把自己放低才能生存，这是他从魏忠角色中悟出的道理"
+    },
+    {
+      "id": "drama_series",
+      "content": "两人正在拍摄的剧集名为《大梁谍影》"
+    }
+  ]
+}

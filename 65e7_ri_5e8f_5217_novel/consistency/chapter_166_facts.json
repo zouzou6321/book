@@ -1,0 +1,72 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知(数据体状态)",
+      "role": "篡改者/世界守护灵",
+      "description": "半透明，玻璃质感，皮肤下流淌金色代码，左眼有倒'V'符号，最后化光消散",
+      "status": "departed"
+    },
+    {
+      "name": "李疯狂(过去)",
+      "age": "26",
+      "role": "普通程序员(过去的自己)",
+      "description": "印着肯德基上校图案的廉价T恤，皱巴巴的西裤，张嘴睡觉流口水，手里攥着勺子",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "同伴/幸存者",
+      "description": "穿着战术风衣，短发利落，眼神清亮，后给过去的李疯狂盖外套",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "李疯狂(过去的自己)"
+  ],
+  "character_exits": [
+    {
+      "name": "李疯狂",
+      "reason": "自我牺牲/化作数据幽灵"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "arrival_at_old_timeline",
+      "description": "李疯狂与苏浅穿过高维回廊，到达旧时间线H市李疯狂的出租屋。",
+      "time": "23:58"
+    },
+    {
+      "id": "logic_overwrite",
+      "description": "李疯狂利用管理员权限和人性能量，将导致世界崩坏的'疯狂'逻辑覆写为'疯狂星期四/V我50'的商业烂梗逻辑。",
+      "time": "23:59"
+    },
+    {
+      "id": "protagonist_transformation",
+      "description": "李疯狂肉体消散，牺牲实体成为维持世界新逻辑的数据幽灵/守夜人，并祝福过去的自己。",
+      "time": "00:00"
+    },
+    {
+      "id": "cruel_thursday_notification",
+      "description": "苏浅给熟睡的过去李疯狂盖外套，此时手机收到'疯狂星期四，V我50'的推送，苏浅含泪大笑。",
+      "time": "00:00"
+    }
+  ],
+  "time_period": "第一个疯狂星期四的前夜至当日凌晨（23:58 - 00:00）",
+  "locations": [
+    "H市",
+    "李疯狂的廉价出租屋（旧时间线）"
+  ],
+  "key_facts": [
+    {
+      "id": "crazy_thursday_origin",
+      "content": "世界的'疯狂星期四'现象是李疯狂为了压制古神恶意，将原本充满绝望和血腥的恐怖逻辑强行覆写而成的。"
+    },
+    {
+      "id": "protagonist_fate",
+      "content": "李疯狂为了覆写逻辑牺牲了人类形态，成为了无形的、依附于世界数据的守护者（幽灵），苏浅记得他的存在。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,73 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒（艺名萧严）",
+      "age": "",
+      "role": "演员（饰太监魏忠），前世为将军",
+      "description": "身穿暗红色太监服，腰背微佝偻但眼神深邃，气场沉稳强大",
+      "status": "active"
+    },
+    {
+      "name": "陈宇",
+      "age": "",
+      "role": "当红流量小生（饰忠良之后沈长风）",
+      "description": "面容俊美，妆容精致，傲慢轻浮",
+      "status": "active"
+    },
+    {
+      "name": "王胖子",
+      "age": "",
+      "role": "萧寒的经纪人",
+      "description": "身材微胖，唯唯诺诺",
+      "status": "active"
+    },
+    {
+      "name": "张伟",
+      "age": "",
+      "role": "导演",
+      "description": "嗓门大，情绪激动，爱才",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "影后/剧组核心女演员",
+      "description": "戴墨镜，清冷高贵，气质出众",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "陈宇"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "acting_suppression",
+      "description": "萧寒在《大梁谍影》片场与陈宇对手戏中临场改戏，运用前世权谋术以'杀人诛心'的方式压制陈宇，导致陈宇忘词NG，导演张伟对此大加赞赏。",
+      "time": "下午三点"
+    },
+    {
+      "id": "dinner_invitation",
+      "description": "因表演出色，萧寒被点名邀请参加晚上的资方饭局。",
+      "time": "下午三点后"
+    }
+  ],
+  "time_period": "2024年深秋，下午三点",
+  "locations": [
+    "横店影视城·《大梁谍影》御花园布景"
+  ],
+  "key_facts": [
+    {
+      "id": "past_life_background",
+      "content": "萧寒前世是一名将军，因不懂朝堂弯弯绕绕最终身首异处，今生转世成为演员。"
+    },
+    {
+      "id": "acting_method",
+      "content": "萧寒认为演戏如同朝堂弄权，讲究'杀人诛心'，善于利用规则和对手戏演员来达到最佳效果。"
+    },
+    {
+      "id": "lin_qingxue_interaction",
+      "content": "林清雪曾建议萧寒'把镜头当成皇帝的眼睛'，本章节她对萧寒的表现表示了无声赞许。"
+    }
+  ]
+}

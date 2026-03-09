@@ -1,0 +1,79 @@
+{
+  "characters_present": [
+    {
+      "name": "林野",
+      "age": "",
+      "role": "公司职员",
+      "description": "眼底有浓重乌青，身穿洗得发白的牛仔外套",
+      "status": "active"
+    },
+    {
+      "name": "苏清鸢",
+      "age": "十六七",
+      "role": "刚高考完的学生",
+      "description": "穿白色连帽卫衣，扎高马尾，发梢染浅棕色，脸上带着稚气",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "林野",
+    "苏清鸢"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "linye_withdraw_cash",
+      "description": "林野连续加班三天三夜后取出三千五百元现金，收到母亲透析费用逾期三天的催缴短信，计划转三千元给母亲交医药费，留五百元做生活费",
+      "time": "第1天晚8:00"
+    },
+    {
+      "id": "space_rift_emerge",
+      "description": "东海市郊区地铁口上空出现环绕蓝紫色电芒的黑色空间裂缝，缝隙不断扩大、散发出刺骨寒气，周围温度骤降，民众围观拍照甚至开启直播",
+      "time": "第1天晚8:00左右"
+    },
+    {
+      "id": "exotic_beast_invade",
+      "description": "空间裂缝中窜出两头长有骨刺的灰黑色巨型异兽，具有极强攻击性，人群四散奔逃，地铁口保安锁上玻璃门拒绝外人进入",
+      "time": "第1天晚8:00左右"
+    },
+    {
+      "id": "linye_save_suqingyuan",
+      "description": "林野本已到达地铁口可以进入避险，看到异兽要袭击苏清鸢时冲过去将其推开，自己被异兽拍中胸口，肋骨断裂插入肺部，生命垂危",
+      "time": "第1天晚8:00左右"
+    },
+    {
+      "id": "ancestor_system_activate",
+      "description": "林野的鲜血沾到土里的蚩尤指骨，上古返祖系统检测到他生命体征濒危符合绑定条件，且血脉与蚩尤指骨匹配度100%，系统正式激活",
+      "time": "第1天晚8:00左右"
+    }
+  ],
+  "time_period": "第1天晚8:00左右",
+  "locations": [
+    "东海市郊区16号线地铁口",
+    "东海市郊区地铁口施工路段",
+    "地铁口旁奶茶店"
+  ],
+  "key_facts": [
+    {
+      "id": "linye_mother_dialysis_arrears",
+      "content": "林野的母亲需要长期透析，目前透析费用已经逾期三天，急需补缴"
+    },
+    {
+      "id": "linye_cash_arrangement",
+      "content": "林野刚取出3500元现金，计划3000元用于缴纳母亲透析费，剩余500元作为生活费撑到下月发薪"
+    },
+    {
+      "id": "suqingyuan_donghai_purpose",
+      "content": "苏清鸢刚高考结束，此次来东海市是为了探望父亲、游玩"
+    },
+    {
+      "id": "donghai_spirit_recovery_start",
+      "content": "东海市郊区地铁口出现的空间裂缝会跑出攻击性异兽，标志着灵气复苏时代正式开启"
+    },
+    {
+      "id": "linye_bind_chiyou_system",
+      "content": "林野濒危时接触蚩尤指骨，血脉匹配度100%，成功绑定上古返祖系统，脱离生命危险"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

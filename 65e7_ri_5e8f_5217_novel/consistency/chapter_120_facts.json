@@ -1,0 +1,108 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未提及",
+      "role": "逻辑之主/BUG/病毒",
+      "description": "身穿由破碎镜面和扭曲代码编织的黑色礼服，左眼为倒“V”字符号，掌心有“人”字印记",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未提及",
+      "role": "前超级管理员",
+      "description": "左臂覆盖黑色荆棘纹路，头发可变成数据线，左眼曾变黑（后恢复带红纹），身穿风衣",
+      "status": "active"
+    },
+    {
+      "name": "主厨",
+      "age": "未知",
+      "role": "世界顶层设计者",
+      "description": "云层后窥探的巨大眼球",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "修正者特工",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "world_lag_freeze",
+      "description": "世界出现卡顿，雨滴悬浮，行人和时间静止",
+      "time": "周四 23:59"
+    },
+    {
+      "id": "true_forms_revealed",
+      "description": "李疯狂卸下流浪汉伪装显露逻辑之主形态，苏浅恢复前超级管理员特征",
+      "time": "周四 23:59"
+    },
+    {
+      "id": "patch_deployment",
+      "description": "强制向全视野推送“疯狂星期四_v5.0.0”补丁，覆盖底层逻辑",
+      "time": "周五 00:00"
+    },
+    {
+      "id": "reality_distortion",
+      "description": "现实出现逻辑BUG，鸽子变烤翅，红绿灯变眼球/鼻涕，太阳变进度条",
+      "time": "周五 00:00"
+    },
+    {
+      "id": "agents_deletion",
+      "description": "修正者特工被李疯狂判定为“404错误”，变成感叹号并被数据黑洞吞噬",
+      "time": "周五 00:00"
+    },
+    {
+      "id": "thunder_block",
+      "description": "李疯狂利用逻辑篡改将骨勺定义为遮阳伞，挡住了主厨的规则抹杀雷霆",
+      "time": "周五 00:01"
+    },
+    {
+      "id": "world_background_reveal",
+      "description": "李疯狂击碎空间镜面，暴露出由电缆和血肉组成的真实后台",
+      "time": "周五 00:01"
+    },
+    {
+      "id": "system_reboot",
+      "description": "补丁安装完成，系统重启，世界恢复平静但残留“疯狂星期四”气息",
+      "time": "周五 00:01"
+    },
+    {
+      "id": "consumption_and_confession",
+      "description": "李疯狂与苏浅在旧日报社大楼进食炸鸡，苏浅表明心意（利息是其一生）",
+      "time": "周五 00:01"
+    }
+  ],
+  "time_period": "新纪元第1个月，周四 23:59 -> 周五 00:01",
+  "locations": [
+    "第73区中心广场",
+    "虚幻的云端之上",
+    "《旧日报社》大楼塔尖"
+  ],
+  "key_facts": [
+    {
+      "id": "crazy_thursday_virus",
+      "content": "李疯狂成功将“疯狂星期四”作为无法卸载的补丁植入世界逻辑，与“V我50”咒语绑定，成为都市传说"
+    },
+    {
+      "id": "li_crazy_left_eye",
+      "content": "李疯狂左眼为深紫色的倒“V”字符号，是逻辑之主的瞳孔"
+    },
+    {
+      "id": "bone_spoon_attribute",
+      "content": "李疯狂的武器是生锈的骨勺（李小鱼的肋骨），可通过逻辑篡改修改其属性（如定义为遮阳伞）"
+    },
+    {
+      "id": "su_qian_admin_status",
+      "content": "苏浅已恢复“前超级管理员”的数据操作能力"
+    },
+    {
+      "id": "world_review_score",
+      "content": "世界逻辑顶端悬挂着一个红色的【50.00】差评印章"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,92 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "成年",
+      "role": "定北侯",
+      "description": "身着半旧锦袍，发髻随意，举止看似粗鲁暴发户实则深谙人性",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "成年",
+      "role": "长公主",
+      "description": "神色冷静，眼光毒辣，善于分析局势",
+      "status": "active"
+    },
+    {
+      "name": "刘大人",
+      "age": "年过三十",
+      "role": "礼部员外郎",
+      "description": "鬓角微霜，官袍洗得发白，谨小慎微的中层官员",
+      "status": "active"
+    },
+    {
+      "name": "王大人",
+      "age": "年过三十",
+      "role": "翰林院编修",
+      "description": "不得志，常受排挤，借酒劲吐露心声",
+      "status": "active"
+    },
+    {
+      "name": "工部郎中",
+      "age": "年过三十",
+      "role": "工部中层官员",
+      "description": "面对权力诱惑手心出汗",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "未知",
+      "role": "侍女",
+      "description": "在李瑾身旁研墨，对新鲜词汇感到困惑",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "刘大人",
+    "王大人"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "hotpot_banquet",
+      "description": "萧寒在醉仙居以火锅宴请七八位不得志的中层文官，通过情绪价值和心理暗示收买人心",
+      "time": "申时"
+    },
+    {
+      "id": "alliance_formation",
+      "description": "萧寒与官员们互称兄弟，确立'醉仙七兄弟'的非正式联盟，作为未来智囊团的雏形",
+      "time": "申时"
+    },
+    {
+      "id": "princess_analysis",
+      "description": "李瑾通过密报得知萧寒的举动，判断其手段为'诛心'而非简单的招兵买马，决定静观其变",
+      "time": "申时"
+    }
+  ],
+  "time_period": "建安二十三年，秋，申时",
+  "locations": [
+    "京城",
+    "醉仙居酒楼天字号雅间",
+    "长公主府听雨榭"
+  ],
+  "key_facts": [
+    {
+      "id": "xiaohan_reputation",
+      "content": "萧寒因之前的'哭闹出家'闹剧，在京城名声极差，被视为贪财好色的笑柄"
+    },
+    {
+      "id": "modern_tactics",
+      "content": "萧寒使用'职场'、'PUA'、'画饼'等现代概念来解析和掌控古代官场关系"
+    },
+    {
+      "id": "staffing_strategy",
+      "content": "萧寒的招人策略是不招大儒，专门招有才华、有怨气、渴望被看见的中层骨干"
+    },
+    {
+      "id": "imperial_influence_clue",
+      "content": "萧寒暗示自己有'御赐物件'和后台，暗指与长公主的关系，以此作为政治筹码"
+    }
+  ]
+}

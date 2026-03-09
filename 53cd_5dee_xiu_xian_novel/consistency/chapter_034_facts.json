@@ -1,0 +1,98 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "大师兄/玄天真人",
+      "description": "顶着堪比国宝的黑眼圈",
+      "status": "active"
+    },
+    {
+      "name": "掌门",
+      "age": "老人",
+      "role": "太玄宗掌门",
+      "description": "慈眉善目，眼神复杂",
+      "status": "active"
+    },
+    {
+      "name": "血枯",
+      "age": "中老年",
+      "role": "血影宗金丹期长老(囚犯)",
+      "description": "衣衫褴褛、白发凌乱、神情空洞惶恐",
+      "status": "active"
+    },
+    {
+      "name": "黑袍老者",
+      "age": "未知",
+      "role": "神秘窥视者",
+      "description": "穿着黑袍、眼神猩红、煞气凶暴",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "“卷王”弟子",
+      "description": "黑着脸",
+      "status": "active"
+    },
+    {
+      "name": "灰袍执事",
+      "age": "未知",
+      "role": "内门执事",
+      "description": "眼尖、满脸狂热",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "血枯",
+    "黑袍老者"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "strange_cultivation",
+      "description": "内门弟子在广场进行倒立逆转气血和投掷石子计算轨迹的诡异修炼",
+      "time": "清晨"
+    },
+    {
+      "id": "sect_leader_summon",
+      "description": "掌门传唤江越前往戒律塔水牢",
+      "time": "清晨"
+    },
+    {
+      "id": "interrogation_scene",
+      "description": "江越和掌门查看精神崩溃的血枯，江越解释为‘物理法则’导致道心崩塌",
+      "time": "清晨"
+    },
+    {
+      "id": "hidden_threat",
+      "description": "黑袍老者在禁山窥视江越，并准备用邪恶阵图进行‘无理’杀戮",
+      "time": "清晨"
+    }
+  ],
+  "time_period": "秘境试炼结束次日清晨",
+  "locations": [
+    "太玄宗·内门演武广场",
+    "戒律塔水牢",
+    "太玄宗后山",
+    "禁山"
+  ],
+  "key_facts": [
+    {
+      "id": "physics_as_torture",
+      "content": "“理科”知识被宗门高层视为一种能震碎金丹修士神魂的恐怖手段，血枯因牛顿定律和数学题疯癫"
+    },
+    {
+      "id": "bloodcun_mental_state",
+      "content": "血影宗长老血枯听到“物理法则”、“F等于ma”、“算球体积”等词汇会产生极度恐惧反应"
+    },
+    {
+      "id": "sect_leader_view",
+      "content": "掌门认为江越修行的“理科大道”涉及宇宙真理，既敬畏又恐惧，将血枯交由江越处置"
+    },
+    {
+      "id": "hidden_enemy",
+      "content": "太玄宗禁山隐藏着一位知晓宗门大阵、敌视江越的黑袍老者身份，且正在策划对江越的杀戮"
+    }
+  ]
+}

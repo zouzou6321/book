@@ -1,0 +1,99 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/职员",
+      "description": "左眼有深紫色倒“V”字符号，穿着由破碎镜面与扭曲代码编织的黑色礼服，掌心有灰色“人”字印记。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "共犯/职员",
+      "description": "标志性短发，发梢枯黄，左臂异化覆盖褐色木纹，呈现老式步枪枪托状。",
+      "status": "active"
+    },
+    {
+      "name": "扁平男",
+      "age": "未知",
+      "role": "上班族暴徒",
+      "description": "脸部扁平像打印机卡纸压过，手里提着一截抽搐的人类大腿骨。",
+      "status": "active"
+    },
+    {
+      "name": "生物螺丝钉/上班族",
+      "age": "未知",
+      "role": "大众职员",
+      "description": "穿着破烂西装或工装，身体极度扭曲，有的变成钢笔或打卡机。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "wake_up_monday",
+      "description": "李疯狂和苏浅在周一清晨06:00于地下三层避难所醒来，发现周末时间已被吞噬。",
+      "time": "周一清晨 06:00 AM"
+    },
+    {
+      "id": "su_qian_mutation",
+      "description": "苏浅发现自己患“周一综合症”，左臂开始木质化并逐渐变成枪托形状。",
+      "time": "06:00 AM"
+    },
+    {
+      "id": "exercise_gore",
+      "description": "两人在地下车库目睹数百名扭曲的员工在进行血腥的早操。",
+      "time": "06:00 AM"
+    },
+    {
+      "id": "logic_override_kill",
+      "description": "李疯狂使用“篡改·协议层强制覆盖”技能，将袭击逻辑改为内卷竞争，导致员工们开始自相残杀。",
+      "time": "06:14 AM左右"
+    },
+    {
+      "id": "enter_elevator",
+      "description": "趁员工互殴，两人进入通往上层的生物肠道传送带电梯。",
+      "time": "06:14 AM之后"
+    }
+  ],
+  "time_period": "周一清晨 06:00 AM 至早高峰打卡截止前（约15分钟内）",
+  "locations": [
+    "临时避难所（原市中心写字楼地下三层）",
+    "地下车库",
+    "电梯间",
+    "通往上层的电梯"
+  ],
+  "key_facts": [
+    {
+      "id": "world_version",
+      "content": "当前世界版本为“疯狂星期四_v5.1.0.hotfix”，特殊事件为“周一综合症”，规则强制劳动，非生产性存在将被清算。"
+    },
+    {
+      "id": "weekend_skipped",
+      "content": "时间线异常，周五、周六、周日被“主厨”直接吞噬，直接从狂欢夜跳至周一工作日。"
+    },
+    {
+      "id": "su_qian_arm_status",
+      "content": "苏浅的左臂因“周一综合症”正在异变，无痛觉且木质化，形状像步枪枪托。"
+    },
+    {
+      "id": "li_crazy_ability",
+      "content": "李疯狂拥有“篡改”能力（协议层强制覆盖），可以改变规则逻辑，本次将“工作”逻辑篡改为“自相残杀以提升绩效”。"
+    },
+    {
+      "id": "human_resource_target",
+      "content": "两人的目标是前往上层去见“人力资源部”主管。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

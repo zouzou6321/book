@@ -1,0 +1,84 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "杂役弟子/穿越者",
+      "description": "双眼发黑，眼圈泛红，因极度饥饿面容憔悴，被迫维持高人风范（扫地僧形象）",
+      "status": "active"
+    },
+    {
+      "name": "赵铁",
+      "age": "未知",
+      "role": "执法堂巡逻弟子",
+      "description": "身穿黑色制服，腰佩腰刀，手持风灯，神色严厉",
+      "status": "departed"
+    },
+    {
+      "name": "神秘画师",
+      "age": "未知",
+      "role": "宗门画师",
+      "description": "在窗外暗中观察并记录江越行为，似乎在制作传单",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "赵铁"
+  ],
+  "character_exits": [
+    {
+      "name": "赵铁",
+      "reason": "被江越蛊惑，误以为其是正在清修的高人，为避免打扰而主动离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "stealing_spirit_rice",
+      "description": "江越因无法辟谷且饥饿难耐，潜入食堂后厨生吃灵米充饥",
+      "time": "丑时"
+    },
+    {
+      "id": "confrontation",
+      "description": "执法堂弟子赵铁闯入后厨，当场抓住正在偷吃的江越并质其罪",
+      "time": "丑时"
+    },
+    {
+      "id": "system_task",
+      "description": "系统触发紧急任务，要求江越在3秒内给出高大上的解释，失败将扣除50%修为",
+      "time": "丑时"
+    },
+    {
+      "id": "bluffing_success",
+      "description": "江越谎称自己在“以身试毒”炼化天地精华，并利用打饱嗝掩饰，成功让赵铁信以为真，误以为其是前辈高人",
+      "time": "丑时"
+    },
+    {
+      "id": "reward_and_instability",
+      "description": "江越获得200反差值，但因反差行为剧烈，导致体内灵气紊乱，修为跌至炼气一层（极不稳定状态）",
+      "time": "丑时"
+    }
+  ],
+  "time_period": "穿越第二天，丑时（深夜 01:00 - 03:00）",
+  "locations": [
+    "太玄宗外门",
+    "宗门食堂后厨"
+  ],
+  "key_facts": [
+    {
+      "id": "cultivation_status",
+      "content": "江越当前修为为炼气一层（极不稳定），无法辟谷，身体有修仙者的消耗却无辟谷能力"
+    },
+    {
+      "id": "system_mechanism",
+      "content": "系统通过制造与“受众预期”相反的剧烈认知冲突来 reward 反差值；强行装逼可能导致身体负面状态（如灵气紊乱）"
+    },
+    {
+      "id": "jiangyues_reputation",
+      "content": "江越在外门被传颂为“扫地僧”式的隐世高人，其背影传单正在外门流传，且被画师跟踪记录"
+    },
+    {
+      "id": "zhao_ties_impression",
+      "content": "赵铁现在深信江越是一位为了替弟子试炼灵米而甘愿“以身化炉”的无私前辈高人"
+    }
+  ]
+}

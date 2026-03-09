@@ -1,0 +1,100 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "二十五六岁（外貌）",
+      "role": "长生谷谷主、前神机营督师",
+      "description": "面容清秀，眼神深邃冷冽如古井死水，穿粗布麻衣，赤足，脚踝系红绳挂避蛊铜铃",
+      "status": "active"
+    },
+    {
+      "name": "阿古",
+      "age": "未知",
+      "role": "苗家汉子、陈默的仆从",
+      "description": "皮肤黝黑，头上缠着青布帕子",
+      "status": "active"
+    },
+    {
+      "name": "阿朵",
+      "age": "十六七岁",
+      "role": "苗寨少女",
+      "description": "脸色惨白（中毒时），双眼清澈像山顶湖水",
+      "status": "active"
+    },
+    {
+      "name": "老巫师",
+      "age": "未知",
+      "role": "苗寨巫师",
+      "description": "浑身披挂牛骨头饰物",
+      "status": "active"
+    },
+    {
+      "name": "独眼校尉",
+      "age": "四十上下",
+      "role": "大明征虏将军帐下前锋校尉",
+      "description": "左眼戴着黑色眼罩，右眼布满血丝，身穿暗红色棉甲，沾满血迹",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "陈默",
+    "阿古",
+    "阿朵",
+    "老巫师",
+    "独眼校尉"
+  ],
+  "character_exits": [
+    {
+      "name": "独眼校尉",
+      "reason": "劝说不果，被陈默遣返"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "rescue_ado",
+      "description": "陈默在苗寨救治被毒蛇（五步倒）咬伤的少女阿朵，驱散正在举行火葬仪式的人群并手术放血排毒。",
+      "time": "永历六年秋"
+    },
+    {
+      "id": "envoy_visit",
+      "description": "大明前锋校尉奉李定国之命找到陈默，通报衡州大捷（阵斩尼堪）并请求陈默出山再造神机营。",
+      "time": "永历六年秋"
+    },
+    {
+      "id": "refusing_li_dingguo",
+      "description": "陈默拒绝出山，表示不再造火器，插刀入石以明志，断言大明仅剩一口气。",
+      "time": "永历六年秋"
+    },
+    {
+      "id": "western_threat_discovery",
+      "description": "陈默在山神庙废墟发现西班牙金币（双头鹰蓝宝石）和转轮火枪弹壳（神之门印记），意识到西方势力正在追踪他。",
+      "time": "永历六年秋"
+    }
+  ],
+  "time_period": "永历六年（1652年）秋",
+  "locations": [
+    "贵州",
+    "苗岭深处",
+    "长生谷",
+    "苗寨"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_mo_condition",
+      "content": "陈默拥有长生不老的肉身，需依靠剧毒草药（寒水石等）和朱砂压制体内狂暴热流。"
+    },
+    {
+      "id": "historical_battle_report",
+      "content": "李定国于永历六年七月在衡州大捷，阵斩清定远大将军亲王尼堪。"
+    },
+    {
+      "id": "foreign_organization",
+      "content": "存在一个名为“神之门”的西方势力，拥有转轮火枪，正在寻找长生线索。"
+    },
+    {
+      "id": "chen_mo_past",
+      "content": "陈默曾任神机营督师，在北京城破、扬州屠城等历史事件中作为见证者。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

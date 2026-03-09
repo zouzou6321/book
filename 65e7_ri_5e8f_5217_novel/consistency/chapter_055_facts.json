@@ -1,0 +1,81 @@
+{
+  "characters_present": [
+    {
+      "name": "苏浅",
+      "age": "25",
+      "role": "前收容局特工",
+      "description": "战术护目镜碎裂，左臂流淌着金色纹路，被油脂浸透",
+      "status": "active"
+    },
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "逻辑之主（伪）",
+      "description": "皮肤布满瓷器般裂纹和糊味，左眼瞳孔深邃带死寂灰白色倒V字符号，右眼无情绪",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "油垢暴食鼠",
+    "通马桶的 plumber · 处刑者",
+    "门后观察者"
+  ],
+  "character_exits": [
+    {
+      "name": "油垢暴食鼠",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "wake_up_sewer",
+      "description": "苏浅在下水道废料中醒来，检查昏迷的李疯狂，左手接触使其苏醒",
+      "time": "坠落后第17分钟"
+    },
+    {
+      "id": "safe_mode_activation",
+      "description": "李疯狂重启失败，进入【安全模式】，剥离情感和痛觉，仅保留绝对逻辑",
+      "time": "坠落后第17分钟"
+    },
+    {
+      "id": "mouse_elimination",
+      "description": "油垢暴食鼠袭击苏浅，李疯狂将其存在逻辑抽离，使其变成一张印着'无效优惠券'的二维纸片",
+      "time": "坠落后第17分钟"
+    },
+    {
+      "id": "employee_gate_encounter",
+      "description": "两人抵达一扇标有'禁止未付款食客携带自定肢体入内'的圆形金属门",
+      "time": "坠落后第17分钟"
+    },
+    {
+      "id": "plumber_battle",
+      "description": "遭遇【通马桶的 plumber · 处刑者】，李疯狂切换至'狂躁杀毒模式'，使用黑色数据流构成的叉子进行攻击",
+      "time": "坠落后第17分钟"
+    }
+  ],
+  "time_period": "坠落后第17分钟（主观时间）",
+  "locations": [
+    "后厨 · 下水道",
+    "废弃订单处理区",
+    "员工通道门前"
+  ],
+  "key_facts": [
+    {
+      "id": "su_qian_arm_identity",
+      "content": "苏浅的左臂流淌着金色纹路，属于'神'的力量，被门后实体识别为【神之肋骨（载体）】"
+    },
+    {
+      "id": "li_crazy_status",
+      "content": "李疯狂当前运行在【安全模式】，无情感、无恐惧、无痛觉，左眼呈死寂灰白色倒V字符号"
+    },
+    {
+      "id": "environment_nature",
+      "content": "废弃订单处理区存放着所有'未被世界接受'的数据，如被抛弃的快乐、删减的记忆和逻辑错误的怪物"
+    },
+    {
+      "id": "ability_removal",
+      "content": "李疯狂具备通过数据流移除物体'存在逻辑'的能力，可将三维生物变为二维物品"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

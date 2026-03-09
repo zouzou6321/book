@@ -1,0 +1,101 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "26",
+      "role": "序列者(0-01:旁观者)",
+      "description": "穿着不合身的廉价西装，腰间别着神秘断骨，神情玩世不恭，视世界为充满BUG的游戏",
+      "status": "active"
+    },
+    {
+      "name": "图书馆管理员",
+      "age": "中年",
+      "role": "管理员",
+      "description": "戴着厚底眼镜，正在编织一件鲜红色、类似皮肤般有弹性的毛衣",
+      "status": "active"
+    },
+    {
+      "name": "林鹿",
+      "age": "未知",
+      "role": "收容目标/病患",
+      "description": "银白短发，身穿蓝白条纹病号服，赤脚，眼神空洞如死水，正在画黑色圆圈",
+      "status": "active"
+    },
+    {
+      "name": "清道夫",
+      "age": "未知",
+      "role": "特工",
+      "description": "身穿全封闭黑色防化服，佩戴防毒面具，手持探测仪器",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "林鹿",
+    "清道夫"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "visit_library",
+      "description": "顾长歌前往市图书馆旧书区寻找关于断骨的资料",
+      "time": "周六午后14:00"
+    },
+    {
+      "id": "book_activation",
+      "description": "顾长歌用断骨激活《人类补完计划可行性报告（草稿）》，得知自己为序列0-01“旁观者”",
+      "time": "周六午后"
+    },
+    {
+      "id": "meet_linlu",
+      "description": "顾长歌在旧书区深处偶遇正在画圆圈的银发少女林鹿",
+      "time": "周六午后"
+    },
+    {
+      "id": "monster_pursuit",
+      "description": "林鹿预警“它”在数数，随后由人脸和触手组成的阴影怪物出现袭击",
+      "time": "周六午后"
+    },
+    {
+      "id": "wall_glitch_escape",
+      "description": "顾长歌利用“穿墙”能力（游戏BUG机制）带着林鹿撞破墙壁逃至图书馆后巷",
+      "time": "周六午后"
+    },
+    {
+      "id": "cleaners_arrival",
+      "description": "名为“清道夫”的黑衣人组织驾驶黑色面包车在后巷堵截，判定林鹿为泄漏源并准备收容",
+      "time": "周六午后"
+    }
+  ],
+  "time_period": "周六午后，14:00",
+  "locations": [
+    "市图书馆旧书区（地下负一层）",
+    "图书馆后巷"
+  ],
+  "key_facts": [
+    {
+      "id": "gu_changge_identity",
+      "content": "顾长歌觉醒为序列0-01“旁观者”，特性是保持绝对清醒，能看见现实背后的逻辑与回声，并能通过接触物体回溯情绪波动"
+    },
+    {
+      "id": "book_attraction",
+      "content": "《人类补完计划可行性报告（草稿）》不仅是知识书，更是一个像信标一样吸引怪物的诱饵"
+    },
+    {
+      "id": "linlu_character",
+      "content": "少女名为林鹿，身穿病号服，被清道夫称为“泄漏源”，其言行逻辑异于常人（如认为七减三等于五）"
+    },
+    {
+      "id": "entity_rule",
+      "content": "在旧书区遭遇的实体对数字敏感，回头会被发现，林鹿提到的“七减三等于五”是某种逻辑闭环或触发机制"
+    },
+    {
+      "id": "wall_bug_ability",
+      "content": "顾长歌拥有在特定极端条件下通过撞墙实现“穿墙”/位移的能力，被他视为游戏卡BUG"
+    },
+    {
+      "id": "cleaners_org",
+      "content": "存在被称为“清道夫”的武装组织，负责清理看不顺眼的“垃圾”和收容异常"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

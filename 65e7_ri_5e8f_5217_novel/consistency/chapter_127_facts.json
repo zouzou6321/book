@@ -1,0 +1,93 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "逻辑之主/机长",
+      "description": "身着流淌着诡异光泽的黑色礼服，皮肤上有游走的破碎代码纹路，左眼为深紫色倒“V”字符号瞳孔。使用由李小鱼肋骨磨成的骨勺。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "李疯狂的搭档",
+      "description": "左臂异化为老式步枪枪托的重型武器，左眼为黑色漩涡，因高强度精神负荷流血泪，右眼正常。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "观测者",
+    "地勤人员",
+    "过去的李疯狂"
+  ],
+  "character_exits": [
+    {
+      "name": "周一的加班者（乘客尸体）",
+      "reason": "化作飞灰被吸入引擎作为燃料"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "escape_base",
+      "description": "诺亚方舟基地开始自我消化，李疯狂利用逻辑篡改能力改变重力，带着苏浅逃离通风管道。",
+      "time": "周二凌晨 01:00 AM"
+    },
+    {
+      "id": "board_plane",
+      "description": "二人在悬浮的废弃国际机场发现并登上一架名为“KFC_404号航班（最终修正版）”的血肉寄生飞机。",
+      "time": "01:00 AM 后"
+    },
+    {
+      "id": "logic_takeoff",
+      "description": "李疯狂篡改逻辑定义飞机为活体并强行起飞，将深渊中阻挡的“地勤人员”巨手定义为“挥手告别”的欢送仪式，以此借力起飞。",
+      "time": "周二凌晨"
+    },
+    {
+      "id": "stratosphere_observation",
+      "description": "飞机进入平流层，遭遇名为“观测者”的巨大红眼（月亮）实体，苏浅因精神辐射濒临崩溃。",
+      "time": "周二凌晨"
+    },
+    {
+      "id": "energy_filtration",
+      "description": "李疯狂将液态理智能量管插入自己眼眶进行过滤，并将转化后的金色能量喂给苏浅治疗。",
+      "time": "周二凌晨"
+    },
+    {
+      "id": "past_self_encounter",
+      "description": "在云层中目击第一卷开始时坠毁的“过去的李疯狂”擦肩而过。",
+      "time": "周二凌晨"
+    }
+  ],
+  "time_period": "周二凌晨（理论值），01:00 AM",
+  "locations": [
+    "第73区边缘",
+    "诺亚方舟基地内部",
+    "废弃国际机场",
+    "深渊海",
+    "KFC_404号航班",
+    "平流层"
+  ],
+  "key_facts": [
+    {
+      "id": "weapon_origin",
+      "content": "李疯狂手中的骨勺由李小鱼的肋骨磨成。"
+    },
+    {
+      "id": "plane_entity",
+      "content": "当前乘坐的飞机名为“KFC_404号航班（最终修正版）”，机身寄生了血肉与藤壶。"
+    },
+    {
+      "id": "observer_eye",
+      "content": "平流层高空存在“观测者”，外形是一轮巨大的红色巨眼，具有高维精神压迫感。"
+    },
+    {
+      "id": "monday_remnants",
+      "content": "深渊下的苍白手臂被称为“地勤人员”或“周一的挽留”，物理攻击无效。"
+    },
+    {
+      "id": "su_qians_eye_state",
+      "content": "苏浅的左眼因逻辑过载受损，需要李疯狂过滤的理性能量维持，李疯狂称她为“餐具”。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

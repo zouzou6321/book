@@ -1,0 +1,76 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "未知",
+      "role": "守秘人 / Sequence 001 / 邻居",
+      "description": "脸色苍白，身穿一件被真理会刺客踩过脚印的海绵宝宝T恤，瞳孔深不见底",
+      "status": "active"
+    },
+    {
+      "name": "苏糖",
+      "age": "未知",
+      "role": "公司白领 / 402室租户",
+      "description": "系着印有小熊图案的围裙，神色紧张，试图维持普通人的人设",
+      "status": "active"
+    },
+    {
+      "name": "火锅",
+      "age": "未知",
+      "role": "宠物猫 / 逻辑锚点 / 变异生物",
+      "description": "通体漆黑，体型微胖，金色瞳孔，影子呈触手漩涡状且前端有巨大骨骼猫爪轮廓",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "苏糖",
+    "火锅"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "lunch_visit",
+      "description": "顾长歌受邀前往苏糖家（402室）吃红烧肉，并遇见了苏糖养的黑猫“火锅”",
+      "time": "新纪元元年 周二 12:15"
+    },
+    {
+      "id": "cat_analysis",
+      "description": "顾长歌解析发现猫“火锅”吞食了世界逻辑碎片，被误认为吞食了旧日支配者遗物，目前充当污染过滤器",
+      "time": "新纪元元年 周二 午餐时段"
+    },
+    {
+      "id": "猫的收容协议",
+      "description": "顾长歌与苏糖达成协议，由顾长歌代为看管猫“火锅”（以蹭饭和洗碗为代价），触发系统任务",
+      "time": "新纪元元年 周二 午餐后"
+    }
+  ],
+  "time_period": "新纪元元年，周二 12:15 午餐时段",
+  "locations": [
+    "幸福家园小区",
+    "402室",
+    "404室（提及）"
+  ],
+  "key_facts": [
+    {
+      "id": "gu_balance",
+      "content": "顾长歌账户余额为297.6元"
+    },
+    {
+      "id": "cat_nature",
+      "content": "黑猫“火锅”误食了某维度的逻辑碎片（世界的源代码残片），是低阶位面锚点，能将高维污染过滤为无害形态"
+    },
+    {
+      "id": "misunderstanding_source",
+      "content": "真理会误以为猫吞食了旧日支配者的排泄物/神性遗物，因此盯上这栋楼"
+    },
+    {
+      "id": "task_reward_penalty",
+      "content": "系统任务收容逻辑锚点，奖励解锁初级权限“[格式化：局部生物体]”，代价是为苏糖做一周红烧肉"
+    },
+    {
+      "id": "顾长歌的服装",
+      "content": "顾长歌身穿海绵宝宝T恤，且被真理会刺客踩过"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

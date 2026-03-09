@@ -1,0 +1,89 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角/篡改者",
+      "description": "黑色瞳孔深处有白色倒'V'字符号，金属化皮肤和手指，身穿破烂的T恤",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "同伴",
+      "description": "身穿已成布条的黑色战术风衣，左臂有青色电路板状纹路蔓延至脖颈，佩戴战术护目镜",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "waking_up",
+      "description": "李疯狂在露天咖啡馆遗址醒来，与苏浅确认了昨晚坠楼生还的事实",
+      "time": "周六上午"
+    },
+    {
+      "id": "sequence_promotion",
+      "description": "李疯狂系统结算完成，序列晋升为'篡改者'，获得修改事物属性描述的能力",
+      "time": "周六上午"
+    },
+    {
+      "id": "ability_test_concrete",
+      "description": "李疯狂使用能力将一块混凝土碎块的属性修改为'酥脆'并吃下以测试能力",
+      "time": "周六上午"
+    },
+    {
+      "id": "ability_test_wall",
+      "description": "李疯狂将阻挡去路墙壁的属性修改为'柔软'并切下一块",
+      "time": "周六上午"
+    },
+    {
+      "id": "discover_billet",
+      "description": "一张红色传单飘落，告知'疯狂星期四'活动因食材质量问题顺延至星期日",
+      "time": "周六上午"
+    },
+    {
+      "id": "departure",
+      "description": "李疯狂和苏浅离开咖啡馆遗址，前往废墟街道寻找物资",
+      "time": "周六上午"
+    }
+  ],
+  "time_period": "周六上午",
+  "locations": [
+    "城市废墟",
+    "露天咖啡馆遗址"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_power_falsifier",
+      "content": "李疯狂当前序列为'篡改者'，能力是通过支付精神力修改事物的属性描述，副作用是过度修改现实逻辑会被世界当作病毒查杀"
+    },
+    {
+      "id": "event_crazy_thursday_extension",
+      "content": "原定本周的'疯狂星期四'活动并未结束，被官方通知顺延至明日（星期日），导致原本属于他们的安全日取消"
+    },
+    {
+      "id": "li_crazy_eye_symbol",
+      "content": "李疯狂左眼瞳孔深处悬浮着一个白色的倒'V'字形符号"
+    },
+    {
+      "id": "su_qian_status",
+      "content": "苏浅左臂青色电路板纹路蔓延至脖颈（状态：轻度污染），精神锚点为李疯狂（稳定）"
+    },
+    {
+      "id": "injury_recovery",
+      "content": "两人从数百米高空坠落，李疯狂曾断裂两根肋骨，但已被'真理之胃'消化治愈"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "男主角",
+      "names": [
+        "李疯狂",
+        "李 crazy",
+        "李 crazy"
+      ]
+    }
+  ]
+}

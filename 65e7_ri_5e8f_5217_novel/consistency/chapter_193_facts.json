@@ -1,0 +1,99 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未提及",
+      "role": "防火墙/规则掌控者",
+      "description": "苍白的脸颊，左眼深处有倒“V”字符号，能流出金色流光",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未提及",
+      "role": "调律师",
+      "description": "眼角有一颗泪痣，能凝聚淡蓝色光辉，额发间浮现音符般晶体纹路",
+      "status": "active"
+    },
+    {
+      "name": "修正者",
+      "age": "未提及",
+      "role": "修正者",
+      "description": "未直接描写，被称为“白痴”",
+      "status": "departed"
+    },
+    {
+      "name": "古神",
+      "age": "未知",
+      "role": "不可名状存在/特价菜",
+      "description": "巨大的眼球，占据半个天空，无眼皮，瞳孔浑浊灰白且布满人脸",
+      "status": "departed"
+    },
+    {
+      "name": "乌鸦",
+      "age": "未知",
+      "role": "信使/观察者",
+      "description": "眼睛像二维码，能发出老式收音机短路般的尖啸",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "sky_fracture_appearance",
+      "description": "修正者破坏屏障，城市上空平流层出现逻辑裂痕，古神（眼球）显化并散发精神污染",
+      "time": "深夜 23:55 之后"
+    },
+    {
+      "id": "hunger_escalation",
+      "description": "全城市民饥饿度爆表（500%），皮肤灰白，渴望融入古神或互相吞噬",
+      "time": "深夜 23:55 之后"
+    },
+    {
+      "id": "chicken_broadcast_launch",
+      "description": "李疯狂利用防火墙权限强制全城广播，宣布“老爹炸鸡”免费无限量供应，以此对抗古神污染",
+      "time": "深夜 23:55 之后"
+    },
+    {
+      "id": "indigestion_crisis",
+      "description": "市民因无法消化炸鸡内的高浓度神性而面临撑爆风险，古神力量试图排斥肉体",
+      "time": "深夜 23:55 之后"
+    },
+    {
+      "id": "rqian_awakening_resonance",
+      "description": "苏浅觉醒【调律者】序列，与李疯狂建立精神链接作为功率放大器，将神性转化为生物燃料",
+      "time": "深夜 23:55 之后"
+    },
+    {
+      "id": "god_departure_closure",
+      "description": "因众生吃饱且信仰被世俗化，古神失去锚点，裂痕愈合，危机暂时解除",
+      "time": "午夜左右"
+    }
+  ],
+  "time_period": "第二个新纪元星期四，深夜 23:55 至午夜过后不久",
+  "locations": [
+    "李疯狂的公寓",
+    "城市上空·平流层裂缝",
+    "城市街道",
+    "“老爹炸鸡”全城连锁门店"
+  ],
+  "key_facts": [
+    {
+      "id": "chicken_ingredients",
+      "content": "“老爹炸鸡”供应的食物并非真鸡肉，而是李疯狂利用【篡改】能力将古神眷属/旧日残渣改写物质结构后的产物"
+    },
+    {
+      "id": "rqian_awakening",
+      "content": "苏浅在本章觉醒了序列【调律者】，额发间浮现音符般晶体纹路"
+    },
+    {
+      "id": "lc_eye_feature",
+      "content": "李疯狂左眼深处存在一枚倒“V”字符号，在情绪激动或使用能力时会旋转并溢出金光"
+    },
+    {
+      "id": "world_debt",
+      "content": "李疯狂通过本次事件背负了“世界级（待偿还）”的实际负债，尽管账面显示虚假繁荣"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

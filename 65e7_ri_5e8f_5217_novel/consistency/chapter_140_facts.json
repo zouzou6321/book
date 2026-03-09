@@ -1,0 +1,140 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "Unknown",
+      "role": "食评家 / 招牌菜",
+      "description": "左眼眶里有银灰紫星云，持有李小鱼的肋骨（骨勺），已升级为Human_v2.0测试版",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "Unknown",
+      "role": "系统/AI助手",
+      "description": "存在于李疯狂左眼星云中的声音，受热浪干扰出现杂音",
+      "status": "active"
+    },
+    {
+      "name": "楼层经理",
+      "age": "Unknown",
+      "role": "变异体/服务员",
+      "description": "穿着被撑破的西装，脑袋变成了巨大的喷水管，被李疯狂强制端盘",
+      "status": "incapacitated"
+    },
+    {
+      "name": "影子",
+      "age": "Unknown",
+      "role": "副主厨 / 另一个李疯狂",
+      "description": "猩红的倒V字眼睛，边缘模糊如烟雾的手，带着白色手套，拥有高维攻击能力",
+      "status": "active"
+    },
+    {
+      "name": "巨人兔子玩偶",
+      "age": "Unknown",
+      "role": "Unknown",
+      "description": "穿着破损校服，提着破灯，有一张和李疯狂一模一样的脸",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "楼层经理",
+    "影子",
+    "巨人兔子玩偶"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "system_upgrade",
+      "description": "李疯狂吃下优惠券，系统升级为Human_v2.0（测试版），限制协议生效",
+      "time": "11:50 AM"
+    },
+    {
+      "id": "steaming_earth_starts",
+      "description": "环境发生异变，第73区进入清蒸模式，高温高湿并释放致幻多巴胺",
+      "time": "11:50 AM"
+    },
+    {
+      "id": "local_freeze",
+      "description": "李疯狂利用【逻辑之癌】拒绝高温，在水塔周围制造绝对低温",
+      "time": "Unknown"
+    },
+    {
+      "id": "manager_defeat",
+      "description": "李疯狂利用《消费者权益保护法》逻辑重写，强制楼层经理怪物端盘子",
+      "time": "Unknown"
+    },
+    {
+      "id": "shadow_betrayal",
+      "description": "影子（副主厨）突然袭击李疯狂，将其击飞并吸附在即将闭合的逻辑锅盖上",
+      "time": "Unknown"
+    },
+    {
+      "id": "countdown_start",
+      "description": "出现用餐结束倒计时（10分钟），李疯狂处于被展示状态",
+      "time": "Unknown"
+    }
+  ],
+  "time_period": "新纪元第1个月，星期四，11:50 AM左右",
+  "locations": [
+    "第73区",
+    "隐蔽饲养场（伪装体）",
+    "水塔顶端",
+    "地下备用冷库（提及）"
+  ],
+  "key_facts": [
+    {
+      "id": "human_v2_status",
+      "content": "李疯狂当前系统状态为Human_v2.0（测试版），副作用为痛觉屏蔽和极致饥饿感"
+    },
+    {
+      "id": "restriction_protocol",
+      "content": "新限制协议：永远无法离开星期四的餐桌"
+    },
+    {
+      "id": "logic_cancer_ability",
+      "content": "李疯狂拥有【逻辑之癌】能力，即“凡我拒绝，皆为无效”，可强制覆写概念"
+    },
+    {
+      "id": "world_structure",
+      "content": "世界结构是环形的：上面是餐桌（第73区），下面是厨房（位于地下备用冷库下）"
+    },
+    {
+      "id": "bone_spoon_property",
+      "content": "【李小鱼的肋骨（骨勺）】在高温环境下散发寒气，字样随体温闪烁"
+    },
+    {
+      "id": "shadow_identity",
+      "content": "李疯狂的影子是独立的敌对实体，被称为“副主厨”或“另一个李疯狂”，拥有高维同源攻击能力"
+    },
+    {
+      "id": "giant_rabbit",
+      "content": "存在一个穿着破损校服的巨大兔子玩偶，提着破灯，脸与李疯狂相同"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主厨代理人 / 李疯狂的影子",
+      "names": [
+        "影子",
+        "副主厨大人",
+        "另一个你"
+      ]
+    },
+    {
+      "role_or_identity": "变异体怪物 / 服务员",
+      "names": [
+        "楼层经理",
+        "没脑子的服务员"
+      ]
+    },
+    {
+      "role_or_identity": "李疯狂",
+      "names": [
+        "食评家",
+        "招牌菜",
+        "Human_v2.0测试版用户",
+        "坏种"
+      ]
+    }
+  ]
+}

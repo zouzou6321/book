@@ -1,0 +1,86 @@
+{
+  "characters_present": [
+    {
+      "name": "林野",
+      "age": "22",
+      "role": "上古返祖系统宿主，底层社畜",
+      "description": "常年熬夜有厚重乌青（绑定系统后乌青变淡），常穿洗得发白的牛仔外套，激活蚩尤血脉后周身可萦绕暗红色血气",
+      "status": "active"
+    },
+    {
+      "name": "苏清鸢",
+      "age": "十六七岁",
+      "role": "刚考完高考的学生",
+      "description": "高马尾，发梢有浅棕色挑染，穿白色连帽卫衣，脸上带有未脱的稚气",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "林野",
+    "苏清鸢",
+    "上古返祖系统"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "linye_bind_ancestor_system",
+      "description": "林野濒死时成功绑定上古返祖系统，健康状态修复完成，因接触蚩尤指骨血脉匹配度100%，解锁10%蚩尤血脉，获得霸体、狂血两项基础神通",
+      "time": "第1天晚8:07"
+    },
+    {
+      "id": "linye_kill_first_bone_spike_tiger",
+      "description": "林野将袭击苏清鸢的一阶骨刺虎硬生生撕成两半，成功救下苏清鸢",
+      "time": "第1天晚8:07左右"
+    },
+    {
+      "id": "linye_save_woman_and_child",
+      "description": "林野击杀第二头正准备袭击抱孩子中年妇女的一阶骨刺虎，救下妇女和孩子",
+      "time": "第1天晚8:07左右"
+    },
+    {
+      "id": "system_release_newbie_task",
+      "description": "系统检测到空间裂缝扩张速度提升300%，发布新手任务：击杀即将降临的5头一阶骨刺虎，奖励现金10万元、蚩尤血脉解锁进度+1%",
+      "time": "第1天晚8:07左右"
+    },
+    {
+      "id": "official_force_arrive",
+      "description": "佩戴龙形徽章的官方人员乘坐特制装甲车抵达事发现场",
+      "time": "第1天晚8:07左右"
+    }
+  ],
+  "time_period": "第1天晚8:07左右",
+  "locations": [
+    "东海市郊区16号线地铁口施工路段"
+  ],
+  "key_facts": [
+    {
+      "id": "fact_system_core_rule",
+      "content": "上古返祖系统核心规则为接触任意上古大能遗珍/血脉残留，即可自动解锁对应大能血脉，解锁浓度越高，获得的神通越多，100%解锁即可获得该大能全部战力"
+    },
+    {
+      "id": "fact_linye_family_situation",
+      "content": "林野的母亲需要透析，林野此前经济拮据，一直在为母亲的透析费发愁"
+    },
+    {
+      "id": "fact_reiki_recovery_truth",
+      "content": "流传了近半年的灵气复苏、异兽入侵传闻为真，空间裂缝会持续扩张，不断有异兽从裂缝中降临"
+    },
+    {
+      "id": "fact_bone_spike_tiger_strength",
+      "content": "一阶骨刺虎战力对应F级，其涎水具有腐蚀性"
+    },
+    {
+      "id": "fact_bati_ability",
+      "content": "基础神通霸体可免疫F级及以下所有攻击，减免E级攻击70%"
+    },
+    {
+      "id": "fact_kuangxue_ability",
+      "content": "基础神通狂血可临时提升自身战力50%，持续30分钟，无任何副作用"
+    },
+    {
+      "id": "fact_chiyou_finger_bone_attr",
+      "content": "蚩尤指骨是上古蚩尤遗珍，与林野血脉匹配度100%，可辅助解锁蚩尤血脉"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

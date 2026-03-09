@@ -1,0 +1,69 @@
+{
+  "characters_present": [
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "收容局特别调查员",
+      "description": "满身油污的战术风衣，琥珀色眼眸，头发垂落带有洗发水和硝烟味",
+      "status": "active"
+    },
+    {
+      "name": "李疯狂",
+      "age": "26岁",
+      "role": "篡改者/源代码/任务目标",
+      "description": "身穿印有“V我50”的破旧T恤，左眼瞳孔深处有倒“V”字的白色符号，皮肤有金属光泽或惨白灰败色",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "san_value_crisis",
+      "description": "李疯狂因过度使用【删除】能力导致精神崩溃，高烧且濒临被世界逻辑同化",
+      "time": "夜晚"
+    },
+    {
+      "id": "love_anchor_activation",
+      "description": "苏浅通过额头贴额头并在李疯狂手心写下“人”字，利用情感（爱）作为锚点唤醒了李疯狂",
+      "time": "夜晚"
+    },
+    {
+      "id": "system_love_ack",
+      "description": "系统检测到“爱”的概念体，确认高维逻辑抗性生效，San值以500%速度回升",
+      "time": "夜晚"
+    }
+  ],
+  "time_period": "夜晚（第一个沦陷的星期三）",
+  "locations": [
+    "废弃安全屋（靠近“神的喉咙”入口）",
+    "李疯狂的梦境（数据深渊）"
+  ],
+  "key_facts": [
+    {
+      "id": "ability_cost",
+      "content": "过度使用【删除】能力的代价是透支“自我”，即删除属于李疯狂本身的记忆、情感和本能逻辑"
+    },
+    {
+      "id": "li_fengkuang_age",
+      "content": "李疯狂今年26岁"
+    },
+    {
+      "id": "stomach_feature",
+      "content": "李疯狂拥有一个被称为“真理之胃”的器官，在San值低时会试图消化一切"
+    },
+    {
+      "id": "suqian_backlash",
+      "content": "苏浅过度使用力量后，左臂会出现晶体化花纹的反噬，随后可消退"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "男主角",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

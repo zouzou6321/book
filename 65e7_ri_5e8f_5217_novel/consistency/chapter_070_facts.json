@@ -1,0 +1,95 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "S级资产/导航员",
+      "description": "左眼有死寂灰白色的倒“V”符号",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "李疯狂的同伴",
+      "description": "脸色苍白，左臂为泛着金色晶体光芒的【门之匙（伪）】",
+      "status": "active"
+    },
+    {
+      "name": "车长",
+      "age": "",
+      "role": "诺亚方舟01号指挥官",
+      "description": "半机械改造人，下半身扎根在驾驶座，拥有旋转玻璃眼球",
+      "status": "active"
+    },
+    {
+      "name": "后勤主管",
+      "age": "中年",
+      "role": "方舟管理层/潜伏者",
+      "description": "穿着笔挺制服，胸前挂满勋章，实为被寄生体控制",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "车长",
+    "后勤主管"
+  ],
+  "character_exits": [
+    {
+      "name": "后勤主管",
+      "reason": "死亡（被李疯狂击杀并剥离寄生体）"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "cargo_vibration",
+      "description": "货舱连接锁松动，整艘方舟发生震动",
+      "time": "周四晚上"
+    },
+    {
+      "id": "bridge_infiltration",
+      "description": "李疯狂利用【篡改】能力将通风管道定义为高速电梯井，与苏浅闯入舰桥会议室",
+      "time": "周四晚上"
+    },
+    {
+      "id": "spy_exposure",
+      "description": "李疯狂揭露后勤主管实为“星期三教派”的机械寄生体，并消灭了在场的另一名潜伏文员",
+      "time": "周四晚上"
+    },
+    {
+      "id": "power_reallocation",
+      "description": "李疯狂夺取指挥权，下令切除娱乐舱和高层维生系统能量，转供动力炉和后舱",
+      "time": "周四晚上"
+    },
+    {
+      "id": "threat_message",
+      "description": "舰桥主屏幕显示巨大笑脸和文字：“菜品评价：微辣。请等待上菜。”",
+      "time": "周四晚上"
+    }
+  ],
+  "time_period": "清醒日 · 周四晚上",
+  "locations": [
+    "诺亚方舟01号",
+    "货舱",
+    "通风管道",
+    "舰桥会议室"
+  ],
+  "key_facts": [
+    {
+      "id": "Li_FengkuangAbility",
+      "content": "李疯狂拥有【篡改】能力（可修改事物定义）和【删除】能力（使用后会有反噬）"
+    },
+    {
+      "id": "Wednesday_Sect_Infiltration",
+      "content": "敌对势力“星期三教派”使用黄铜闹钟和齿轮等机械寄生体控制了方舟部分高层"
+    },
+    {
+      "id": "Noah_Ark_Structure",
+      "content": "诺亚方舟01号第6到第9车厢为医疗区和难民收容区；动力炉熄火倒计时约三小时"
+    },
+    {
+      "id": "Li_Xiaoyu_Remains",
+      "content": "李疯狂怀中携带有一把由李小鱼肋骨制成的骨勺"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

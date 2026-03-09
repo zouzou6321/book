@@ -1,0 +1,79 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "干涉者/幸存者",
+      "description": "身穿破损的【星之绅士的伪装】，浑身沾满血土，手掌有淡色的“人”字印记，左眼流出组织液。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "Type-K机械躯体/仿生人",
+      "description": "半截身子插在墙壁里，精密合金装甲布满划痕，独眼镜头碎裂（后显示幽蓝色），左臂扭曲。",
+      "status": "active"
+    },
+    {
+      "name": "旧日支配者",
+      "age": null,
+      "role": "神明/旧日支配者",
+      "description": "巨大的、不可名状的阴影，由变幻的混沌物质组成，从混沌中生出无数只眼睛。",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "waking_in_ruins",
+      "description": "李疯狂在诺亚方舟残骸的废墟中苏醒，检查并试图修复受损严重的苏浅。",
+      "time": "星期四 16:45"
+    },
+    {
+      "id": "memory_infiltration",
+      "description": "李疯狂吞服“认知奇点”（黑苹果），通过意识潜入丢失的记忆片段，解析旧日餐厅的晚宴。",
+      "time": "星期四 16:45"
+    },
+    {
+      "id": "redefining_monday",
+      "description": "在记忆中，李疯狂利用“因果液”在桌上书写公式，将“周一”的定义修改为“罢工”（摆烂），作为逻辑病毒注入世界底层。",
+      "time": "记忆深处"
+    },
+    {
+      "id": "amber_marking",
+      "description": "在被驱逐前，李疯狂在嵌有苏浅眼睛的琥珀蝴蝶表面留下了一个坐标/印记。",
+      "time": "记忆深处"
+    },
+    {
+      "id": "return_and_wakeup",
+      "description": "李疯狂从记忆中返回现实，承受神经反噬，并向苏浅传达信息，苏浅做出回应。",
+      "time": "星期四 16:45"
+    }
+  ],
+  "time_period": "星期四 16:45 -> 意识深处（旧日餐厅）",
+  "locations": [
+    "第4区废墟",
+    "诺亚方舟残骸内",
+    "意识深处（旧日餐厅）"
+  ],
+  "key_facts": [
+    {
+      "id": "monday_definition",
+      "content": "李疯狂将“周一”的定义篡改为“罢工”（集体躺平/懒散），以此作为对抗世界沦陷的逻辑炸弹。"
+    },
+    {
+      "id": "suqian_origin_hint",
+      "content": "苏浅的意识与一只封存在琥珀中且嵌有人类眼睛的蝴蝶有关，李疯狂曾在其上留下印记。"
+    },
+    {
+      "id": "apple_consumed",
+      "content": "作为“认知奇点”的黑苹果已被李疯狂完全消化，转化为记忆数据。"
+    },
+    {
+      "id": "account_unpaid",
+      "content": "旧日餐厅的主厨驳回了愿望，评价为“这菜太辣了”。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

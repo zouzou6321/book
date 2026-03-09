@@ -1,0 +1,126 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "摄政王 / 前世定北侯",
+      "description": "身穿儒服，后换中衣，下巴有青色胡茬，沧桑野性",
+      "status": "active"
+    },
+    {
+      "name": "李恪",
+      "age": "10岁",
+      "role": "小皇帝",
+      "description": "脸色惨白，孩子气",
+      "status": "active"
+    },
+    {
+      "name": "王猛",
+      "age": "未知",
+      "role": "兵部尚书",
+      "description": "原太子党羽",
+      "status": "active"
+    },
+    {
+      "name": "拓跋烈",
+      "age": "未知",
+      "role": "北蛮新任可汗",
+      "description": "身材魁梧如熊，满脸横肉",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "未知",
+      "role": "亲卫",
+      "description": "跟随萧寒前往营地",
+      "status": "active"
+    },
+    {
+      "name": "老巫师",
+      "age": "未知",
+      "role": "蛮族巫师",
+      "description": "尖叫，挥舞法杖",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "未知",
+      "role": "长公主",
+      "description": "裹着厚重的狐裘大氅，脸带轻纱，容颜绝美",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "王猛",
+    "拓跋烈",
+    "老巫师"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "barbarian_invasion",
+      "description": "北蛮可汗拓跋烈集结十万精锐骑兵大举南下，攻打雁门关",
+      "time": "建安二十四年，冬"
+    },
+    {
+      "id": "court_confrontation",
+      "description": "兵部尚书王猛在朝堂上指责萧寒裁撤边防导致边防空虚，试图借刀杀人",
+      "time": "建安二十四年，冬"
+    },
+    {
+      "id": "xiao_han_deploys",
+      "description": "萧寒接下御敌重任，不带兵刃，只带沈锋和一份‘道理’前往北境",
+      "time": "三日后"
+    },
+    {
+      "id": "tent_negotiation",
+      "description": "萧寒在蛮族中军大帐与拓跋烈谈判，提出以贸易（丝绸、茶叶、铁锅、书籍）代替战争",
+      "time": "三日后"
+    },
+    {
+      "id": "black_powder_demonstration",
+      "description": "萧寒引爆铁壳黑火药（烟花）摧毁蛮族大帐后方粮草，震慑全场",
+      "time": "谈判期间"
+    },
+    {
+      "id": "barbarian_retreat",
+      "description": "拓跋烈被火药威力震慑，答应退兵三十里并听候安排",
+      "time": "爆炸后"
+    },
+    {
+      "id": "reunion_with_li_jin",
+      "description": "长公主李瑾押送粮草到达雁门关，深夜与萧寒在中军大帐重逢",
+      "time": "当日夜幕"
+    }
+  ],
+  "time_period": "建安二十四年，冬（跨度约三天至当天夜晚）",
+  "locations": [
+    "太极殿",
+    "京城",
+    "北境雁门关",
+    "蛮族驻地产地",
+    "摄政王中军大帐"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_han_current_identity",
+      "content": "萧寒现任摄政王，性格深沉，前世为定北侯"
+    },
+    {
+      "id": "wang_meng_hostility",
+      "content": "兵部尚书王猛表面顺服，内心敌视萧寒，伺机报复"
+    },
+    {
+      "id": "black_powder_weapon",
+      "content": "萧寒掌握黑火药技术，称之为‘烟花’，对冷兵器时代有降维打击能力"
+    },
+    {
+      "id": "li_jin_security",
+      "content": "李瑾由黑云骑护送，在北境行动安全"
+    },
+    {
+      "id": "xiao_han_future_plan",
+      "content": "萧寒计划平定战乱，安定李恪后，带李瑾归隐游历天下"
+    }
+  ]
+}

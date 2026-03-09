@@ -1,0 +1,90 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "唯一未能消化的食材",
+      "description": "左眼有暗红色图腾伤疤，右大腿有自伤伤口，牙齿沾有黑色血丝",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "超级管理员",
+      "description": "初为纯白色硬质光子女仆装，后变回战术风衣；左眼为深不见底的黑洞，右眼为红色像素风暴",
+      "status": "active"
+    },
+    {
+      "name": "无脸侍者",
+      "age": "未知",
+      "role": "送信使者",
+      "description": "穿着侍者制服，没有五官的身体，由垃圾融化重组而成",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "无脸侍者"
+  ],
+  "character_exits": [
+    {
+      "name": "无脸侍者",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "wake_up_conveyor",
+      "description": "李疯狂在餐具回收预处理线（传送带）上醒来，遭遇巨型洗碗刷清洗。",
+      "time": "系统重置间隙"
+    },
+    {
+      "id": "admin_su_intervention",
+      "description": "苏浅以超级管理员形态出现，将李疯狂定义为‘顽固油渍’，利用逻辑悖论卡住洗碗机，两人逃脱。",
+      "time": "系统重置间隙"
+    },
+    {
+      "id": "landfall_revelation",
+      "description": "两人落入后厨垃圾填埋场，苏浅揭示李疯狂是世界‘星期四’侵蚀的饲料源和过滤器。",
+      "time": "系统重置间隙"
+    },
+    {
+      "id": "blood_sacrifice",
+      "description": "苏浅因算力过载濒临消散，李疯狂自残并将血液篡改为‘杀毒软件’喂给苏浅使其恢复。",
+      "time": "系统重置间隙"
+    },
+    {
+      "id": "chef_invitation",
+      "description": "主厨通过天眼和无脸侍者下达强制邀请函，邀请李疯狂赴宴（理智之刺刺身），指引前往深处铁门。",
+      "time": "系统重置间隙"
+    }
+  ],
+  "time_period": "系统重置间隙",
+  "locations": [
+    "旧日洗碗机 · 循环清洗扇区",
+    "后厨的垃圾填埋场",
+    "垃圾填埋场深处大门前"
+  ],
+  "key_facts": [
+    {
+      "id": "su_qian_transformation",
+      "content": "苏浅已获得超级管理员权限，外貌改变为女仆装加数据流特征，左眼为黑洞，右眼为像素风暴。"
+    },
+    {
+      "id": "li_fengkuang_nature",
+      "content": "李疯狂被系统标记为‘唯一未能消化的食材’，同时也是‘星期四’侵蚀世界的过滤器/饲料源。"
+    },
+    {
+      "id": "blood_ability",
+      "content": "李疯狂可以通过将自己的血液定义为‘杀毒软件’来为苏浅提供算力/稳定状态，但会透支理智额度。"
+    },
+    {
+      "id": "countdown_event",
+      "content": "距离下一次‘用餐高峰期’还有12小时，主厨已发出强制邀请。"
+    },
+    {
+      "id": "invitation_content",
+      "content": "主厨邀请函的内容是‘理智之刺刺身（少冰）’，不接受邀请则默认为‘打包带走’。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,85 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": null,
+      "role": "主角/拥有“旁观者”能力的人",
+      "description": "穿着廉价破烂的西装，皮肤苍白得不太正常，左肩有黑色的角质层伤口，正在发烫。",
+      "status": "active"
+    },
+    {
+      "name": "林鹿",
+      "age": null,
+      "role": "同伴",
+      "description": "银白色短发，空洞的眼睛，穿着不合脚的拖鞋，手里拿着《人类补完计划可行性报告》。身姿轻盈。",
+      "status": "active"
+    },
+    {
+      "name": "黑衣人（清道夫）",
+      "age": null,
+      "role": "追兵",
+      "description": "身穿全封闭黑色防化服，佩戴防毒面具和红色单片目镜，手持能发射腐蚀性幽蓝光网的仪器。",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "黑衣人（清道夫）"
+  ],
+  "character_exits": [
+    {
+      "name": "黑衣人（清道夫）",
+      "reason": "被困在建筑废墟中"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "observer_activation",
+      "description": "顾长歌在烂尾楼启动【序列 0-01：旁观者】，视野变为数据线条和因果节点构成的模型。",
+      "time": "23:00"
+    },
+    {
+      "id": "crossing_the_gap",
+      "description": "顾长歌利用‘逻辑漏洞’（穿模判定）在两栋楼之间的悬空钢筋上行走，并带着林鹿一同通过。",
+      "time": "23:00"
+    },
+    {
+      "id": "trap_triggered",
+      "description": "顾长歌利用建筑垃圾的力学结构制造连锁反应，引发了‘豆腐渣工程’的坍塌，困住了三名黑衣追兵。",
+      "time": "23:00"
+    }
+  ],
+  "time_period": "周六，深夜 23:00",
+  "locations": [
+    "烂尾楼建筑工地",
+    "两栋楼之间的连廊断口",
+    "未完工的房间（垃圾堆放处）",
+    "旧城区街巷"
+  ],
+  "key_facts": [
+    {
+      "id": "gu_sequencer",
+      "content": "顾长歌拥有的序列能力为【序列 0-01：旁观者】，可查看建筑结构完整度、物理碰撞判定及逻辑漏洞。"
+    },
+    {
+      "id": "gu_states",
+      "content": "顾长歌拥有‘疯狂期’和‘清醒期’两种状态，在清醒期利用本能像魔术师一样变出戏法。"
+    },
+    {
+      "id": "cleaner_weapon",
+      "content": "黑衣追兵（清道夫/清理工）使用的武器射出的光网能瞬间将混凝土腐蚀成冒泡的粘液。"
+    },
+    {
+      "id": "lins_impression",
+      "content": "林鹿认为顾长歌把世界当成玩具的眼神与她以前见过的‘穿燕尾服的疯子’一模一样。"
+    },
+    {
+      "id": "destination_old_wang",
+      "content": "顾长歌决定带林鹿去寻找‘老王’，称其为把怪物当早餐、把人肉当特产的邻居。"
+    },
+    {
+      "id": "gu_wound",
+      "content": "顾长歌左肩有一块黑色的角质层伤口，正在隐隐发烫。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

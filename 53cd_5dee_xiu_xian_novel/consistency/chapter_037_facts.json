@@ -1,0 +1,114 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "",
+      "role": "太玄宗大师兄",
+      "description": "手持铁锹，看似筑基期实为现代学渣体质，穿着锦袍",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "太玄宗师妹",
+      "description": "身穿胜雪白衣，一尘不染，手持《挖掘心得》",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "",
+      "role": "太玄宗弟子",
+      "description": "壮汉，喜欢用物理理论修真",
+      "status": "active"
+    },
+    {
+      "name": "血影宗面具人",
+      "age": "",
+      "role": "血影宗小队首领",
+      "description": "身材枯瘦，戴着惨白面具，眼睛闪红光，手持滴毒弯刀",
+      "status": "departed"
+    },
+    {
+      "name": "旺财",
+      "age": "",
+      "role": "太玄宗镇魔剑/神兽",
+      "description": "土褐色癞蛤蟆，皮肤皱巴巴，能吞噬万物",
+      "status": "active"
+    },
+    {
+      "name": "黑袍老者",
+      "age": "",
+      "role": "魔教观察者",
+      "description": "通过水镜监视战斗的黑袍人",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "血影宗面具人",
+    "旺财",
+    "黑袍老者"
+  ],
+  "character_exits": [
+    {
+      "name": "血影宗面具人及手下",
+      "reason": "被蛤蟆击溃逃跑"
+    },
+    {
+      "name": "黑袍老者",
+      "reason": "隐去观察"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "excavation_mission",
+      "description": "江越奉掌门之命去后山禁地挖掘‘镇魔剑’，实为挖坟",
+      "time": "次日清晨"
+    },
+    {
+      "id": "finding_the_box",
+      "description": "江越挖出破旧匣子，发现里面是一只沉睡的癞蛤蟆而非剑",
+      "time": "次日清晨"
+    },
+    {
+      "id": "ambush",
+      "description": "血影宗精英小队趁着大阵瘫痪闯入后山，包围江越三人",
+      "time": "挖掘结束后"
+    },
+    {
+      "id": "battle_with_toad",
+      "description": "江越投掷装有蛤蟆的匣子进行攻击，蛤蟆吞噬敌方兵器灵气，击溃强敌",
+      "time": "遭遇战中"
+    },
+    {
+      "id": "taming",
+      "description": "蛤蟆跳上江越肩膀，被江越取名为‘旺财’",
+      "time": "战斗结束后"
+    }
+  ],
+  "time_period": "次日清晨，薄雾未散",
+  "locations": [
+    "太玄宗后山禁地·祖师爷埋骨地"
+  ],
+  "key_facts": [
+    {
+      "id": "great_array_disabled",
+      "content": "太玄宗护宗大阵因昨夜‘毒气反噬’彻底瘫痪，正在进行回炉重造"
+    },
+    {
+      "id": "town_demon_sword_truth",
+      "content": "镇宗之宝‘镇魔剑’实际上是一只名为‘旺财’的能吞噬兵器和灵气蛤蟆"
+    },
+    {
+      "id": "mc_physical_condition",
+      "content": "江越虽有系统光环显示为筑基期，但本质上是缺乏锻炼的现代学渣，体力极差"
+    },
+    {
+      "id": "disciples_delusion",
+      "content": "林清雪和李二牛将江越的挖土和笨拙行为过度解读为深奥的‘物理修真’大道"
+    },
+    {
+      "id": "enemy_recon",
+      "content": "黑袍老者通过水镜目睹了全程，并针对江越的‘万物皆可为剑’理念准备反击"
+    }
+  ]
+}

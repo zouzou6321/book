@@ -1,0 +1,88 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未提及",
+      "role": "定北侯/太师",
+      "description": "表面穿着丝绸单衣把玩玉扳指，贪婪跋扈；实则换上黑色劲装，心机深沉，杀气凛然。",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "未提及",
+      "role": "萧寒的下属",
+      "description": "一身黑影，行事如鬼魅，单膝跪地听令。",
+      "status": "active"
+    },
+    {
+      "name": "李恪",
+      "age": "未提及",
+      "role": "六皇子",
+      "description": "身形单薄，面容白净秀气，眼神软弱怯懦，喜好读古籍，被称为“书呆子”。",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "未提及",
+      "role": "长公主",
+      "description": "一袭黑衣，戴着帷帽，声音清冷，性格坚韧。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "沈锋",
+    "李恪"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "feigned_greed_act",
+      "description": "萧寒在书房痛斥管事，表现出唯利是图、拒绝站队（太子、老三）的姿态，以此掩盖真实意图。",
+      "time": "亥时二刻"
+    },
+    {
+      "id": "visit_shenwang_manor",
+      "description": "萧寒夜闯胜王府，面见六皇子李恪，并对其进行恐吓与“演技特训”。",
+      "time": "亥时二刻稍后"
+    },
+    {
+      "id": "political_philosophy_reveal",
+      "description": "萧寒向李恪阐述政治蓝图：扶持李恪做“垂拱而治”的傀儡（道德标杆），萧寒自己做处理脏活的权臣。",
+      "time": "亥时二刻稍后"
+    },
+    {
+      "id": "observing_charity",
+      "description": "萧寒带李瑾在高楼观察李恪施粥，指出李恪的天然仁慈正是做傀儡的最佳品质。",
+      "time": "深夜"
+    },
+    {
+      "id": "alliance_confirmation",
+      "description": "李瑾表示认可萧寒的计划，承诺长公主府会照看/配合李恪作为投名状，两人结成牢固同盟。",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "建安二十三年，冬，亥时二刻",
+  "locations": [
+    "定北侯府书房",
+    "胜王府邸书房",
+    "京城街头高楼"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_han_cover_identity",
+      "content": "萧寒对外维持贪婪、贪财、只认银子不认人的市井屠夫形象，以此消除太子及其他皇子的戒心。"
+    },
+    {
+      "id": "li_ke_personality",
+      "content": "六皇子李恪性格极度懦弱、善良，对皇位无兴趣，但具有同情心，被视为完美的“沉默羔羊”傀儡人选。"
+    },
+    {
+      "id": "puppet_emperor_strategy",
+      "content": "萧寒的夺权策略是扶持李恪为名义上的皇帝（仁慈象征），自己在幕后掌控实权并处理血腥政治手段。"
+    },
+    {
+      "id": "princess_alliance_status",
+      "content": "长公主李瑾已完全知悉并同意萧寒的计划，双方利益高度一致，长公主府势力正式倒向萧寒。"
+    }
+  ]
+}

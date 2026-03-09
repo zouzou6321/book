@@ -1,0 +1,81 @@
+{
+  "characters_present": [
+    {
+      "name": "苏浅",
+      "age": "28",
+      "role": "“老爹炸鸡”全球总部董事长",
+      "description": "眼神沧桑，轮廓冷硬锋利，身穿高级职业套装，领口别着圆形倒V字纯金徽章，左手无名指有倒V字印记",
+      "status": "active"
+    },
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "世界规则/管理员/隐形的食客",
+      "description": "初现为黑色烟雾构成的模糊人脸，后作为快餐店镜子中的无脸倒影出现，拥有一双深邃的带金色流光的瞳孔",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "report_analysis",
+      "description": "苏浅在《第156周世界逻辑运行报告》中发现红色警告：检测到微弱的‘逻辑回流’现象。",
+      "time": "09:00左右"
+    },
+    {
+      "id": "entity_intrusion",
+      "description": "黑色烟雾（李疯狂的具象化）试图钻入办公室，被苏浅的倒V字印记阻挡，并索要‘V我50’。",
+      "time": "09:00之后"
+    },
+    {
+      "id": "v50_communication",
+      "description": "苏浅使用录音笔播放‘V我50’的摩斯电码，安抚并吸收了黑色烟雾，随后批准执行补丁程序 v3.0。",
+      "time": "09:00之后"
+    },
+    {
+      "id": "time_glitch",
+      "description": "电脑时间显示栏短暂出现乱码‘Thurs-V’，预示李疯狂试图回归。",
+      "time": "10:00"
+    },
+    {
+      "id": "return_manifestation",
+      "description": "李疯狂的倒影在旧城区快餐店的镜中出现，手里拿着一张模糊的旧账单。",
+      "time": "章节结尾"
+    }
+  ],
+  "time_period": "新纪元第三年，周五，上午 09:00 - 10:00",
+  "locations": [
+    "中央都市，“老爹炸鸡”全球总部顶层办公室",
+    "城市旧城区",
+    "“快乐星球”网咖旧址（现主题公园）",
+    "旧城区快餐店"
+  ],
+  "key_facts": [
+    {
+      "id": "world_rewritten",
+      "content": "世界已于三年前被重写，阳光是渲染进程，城市存在加载过程，存在名为‘疯狂余烬’的像素块。"
+    },
+    {
+      "id": "crazy_thursday_rule",
+      "content": "‘疯狂星期四’是古神被封印后的狂欢规则，人类通过此日宣泄压力，所有痛苦被规则消化。"
+    },
+    {
+      "id": "li_crazy_fate",
+      "content": "李疯狂在三年前南极事件后牺牲人格，化身为世界的‘肠胃’或‘规则’本身。"
+    },
+    {
+      "id": "v_mark_connection",
+      "content": "苏浅左手无名指的倒‘V’印记是连接世界管理员（李疯狂）的物理密钥，可阻挡异常入侵。"
+    },
+    {
+      "id": "v50_trigger",
+      "content": "‘V我50’并非仅仅是玩梗，而是李疯狂留下的核心代码或交互密钥，摩斯电码形式可安抚其化身。"
+    },
+    {
+      "id": "weapon_origin",
+      "content": "苏浅拥有一把特殊的枪，由无脸二维码保安的骨骼碎片打磨而成，缠绕着‘男科医院’传单残片。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

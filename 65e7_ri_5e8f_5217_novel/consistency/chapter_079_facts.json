@@ -1,0 +1,81 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角/核心动力源",
+      "description": "左眼眶有贯穿裂痕，皮肤苍白透明，身体正在分解为数据流，最后只剩黑色碳粉痕迹",
+      "status": "deceased"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "幸存者/同伴",
+      "description": "满脸灰尘血迹，战术风衣破损，左臂有黑色晶体纹路，手持骨戒",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "李疯狂",
+      "reason": "死亡/消失/自我格式化"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "domain_activation",
+      "description": "李疯狂在诺亚方舟核心动力室发动“绝对死寂领域”，对周围实施概念上的【删除】",
+      "time": "疯狂周期 · 星期二凌晨"
+    },
+    {
+      "id": "mass_deletion",
+      "description": "死寂领域抹除了古神肉块、方舟十里内的星期一衍生物以及乘客体内的星期三寄生虫",
+      "time": "疯狂周期 · 星期二凌晨"
+    },
+    {
+      "id": "su_qian_encounter",
+      "description": "苏浅冲入动力室，目击李疯狂消失，并命令其“活下去”",
+      "time": "疯狂周期 · 星期二凌晨"
+    },
+    {
+      "id": "dormancy_initiation",
+      "description": "李疯狂启动“逻辑重构 · 休眠模式”，肉体彻底消失，留下骨戒与系统语音",
+      "time": "疯狂周期 · 星期二清晨"
+    }
+  ],
+  "time_period": "疯狂周期 · 星期二凌晨 -> 清晨",
+  "locations": [
+    "诺亚方舟01号 · 核心动力室",
+    "视界灰度",
+    "诺亚方舟外部荒原",
+    "诺亚方舟废墟"
+  ],
+  "key_facts": [
+    {
+      "id": "ability_absolute_silence",
+      "content": "“绝对死寂领域”是一种具有【删除】属性的高级概念，能抹除物质、声音、色彩及恶臭"
+    },
+    {
+      "id": "li_crazy_final_state",
+      "content": "李疯狂肉体已被完全数据化/抹除，仅余一枚车长骨戒和一滩黑色碳粉痕迹，其意识进入休眠模式"
+    },
+    {
+      "id": "system_residuum",
+      "content": "李疯狂消失后，残留的机械系统语音发出了“用餐体验极差”的差评和退款申请提示"
+    },
+    {
+      "id": "su_qian_arm",
+      "content": "苏浅左臂上的黑色晶体纹路对死寂领域有排斥反应，且能随着主人意志平静下来"
+    },
+    {
+      "id": "survivor_status",
+      "content": "方舟内的寄生虫被湮灭后，乘客陷入了一种没有任何梦境的纯粹睡眠"
+    },
+    {
+      "id": "li_crazy_motivation",
+      "content": "李疯狂维持理智的最后逻辑闭环是：“如果连最后一只哈巴狗都不叫了，那看大门的人还怎么证明自己还活着？”以及“还没吃到最后的炸鸡”"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

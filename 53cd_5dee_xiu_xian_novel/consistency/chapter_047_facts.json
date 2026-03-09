@@ -1,0 +1,89 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "太玄宗大师兄/凡人",
+      "description": "普通布衣，沾着锅底灰和干涸血迹，气息返璞归真",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "太玄宗弟子/师妹",
+      "description": "脸色苍白如纸，白衣，神情高冷中透着柔情",
+      "status": "active"
+    },
+    {
+      "name": "王虎",
+      "age": "未知",
+      "role": "外门弟子/昔日外门一霸",
+      "description": "手持沾满脑浆和鲜血的马桶搋子（通天棍）",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "手持变形的大铁锤，面容憨厚，正在用石头记笔记",
+      "status": "active"
+    },
+    {
+      "name": "苏软软",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "抱着一罐石灰粉，瑟瑟发抖",
+      "status": "active"
+    },
+    {
+      "name": "画师",
+      "age": "未知",
+      "role": "宗门记录者/百晓生",
+      "description": "手握笔杆，情绪激动，正在翻译大师兄的“深意”",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "system_settlement",
+      "description": "系统结算任务，江越获得9,999,999反差值，并在成神、至尊和退货三个选项中做出选择。",
+      "time": "大战方歇，晨光初照"
+    },
+    {
+      "id": "mortal_mode_locked",
+      "description": "江越选择退货但因因果纠缠未果，系统修正为锁定凡人模式，赋予现实修正力和【红尘仙人（伪）】称号，系统进入休眠。",
+      "time": "晨光初照"
+    },
+    {
+      "id": "misinterpretation_of_hunger",
+      "description": "江越因肚子饿索要包子馒头，被画师脑补为要重整山河、吞噬世间苦难，引发弟子狂热响应。",
+      "time": "晨光初照"
+    },
+    {
+      "id": "departure_with_lin",
+      "description": "江越跳下废墟，无视众人误解扶起林清雪，在一众弟子的簇拥下前往膳堂。",
+      "time": "晨光初照"
+    }
+  ],
+  "time_period": "大战方歇，晨光初照",
+  "locations": [
+    "太玄宗广场废墟",
+    "太玄宗膳堂"
+  ],
+  "key_facts": [
+    {
+      "id": "jiang_yue_status",
+      "content": "江越目前为真·凡人（无灵力），但拥有【红尘仙人（伪）】光环，其任何凡人行为都会被周围人强行解读为高深莫测的神迹或道法。系统已休眠。"
+    },
+    {
+      "id": "artifacts_status",
+      "content": "王虎依然持有被视为“通天棍”的马桶搋子，李二牛持有变形的大铁锤，苏软软持有石灰粉。"
+    },
+    {
+      "id": "relationship_jiang_lin",
+      "content": "江越与林清雪关系确立，林清雪明知江越是凡人仍愿追随，江越承诺管饭并接受了这段羁绊。"
+    }
+  ]
+}

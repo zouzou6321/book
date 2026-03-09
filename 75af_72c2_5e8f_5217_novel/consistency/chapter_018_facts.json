@@ -1,0 +1,137 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": null,
+      "role": "序列001/守秘人",
+      "description": "左肩有贯穿伤，穿洗得发白的衬衫，神情慵懒，瞳孔深处有数字编号",
+      "status": "active"
+    },
+    {
+      "name": "苏青",
+      "age": null,
+      "role": "特级调查员",
+      "description": "佩戴战术手枪，神情震惊后转为复杂",
+      "status": "active"
+    },
+    {
+      "name": "特勤人员",
+      "age": null,
+      "role": "异常管理局警员",
+      "description": "全副武装，手持抑制枪，神色紧张",
+      "status": "active"
+    },
+    {
+      "name": "年轻警员",
+      "age": null,
+      "role": "异常管理局工作人员",
+      "description": "脸色蜡黄，神情麻木",
+      "status": "active"
+    },
+    {
+      "name": "402室大妈",
+      "age": null,
+      "role": "小区居民",
+      "description": "手舞足蹈，正描述噩梦",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "402室大妈",
+    "年轻警员"
+  ],
+  "character_exits": [
+    {
+      "name": "顾长歌",
+      "reason": "离开封锁线返回住所"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "cover_up_negotiation",
+      "description": "顾长歌与苏青达成共识，对外宣称击退旧日投影是靠'嘴遁'而非神之权柄",
+      "time": "06:30左右"
+    },
+    {
+      "id": "detector_malfunction",
+      "description": "特勤人员的辐射探测仪显示顾长歌数值无穷大或为零，因其在世界规则中'白名单'化",
+      "time": "06:30左右"
+    },
+    {
+      "id": "return_to_shelter",
+      "description": "顾长歌回到幸福家园404室，开启反锁并恢复绝对领域",
+      "time": "07:00左右"
+    },
+    {
+      "id": "using_authority",
+      "description": "顾长歌使用序列001权能'守秘人'，通过文字[止痛]和[整洁]修改现实",
+      "time": "回到房间后"
+    },
+    {
+      "id": "system_billing_alert",
+      "description": "顾长歌收到晋升高级管理员的账单通知及下周三功能测试的警告",
+      "time": "查看手机时"
+    }
+  ],
+  "time_period": "新纪元元年，周五 06:30 至 07:00后",
+  "locations": [
+    "C9区边缘封锁线",
+    "幸福家园小区404室"
+  ],
+  "key_facts": [
+    {
+      "id": "sequence_identity",
+      "content": "顾长歌晋升为Sequence 001，代号为守秘人，拥有通过文字编辑现实的权能"
+    },
+    {
+      "id": "whitelist_status",
+      "content": "顾长歌已被列入世界规则的白名单，低级探测设备无法读取其准确数据"
+    },
+    {
+      "id": "fog_schedule_change",
+      "content": "灰雾的侵蚀时间已加快，原本的周四沦陷现提前至周三开始"
+    },
+    {
+      "id": "su_qing_complicity",
+      "content": "苏青知晓顾长歌拥有超越常理的力量，并协助其向组织隐瞒真实情况"
+    },
+    {
+      "id": "gu_changge_injury",
+      "content": "顾长歌左肩有贯穿伤，伤口处长出黑色角质层进行修复，肉体承载高维力量需适应"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "苏青（调查员/队长）",
+      "names": [
+        "苏青",
+        "苏调查员",
+        "苏队",
+        "苏大美女"
+      ]
+    },
+    {
+      "role_or_identity": "顾长歌",
+      "names": [
+        "顾长歌",
+        "顾先生"
+      ]
+    },
+    {
+      "role_or_identity": "旧日投影（神明）",
+      "names": [
+        "旧日投影",
+        "神明",
+        "甲方",
+        "那个傻大个神明"
+      ]
+    },
+    {
+      "role_or_identity": "真理会的袭击者",
+      "names": [
+        "那个穿黑袍的疯子",
+        "真理会的那家伙"
+      ]
+    }
+  ]
+}

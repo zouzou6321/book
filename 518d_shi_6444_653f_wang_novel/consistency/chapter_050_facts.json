@@ -1,0 +1,76 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "前摄政王/闲散王爷",
+      "description": "身穿洗得发白的月白色宽袖绸衫，袖口挽起，手摇破蒲扇，神情慵懒满足",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "三十许",
+      "role": "前长公主/妻子",
+      "description": "身穿素雅青色长裙，发髻松挽，眉眼温婉从容",
+      "status": "active"
+    },
+    {
+      "name": "萧灵",
+      "age": "四五岁",
+      "role": "女儿",
+      "description": "粉雕玉琢，眉眼像李瑾，透着娇蛮与灵动",
+      "status": "active"
+    },
+    {
+      "name": "萧逸",
+      "age": "七八岁",
+      "role": "长子",
+      "description": "虎头虎脑，眉宇间像年轻时的萧寒，满头大汗摆弄皮影",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "萧灵",
+    "萧逸"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "garden_puppetry",
+      "description": "萧寒与子女萧灵、萧逸在后花园排练皮影戏，引发对前世演员身份的回忆",
+      "time": "午后"
+    },
+    {
+      "id": "family_interaction",
+      "description": "李瑾端来西瓜加入家人，提及皇帝恪儿亲政及沈锋的汇报，萧寒感叹生活安稳",
+      "time": "午后"
+    },
+    {
+      "id": "pond_mishap",
+      "description": "萧逸为救落水皮影跳进池塘，李瑾与萧寒急忙奔去相救，全家在温馨中定格",
+      "time": "午后"
+    }
+  ],
+  "time_period": "建安三十年春午后",
+  "locations": [
+    "京城西南角前摄政王府后花园"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_han_status",
+      "content": "萧寒已卸任摄政王，成为闲散王爷，居住在旧府邸，不再涉足朝堂权谋"
+    },
+    {
+      "id": "family_structure",
+      "content": "萧寒与李瑾育有一子（萧逸）一女（萧灵），家庭生活幸福"
+    },
+    {
+      "id": "political_background",
+      "content": "现任皇帝是萧寒的后辈（恪儿），已亲政多年，朝中老顽固大多被收拾"
+    },
+    {
+      "id": "residence_appearance",
+      "content": "昔日肃杀的摄政王府如今充满生活气息，石狮子被挂上了红绸"
+    }
+  ]
+}

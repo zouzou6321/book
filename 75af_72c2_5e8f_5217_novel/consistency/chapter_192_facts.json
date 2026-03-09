@@ -1,0 +1,77 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "未知",
+      "role": "住户/能力者",
+      "description": "苍白修长的手指",
+      "status": "active"
+    },
+    {
+      "name": "苏糖",
+      "age": "未知",
+      "role": "邻居",
+      "description": "举着锅铲",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "苏糖"
+  ],
+  "character_exits": [
+    {
+      "name": "苏糖",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "furniture_adjustment",
+      "description": "顾长歌修正新老板椅（B组领队改造）的震颤模式，并调整落地灯的光色。",
+      "time": "清晨 07:15"
+    },
+    {
+      "id": "mechanical_intruder",
+      "description": "窗外机械生物（高空清洁工）试图入侵，被顾长歌定义规则限制并捕获，最终被改造成窗台风向标。",
+      "time": "清晨 07:15"
+    },
+    {
+      "id": "neighbor_visit",
+      "description": "邻居苏糖敲门询问异响，看到屋内诡异家具，顾长歌以隐形防盗门和艺术风格搪塞，并赠送面条。",
+      "time": "清晨 07:15"
+    }
+  ],
+  "time_period": "周三，清晨 07:15",
+  "locations": [
+    "幸福家园小区4号楼404室",
+    "4号楼走廊",
+    "402室"
+  ],
+  "key_facts": [
+    {
+      "id": "ability_definition",
+      "content": "顾长歌具备[定义]能力，可修改事物的属性（如将门定义为墙、玻璃定义为单向镜面）。"
+    },
+    {
+      "id": "reality_wall",
+      "content": "404室的门平时被[定义]为墙，顾长歌撕下透明胶带时可恢复门的形态。"
+    },
+    {
+      "id": "boss_chair",
+      "content": "屋内的老板椅由真理会清理部队B组领队改造而成，具备静音和回弹功能。"
+    },
+    {
+      "id": "floor_lamp",
+      "content": "屋内的落地灯由B组特勤改造而成，灯罩为防毒面具，灯管为脊椎骨。"
+    },
+    {
+      "id": "carpet_xiaoshui",
+      "content": "地毯名为'小水'，由消化液构成绒毛，能分解污渍和生物。"
+    },
+    {
+      "id": "noodle_effect",
+      "content": "顾长歌制作的'概念改良版'阳春面具有让人心情变好的特性（屏蔽部分疯狂）。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,84 @@
+{
+  "characters_present": [
+    {
+      "name": "朱由检",
+      "age": "30出头",
+      "role": "崇祯皇帝",
+      "description": "鬓角斑白，眼窝深陷，面容形销骨立，布满血丝的眼睛",
+      "status": "active"
+    },
+    {
+      "name": "陈默",
+      "age": "25-26岁（外表）",
+      "role": "神机营督师",
+      "description": "身穿一品青布官袍，面色苍白如纸，神情冷静沧桑",
+      "status": "active"
+    },
+    {
+      "name": "沈炼",
+      "age": "未说明（比十几年前显老）",
+      "role": "锦衣卫掌印千户",
+      "description": "身材魁梧，面容冷峻，身穿暗红色飞鱼服，腰佩绣春刀",
+      "status": "active"
+    },
+    {
+      "name": "蓝眼西班牙人",
+      "age": "未说明",
+      "role": "外国间谍",
+      "description": "深邃如海的幽蓝眼睛，生硬的中文",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "蓝眼西班牙人"
+  ],
+  "character_exits": [
+    {
+      "name": "陈默",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "sun_chuanting_death_announced",
+      "description": "崇祯帝得知孙传庭死讯及潼关失守",
+      "time": "崇祯十六年冬"
+    },
+    {
+      "id": "proposal_for_south_capital_rejected",
+      "description": "陈默提议南迁南京，崇祯帝坚决拒绝并表示死社稷",
+      "time": "崇祯十六年冬"
+    },
+    {
+      "id": "spy_discovered_at_gate",
+      "description": "陈默在神武门外发现疑似崇祯七年的蓝眼西班牙间谍",
+      "time": "崇祯十六年冬"
+    }
+  ],
+  "time_period": "崇祯十六年冬",
+  "locations": [
+    "紫禁城",
+    "武英殿",
+    "午门前广场",
+    "神武门"
+  ],
+  "key_facts": [
+    {
+      "id": "sun_chuanting_dead",
+      "content": "孙传庭已死，潼关失守，李自成大军逼近京师"
+    },
+    {
+      "id": "shenjiying_troop_count",
+      "content": "神机营目前只有五千人"
+    },
+    {
+      "id": "chen_mo_regeneration",
+      "content": "陈默具有不老及快速愈合伤口（再生）的能力"
+    },
+    {
+      "id": "spy_conspiracy",
+      "content": "一名蓝眼西班牙间谍潜伏在京城神武门外，称“礼物已经准备好了”"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,77 @@
+{
+  "characters_present": [
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "副指挥官/前王牌调查员",
+      "description": "战术护目镜碎裂，半张脸满是灰尘和血痕，因吸入精神粉尘肺部灼烧",
+      "status": "active"
+    },
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "导航员",
+      "description": "全身皮肤暗青且布满裂纹，覆盖黑色结晶体，左眼眶有惨白光芒，体温12度",
+      "status": "active"
+    },
+    {
+      "name": "医生",
+      "age": "未知",
+      "role": "医疗车厢主治医生",
+      "description": "头上缠满绷带，肩膀插着断掉的筷子",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "excavating_relics",
+      "description": "苏浅在诺亚方舟残骸中挖掘，发现了被认为是灰烬的李疯狂",
+      "time": "清晨 06:30"
+    },
+    {
+      "id": "li_crazy_reboot",
+      "description": "李疯狂重启逻辑系统苏醒，以开玩笑的方式回应苏浅",
+      "time": "清晨 06:30"
+    },
+    {
+      "id": "antarctica_appears",
+      "description": "东南方向地平线崩塌，南极冰盖轮廓浮现",
+      "time": "清晨 06:30"
+    },
+    {
+      "id": "final_decision",
+      "description": "李疯狂与苏浅心灵感应传递“砸店”计划，获得称号【硬骨头】",
+      "time": "清晨 06:30"
+    }
+  ],
+  "time_period": "星期二 清晨 06:30",
+  "locations": [
+    "焦黑废墟",
+    "诺亚方舟残骸"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_state",
+      "content": "李疯狂引爆核心后身体重铸，体温12度，无血压，皮肤金属化且无痛觉，左眼具系统光效"
+    },
+    {
+      "id": "su_qian_condition",
+      "content": "苏浅目前肺部有因吸入精神粉尘导致的灼烧感，护目镜损坏"
+    },
+    {
+      "id": "ark_destruction_level",
+      "content": "诺亚方舟原有车厢超过80%化为黑色粉尘，仅剩几节末尾加固车厢"
+    },
+    {
+      "id": "environment_status",
+      "content": "天空呈现灰败色调，太阳位置被暗红色锯齿状光晕取代，风中含有硫磺味"
+    },
+    {
+      "id": "system_virus_concept",
+      "content": "李疯狂体内的系统将【爱】判定为无法卸载的高阶逻辑病毒"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,20 @@
+{
+  "title": "大明长生",
+  "subtitle": "The Eternal Ming",
+  "author": "AI & Thomas",
+  "description": "穿越明代，长生不老。稳健发展，想要改变历史进程，最后发现其实什么也改变不了。",
+  "tags": [
+    "穿越",
+    "历史架空",
+    "长生流",
+    "稳健",
+    "宿命"
+  ],
+  "volumes": {
+    "volume_1": "第一卷：苟全性命于乱世",
+    "volume_2": "第二卷：大厦将倾独木支",
+    "volume_3": "第三卷：白头宫女在，闲话说玄宗"
+  },
+  "cover_image": true,
+  "published": true
+}

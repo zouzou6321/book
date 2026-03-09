@@ -1,0 +1,134 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "副主厨",
+      "description": "左眼有暗红图腾（后变为死机般的惨白和黑色叉子），手持【李小鱼的肋骨（骨勺）】，身体出现瓷器裂纹，胸口插着骨勺，皮肤有被数据腐蚀的痕迹。",
+      "status": "active"
+    },
+    {
+      "name": "完美李疯狂",
+      "age": "",
+      "role": "管理员",
+      "description": "高维投影，穿着黑色燕尾服，别着精致鸡腿胸针，慵懒地瘫坐在电缆编织的王座上。",
+      "status": "deceased"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "锚点",
+      "description": "身体越来越透明，像正在丢失贴图的低模NPC，掌心有一朵灰败的像素蔷薇，后身体分解为光点。",
+      "status": "departed"
+    },
+    {
+      "name": "李小鱼",
+      "age": "",
+      "role": "样本/食材",
+      "description": "多个平行时空的版本，穿着蓝白相间的旧校服，扎着歪斜的双马尾，被装在玻璃罐中，有的眼球被挖去。",
+      "status": "deceased"
+    },
+    {
+      "name": "食客",
+      "age": "",
+      "role": "主厨",
+      "description": "一只巨大的、仿佛能遮蔽整个天空的眼睛，透过天花板缝隙注视。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "完美李疯狂"
+  ],
+  "character_exits": [
+    {
+      "name": "完美李疯狂",
+      "reason": "死亡（被李疯狂删除）"
+    },
+    {
+      "name": "苏浅",
+      "reason": "死亡/消失（数据分解，仅剩1%存入李疯狂胃中）"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "confrontation_in_server_room",
+      "description": "李疯狂在旧日服务器机房与完美李疯狂对峙，试图解救苏浅李小鱼样本。",
+      "time": "疯狂星期四"
+    },
+    {
+      "id": "failed_tampering_attempt",
+      "description": "李疯狂试图使用篡改能力将金属鞭子变成面条，但因对方拥有管理员权限而失败并受伤。",
+      "time": "疯狂星期四"
+    },
+    {
+      "id": "su_qian_sacrifice",
+      "description": "苏浅身体彻底分解，以自身为代价寻找并发送防火墙的逻辑漏洞（恶意代码）给李疯狂。",
+      "time": "疯狂星期四"
+    },
+    {
+      "id": "feast_mode_activated",
+      "description": "李疯狂开启【逻辑之主 · 暴食模式】，利用苏浅留下的恶意代码（爱）作为病毒感染对方。",
+      "time": "疯狂星期四"
+    },
+    {
+      "id": "deletion_of_perfect_li",
+      "description": "李疯狂将骨勺插进自身伤口，利用暴食模式吞噬并删除了完美李疯狂。",
+      "time": "疯狂星期四"
+    },
+    {
+      "id": "diner_observation_warning",
+      "description": "上方出现巨眼（食客），检测到恶意逃单行为，启动清理倒计时。",
+      "time": "疯狂星期四"
+    },
+    {
+      "id": "escape_via_dog_hole",
+      "description": "李疯狂使用红色乐高积木打开狗洞，在崩塌前带着玻璃罐样本逃离。",
+      "time": "疯狂星期四"
+    }
+  ],
+  "time_period": "疯狂星期四·系统核心层·错误代码：0x00",
+  "locations": [
+    "旧日服务器机房（废弃）",
+    "“李小鱼”样本库",
+    "狗洞（逃生通道）"
+  ],
+  "key_facts": [
+    {
+      "id": "su_qian_fate",
+      "content": "苏浅的99%存在感已作为餐费扣除，剩余1%存入李疯狂的胃中（如胚胎般微弱的光点）。"
+    },
+    {
+      "id": "li_crazy_weapon_origin",
+      "content": "李疯狂的骨勺是由李小鱼的肋骨制成的。"
+    },
+    {
+      "id": "admin_privilege",
+      "content": "完美李疯狂拥有“管理员”权限，其规则在该区域内为绝对物理定律，可免疫低级篡改。"
+    },
+    {
+      "id": "logic_virus",
+      "content": "爱（非理性）被视为最强的病毒/BUG，能破坏绝对理性的服务器逻辑。"
+    },
+    {
+      "id": "escape_key_detail",
+      "content": "李疯狂拥有一块红色乐高积木，可作为钥匙开启逃生通道（狗洞）。"
+    },
+    {
+      "id": "target_dish_name",
+      "content": "主厨计划制作的菜肴为“星期四浓汤”，由一万三千六百个平行时空的李小鱼混合制成。"
+    },
+    {
+      "id": "eye_evolution",
+      "content": "李疯狂左眼图腾可从“暗红燃烧”异变为“死机惨白中心带黑色叉子”。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "完美李疯狂（此处指代同一反派实体）",
+      "names": [
+        "完美李疯狂",
+        "完美李 crazy"
+      ]
+    }
+  ]
+}

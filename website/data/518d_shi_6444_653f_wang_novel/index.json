@@ -1,0 +1,439 @@
+{
+  "id": "518d_shi_6444_653f_wang_novel",
+  "title": "再世摄政王",
+  "subtitle": "The Regent of Another Life",
+  "author": "AI & Thomas",
+  "description": "古代的将军因为被诬陷惨死，穿越到现代成为一名演员，演员主演演古装剧中的反派，他在明白当初为何被构陷以及官场逻辑，他也理解了当时当将军时为何会被诬陷。在演戏过程中也碰到了同为演员且性格傲娇，长相和古代长公主一样的女演员，两人从相看两淹到互相爱慕。女方家庭不同意，两人偷偷摸摸，互相拉扯，最终还是遗憾分手，分手当晚男方买醉被车撞，醒来发现又穿越回以前的将军，并且正在回京接受封赏的路上，并且在京城偶遇了长公主，两人再续前缘，男方也通过现代记忆在官场中游刃有余，最后官至摄政王。",
+  "tags": [
+    "穿越",
+    "娱乐圈",
+    "权谋",
+    "欢喜冤家",
+    "前世今生"
+  ],
+  "cover_hue": 77,
+  "cover_image": true,
+  "total_chapters": 50,
+  "total_chars": 215074,
+  "volumes": [
+    {
+      "id": "volume_1",
+      "name": "第一卷：戏如人生，镜中荒唐",
+      "chapters": [
+        {
+          "id": "chapter_001",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_001.md",
+          "title": "第001章：血染刑场，魂醒妆台",
+          "time": "大梁天狩七年冬午（大雪） / 现代清晨六点",
+          "location": "大梁菜市口刑场 / 现代横店影视城化妆间",
+          "char_count": 3577
+        },
+        {
+          "id": "chapter_002",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_002.md",
+          "title": "第002章：仇人相见，入戏三分",
+          "time": "2024年某日清晨七点半",
+          "location": "横店影视城《大梁谍影》试镜现场",
+          "char_count": 4386
+        },
+        {
+          "id": "chapter_003",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_003.md",
+          "title": "第003章：影后驾到，宛若故人",
+          "time": "现代上午九点",
+          "location": "横店影视城《大梁谍影》剧组休息区",
+          "char_count": 4446
+        },
+        {
+          "id": "chapter_004",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_004.md",
+          "title": "第004章：拍摄受阻，理念冲突",
+          "time": "2024年秋，下午三点",
+          "location": "横店影视城，《大梁谍影》皇宫大殿片场",
+          "char_count": 4780
+        },
+        {
+          "id": "chapter_005",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_005.md",
+          "title": "第005章：月下清谈，影后点拨",
+          "time": "2024年秋，深夜十一点",
+          "location": "横店影视城，片场附近的幽静湖畔",
+          "char_count": 3956
+        },
+        {
+          "id": "chapter_006",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_006.md",
+          "title": "第006章：初尝滋味，职场如戏",
+          "time": "",
+          "location": "",
+          "char_count": 4057
+        },
+        {
+          "id": "chapter_007",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_007.md",
+          "title": "第007章：片场吊打，降维打击",
+          "time": "2024年秋，下午三点",
+          "location": "横店影视城，《大梁谍影》御花园布景",
+          "char_count": 4303
+        },
+        {
+          "id": "chapter_008",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_008.md",
+          "title": "第008章：入戏太深，难辨真假",
+          "time": "2024年秋，下午四点",
+          "location": "《大梁谍影》影视基地·男二号VIP化妆间",
+          "char_count": 5439
+        },
+        {
+          "id": "chapter_009",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_009.md",
+          "title": "第009章：雨夜共伞，暗生情愫",
+          "time": "2024年秋，深夜",
+          "location": "横店影视城外，暴雨中的街道",
+          "char_count": 3852
+        },
+        {
+          "id": "chapter_010",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_010.md",
+          "title": "第010章：借古喻今，所谓权臣",
+          "time": "2024年秋，傍晚六点",
+          "location": "横店某五星级酒店 · 行政会议室",
+          "char_count": 4060
+        },
+        {
+          "id": "chapter_011",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_011.md",
+          "title": "第011章：假戏真做，吻戏风波",
+          "time": "2024年秋，深夜",
+          "location": "《大梁谍影》剧组，女皇寝宫布景",
+          "char_count": 4687
+        },
+        {
+          "id": "chapter_012",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_012.md",
+          "title": "第012章：双面人生，这一世的贪欢",
+          "time": "现代，深夜（接前文）",
+          "location": "横店影视城·林清雪私人保姆车内",
+          "char_count": 4679
+        },
+        {
+          "id": "chapter_013",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_013.md",
+          "title": "第013章：终局将至，宿命重演",
+          "time": "2024年深秋，傍晚至次日午后",
+          "location": "萧严租住的公寓 / 《大梁谍影》刑场片场",
+          "char_count": 3520
+        },
+        {
+          "id": "chapter_014",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_014.md",
+          "title": "第014章：杀青宴暗流，资本如皇权",
+          "time": "2024年深秋，晚八点",
+          "location": "横店某五星级酒店·翡翠厅",
+          "char_count": 5340
+        },
+        {
+          "id": "chapter_015",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_015.md",
+          "title": "第015章：娱乐圈的皇权，资本的重压",
+          "time": "2024年深秋，午后至黄昏",
+          "location": "星辉经纪公司大楼 / 萧严的出租屋",
+          "char_count": 4845
+        },
+        {
+          "id": "chapter_016",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_016.md",
+          "title": "第016章：争吵与决裂，为了你",
+          "time": "2024年深秋，夜晚",
+          "location": "萧严的出租屋",
+          "char_count": 3930
+        },
+        {
+          "id": "chapter_017",
+          "file": "518d_shi_6444_653f_wang_novel/volume_1/chapter_017.md",
+          "title": "第017章：雨夜狂奔，两世皆空",
+          "time": "2024年深秋，深夜",
+          "location": "街道 / 十字路口",
+          "char_count": 3403
+        }
+      ]
+    },
+    {
+      "id": "volume_2",
+      "name": "第二卷：重回建安，步步为营",
+      "chapters": [
+        {
+          "id": "chapter_018",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_018.md",
+          "title": "第018章：车祸觉醒，梦回大梁",
+          "time": "现代（车祸瞬间） -> 古代（建安二十三年，秋）",
+          "location": "现代滨海公路 -> 大梁回京官道马车内",
+          "char_count": 4214
+        },
+        {
+          "id": "chapter_019",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_019.md",
+          "title": "第019章：将军变身，演技挂帅",
+          "time": "大梁，建安二十三年，秋，深夜",
+          "location": "京城十里外，定北侯行辕大帐",
+          "char_count": 3293
+        },
+        {
+          "id": "chapter_020",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_020.md",
+          "title": "第020章：低调进城，反差萌现",
+          "time": "建安二十三年，秋，清晨",
+          "location": "京城朱雀大街 -> 定北侯府",
+          "char_count": 4756
+        },
+        {
+          "id": "chapter_021",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_021.md",
+          "title": "第021章：金殿面圣，职场求生",
+          "time": "建安二十三年，秋，清晨卯时三刻",
+          "location": "大梁皇宫，太极殿",
+          "char_count": 4572
+        },
+        {
+          "id": "chapter_022",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_022.md",
+          "title": "第022章：主动交权，以退为进",
+          "time": "大梁建安二十三年，秋，日暮",
+          "location": "兵部尚书府邸 · 定北侯府密室",
+          "char_count": 4262
+        },
+        {
+          "id": "chapter_023",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_023.md",
+          "title": "第023章：佛会偶遇，一眼万年",
+          "time": "建安二十三年秋，午后",
+          "location": "大梁，大相国寺",
+          "char_count": 5381
+        },
+        {
+          "id": "chapter_024",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_024.md",
+          "title": "第024章：夜宴风波，借刀杀人",
+          "time": "建安二十三年，秋，戌时三刻",
+          "location": "京城西市，礼部侍郎王大人别业",
+          "char_count": 4919
+        },
+        {
+          "id": "chapter_025",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_025.md",
+          "title": "第025章：公主邀约，步步惊心",
+          "time": "建安二十三年，秋，次日清晨",
+          "location": "定北侯府 -> 长公主府·听雨榭",
+          "char_count": 5220
+        },
+        {
+          "id": "chapter_026",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_026.md",
+          "title": "第026章：联手做局，金玉为盟",
+          "time": "大梁 · 建安二十三年 · 秋 · 亥时三刻",
+          "location": "长公主府 · 听雨榭密室",
+          "char_count": 3751
+        },
+        {
+          "id": "chapter_027",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_027.md",
+          "title": "第027章：谣言四起，自污证真心",
+          "time": "建安二十三年，秋，巳时一刻",
+          "location": "太极殿 / 长公主府",
+          "char_count": 4477
+        },
+        {
+          "id": "chapter_028",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_028.md",
+          "title": "第028章：醉仙居酒局，收买人心",
+          "time": "建安二十三年，秋，申时（下午三点）",
+          "location": "京城，醉仙居酒楼天字号雅间",
+          "char_count": 3858
+        },
+        {
+          "id": "chapter_029",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_029.md",
+          "title": "第029章：上元惊鸿，灯火阑珊",
+          "time": "建安二十三年，正月十五，上元节，入夜",
+          "location": "京城，朱雀大街至秦淮河畔",
+          "char_count": 3867
+        },
+        {
+          "id": "chapter_030",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_030.md",
+          "title": "第030章：深宫美人计，将计就计演全才",
+          "time": "建安二十三年，春，辰时一刻",
+          "location": "大梁皇宫，御书房 -> 定北侯府",
+          "char_count": 4504
+        },
+        {
+          "id": "chapter_031",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_031.md",
+          "title": "第031章：贪腐栽赃，假戏真做",
+          "time": "建安二十三年，春，巳时二刻",
+          "location": "户部银库 / 将军府内库 / 长公主府听雨榭",
+          "char_count": 4653
+        },
+        {
+          "id": "chapter_032",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_032.md",
+          "title": "第032章：深夜对饮，灵魂共鸣",
+          "time": "建安二十三年，秋，深夜",
+          "location": "长公主府后花园，听雨榭",
+          "char_count": 2789
+        },
+        {
+          "id": "chapter_033",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_033.md",
+          "title": "第033章：最后的试探，捧杀之局",
+          "time": "建安二十三年秋，巳时一刻",
+          "location": "大梁皇宫，太极殿",
+          "char_count": 4295
+        },
+        {
+          "id": "chapter_034",
+          "file": "518d_shi_6444_653f_wang_novel/volume_2/chapter_034.md",
+          "title": "第034章：月下截杀，谁是猎人",
+          "time": "建安二十三年，春，深夜",
+          "location": "京城，偏僻巷弄 / 青楼外",
+          "char_count": 4877
+        }
+      ]
+    },
+    {
+      "id": "volume_3",
+      "name": "第三卷：权倾天下，摄政为王",
+      "chapters": [
+        {
+          "id": "chapter_035",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_035.md",
+          "title": "第035章：月下逢魔，谁是真心",
+          "time": "建安二十三年，春，深夜，亥时三刻",
+          "location": "皇宫御花园外，假山旁",
+          "char_count": 3844
+        },
+        {
+          "id": "chapter_036",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_036.md",
+          "title": "第036章：帝王心术，最后的KPI",
+          "time": "建安二十三年，秋，巳时二刻",
+          "location": "太和殿，转至养心殿寝宫",
+          "char_count": 4573
+        },
+        {
+          "id": "chapter_037",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_037.md",
+          "title": "第037章：沉默的羔羊，最佳傀儡",
+          "time": "建安二十三年，冬，亥时二刻",
+          "location": "定北侯府（太师府），密室 → 胜王府邸",
+          "char_count": 4536
+        },
+        {
+          "id": "chapter_038",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_038.md",
+          "title": "第038章：饭局杀机，温情陷阱",
+          "time": "建安二十三年，冬，戌时",
+          "location": "京城醉仙楼天字号包厢 / 隔厢雅间",
+          "char_count": 4580
+        },
+        {
+          "id": "chapter_039",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_039.md",
+          "title": "第039章：送亲诏书，绝境开局",
+          "time": "建安二十三年，腊月，大雪未歇",
+          "location": "大梁皇宫·太和殿 / 长公主府·听涛阁",
+          "char_count": 4315
+        },
+        {
+          "id": "chapter_040",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_040.md",
+          "title": "第040章：演讲之术，民意即天意",
+          "time": "建安二十三年，腊月，清晨",
+          "location": "皇城朱雀门外广场",
+          "char_count": 4304
+        },
+        {
+          "id": "chapter_041",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_041.md",
+          "title": "第041章：千里追袭，神反转",
+          "time": "建安二十三年腊月二十一日，巳时三刻",
+          "location": "京城外三十里，十里长亭",
+          "char_count": 3848
+        },
+        {
+          "id": "chapter_042",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_042.md",
+          "title": "第042章：宫变前夜，只有我在",
+          "time": "建安二十三年腊月，深夜（子时一刻）",
+          "location": "东宫 · 太极殿",
+          "char_count": 4848
+        },
+        {
+          "id": "chapter_043",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_043.md",
+          "title": "第043章：血色黎明，摄政之路",
+          "time": "建安二十三年腊月，子时三刻",
+          "location": "皇宫，太极殿及玄武门广场",
+          "char_count": 3605
+        },
+        {
+          "id": "chapter_044",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_044.md",
+          "title": "第044章：攻心为上，众叛亲离",
+          "time": "建安二十三年，腊月，次日清晨",
+          "location": "京城，午门 / 江南大营",
+          "char_count": 4618
+        },
+        {
+          "id": "chapter_045",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_045.md",
+          "title": "第045章：迎还凤驾，全城皆喜",
+          "time": "建安二十四年，春，正午",
+          "location": "京城，朱雀大街至皇宫",
+          "char_count": 4278
+        },
+        {
+          "id": "chapter_046",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_046.md",
+          "title": "第046章：朝堂博弈，名为避忌",
+          "time": "建安二十四年，夏，巳时二刻",
+          "location": "太极殿御书房 / 摄政王府内院",
+          "char_count": 3741
+        },
+        {
+          "id": "chapter_047",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_047.md",
+          "title": "第047章：边疆来犯，最后一战",
+          "time": "建安二十四年，冬，大雪",
+          "location": "太极殿 → 北境雁门关",
+          "char_count": 4217
+        },
+        {
+          "id": "chapter_048",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_048.md",
+          "title": "第048章：权臣归隐，只为你折腰",
+          "time": "建安二十五年，春，巳时一刻",
+          "location": "大梁皇宫，太极殿",
+          "char_count": 4600
+        },
+        {
+          "id": "chapter_049",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_049.md",
+          "title": "第049章：红妆万里，醉卧君怀",
+          "time": "建安二十五年，春，正午至深夜",
+          "location": "京城朱雀大街、摄政王府",
+          "char_count": 4986
+        },
+        {
+          "id": "chapter_050",
+          "file": "518d_shi_6444_653f_wang_novel/volume_3/chapter_050.md",
+          "title": "第050章：戏罢余生，此心安处",
+          "time": "建安三十年，春，午后暖阳",
+          "location": "京城西南角，前摄政王府——现为闲散王爷的私宅后花园",
+          "char_count": 3233
+        }
+      ]
+    }
+  ],
+  "channel": ""
+}

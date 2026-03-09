@@ -1,0 +1,103 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "篡改者/伪装服务生",
+      "description": "身穿白色服务生制服，左眼瞳孔深处有倒“V”字符号，推着三层不锈钢自助餐车（光叉）",
+      "status": "active"
+    },
+    {
+      "name": "古神残魂",
+      "age": "未知",
+      "role": "古神残魂（伪装成泔水）",
+      "description": "伪装成餐车下层泔水桶中的翻滚液体/眼球，最终吞食了财务总监",
+      "status": "active"
+    },
+    {
+      "name": "财务总监",
+      "age": "未知",
+      "role": "旧日餐厅财务总监/账房守门人",
+      "description": "由计算器、账本、收银带和数字构成的庞大畸形阴影，无五官只有巨嘴",
+      "status": "deceased"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "价值锚点（概念体）",
+      "description": "掩藏在餐车上一块洁白餐巾下的柔和白光，代表着毫无杂质的牺牲与爱",
+      "status": "active"
+    },
+    {
+      "name": "星期四创始人",
+      "age": "未知",
+      "role": "星期四创始人",
+      "description": "伪装成一只落在餐车顶层的苍蝇",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "财务总监",
+    "星期四创始人"
+  ],
+  "character_exits": [
+    {
+      "name": "财务总监",
+      "reason": "因逻辑溢出崩溃，身躯化作数据流被古神残魂吞噬"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "entry_back_kitchen",
+      "description": "李疯狂进入旧日餐厅后厨账房，遭遇名为财务总监的规则类神明",
+      "time": "最后的星期日 08:00"
+    },
+    {
+      "id": "forced_liquidation",
+      "description": "财务总监检测到“V我50”逻辑漏洞，依据法典对李疯狂发起“强制清算”打击",
+      "time": "最后的星期日 08:00"
+    },
+    {
+      "id": "inflation_counterattack",
+      "description": "李疯狂利用“通货膨胀”理论贬低痛苦货币价值，并将“V我50”篡改为宇宙唯一等价交换物进行反击",
+      "time": "最后的星期日 08:00"
+    },
+    {
+      "id": "value_anchor_strike",
+      "description": "李疯狂展示苏浅作为“非卖品”价值锚点，导致财务总监逻辑错误并崩溃",
+      "time": "最后的星期日 08:00"
+    },
+    {
+      "id": "Kitchen_Entrance_Unlocked",
+      "description": "财务总监消亡后，通往“厨房”的金色通道显现",
+      "time": "最后的星期日 08:00"
+    }
+  ],
+  "time_period": "最后的星期日 08:00",
+  "locations": [
+    "旧日餐厅 · 后厨账房（因果律中枢）"
+  ],
+  "key_facts": [
+    {
+      "id": "v_i_50_concept_override",
+      "content": "李疯狂使用【篡改者】能力将“V我50”纸条的概念重写为“宇宙唯一的等价交换物”，成为抗衡神明的硬通货"
+    },
+    {
+      "id": "su_qian_current_state",
+      "content": "苏浅目前为概念体，依附于一块洁白餐巾，被定义为“非卖品”和“价值锚点”，是李疯狂的核心力量来源"
+    },
+    {
+      "id": "finance_director_law",
+      "content": "财务总监依据《旧日餐厅法典》第√2条运作，将携带未结清债务者视为坏账并进行核销"
+    },
+    {
+      "id": "ancient_god_plot_hint",
+      "content": "古神残魂诱导李疯狂吃下源头，暗示李疯狂可能会变成某种“食客”"
+    },
+    {
+      "id": "trolley_identity",
+      "content": "李疯狂推的三层不锈钢自助餐车实际上是“光叉”"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

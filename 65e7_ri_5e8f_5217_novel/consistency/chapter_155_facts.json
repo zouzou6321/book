@@ -1,0 +1,84 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "半神/主角",
+      "description": "身体表面有黑曜石般的半神外壳，胸口是坍缩的黑洞，背后生出由黑色代码构成的巨大羽翼",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "理智监狱/意识残渣/导航员",
+      "description": "存在于李疯狂胸口名为“苏浅”的理智监狱中，表现为暖光和傲娇的女声",
+      "status": "active"
+    },
+    {
+      "name": "古神（星期四之源）",
+      "age": "",
+      "role": "反派/被吞噬者",
+      "description": "试图通过黑色触手反扑，由贪婪逻辑和时间残渣构成",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "古神（星期四之源）",
+      "reason": "被彻底消化与同化"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "digestion_start",
+      "description": "李疯狂在体内开始消化“星期四之源”，引发世界卡顿",
+      "time": "伪周二 · 消化进程的第0.01秒"
+    },
+    {
+      "id": "rationality_prison_activation",
+      "description": "苏浅的意识残渣（理智监狱）亮起，辅助李疯狂剔除古神的“贪婪协议”",
+      "time": "伪周二 · 消化进程的第0.01秒"
+    },
+    {
+      "id": "wing_manifestation",
+      "description": "李疯狂背后的黑色代码羽翼展开，排放修复天空的“废气”",
+      "time": "伪周二 · 消化进程的后期"
+    },
+    {
+      "id": "spoon_discovery",
+      "description": "李疯狂在冰川裂隙中发现一把刻着“S”的银色勺子，指向东南方坐标",
+      "time": "消化结束后"
+    }
+  ],
+  "time_period": "伪周二 · 消化进程的第0.01秒",
+  "locations": [
+    "李疯狂的体内",
+    "高维胃袋",
+    "南极平流层",
+    "冰川裂隙"
+  ],
+  "key_facts": [
+    {
+      "id": "current_computation",
+      "content": "李疯狂的当前剩余精神算力为42"
+    },
+    {
+      "id": "su_qian_memory_preservation",
+      "content": "李疯狂拒绝吞噬包含`Su_Qian_First_Meeting.memory`的数据流，为了保留关于苏浅的记忆而将其护在胸口"
+    },
+    {
+      "id": "ancient_god_composition",
+      "content": "古神成分构成包括30%贪婪逻辑、20%时间残渣和50%的“期待”（被误读为未知脂肪）"
+    },
+    {
+      "id": "silver_spoon_item",
+      "content": "获得一把银色勺子，备注为“只能用来挑骨头”，柄端刻有“S”字样及留言，指向东南方坐标"
+    },
+    {
+      "id": "world_restoration",
+      "content": "李疯狂通过消化古神排出的“废气”修补了破碎的天空，恢复了周二早晨的阳光"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

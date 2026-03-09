@@ -1,0 +1,96 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "太玄宗新任首席",
+      "description": "身穿绣着玄鹤吞云的黑色金丝道袍，外披旧被单（美其名曰‘返璞归真袍’）。眼神看似深邃实则常在打盹。",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "面容消瘦，双目炯炯有神。背着一口巨大的黑锅，行为怪异，痴迷于测量地面平整度，喜爱用物理学术语解释修仙现象。",
+      "status": "active"
+    },
+    {
+      "name": "苏软软",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "长着圆润可爱的娃娃脸，性格胆小懦弱。手里常攥着绣帕，容易因紧张而哭泣，认为哭泣是修炼‘慈悲音波功’的必要过程。",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "白衣胜雪，身姿挺拔，容貌绝美高冷。腰挂寒剑，对江越盲目崇拜，深信此行使命是‘以身饲魔’。",
+      "status": "active"
+    },
+    {
+      "name": "血影宗青年",
+      "age": "未知",
+      "role": "血影宗领头弟子",
+      "description": "身穿暗红色长袍，胸口绣着血骷髅，满脸横肉，手持滴血长刀。修为筑基中期。",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "血影宗弟子及嗜血风狼",
+      "reason": "被辣椒粉气味击溃后逃走"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "enter_secret_realm",
+      "description": "太玄宗小队通过传送阵进入苍梧秘境落霞谷。",
+      "time": "午时三刻"
+    },
+    {
+      "id": "camp_setup",
+      "description": "江越选定一处毫无遮蔽的平坦草地作为营地，并拿出烧烤架开始烤肉。",
+      "time": "午时"
+    },
+    {
+      "id": "chili_powder_defense",
+      "description": "血影宗弟子带嗜血风狼袭击，江越使用‘地狱级魔鬼椒粉’制造辛辣气味，击退妖兽并制服敌人。",
+      "time": "午时"
+    },
+    {
+      "id": "lunch_interaction",
+      "description": "江越喂林清雪吃烤肉并帮她擦拭嘴角油渍，随后全队进食休息。",
+      "time": "午后"
+    }
+  ],
+  "time_period": "穿越第三十三日，午时三刻至午后",
+  "locations": [
+    "太玄宗后山",
+    "苍梧秘境入口",
+    "落霞谷"
+  ],
+  "key_facts": [
+    {
+      "id": "jiangyue_outfit",
+      "content": "江越外披一件旧被单，将其命名为‘返璞归真袍’。"
+    },
+    {
+      "id": "erniu_cauldron",
+      "content": "李二牛背着一口巨大的黑锅，锅里塞着他悟了半个月的破石头。"
+    },
+    {
+      "id": "mission_wild_camping",
+      "content": "江越的系统主线任务是‘秘境观光团’，需在秘境中存活满七日并完成一次‘深度野营’。"
+    },
+    {
+      "id": "devil_chili_powder",
+      "content": "江越拥有系统道具‘地狱级魔鬼椒粉（特辣版）’，对嗅觉灵敏的妖兽有极强的克制作用。"
+    },
+    {
+      "id": "qingxue_misunderstanding",
+      "content": "林清雪误将江越的行为解读为高深道法，并认为自己来秘境的目的是‘以身饲魔’。"
+    }
+  ]
+}

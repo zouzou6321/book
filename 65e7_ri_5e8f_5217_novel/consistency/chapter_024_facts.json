@@ -1,0 +1,123 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "Unknown",
+      "role": "真理之胃宿主",
+      "description": "牙齿隐约透着金属光泽，极度饥饿感，能看到数据流",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "Unknown",
+      "role": "调查员",
+      "description": "手持黑色战术手枪，佩戴护目镜，面容冷峻",
+      "status": "active"
+    },
+    {
+      "name": "李小鱼",
+      "age": "Unknown (Child)",
+      "role": "李疯狂的妹妹/同伴",
+      "description": "抱着破旧泰迪熊，声音细若游丝",
+      "status": "active"
+    },
+    {
+      "name": "柯基",
+      "age": "Unknown",
+      "role": "三头猎犬",
+      "description": "三个脑袋，中间脑袋嚼数据线，左脑袋警惕，右脑袋嫌弃",
+      "status": "active"
+    },
+    {
+      "name": "备料主管·剔骨者",
+      "age": "Unknown",
+      "role": "D级变异体",
+      "description": "身高超过三米，脸由菜刀拼凑，下半身是绞肉机底盘",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "备料主管·剔骨者",
+    "张三"
+  ],
+  "character_exits": [
+    {
+      "name": "备料主管·剔骨者",
+      "reason": "被李疯狂通过逻辑覆写击败并强制关机"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "enter_kitchen_area",
+      "description": "队伍抵达地下B4层核心后厨（备料间/屠宰场）",
+      "time": "第一周期·周四 10:30"
+    },
+    {
+      "id": " dolls_scan",
+      "description": "李疯狂扫描发现挂着的‘人偶’是合成肉，非原生种",
+      "time": "第一周期·周四 10:30"
+    },
+    {
+      "id": "boss_encounter",
+      "description": "备料主管·剔骨者出现，宣称午市开餐，与队伍对峙",
+      "time": "第一周期·周四 10:30"
+    },
+    {
+      "id": "defeat_bone_cleaner",
+      "description": "李疯狂利用‘神户牛肉张师傅’的记忆干扰敌人，并使用逻辑覆写强制关机击败BOSS",
+      "time": "第一周期·周四 10:30"
+    },
+    {
+      "id": "access_core_kitchen",
+      "description": "利用掉落的铭牌打开通往核心厨房的大门",
+      "time": "第一周期·周四 10:30"
+    }
+  ],
+  "time_period": "第一周期·周四 10:30",
+  "locations": [
+    "地下B4层",
+    "核心后厨",
+    "后厨备料间（屠宰场）",
+    "旧世界服务器机房遗址"
+  ],
+  "key_facts": [
+    {
+      "id": "doll_composition",
+      "content": "后厨悬挂的人偶成分是70%高密度碳水化合物聚合物和30%废弃逻辑碎片"
+    },
+    {
+      "id": "cognitive_hazard_song",
+      "content": "人偶发出的《祝你生日快乐》旋律是认知污染源，会让受害者把自己当成礼物拆开"
+    },
+    {
+      "id": "boss_physical_immune",
+      "content": "备料主管·剔骨者拥有‘厨师逻辑’防御，普通物理攻击（如穿甲弹）无效"
+    },
+    {
+      "id": "skill_logic_swallow",
+      "content": "李疯狂拥有特性【逻辑吞噬 · 偷梁换柱】，可以吞噬掉物体的属性定义（如锋利、重力）"
+    },
+    {
+      "id": "skill_forced_shutdown",
+      "content": "李疯狂拥有覆写指令【强制关机】，通过攻击逻辑死区（红色乱码）可直接抹杀敌人"
+    },
+    {
+      "id": "boss_memory_identity",
+      "content": "备料主管·剔骨者表现出对‘神户牛肉店’、‘注水肉’、‘绩效’和‘KPI’的职业记忆"
+    },
+    {
+      "id": "core_access_key",
+      "content": "铭牌‘优秀员工：张三’是通往核心厨房的权限密匙"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "备料主管·剔骨者",
+      "names": [
+        "备料主管·剔骨者",
+        "张师傅",
+        "张三"
+      ]
+    }
+  ]
+}

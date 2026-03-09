@@ -1,0 +1,58 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "特工/食客",
+      "description": "左眼瞳孔深处有白色倒“V”字符号，手掌布满细小裂纹，指甲尖锐如刀，拥有【真理之胃】",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "特工",
+      "description": "身穿破损的黑色战术风衣，左臂及脖颈有青色电路板纹路蔓延，左手正在晶化",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "wednesday_skipped",
+      "description": "“创始人”强制系统跳过星期三，导致时间轴发生逻辑溢出，从周二直接连接至“第二个星期四”",
+      "time": "周二深夜 23:50"
+    },
+    {
+      "id": "founder_appearance",
+      "description": "天空中云层裂开，出现由无数红色“￥”符号组成的巨大独眼，并伴随全城广播“V我50”",
+      "time": "第二个星期四开始之时"
+    },
+    {
+      "id": "mass_mutation",
+      "description": "进入第二个星期四后，城市废墟中的幸存者/NPC发生剧烈肉体变异或行为失控（如头部炸裂长嘴、互相吞噬）",
+      "time": "第二个星期四开始之时"
+    }
+  ],
+  "time_period": "202X年10月24日（周二深夜）至第二个星期四开始",
+  "locations": [
+    "城市北区·废弃通讯大厦顶层天台",
+    "市中心（远景）",
+    "城市废墟街道"
+  ],
+  "key_facts": [
+    {
+      "id": "wednesday_function",
+      "content": "星期三是“逻辑修正日”或“消化期”，用于消化周日的理智毒素；若跳过，人类无法承受连续两个“疯狂星期四”的精神污染辐射"
+    },
+    {
+      "id": "su_qian_state",
+      "content": "苏浅身上有类似寄生虫的青色电路板纹路，正在缓慢向脸部蔓延，这是一种变异过程"
+    },
+    {
+      "id": "crazy_madness",
+      "content": "“疯狂”在李疯狂看来不是混乱，而是极致的、扭曲的秩序"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

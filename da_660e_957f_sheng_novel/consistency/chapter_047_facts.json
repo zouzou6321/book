@@ -1,0 +1,80 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "外表约25岁（长生者）",
+      "role": "藏书楼守护者",
+      "description": "容貌年轻不老，手掌曾因毒性呈现青紫色血管，服用龟息散后消退，醒来时浑身是灰，长发披散",
+      "status": "active"
+    },
+    {
+      "name": "刀疤脸",
+      "age": "老卒",
+      "role": "护卫/前锦衣卫校尉",
+      "description": "左脸有狰狞刀疤，身穿布满补丁的短打，手持擦拭雪亮的雁翎刀",
+      "status": "deceased"
+    },
+    {
+      "name": "守楼少年",
+      "age": "十四五岁",
+      "role": "藏书楼看守后人",
+      "description": "身穿不合身的旧布衣，头发用木簪挽着",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "守楼少年"
+  ],
+  "character_exits": [
+    {
+      "name": "刀疤脸",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "consume_medicine",
+      "description": "陈默为压制长生诅咒的毒性反噬，喝下赵伯年留下的“龟息散”进入假死状态。",
+      "time": "康熙十五年（1676年）腊月十八"
+    },
+    {
+      "id": "enclosed_library",
+      "description": "刀疤脸按陈默嘱托封死藏书楼暗门，并在外设防，留下书信给后人。",
+      "time": "康熙十五年（1676年）腊月十八"
+    },
+    {
+      "id": "awakening",
+      "description": "陈默从楠木棺椁中醒来，突破了预期的三年假死期，此时外界已发生巨变。",
+      "time": "数年后（推测康熙十七八年之后）"
+    },
+    {
+      "id": "meeting_Boy",
+      "description": "守楼少年发现复活的陈默，告知吴三桂已死、三藩之乱的现状，并呈上顾炎武的旧信。",
+      "time": "数年后"
+    }
+  ],
+  "time_period": "从康熙十五年（1676年）冬跨越至数年后（康熙十七八年左右）",
+  "locations": [
+    "徽州深山藏书楼",
+    "藏书楼地下室"
+  ],
+  "key_facts": [
+    {
+      "id": "gu_xi_san_effect",
+      "content": "“龟息散”能让人进入假死状态以压制毒性，虽然传闻时限为三年，但陈默实际沉睡时间更长，直到外界吴三桂死后才醒来。"
+    },
+    {
+      "id": "library_secret",
+      "content": "藏书楼是顾炎武托付给陈默的，保存着华夏典籍；陈默留有一封信，里面记载了关于农耕、水利、冶金的密藏地点。"
+    },
+    {
+      "id": "scar_fates",
+      "content": "刀疤脸在陈默沉睡期间去世（即少年口中的爷爷），其后代一直看守藏书楼。"
+    },
+    {
+      "id": "curse_symptoms",
+      "content": "长生诅咒发作时表现为不受控制的痉挛、指甲青紫、皮下黑色血管游走以及剧烈疼痛。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

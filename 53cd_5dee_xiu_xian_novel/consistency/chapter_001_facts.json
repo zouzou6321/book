@@ -1,0 +1,77 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "外门杂役弟子",
+      "description": "穿越者，现代学渣，炼气一层修为，被外人视为废柴",
+      "status": "active"
+    },
+    {
+      "name": "王虎",
+      "age": "未知",
+      "role": "外门恶霸",
+      "description": "炼气五层，身材魁梧，满脸横肉，手持狼牙棒",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "江越",
+    "王虎"
+  ],
+  "character_exits": [
+    {
+      "name": "王虎",
+      "reason": "被弹指神通击飞并昏厥"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "awakening_transmigration",
+      "description": "江越穿越到太玄宗外门废柴弟子身上，记忆融合",
+      "time": "辰时"
+    },
+    {
+      "id": "system_activation",
+      "description": "江越试图下跪求饶时，激活“反差修真系统”，面临抹杀警告",
+      "time": "辰时"
+    },
+    {
+      "id": "first_anti_climax",
+      "description": "江越强行解释跪地是在参悟蚂蚁，制造S级心理反差",
+      "time": "辰时"
+    },
+    {
+      "id": "defeating_bully",
+      "description": "江越使用系统赠送的“弹指神通（残缺版）”将王虎击飞",
+      "time": "辰时"
+    }
+  ],
+  "time_period": "穿越第一天，辰时（上午 7-9 点）",
+  "locations": [
+    "太玄宗外门",
+    "杂役弟子舍院"
+  ],
+  "key_facts": [
+    {
+      "id": "protagonist_cultivation",
+      "content": "江越当前修为为炼气一层"
+    },
+    {
+      "id": "antagonist_cultivation",
+      "content": "恶霸王虎修为为炼气五层"
+    },
+    {
+      "id": "system_mechanic",
+      "content": "系统名为“反差修真系统”，宿主需做出违背受众预期的行为（制造反差）来获取“反差值”，否则将受到惩罚（抹杀）"
+    },
+    {
+      "id": "currency_usage",
+      "content": "反差值可用于兑换修为、丹药、法宝、修改气运及生活类道具"
+    },
+    {
+      "id": "rumor_spread",
+      "content": "关于江越是“隐世扫地僧”的传言开始在外门地下流传"
+    }
+  ]
+}

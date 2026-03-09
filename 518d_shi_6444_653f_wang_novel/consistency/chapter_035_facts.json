@@ -1,0 +1,114 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "太师（伪装），定北侯（真实）",
+      "description": "步履踉跄伪装醉酒，眼神清明可怕，手掌有常年握剑留下的薄茧，脸上有干涸血迹",
+      "status": "active"
+    },
+    {
+      "name": "春桃",
+      "age": "未知",
+      "role": "萧寒身边的侍女（实为皇帝的死士）",
+      "description": "极度恐惧，手指颤抖",
+      "status": "departed"
+    },
+    {
+      "name": "柳玉",
+      "age": "未知",
+      "role": "萧寒身边的侍女（实为皇帝的死士）",
+      "description": "声音发抖，从骨子里透出恐惧",
+      "status": "departed"
+    },
+    {
+      "name": "李瑾",
+      "age": "未知",
+      "role": "长公主",
+      "description": "身着织金宫装，手持“鱼肠”匕首，外冷内热，眼眶发红",
+      "status": "active"
+    },
+    {
+      "name": "引路宫女",
+      "age": "未知",
+      "role": "长公主府的宫女",
+      "description": "满脸煞白，声音带着哭腔",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "未知",
+      "role": "长公主的贴身宫女（双重间谍）",
+      "description": "躲在阴影中注视，默默记下对话",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "春桃",
+    "柳玉",
+    "翠儿"
+  ],
+  "character_exits": [
+    {
+      "name": "春桃, 柳玉",
+      "reason": "被太师遣散离开，因恐惧而逃跑"
+    },
+    {
+      "name": "萧寒",
+      "reason": "离开皇宫御花园"
+    },
+    {
+      "name": "翠儿",
+      "reason": "离开前往宫门罗网密报处向东宫传信"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "dismiss_spies",
+      "description": "萧寒识破并遣散了身边监视他的皇帝死士春桃和柳玉",
+      "time": "深夜，亥时三刻前"
+    },
+    {
+      "id": "secret_meeting",
+      "description": "萧寒在御花园外假山旁与长公主李瑾秘密会面",
+      "time": "深夜，亥时三刻"
+    },
+    {
+      "id": "confrontation_revelation",
+      "description": "李瑾持匕首试探萧寒，萧寒坦白为了生存和保护李瑾而伪装成贪财好色的草包，二人达成政治同盟",
+      "time": "深夜"
+    },
+    {
+      "id": "spy_report",
+      "description": "翠儿按李瑾指令，将萧寒的“丑角”表现汇报给东宫太子，以维持假象",
+      "time": "深夜，会面结束后"
+    }
+  ],
+  "time_period": "建安二十三年，春，深夜，亥时三刻",
+  "locations": [
+    "京城死寂的街道（巷弄）",
+    "皇宫御花园外假山旁"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_han_disguise",
+      "content": "萧寒表面是贪财好色、手无缚鸡之力的草包太师，实际上武功高强（徒手折断杀手手臂、身轻如燕），真实身份拥有定北侯的特质。"
+    },
+    {
+      "id": "princess_alliance",
+      "content": "长公主李瑾与萧寒互知底细并结成牢固的政治同盟，目的是在多疑的皇帝和太子的夹缝中生存。"
+    },
+    {
+      "id": "maids_true_identity",
+      "content": "伺候萧寒的春桃和柳玉是皇帝安排的死士，目的是监视萧寒。"
+    },
+    {
+      "id": "cuier_double_agent",
+      "content": "宫女翠儿表面忠诚于长公主，实则是李瑾安排用来向太子东宫传递虚假情报的工具，以此配合萧寒演戏。"
+    },
+    {
+      "id": "assassination_attemp",
+      "content": "此前巷战中，太子派出的五名血衣楼死士被萧寒在十息内全灭。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env
+.env.*
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE / editor
+.cursor/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if any)
+node_modules/
+.next/
+out/
+
+# Optional: 若不想把生成的小说内容提交到仓库，可取消下面注释
+# *_novel/
+
+# Logs / temp
+*.log
+.cache/

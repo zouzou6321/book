@@ -1,0 +1,98 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "二十五六岁",
+      "role": "前明国师/神机营统帅（伪装成富商/皇商）",
+      "description": "面容清秀，眉眼疏朗，肤色白得病态，常年不见天日，脖颈有常年佩戴银牌留下的淡淡勒痕。",
+      "status": "active"
+    },
+    {
+      "name": "黄宗羲",
+      "age": "老者（须发皆白）",
+      "role": "大儒/遗民",
+      "description": "身形消瘦，双目亮得吓人。",
+      "status": "active"
+    },
+    {
+      "name": "刀疤脸",
+      "age": null,
+      "role": "长生卫（陈默的随从/保镖）",
+      "description": "脸上有刀疤，穿着短打劲装。",
+      "status": "active"
+    },
+    {
+      "name": "年轻书生",
+      "age": "年轻",
+      "role": "读书人/黄宗羲的学生或同道",
+      "description": "情绪激动，腰间挂着锈迹斑斑的铁剑。",
+      "status": "active"
+    },
+    {
+      "name": "绿营兵什长",
+      "age": null,
+      "role": "清朝士兵",
+      "description": "满脸横肉，贪婪。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "黄宗羲",
+    "刀疤脸"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "boat_arrival_xihu",
+      "description": "陈默乘船抵达杭州西湖孤山，目的是寻找黄宗羲。",
+      "time": "康熙元年（1662年）春"
+    },
+    {
+      "id": "debate_and_donation",
+      "description": "陈默闯入黄宗羲的讲学草堂，驳斥武力反清复明，当场捐赠一千两银票和五十两纹银，条件是黄宗羲等人去著书立说（如《明夷待访录》）保存汉文化，而非去刺杀或造反。",
+      "time": "康熙元年（1662年）春"
+    },
+    {
+      "id": "bridge_bribe",
+      "description": "陈默和刀疤脸在西湖断桥遭遇绿营兵盘查，陈默利用伪造的“皇商”令牌和二十两银票贿赂什长顺利通过。",
+      "time": "康熙元年（1662年）春"
+    },
+    {
+      "id": "book_collection_order",
+      "description": "陈默决定在杭州大量收购前朝孤本、野史和禁书，以此作为对抗“神之门”及保存华夏文化的方式。",
+      "time": "康熙元年（1662年）春"
+    }
+  ],
+  "time_period": "康熙元年（1662年）春",
+  "locations": [
+    "杭州",
+    "西湖",
+    "孤山",
+    "放鹤亭",
+    "草堂（黄宗羲居所）",
+    "断桥"
+  ],
+  "key_facts": [
+    {
+      "id": "fake_death_kunming",
+      "content": "陈默在昆明演了一出“假死”大戏，骗过了“神之门”的观察者，并逃离了那个边陲之地。"
+    },
+    {
+      "id": "mercury_medical",
+      "content": "陈默从一名碧眼洋人（西班牙间谍）处偷走了高纯度汞盐，用于压制体内的异变，以延长生命。"
+    },
+    {
+      "id": "yongli_death",
+      "content": "吴三桂在昆明用弓弦勒死了永历帝。"
+    },
+    {
+      "id": "hidden_motive",
+      "content": "陈默在杭州有一座秘密庄园，正在建立一座宏伟的藏书楼，意在保存汉文化孤本而非扶持皇帝。"
+    },
+    {
+      "id": "identity_reveal",
+      "content": "陈默的真实身份曾是统御神机营、指挥千军万马的前明国师。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

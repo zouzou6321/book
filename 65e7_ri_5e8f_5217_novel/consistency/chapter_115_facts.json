@@ -1,0 +1,91 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "逻辑之主（伪）",
+      "description": "左眼有渗血的暗红古老图腾，后转为惨白及深紫色，满手鲜血和机油",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "同伴/被数据侵蚀者",
+      "description": "身体半数据化/像素化，部分透明，掌心有枯萎的像素蔷薇",
+      "status": "active"
+    },
+    {
+      "name": "小丑收银员",
+      "age": "",
+      "role": "收银员/低级脚本怪",
+      "description": "画着油彩，眼睛像铜铃，蜘蛛般的长腿",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "小丑收银员"
+  ],
+  "character_exits": [
+    {
+      "name": "小丑收银员",
+      "reason": "被李疯狂通过逻辑删除（物理下架），解构为乱码并被环境吞噬"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "poker_attack_neutralized",
+      "description": "小丑发动五十二张概念扑克牌攻击，被李疯狂用‘篡改·定义修正’转化为垃圾广告传单",
+      "time": "循环重置前的第00:01秒（伪）"
+    },
+    {
+      "id": "cashier_deleted",
+      "description": "李疯狂以消费者身份行使‘七日无理由退货’权利，使用‘打包’协议将小丑收银员强制删除",
+      "time": "循环重置前的第00:01秒（伪）"
+    },
+    {
+      "id": "duck_revelation",
+      "description": "李疯狂触碰缺脚的黄色橡皮鸭子，触发全息地图，获得李小鱼在【旧日服务器机房（废弃）】的求救坐标",
+      "time": "循环重置前的第00:01秒（伪）"
+    },
+    {
+      "id": "cleaning_protocol_started",
+      "description": "餐具回收站启动备用清零程序，巨型搅拌器叶片开始粉碎空间",
+      "time": "循环重置前的第00:01秒（伪）"
+    },
+    {
+      "id": "escape_and_exam_reveal",
+      "description": "李疯狂与苏浅逃往旧日服务器机房，残留的黑桃K扑克牌显现出李疯狂的伤疤并示意‘副主厨入职考核’开始",
+      "time": "循环重置前的第00:01秒（伪）"
+    }
+  ],
+  "time_period": "星期五 · 循环重置前的第00:01秒（伪）",
+  "locations": [
+    "“旧日餐厅”底部",
+    "餐具回收站",
+    "失物招领处",
+    "旧日服务器机房（废弃）"
+  ],
+  "key_facts": [
+    {
+      "id": "weapon_identity",
+      "content": "李疯狂的武器骨勺实为【李小鱼的肋骨】，具有无法被神明消化的‘鱼刺’特性"
+    },
+    {
+      "id": "stomach_condition",
+      "content": "李疯狂胃部有一块红色乐高积木（结石），震动发热，可分解数据流"
+    },
+    {
+      "id": "xiaoyu_location",
+      "content": "李小鱼并未完全消失，其一部分被困在【旧日服务器机房（废弃）】，留下了求救信息"
+    },
+    {
+      "id": "system_upgrade",
+      "content": "李疯狂的系统标识为‘逻辑之主（伪）v2.0’，具备超频模式和篡改协议能力"
+    },
+    {
+      "id": "spade_k_remnant",
+      "content": "小丑留下的黑桃K扑克牌并未完全消失，而是变成了某种监视/考核机制，拥有李疯狂的左眼特征"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

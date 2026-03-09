@@ -1,0 +1,91 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "主角/大师兄",
+      "description": "身穿流云飞鹤锦袍，手持《上古丹方残卷》，装有灵气潮汐珠，外表高深莫测实则内心慌张",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "太玄宗弟子/二师弟",
+      "description": "身穿灰扑扑的青色道袍，脸上有黑灰，眼神明亮，肌肉结实",
+      "status": "active"
+    },
+    {
+      "name": "苏软软",
+      "age": "未知",
+      "role": "太玄宗弟子/小师妹",
+      "description": "怯生生，手中拿着枯树枝作为武器",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "太玄宗天骄/三师妹",
+      "description": "身穿白衣，气质清冷中透着热辣，手持长剑",
+      "status": "active"
+    },
+    {
+      "name": "血影长老",
+      "age": "老者",
+      "role": "血影宗追击长老/反派",
+      "description": "身穿暗红长袍，面容枯槁如骷髅，眼白极少瞳孔猩红，左手如鸡爪，右手持白骨幡，浑身衣衫破碎有伤痕",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "血影长老"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "lie_about_location",
+      "description": "江越因迷路且饥饿，将陨星荒原谎称为‘洗剑池’遗址，忽悠徒弟们此处是为了打磨道心。",
+      "time": "上古秘境关闭前一日，逢魔之时"
+    },
+    {
+      "id": "blood_elder_arrival",
+      "description": "血影长老突破阵法陷阱现身，认出江越是冒充守洞人的‘扫地僧’，并因之前的折磨怀恨在心。",
+      "time": "逢魔之时"
+    },
+    {
+      "id": "clash_and_defeat",
+      "description": "林清雪施放‘红莲业火净世剑’，李二牛试图防御，但两人不敌金丹期大圆满的血影长老，瞬间被击飞重伤。",
+      "time": "逢魔之时"
+    },
+    {
+      "id": "jiangyue_counterattack",
+      "description": "江越触发紧急任务‘以德服人’，拿出上古丹方残卷，用数学和科学概念（集合、万有引力等）作为‘言出法随’的台词向长老发起精神攻击。",
+      "time": "逢魔之时"
+    }
+  ],
+  "time_period": "上古秘境关闭前一日，逢魔之时",
+  "locations": [
+    "上古秘境·陨星荒原"
+  ],
+  "key_facts": [
+    {
+      "id": "secret_realm_deadline",
+      "content": "上古秘境将于明日关闭。"
+    },
+    {
+      "id": "jiangyue_points",
+      "content": "江越当前系统反差值余额为350点。"
+    },
+    {
+      "id": "blood_elder_status",
+      "content": "血影长老处于金丹期巅峰（大圆满），且身负重伤，刚从阵法中脱困。"
+    },
+    {
+      "id": "lin_qingxue_method",
+      "content": "林清雪所修功法蕴含‘火锅心法’，灵力兼具寒气与热流。"
+    },
+    {
+      "id": "jiangyue_alias",
+      "content": "血影长老误以为江越的身份是‘第四代扫地僧’。"
+    }
+  ]
+}

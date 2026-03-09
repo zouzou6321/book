@@ -1,0 +1,100 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角",
+      "description": "左眼瞳孔深处有倒'V'字符号，皮肤表面会泛起金属光泽，流粉色腐蚀性汗水，身穿破烂燕尾服",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "保镖/特工",
+      "description": "名为'Type-K'的钢铁巨躯，独眼散发红光，裸露钛合金骨骼",
+      "status": "active"
+    },
+    {
+      "name": "巨型癞蛤蟆",
+      "age": "未知",
+      "role": "动力舱守门人",
+      "description": "穿着破烂西装和歪歪扭扭的礼帽，手持大腿骨头做的吸管",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "巨型癞蛤蟆"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "enter_power_cabin",
+      "description": "李疯狂和苏浅进入诺亚方舟的动力舱（代号：退餐口）",
+      "time": "周五"
+    },
+    {
+      "id": "logic_unlock_door",
+      "description": "李疯狂使用【序列 · 篡改者】将大门的概念从'阻拦'改为'不想动的肥肉'，成功进入",
+      "time": "周五"
+    },
+    {
+      "id": "encounter_lazy_staff",
+      "description": "在动力舱内发现挂在肉芽上因'周一综合征'而精神放弃的工作人员",
+      "time": "周五"
+    },
+    {
+      "id": "defeat_toad",
+      "description": "李疯狂利用加班申请表发动'强制调休令'逻辑攻击，吓退巨型癞蛤蟆",
+      "time": "周五"
+    },
+    {
+      "id": "find_mysterious_note",
+      "description": "在收银机内发现署名'苏'的纸条，指引去'星期三'的背面找卖雨伞的小丑",
+      "time": "周五"
+    },
+    {
+      "id": "maintenance_scene",
+      "description": "李疯狂给苏浅的机械肩膀涂抹润滑油，并贴上'最佳员工'便利贴",
+      "time": "周五"
+    },
+    {
+      "id": "enter_abyss",
+      "description": "两人踏入'退餐口'的虚空/深渊",
+      "time": "周五"
+    }
+  ],
+  "time_period": "周五（被扭曲的“清醒日”，实际处于时间流速异常区）",
+  "locations": [
+    "诺亚方舟 · 动力舱前段通道（代号：退餐口）",
+    "动力舱（巨大的生物胃囊内部）",
+    "绿色胃酸池中央的平台",
+    "退餐口深渊"
+  ],
+  "key_facts": [
+    {
+      "id": "weapon_ribspoon",
+      "content": "李疯狂持有的武器名为'李小鱼的肋骨（骨勺）'"
+    },
+    {
+      "id": "toad_static_field",
+      "content": "动力舱守门人巨蛤癞蛤蟆拥有'绝对静止场'陷阱，能将入侵者思维速度极度降低"
+    },
+    {
+      "id": "clue_wednesday_umbrella",
+      "content": "纸条线索指引去'星期三'的背面找卖雨伞的小丑获取第二把勺子"
+    },
+    {
+      "id": "su_qian_type_k",
+      "content": "苏浅目前的机体代号为'Type-K'，是钢铁巨躯"
+    },
+    {
+      "id": "return_port_nature",
+      "content": "动力舱是世界'退餐口'，用于消化被删除的废料（建筑残骸、时间轴等）"
+    },
+    {
+      "id": "main_dish_reveal",
+      "content": "癞蛤蟆视李疯狂和苏浅为即将上桌的'主菜'"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

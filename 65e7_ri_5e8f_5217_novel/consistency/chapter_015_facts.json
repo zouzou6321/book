@@ -1,0 +1,115 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/变异体",
+      "description": "身穿印有“Vme50”字样的T恤，右手可异化为黑色骨爪。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "收容局特工/护卫",
+      "description": "身穿战术装备，抱着李小鱼，双眼布满血丝。",
+      "status": "active"
+    },
+    {
+      "name": "李小鱼",
+      "age": "幼童",
+      "role": "李疯狂的妹妹",
+      "description": "枯瘦，眼神空洞，一直抱着一只破旧的泰迪熊。",
+      "status": "active"
+    },
+    {
+      "name": "三头柯基",
+      "age": "未知",
+      "role": "变异生物/向导",
+      "description": "柯基身长三个头，分别戴着红色、粉色、黑色领带.",
+      "status": "active"
+    },
+    {
+      "name": "镜像李疯狂",
+      "age": "未知",
+      "role": "高维倒影/CEO",
+      "description": "身穿黑色燕尾服，戴金色面具，手持红酒（或可乐）。",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "镜像李疯狂"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "descent_to_waste_center",
+      "description": "众人攀爬竖井抵达“诺亚方舟”底部的废料处理中心，遭遇“逻辑扭曲”现象。",
+      "time": "周一 03:45"
+    },
+    {
+      "id": "sanity_patch",
+      "description": "苏浅因听到齿轮的低语而痛苦，李疯狂使用黑色电流为其安装“静音补丁”缓解精神污染。",
+      "time": "周一 04:00左右"
+    },
+    {
+      "id": "mirror_confrontation",
+      "description": "在坍塌控制室遇到高维镜像“CEO”，李疯狂在其额头写“二”利用“双机热备”逻辑打破镜像威胁。",
+      "time": "周一 04:05左右"
+    },
+    {
+      "id": "discovery_of_san_crystals",
+      "description": "众人发现流水线正在从尸体中提炼“理智结晶”，揭示了诺亚方舟作为垃圾站和收容局“放牧”的真相。",
+      "time": "周一 04:10左右"
+    },
+    {
+      "id": "escape_foundation",
+      "description": "触发“杀毒协议 V2.0”遭遇大量银白色傀儡围攻，李疯狂炸毁地面，带领众人坠入诺亚方舟地基之下。",
+      "time": "周一 04:15"
+    }
+  ],
+  "time_period": "第一周期·周一 03:45 - 04:15",
+  "locations": [
+    "竖井",
+    "“诺亚方舟”底部",
+    "废料处理中心",
+    "“星期四·中央厨房”旧址",
+    "流水线工厂",
+    "控制室",
+    "“诺亚方舟”地基之下"
+  ],
+  "key_facts": [
+    {
+      "id": "ark_nature",
+      "content": "“诺亚方舟”实际上是一个巨大的垃圾回收站，建在“星期四·中央厨房”旧址上，用于回收狂欢中产生的不合格产品。"
+    },
+    {
+      "id": "sanity_loss",
+      "content": "废料处理中心污染等级严重，San值每分钟自然流失+1。"
+    },
+    {
+      "id": "sanity_crystals",
+      "content": "流水线从死亡的生物/怪物中提取“理智结晶”，这是纯粹的San值，也是一种硬通货。"
+    },
+    {
+      "id": "bureau_secret",
+      "content": "收容局保护人类的真实目的是为了保证“原材料”（理智）的品质，实际上是在“放牧”。"
+    },
+    {
+      "id": "mirror CEO",
+      "content": "李疯狂存在一个高维度的镜像，自称“首席执行官”，试图诱惑或侵蚀本体，其力量源自疯狂概念。"
+    },
+    {
+      "id": "san_value_status",
+      "content": "李疯狂当前San值为36/100。"
+    },
+    {
+      "id": "anti_virus_protocol",
+      "content": "工厂防御系统名为“杀毒协议 V2.0”，敌人包括银白色盔甲傀儡和红眼摄像头。"
+    },
+    {
+      "id": "teddy_bear_guide",
+      "content": "李小鱼持有的泰迪熊（熊熊）具有感知危险和寻找无味安全路径的能力。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

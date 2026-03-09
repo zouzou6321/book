@@ -1,0 +1,259 @@
+{
+  "ok": false,
+  "issues": [
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "顾长歌",
+      "detail": "角色「顾长歌」年龄不一致：chapter_004中为26; chapter_005中为未知; chapter_007中为26; chapter_009中为未知; chapter_014中为未知; chapter_015中为未提及; chapter_181中为未知; chapter_183中为未知; chapter_184中为Unspecified; chapter_185中为未知; chapter_189中为未知; chapter_192中为未知; chapter_193中为未知; chapter_194中为未知",
+      "chapters": [
+        "chapter_004",
+        "chapter_005",
+        "chapter_007",
+        "chapter_009",
+        "chapter_014",
+        "chapter_015",
+        "chapter_181",
+        "chapter_183",
+        "chapter_184",
+        "chapter_185",
+        "chapter_189",
+        "chapter_192",
+        "chapter_193",
+        "chapter_194"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "苏糖",
+      "detail": "角色「苏糖」年龄不一致：chapter_181中为未知; chapter_183中为未知; chapter_184中为Unspecified; chapter_185中为未知; chapter_192中为未知; chapter_194中为未知",
+      "chapters": [
+        "chapter_181",
+        "chapter_183",
+        "chapter_184",
+        "chapter_185",
+        "chapter_192",
+        "chapter_194"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "火锅",
+      "detail": "角色「火锅」年龄不一致：chapter_183中为未知; chapter_184中为Unspecified",
+      "chapters": [
+        "chapter_183",
+        "chapter_184"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "顾长歌",
+      "detail": "角色「顾长歌」在chapter_018中已离开封锁线返回住所，但在chapter_020中再次活跃出场",
+      "chapters": [
+        "chapter_018",
+        "chapter_020"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "顾长歌",
+      "detail": "角色「顾长歌」在多个章节被作为新角色引入：chapter_001, chapter_015",
+      "chapters": [
+        "chapter_001",
+        "chapter_015"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "苏糖",
+      "detail": "角色「苏糖」在多个章节被作为新角色引入：chapter_001, chapter_181, chapter_182, chapter_183, chapter_185, chapter_192",
+      "chapters": [
+        "chapter_001",
+        "chapter_181",
+        "chapter_182",
+        "chapter_183",
+        "chapter_185",
+        "chapter_192"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "王大爷、老王",
+      "detail": "本章内「变异邻居」先后被指代为不同人名：王大爷、老王，需统一为同一人。",
+      "chapters": [
+        "chapter_002"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "老王、王大锤",
+      "detail": "本章内「特殊食材处理专家/顾长歌的邻居」先后被指代为不同人名：老王、王大锤，需统一为同一人。",
+      "chapters": [
+        "chapter_007"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "苏青、苏调查员、苏队、苏大美女",
+      "detail": "本章内「苏青（调查员/队长）」先后被指代为不同人名：苏青、苏调查员、苏队、苏大美女，需统一为同一人。",
+      "chapters": [
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "顾长歌、顾先生",
+      "detail": "本章内「顾长歌」先后被指代为不同人名：顾长歌、顾先生，需统一为同一人。",
+      "chapters": [
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "旧日投影、神明、甲方、那个傻大个神明",
+      "detail": "本章内「旧日投影（神明）」先后被指代为不同人名：旧日投影、神明、甲方、那个傻大个神明，需统一为同一人。",
+      "chapters": [
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "那个穿黑袍的疯子、真理会的那家伙",
+      "detail": "本章内「真理会的袭击者」先后被指代为不同人名：那个穿黑袍的疯子、真理会的那家伙，需统一为同一人。",
+      "chapters": [
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "裂兽刑讯官、重型武装单位",
+      "detail": "本章内「重型武装单位/执行者」先后被指代为不同人名：裂兽刑讯官、重型武装单位，需统一为同一人。",
+      "chapters": [
+        "chapter_194"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「neighbor_interaction」的时间在不同章节不一致：chapter_182中为「战斗结束后」; chapter_194中为「清晨」",
+      "chapters": [
+        "chapter_182",
+        "chapter_194"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "顾长歌",
+      "detail": "角色「顾长歌」身份描述出现3种以上变体：chapter_001中为「主角」; chapter_002中为「守密人」; chapter_004中为「序列者(0-01:旁观者)」; chapter_005中为「主角/守秘人」; chapter_006中为「主角/拥有“旁观者”能力的人」; chapter_007中为「编外特勤人员/代号“导演”」; chapter_009中为「主角」; chapter_011中为「守秘人」; chapter_013中为「守秘人」; chapter_014中为「守秘人」; chapter_015中为「神秘闯入者」; chapter_016中为「守秘人/调查员」; chapter_018中为「序列001/守秘人」; chapter_020中为「普通市民 / 序列001」; chapter_181中为「主角，序列001」; chapter_182中为「主角/清醒者」; chapter_183中为「守秘人 / Sequence 001 / 邻居」; chapter_184中为「GM/管理员/404室业主」; chapter_185中为「管理员」; chapter_189中为「住户/管理员」; chapter_192中为「住户/能力者」; chapter_193中为「守密人 / 组长」; chapter_194中为「逻辑篡改者/404室住户」; chapter_196中为「S级污染源/住户」",
+      "chapters": [
+        "chapter_001",
+        "chapter_002",
+        "chapter_004",
+        "chapter_005",
+        "chapter_006",
+        "chapter_007",
+        "chapter_009",
+        "chapter_011",
+        "chapter_013",
+        "chapter_014",
+        "chapter_015",
+        "chapter_016",
+        "chapter_018",
+        "chapter_020",
+        "chapter_181",
+        "chapter_182",
+        "chapter_183",
+        "chapter_184",
+        "chapter_185",
+        "chapter_189",
+        "chapter_192",
+        "chapter_193",
+        "chapter_194",
+        "chapter_196"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "林鹿",
+      "detail": "角色「林鹿」身份描述出现3种以上变体：chapter_004中为「收容目标/病患」; chapter_006中为「同伴」; chapter_007中为「纯净体/档案身份“导盲犬”」",
+      "chapters": [
+        "chapter_004",
+        "chapter_006",
+        "chapter_007"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "苏青",
+      "detail": "角色「苏青」身份描述出现3种以上变体：chapter_011中为「警员/调查员」; chapter_015中为「调查员/特别行动小队成员」; chapter_016中为「调查员」; chapter_018中为「特级调查员」; chapter_020中为「异常管理局特工」",
+      "chapters": [
+        "chapter_011",
+        "chapter_015",
+        "chapter_016",
+        "chapter_018",
+        "chapter_020"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "苏糖",
+      "detail": "角色「苏糖」身份描述出现3种以上变体：chapter_181中为「402室邻居」; chapter_182中为「邻居/402租客」; chapter_183中为「公司白领 / 402室租户」; chapter_184中为「锚点保管员/邻居/402室租户」; chapter_185中为「邻居」; chapter_192中为「邻居」; chapter_194中为「邻居/402室住户」; chapter_196中为「邻居」",
+      "chapters": [
+        "chapter_181",
+        "chapter_182",
+        "chapter_183",
+        "chapter_184",
+        "chapter_185",
+        "chapter_192",
+        "chapter_194",
+        "chapter_196"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「neighbor_interaction」的描述在不同章节不一致：\nchapter_182: 「邻居苏糖因骚乱探出询问，顾长歌用胶带修门掩饰战斗痕迹，随后接受苏糖邀请去吃午饭」\nchapter_194: 「邻居苏糖因听到动静敲墙询问，顾长歌谎称是宜家师傅安装新家具」",
+      "chapters": [
+        "chapter_182",
+        "chapter_194"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_004:「顾长歌觉醒为序列0-01“旁观者”，特性是保持绝对清醒，能看见现实背后的逻辑与回声，并能通过接触物体回溯情绪波动」; chapter_013:「顾长歌已觉醒序列能力为【守秘人】，自称为“路过的美食评论家”，对高维能量（神性）有吞噬渴望」",
+      "chapters": [
+        "chapter_004",
+        "chapter_013"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_182:「苏糖身上有'未被完全标记'的灰雾特征，且影子末端似有猫爪轮廓，存在某种因果残留」; chapter_196:「苏糖之前食用了顾长歌制作的红烧肉，获得了正向反馈（如咬合力增强），且对顾长歌有认知修正。」",
+      "chapters": [
+        "chapter_182",
+        "chapter_196"
+      ]
+    }
+  ],
+  "checked_chapters": 24,
+  "high_count": 14,
+  "medium_count": 7
+}

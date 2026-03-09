@@ -1,0 +1,85 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "诺亚方舟领袖 / 逻辑之主",
+      "description": "穿着印有“V我50”的T恤，左眼泛着幽蓝光芒与红光搏动，皮肤有金属质感的细微数据纹路",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "幸存者战士 / 狙击手",
+      "description": "左臂是布满金色纹路的神性容器，右手戴着骨戒（处决信物）",
+      "status": "active"
+    },
+    {
+      "name": "章鱼绅士温特",
+      "age": "",
+      "role": "敌方指挥官 / 首席侍酒师",
+      "description": "章鱼脑袋，身穿破旧黑色燕尾服，领口结着心脏，触手像围巾",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "章鱼绅士温特"
+  ],
+  "character_exits": [
+    {
+      "name": "章鱼绅士温特",
+      "reason": "被击溃消散"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "monday_suppression",
+      "description": "李疯狂站在方舟顶端，以“不想营业”的厌世感概念压制了怪物的嗜血欲望，使怪物大军迟疑不敢前",
+      "time": "疯狂周期 · 星期一（沦陷日）"
+    },
+    {
+      "id": "winter_challange",
+      "description": "敌方指挥官章鱼绅士温特现身，邀请李疯狂进行一场关于‘存在’的品鉴会，并释放‘星期一不得不做’的精神污染波纹",
+      "time": "红色黄昏"
+    },
+    {
+      "id": "causality_replacement",
+      "description": "李疯狂启动【干涉者】权限，利用骨勺进行【因果律置换】，将‘懒惰绝望’置换为‘讨厌加班’的狂暴愤怒",
+      "time": "红色黄昏"
+    },
+    {
+      "id": "bad_review_strike",
+      "description": "李疯狂针对温特‘服务者的骄傲’这一逻辑漏洞，通过‘差评’概念启动【篡改 · 定义修正】，将温特击溃",
+      "time": "红色黄昏"
+    },
+    {
+      "id": "chef_gaze",
+      "description": "温特消散时引来高维信号，李疯狂探测到了被称为‘主厨’的更高维存在的注视",
+      "time": "红色黄昏"
+    }
+  ],
+  "time_period": "疯狂周期 · 星期一（沦陷日） / 红色黄昏",
+  "locations": [
+    "诺亚方舟01号甲板",
+    "外围战场"
+  ],
+  "key_facts": [
+    {
+      "id": "li_weapon",
+      "content": "李疯狂的武器是一把由李小鱼肋骨制成的生锈骨勺，战斗时可变形成长达五米的骨质撬棒"
+    },
+    {
+      "id": "chef_entity",
+      "content": "世界的最高意志被称为‘主厨’，其等级判定为超高维信号，位于比神明更高的维度"
+    },
+    {
+      "id": "suqiang_arm",
+      "content": "苏浅的左臂是‘神性容器’，带有金色纹路，能包裹子弹强化威力"
+    },
+    {
+      "id": "interference_costs",
+      "content": "使用‘干涉者’和‘篡改’能力会加剧逻辑负荷和自我意识崩解风险，使用者会口鼻溢血"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

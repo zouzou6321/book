@@ -1,0 +1,101 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "数据幽灵 / 高熵有序者",
+      "description": "最初为数据流，后占据“阿傻”的断臂（焦黑皮肤透蓝光），最终凝聚出半透明的蓝色虚影（穿着旧T恤，左眼有倒“V”字伤疤）",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "世界锚点 / 防火墙",
+      "description": "发光的晶体雕像，保持举起饭卡的姿势，表面流转着防火墙代码",
+      "status": "deceased"
+    },
+    {
+      "name": "剔骨工",
+      "age": "未知",
+      "role": "清理程序执行单位 / 旧日餐厅迎宾机器人",
+      "description": "巨大的机械巨手，由无数生锈餐具组成",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "剔骨工",
+    "迎宾机器人"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "consciousness_transfer",
+      "description": "李疯狂作为数据幽灵觉醒，意识钻入废弃容器“阿傻”的右臂，重新获得物理行动能力。",
+      "time": "距离开业23小时48分左右"
+    },
+    {
+      "id": "ransom_payment",
+      "description": "李疯狂将“赎金条”植入苏浅的晶体雕像，解锁了名为“记忆碎片”的收集任务。",
+      "time": "距离开业23小时48分左右"
+    },
+    {
+      "id": "logic_revelation",
+      "description": "系统解析发现“记忆碎片”构成莫比乌斯环，揭示了收集李疯狂过去丢失的人性以赎回苏浅的闭环机制。",
+      "time": "距离开业23小时48分左右"
+    },
+    {
+      "id": "battle_de_boner",
+      "description": "旧日餐厅的清理单位“剔骨工”出现破坏废墟，李疯狂使用“逻辑构造光叉”将其钉在地面。",
+      "time": "距离开业23小时30分左右"
+    },
+    {
+      "id": "mission_start",
+      "description": "李疯狂启动碎片回收计划，决定前往第1号扇区（曾经的家）寻找碎片。",
+      "time": "距离开业23小时30分"
+    }
+  ],
+  "time_period": "距离“旧日餐厅”开业还有23小时50分 至 23小时30分",
+  "locations": [
+    "维度夹缝",
+    "市立精神卫生中心废墟",
+    "第1号扇区"
+  ],
+  "key_facts": [
+    {
+      "id": "su_qian_anchor",
+      "content": "苏浅已转化为晶体雕像，作为世界的锚点和防火墙，牺牲灵魂维持世界稳定。"
+    },
+    {
+      "id": "rescue_condition",
+      "content": "复活/赎回苏浅的条件是收集50个“记忆碎片”，这些碎片散落在各个时空，代表了李疯狂过去为了生存而抛弃的人性。"
+    },
+    {
+      "id": "mobius_loop",
+      "content": "记忆碎片的分布路径形成莫比乌斯环，意味着故事是一个死循环，起点即是终点。"
+    },
+    {
+      "id": "li_crazy_weapon",
+      "content": "李疯狂当前主要武器是高维流量构建的“逻辑构造光叉”。"
+    },
+    {
+      "id": "current_form",
+      "content": "李疯狂目前本质是“数据幽灵”，物理实体仅有“阿傻”的断臂，可投影出半截人形虚影。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "旧日餐厅清理单位/机械巨手",
+      "names": [
+        "剔骨工",
+        "迎宾机器人"
+      ]
+    },
+    {
+      "role_or_identity": "世界锚点/李疯狂的伴侣",
+      "names": [
+        "苏浅",
+        "Admin Su Qian"
+      ]
+    }
+  ]
+}

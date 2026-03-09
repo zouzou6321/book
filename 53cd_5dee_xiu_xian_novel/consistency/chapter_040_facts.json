@@ -1,0 +1,88 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "主角/被追捕者",
+      "description": "浑身泥浆，头发贴在脑门上，右臂断裂剧痛（已接骨），眼神坚毅",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "内门第一天骄/同伴",
+      "description": "白裙变灰黑色，发髻散乱，脸颊苍白，紧跟着江越",
+      "status": "active"
+    },
+    {
+      "name": "严刑长老",
+      "age": "老年（须发皆白）",
+      "role": "太玄宗执法堂首席长老",
+      "description": "身穿紫金道袍，面容红润诡异（丹药催动），后被泥巴短路变成爆炸头，浑身漆黑",
+      "status": "departed"
+    },
+    {
+      "name": "旺财",
+      "age": "未知",
+      "role": "宠物蟾蜍",
+      "description": "藏在江越口袋里，偷吃肉干碎屑",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "严刑长老",
+    "旺财"
+  ],
+  "character_exits": [
+    {
+      "name": "严刑长老",
+      "reason": "被泥巴击中穴位导致灵力短路炸膛，重伤坠落昏迷"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "forest_chase",
+      "description": "江越与林清雪在幽暗密林中利用‘之’字型跑法躲避执法队飞剑追捕",
+      "time": "丑时三刻"
+    },
+    {
+      "id": "mud_counterattack",
+      "description": "江越投掷泥巴击中严刑长老左肘下方的灵压阀，利用‘短路’原理导致对方‘雷动九天’法术炸膛",
+      "time": "丑时三刻"
+    },
+    {
+      "id": "tree_shelter_rest",
+      "description": "二人在中空枯树内躲避，林清雪将‘短路’误解为双修之法，并分享随身携带的辣条和肉干",
+      "time": "丑时三刻半个时辰后"
+    }
+  ],
+  "time_period": "深夜，丑时三刻至黎明前",
+  "locations": [
+    "太玄宗后山",
+    "幽暗密林",
+    "破败山神庙（附近）",
+    "中空巨树内部"
+  ],
+  "key_facts": [
+    {
+      "id": "jiang_yue_arm_injury",
+      "content": "江越右臂断裂，使用了宗门秘制‘续断生肌膏’接骨，依然剧痛且容易渗血"
+    },
+    {
+      "id": "jiang_yue_physics_tactics",
+      "content": "江越使用物理学概念（惯性空间、电路设计缺陷、短路等）来解释和应对修仙战斗"
+    },
+    {
+      "id": "lin_qingxue_misconception",
+      "content": "林清雪极度缺乏常识，将江越的物理术语（如惯性、短路）强行解读为高深莫测的修仙大道或暧昧的双修之法"
+    },
+    {
+      "id": "yan_xing_weakness",
+      "content": "严刑长老因强行维持大威能法术，左侧护体罡气的‘接地’位置在左手肘关节下方三寸处"
+    },
+    {
+      "id": "spicy_sticks_item",
+      "content": "林清雪随身携带‘红莲业火锻体棒’（辣条）和被压扁的灵谷肉干作为干粮"
+    }
+  ]
+}

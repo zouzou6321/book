@@ -1,0 +1,100 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "外门弟子",
+      "description": "衣衫褴褛，扛着沾满泥土的铁锹，裤腿卷起，肩膀上趴着一只癞蛤蟆",
+      "status": "濒死"
+    },
+    {
+      "name": "掌门",
+      "age": "须发皆白",
+      "role": "太玄宗掌门/金丹大圆满",
+      "description": "面如冠玉，身披绣着玄鹤吞云的黑色金丝道袍，眼神透着贪婪红光",
+      "status": "active"
+    },
+    {
+      "name": "旺财",
+      "age": "未知",
+      "role": "妖兽(吞天金蟾)",
+      "description": "浑身疙瘩、眼神呆滞的癞蛤蟆，能吞食法器",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "内门精英",
+      "description": "双手捧着画轴，神情严肃",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "弟子",
+      "description": "体型壮硕，挺身而出维护江越",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "frog_presented",
+      "description": "江越带回一只癞蛤蟆(旺财)而非镇魔剑，称其为‘吞天金蟾’，引发掌门震怒并指控其抗命。",
+      "time": "正午"
+    },
+    {
+      "id": "jiang_yue_punished",
+      "description": "掌门最终决定不杀江越，而是罚其去思过崖面壁，实则是为了炼化做准备。",
+      "time": "正午稍后"
+    },
+    {
+      "id": "bones_discovered",
+      "description": "在思过崖，旺财指引江越挖出了一堆带有‘外门试验’字样的白骨和刻有诡异符文的血色石板。",
+      "time": "抵达思过崖后"
+    },
+    {
+      "id": "villain_reveal",
+      "description": "掌门现身思过崖，揭露其为修炼‘万仙噬血大阵’牺牲全宗弟子的阴谋，并称江越为‘药渣’。",
+      "time": "发现白骨后"
+    },
+    {
+      "id": "fatal_injury",
+      "description": "掌门出手重创江越，江越陷入濒死状态，系统受损，反差值锁定。",
+      "time": "对峙时"
+    },
+    {
+      "id": "warning_sent",
+      "description": "江越利用最后灵力激活传音符，给林清雪发出‘别来……快跑……’的警告。",
+      "time": "濒死时刻"
+    }
+  ],
+  "time_period": "正午",
+  "locations": [
+    "太玄宗正殿",
+    "思过崖"
+  ],
+  "key_facts": [
+    {
+      "id": "sect_leader_conspiracy",
+      "content": "太玄宗掌门正在修炼‘万仙噬血大阵’，需要九百九十九名筑基期弟子的精血作为药引。"
+    },
+    {
+      "id": "wangcai_identity",
+      "content": "江越从禁地挖出的‘镇魔之物’名为旺财，是一只具备特殊能力的吞天金蟾。"
+    },
+    {
+      "id": "jiang_yue_blood_property",
+      "content": "江越的血引发‘万仙噬血大阵’产生排斥反应，被掌门称为极佳的‘药渣’。"
+    },
+    {
+      "id": "cliff_secret",
+      "content": "思过崖隐藏着掌门过往的‘炼化场’遗址，埋有大量死去弟子的白骨。"
+    },
+    {
+      "id": "system_critical",
+      "content": "江越当前处于濒死状态，系统核心受损，护体光环破碎。"
+    }
+  ]
+}

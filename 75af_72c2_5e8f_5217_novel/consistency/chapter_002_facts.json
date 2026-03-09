@@ -1,0 +1,81 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "",
+      "role": "守密人",
+      "description": "身穿洗得发白的工装风衣，眼神死鱼眼，掌心散发顶级捕食者气息，面部表情可随意控制",
+      "status": "active"
+    },
+    {
+      "name": "王大爷",
+      "age": "老年",
+      "role": "变异邻居",
+      "description": "脖颈拉长三米倒挂天花板，五官移位（眼睛一上一下），嘴裂至耳根布满尖牙，手长鳞片，提着竹篮",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "王大爷"
+  ],
+  "character_exits": [
+    {
+      "name": "王大爷",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "strange_knocking",
+      "description": "门外传来湿润粘稠的敲门声，带有铁锈味和福尔马林气息，门板出现金属液化现象",
+      "time": "新纪元元年 周四 00:15"
+    },
+    {
+      "id": "interaction_with_monster",
+      "description": "顾长歌以疯癫姿态开门，与变异的王大爷寒暄，王大爷赠送装有人心脏的篮子作为早点",
+      "time": "新纪元元年 周四 00:15"
+    },
+    {
+      "id": "deceiving_monster",
+      "description": "顾长歌收下心脏并回赠鸡蛋促销传单，谎称是旧世界符咒，王大爷信以为真并离开",
+      "time": "新纪元元年 周四 00:15"
+    },
+    {
+      "id": "resource_extraction",
+      "description": "顾长歌关门后用须骨针解剖心脏，试图提取活性因子作为第一桶金",
+      "time": "新纪元元年 周四 00:15后"
+    }
+  ],
+  "time_period": "新纪元元年，周四 00:15",
+  "locations": [
+    "幸福家园小区4号楼404室",
+    "4号楼走廊"
+  ],
+  "key_facts": [
+    {
+      "id": "world_rule",
+      "content": "在该世界观下，正常被视为异端，人类需表现得比怪物更疯狂以求生存"
+    },
+    {
+      "id": "gu_identity",
+      "content": "顾长歌自称守密人，需保持人类外形以应对下周的清醒世界"
+    },
+    {
+      "id": "monster_belief",
+      "content": "变异生物认为旧世界的普通物品（如促销传单）是高维符咒或宝物"
+    },
+    {
+      "id": "financial_state",
+      "content": "顾长歌银行卡余额为25.6元，手机界面出现'理智值支付'字样"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "变异邻居",
+      "names": [
+        "王大爷",
+        "老王"
+      ]
+    }
+  ]
+}

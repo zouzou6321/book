@@ -1,0 +1,88 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "内门首席大弟子、玄天真人",
+      "description": "穿着流云飞鹤锦袍，脚踩一只破旧草鞋，手持半个灵红薯",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "记录弟子",
+      "description": "美目流转，气质如幽魂，被称为冰山美人",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "内门弟子、卷王",
+      "description": "身穿青衫，面容消瘦，炼气九层巅峰",
+      "status": "active"
+    },
+    {
+      "name": "执事",
+      "age": "未知",
+      "role": "太玄宗听雨阁执事",
+      "description": "恭敬，神色恐惧",
+      "status": "active"
+    },
+    {
+      "name": "黑袍老者",
+      "age": "未知",
+      "role": "神秘观察者（反派）",
+      "description": "负手而立，猩红双眸",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "林清雪",
+    "李二牛",
+    "赵铁",
+    "黑袍老者"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "jiang_yue_lecture",
+      "description": "江越在内门讲经堂画猪讲道，传授“无为而废大法”，欺骗弟子认为不动才是修炼",
+      "time": "穿越第十八日，上午"
+    },
+    {
+      "id": "collective_lie_down",
+      "description": "六百多名内门弟子听信理论，集体躺下睡觉“修炼”，引发外界误以为是梦修炼",
+      "time": "穿越第十八日，上午"
+    },
+    {
+      "id": "sect_chaos",
+      "description": "掌门送来“饱腹丹药汤”配合“无为”，外门弟子集体倒立睡觉",
+      "time": "穿越第十八日，午后"
+    },
+    {
+      "id": "cricket_task_acceptance",
+      "description": "系统发布纠正弟子观念的支线任务，江越选择B选项，准备通过“斗蛐蛐”来纠正风气",
+      "time": "穿越第十八日，夜晚"
+    }
+  ],
+  "time_period": "穿越第十八日，从巳时三刻（上午9:45）至夜晚",
+  "locations": [
+    "太玄宗·内门讲经堂",
+    "听雨阁",
+    "听雨阁后花园"
+  ],
+  "key_facts": [
+    {
+      "id": "technique_inaction",
+      "content": "江越创造了“无为而废大法”，核心逻辑是减少损耗即是增加修为，动则消耗，不动则圆满"
+    },
+    {
+      "id": "sect_misunderstanding",
+      "content": "宗门上下（包括掌门、长老、弟子）对江越的荒诞行为有极强的过度解读和脑补能力，将其视为高深道意"
+    },
+    {
+      "id": "jiang_yue_system_constraint",
+      "content": "江越被迫维持高人人设，若权威值动摇或首席身份丢失，将受到系统严厉惩罚（扣除修为、公开羞辱）"
+    }
+  ]
+}

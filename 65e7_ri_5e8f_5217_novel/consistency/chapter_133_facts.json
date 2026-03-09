@@ -1,0 +1,73 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/理智之主（伪）序列持有者",
+      "description": "左眼原有一道贯穿裂痕，现为瞳孔呈银灰色、周围环绕双重同心圆环的义眼；手持【李小鱼的肋骨（骨勺）】，骨勺散发银白色光芒",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "净化者/神性容器",
+      "description": "身体变得虚幻透明，如同燃烧殆尽的灰烬，胸膛空洞；原为惨白脸色，战术风衣破烂，皮肤下有电路板纹理",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "苏浅",
+      "reason": "自我牺牲：撕裂胸膛取出序列核心按入李疯狂左眼，肉体消散，意识与李疯狂融合"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "arrive_kitchen_hallway",
+      "description": "李疯狂与苏浅在【神之餐厅 · 后厨走廊】（逻辑奇点边缘）醒来，发现世界颠倒且距离概念扭曲（莫比乌斯环）",
+      "time": "周日倒计时 03:33"
+    },
+    {
+      "id": "blocked_by_rest_rule",
+      "description": "两人抵达巨大双开门，因规则层面的‘今日休息’限制被屏障（403 Forbidden）阻挡",
+      "time": "周日倒计时 03:33"
+    },
+    {
+      "id": "su_qian_sacrifice",
+      "description": "苏浅为了打破规则，撕裂胸膛挖出自己的序列核心，强行按入李疯狂的左眼眶",
+      "time": "周日倒计时 03:33"
+    },
+    {
+      "id": "force_overtime_override",
+      "description": "李疯狂融合苏浅核心后，获得绝对清醒与高阶权限，将‘休息’规则暴力篡改为‘加班’，成功撞开巨门",
+      "time": "周日倒计时 03:33"
+    }
+  ],
+  "time_period": "周日倒计时（概念崩塌期） / 凌晨 03:33",
+  "locations": [
+    "神之餐厅 · 后厨走廊",
+    "逻辑奇点边缘",
+    "虚空",
+    "莫比乌斯环"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_eye_state",
+      "content": "李疯狂的左眼已愈合变异，呈银灰色瞳孔，周围环绕双重同心圆环，融入了苏浅的序列核心"
+    },
+    {
+      "id": "bone_spoon_evolution",
+      "content": "【李小鱼的肋骨（骨勺）】由原本流淌金色裂纹进化为散发银白色光芒，呈现出近乎完美的几何美感，融合了苏浅的意志"
+    },
+    {
+      "id": "restaurant_rule_weakness",
+      "content": "神域的‘休息’规则虽然绝对，但可以使用足够高的权限进行暴力概念篡改（如改为‘加班’）"
+    },
+    {
+      "id": "su_qian_current_state",
+      "content": "苏浅肉体已基本消散，仅存的核心与记忆已与李疯狂融合，成为李疯狂的‘眼睛’"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

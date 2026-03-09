@@ -1,0 +1,106 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "二十五六岁",
+      "role": "神机营创造者/长生者",
+      "description": "脸上沾满黑灰，身穿洗得发白的青色布衣，眼神深邃像枯井",
+      "status": "active"
+    },
+    {
+      "name": "老匠人",
+      "age": "未知",
+      "role": "工匠",
+      "description": "满脸烟灰，颤巍巍",
+      "status": "active"
+    },
+    {
+      "name": "青儿",
+      "age": "未知",
+      "role": "陈默的护卫/下属",
+      "description": "身姿挺拔，穿劲装，腰挂两把短刀，脸庞清秀冷若冰霜，眉宇间有一道淡淡伤疤",
+      "status": "active"
+    },
+    {
+      "name": "朱由检",
+      "age": "三十岁",
+      "role": "崇祯帝",
+      "description": "面容清瘦，两颊微陷，眉宇间有川字纹，披黑色狐裘，眼神发亮",
+      "status": "active"
+    },
+    {
+      "name": "兵部尚书",
+      "age": "未知",
+      "role": "朝廷官员",
+      "description": "目瞪口呆",
+      "status": "active"
+    },
+    {
+      "name": "大学士",
+      "age": "未知",
+      "role": "朝廷官员",
+      "description": "目瞪口呆，怀疑看到神迹",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "陈默",
+    "老匠人",
+    "青儿",
+    "朱由检",
+    "兵部尚书",
+    "大学士"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "firearms_development",
+      "description": "陈默花费十年（崇祯三年至十二年）在秘密矿坑基地研发燧发枪，克服弹簧制造等工艺难题",
+      "time": "崇祯三年 — 崇祯十二年"
+    },
+    {
+      "id": "divine_machine_review",
+      "description": "一千名神机营士兵在京师北郊演习场进行燧发枪齐射演示，成功击碎两百步外的重甲木靶",
+      "time": "崇祯十二年冬"
+    },
+    {
+      "id": "emperor_order_expansion",
+      "description": "朱由检观看演习后大悦，下令扩编神机营至一万至三万人",
+      "time": "崇祯十二年冬"
+    }
+  ],
+  "time_period": "崇祯三年 —— 崇祯十二年（蒙太奇）",
+  "locations": [
+    "京郊秘密军营 · 昌平后山",
+    "昌平后山的一处废弃矿坑",
+    "京师北郊演习场",
+    "点将台"
+  ],
+  "key_facts": [
+    {
+      "id": "weapon_specs",
+      "content": "研制的枪械名为‘神机一式’，有效射程二百步，可击穿重甲，无需火绳，雨雪天可发射"
+    },
+    {
+      "id": "funding_source",
+      "content": "神机营的建立几乎掏空了内廷私库和‘大明帝国银行’初期红利"
+    },
+    {
+      "id": "mo_condition",
+      "content": "陈默身体受损后会再生，每次再生产生饥饿感，需服用混合朱砂、铅粉和曼陀罗的药汤压制"
+    },
+    {
+      "id": "qinger_background",
+      "content": "青儿曾是乱葬岗的瘦弱女孩，现为陈默的护卫，眉宇间有伤疤"
+    },
+    {
+      "id": "logistics_concern",
+      "content": "合格的枪匠、训练有素的士兵以及粮食是扩编的主要瓶颈，无法凭空变出"
+    },
+    {
+      "id": "security_status",
+      "content": "基地入口位于‘百草园’，目前尚未被锦衣卫千户沈炼发现"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

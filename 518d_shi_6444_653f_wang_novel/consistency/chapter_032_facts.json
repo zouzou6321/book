@@ -1,0 +1,56 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "",
+      "role": "定北侯",
+      "description": "手掌宽厚温热，指腹有常年握剑留下的粗砺薄茧，眼神深邃如渊",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "",
+      "role": "长公主",
+      "description": "皓白如玉的手腕，肌肤胜雪，眉目如画，平日冷若冰霜",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "marriage_promise",
+      "description": "萧寒在落魄之际向李瑾重申娶她的决心",
+      "time": "深夜"
+    },
+    {
+      "id": "political_philosophy_reveal",
+      "description": "萧寒向李瑾阐述“丑角论”，表明自污名声是为了消除皇帝戒心以求自保",
+      "time": "深夜"
+    },
+    {
+      "id": "secret_alliance_formed",
+      "description": "李瑾接受萧寒的理论与心意，两人达成政治与情感上的结盟，并在桌下十指紧扣",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "建安二十三年，秋，深夜",
+  "locations": [
+    "长公主府后花园",
+    "听雨榭"
+  ],
+  "key_facts": [
+    {
+      "id": "xiaohan_past_memory",
+      "content": "萧寒拥有前世记忆，前世因“莫须有”的罪名死于大雨和钝刀之下"
+    },
+    {
+      "id": "xiaohan_strategy",
+      "content": "萧寒通过装疯卖傻和贪财好色（扮演丑角）来降低皇帝的戒心，从而获取生存空间和保护他人的能力"
+    },
+    {
+      "id": "liajin_financial_demand",
+      "content": "李瑾索要金瓜子与东海明珠作为“出场费”，以此接受两人在戏中的角色分配"
+    }
+  ]
+}

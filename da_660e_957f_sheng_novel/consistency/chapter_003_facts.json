@@ -1,0 +1,104 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "未知（青年）",
+      "role": "穿越者/江湖郎中",
+      "description": "面容苍白，看着不怎么结实，胸口无疤痕，眸子漆黑如墨",
+      "status": "active"
+    },
+    {
+      "name": "把总",
+      "age": "未知",
+      "role": "溃兵军官",
+      "description": "眼神复杂，既有怀疑也有不舍",
+      "status": "departed"
+    },
+    {
+      "name": "锦衣卫",
+      "age": "未知",
+      "role": "宫廷侍卫/特务",
+      "description": "身穿飞鱼服、腰佩绣春刀，骑高头大马",
+      "status": "active"
+    },
+    {
+      "name": "茶博士",
+      "age": "未知",
+      "role": "摊贩",
+      "description": "惊慌失措",
+      "status": "active"
+    },
+    {
+      "name": "受伤脚夫",
+      "age": "未知",
+      "role": "苦力",
+      "description": "满头大汗，脸色煞白，小腿划伤见骨",
+      "status": "active"
+    },
+    {
+      "name": "老道士",
+      "age": "七八十岁",
+      "role": "江湖骗子/丹师",
+      "description": "衣衫褴褛，头发花白，布满老年斑，双眼浑浊",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "把总",
+    "锦衣卫",
+    "茶博士",
+    "受伤脚夫",
+    "老道士"
+  ],
+  "character_exits": [
+    {
+      "name": "把总",
+      "reason": "分道扬镳，带领残兵南下投奔毛帅或做倭寇"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "separation_from_troops",
+      "description": "陈默在广渠门外柳树林与溃兵把总分道扬镳，独自进入北京城",
+      "time": "万历四十七年夏（半个时辰前）"
+    },
+    {
+      "id": "first_medical_treatment",
+      "description": "陈默在土地庙巷口摆摊，用现代外科清创缝合术救治了一名腿部重伤的脚夫，声名鹊起且刻意伪装成庸医",
+      "time": "次日晌午"
+    },
+    {
+      "id": "poison_therapy",
+      "description": "陈默因身体再生带来剧烈瘙痒和饥饿，偶遇老道士并服下含朱砂（汞）的丹药，发现重金属毒素可有效压制身体的过度再生",
+      "time": "入夜"
+    }
+  ],
+  "time_period": "万历四十七年（1619年）夏",
+  "locations": [
+    "北京城",
+    "外城",
+    "正阳门外",
+    "广渠门外柳树林",
+    "城南偏僻巷弄",
+    "破败的土地庙"
+  ],
+  "key_facts": [
+    {
+      "id": "regeneration_side_effect",
+      "content": "陈默的异能（不死之身/细胞再生）若无受伤宣泄，会转化为骨髓深处的瘙痒、极度饥饿和细胞疯狂分裂的冲动，甚至可能导致理智崩溃"
+    },
+    {
+      "id": "heavy_metal_suppression",
+      "content": "重金属毒药（如含朱砂/铅粉的金丹）能抑制陈默体内过度的细胞分裂和再生速度，成为他维持理智和生理平衡的‘刹车片’"
+    },
+    {
+      "id": "chenmo_strategy",
+      "content": "陈默通过伪装成贪小利、医术平庸的庸医，并配合无用的内服药，来掩盖自己高超的现代外科技术，降低存在感"
+    },
+    {
+      "id": "financial_status",
+      "content": "陈默初进北京时仅剩三个铜板，依靠行医治伤获得了碎银子和食物报酬"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

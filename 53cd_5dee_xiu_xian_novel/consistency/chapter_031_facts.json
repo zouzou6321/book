@@ -1,0 +1,101 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "少年",
+      "role": "太玄宗内门首席大师兄",
+      "description": "衣衫褴褛，脸上蹭着锅底灰，手持厚重黑书",
+      "status": "active"
+    },
+    {
+      "name": "血影宗追击长老",
+      "age": "未知",
+      "role": "血影宗金丹期大能",
+      "description": "悬浮半空，周身缭绕猩红血煞之气，手持白骨法杖，战后披头散发、鼻涕眼泪横流",
+      "status": "active"
+    },
+    {
+      "name": "苏软软",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "满脸泪痕，捂住眼睛",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "身体颤抖，咬牙想要冲上前",
+      "status": "active"
+    },
+    {
+      "name": "画师（百晓生）",
+      "age": "未知",
+      "role": "情报人员/观察者",
+      "description": "躲在迷雾中，手持画笔和速写本，因震惊而身体颤抖",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "宗门天骄（目前昏迷）",
+      "description": "躺在地上一动不动，处于昏迷状态，睫毛微微颤动",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "血影宗追击长老",
+    "画师（百晓生）"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "confrontation_on_wasteland",
+      "description": "江越在荒原战场利用系统预支的魔改版《五三》对峙并反击金丹期血影长老。",
+      "time": "秘境试炼第四日·酉时三刻"
+    },
+    {
+      "id": "mathematics_magic_attack",
+      "description": "江越通过瞎扯淡翻译机，将集合、函数、导数等数学知识转化为上古言灵攻击，击溃长老的血煞巨蟒并震慑其神魂。",
+      "time": "秘境试炼第四日·酉时三刻"
+    },
+    {
+      "id": "elder_defeated",
+      "description": "江越使用“洛必达法则”击碎长老护盾，致其跌落地重伤，道心破碎，误解《五三》为无上真经。",
+      "time": "秘境试炼第四日·酉时三刻"
+    },
+    {
+      "id": "witness_record",
+      "description": "画师（百晓生）目击全过程，记录下江越召唤魔典击败金丹大能的“言出法随”神迹。",
+      "time": "秘境试炼第四日·酉时三刻"
+    }
+  ],
+  "time_period": "秘境试炼第四日 · 酉时三刻（日落时分）",
+  "locations": [
+    "上古秘境",
+    "藏经洞外",
+    "荒原战场"
+  ],
+  "key_facts": [
+    {
+      "id": "magic_book_identity",
+      "content": "江越手中的“镇族之宝”实为《五年高考三年模拟·魔改版》，带有知识业力特效，能通过系统翻译成攻击性法则。"
+    },
+    {
+      "id": "math_as_magic",
+      "content": "在修仙界认知中，高中数学（集合、导数、洛必达法则等）被误解为一种高深莫测、足以破坏逻辑和道心的上古言灵法则。"
+    },
+    {
+      "id": "misunderstanding_spread",
+      "content": "李二牛和苏软软深信江越使用的是“空间折叠”与“言灵术”，并认为修练必须涉及物理化学知识。"
+    },
+    {
+      "id": "lin_qingxue_protection",
+      "content": "昏迷中的林清雪因江越释放的“知识雷霆”逸散的清凉气息，破碎的经脉得到护持，保住了最后生机。"
+    },
+    {
+      "id": "painters_record",
+      "content": "画师（百晓生）将江越记录为“玄天真人”，并将《五三》误记为上古魔典“五经天书·三界卷”。"
+    }
+  ]
+}

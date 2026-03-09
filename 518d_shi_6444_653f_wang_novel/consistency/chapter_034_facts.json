@@ -1,0 +1,103 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "",
+      "role": "定北侯、太师",
+      "description": "身材高大强壮（铁塔般的汉子），身着绯色官袍，表面醉酒浪荡、衣衫不整，实则身手不凡，眼神冷冽，前世为大将军。",
+      "status": "active"
+    },
+    {
+      "name": "春桃",
+      "age": "",
+      "role": "皇帝赐予的美人/细作",
+      "description": "江南女子，精通琵琶，身形纤细，看似柔弱。",
+      "status": "active"
+    },
+    {
+      "name": "柳玉",
+      "age": "",
+      "role": "皇帝赐予的美人/细作",
+      "description": "与春桃同为细作，被赐予萧寒监视其言行。",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "",
+      "role": "长公主",
+      "description": "身着玄色披风和云纹宫装，清冷如霜，神情淡定，对权谋杀戮习以为常。",
+      "status": "active"
+    },
+    {
+      "name": "血煞三鬼",
+      "age": "",
+      "role": "刺客",
+      "description": "江湖顶尖刀客，受太子雇佣前来截杀萧寒。",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "萧寒",
+    "春桃",
+    "柳玉",
+    "李瑾",
+    "血煞三鬼"
+  ],
+  "character_exits": [
+    {
+      "name": "血煞三鬼",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "drunken_departure",
+      "description": "萧寒带着春桃、柳玉醉醺醺地离开醉红楼，走入僻静巷弄。",
+      "time": "建安二十三年深夜丑时三刻"
+    },
+    {
+      "id": "ambush_in_alley",
+      "description": "三名刺客（血煞三鬼）从屋顶突袭萧寒，萧寒利用木棍和夺取的长剑反杀三人。",
+      "time": "建安二十三年深夜丑时三刻"
+    },
+    {
+      "id": "li_jin_encounter",
+      "description": "萧寒杀完人后被长公主李瑾撞见。李瑾认出刺客身份，两人并未互相拆穿，反而通过对话确立了共进退的同盟关系。",
+      "time": "建安二十三年深夜"
+    },
+    {
+      "id": "cover_story_established",
+      "description": "萧寒警告春桃和柳玉对外宣称一直在车里喝酒，掩盖巷中发生之事。",
+      "time": "建安二十三年深夜"
+    }
+  ],
+  "time_period": "建安二十三年，深夜，丑时三刻",
+  "locations": [
+    "京城",
+    "朱雀大街侧巷",
+    "醉红楼",
+    "侯府必经之僻静巷弄"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_han_identity",
+      "content": "萧寒身份为定北侯、新晋太师，实则是拥有前世大将军记忆和战力的强者。"
+    },
+    {
+      "id": "maids_mission",
+      "content": "春桃和柳玉是皇帝安插在萧寒身边的细作，肩负监视使命。"
+    },
+    {
+      "id": "assassin_origin",
+      "content": "行刺萧寒的杀手是江湖上赫赫有名的“血煞三鬼”，由太子出重金雇佣。"
+    },
+    {
+      "id": "princess_awareness",
+      "content": "李瑾（长公主）知晓太子的刺杀行动，并对萧寒的武力值有深刻认识，两人达成暗中同盟。"
+    },
+    {
+      "id": "daily_alibi",
+      "content": "对于春桃和柳玉，统一口径为整晚在车里喝酒，未目睹巷中杀戮。"
+    }
+  ]
+}

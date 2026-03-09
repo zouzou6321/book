@@ -1,0 +1,104 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "",
+      "role": "定北侯",
+      "description": "平日哈着腰一副病恹恹模样，粗犷，满脸横肉，一身俗气的莽夫；在朝堂上表现为仰慕长公主的卑微痴汉。",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "",
+      "role": "长公主",
+      "description": "一身玄色宫装，脊背挺直，面色沉静如水，清冷绝艳，狐狸眼。",
+      "status": "active"
+    },
+    {
+      "name": "老皇帝",
+      "age": "",
+      "role": "皇帝",
+      "description": "端坐于龙椅，浑浊却透着精光的眸子，手指敲击扶手。",
+      "status": "active"
+    },
+    {
+      "name": "张远",
+      "age": "",
+      "role": "御史大夫",
+      "description": "东宫太子的门生，手持象笏，面色涨红。",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "",
+      "role": "侍女",
+      "description": "李瑾的贴身侍女，小心翼翼。",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "",
+      "role": "下属",
+      "description": "萧寒的下属，对自家主子的行为感到震惊和复杂。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "张远",
+    "翠儿",
+    "沈锋"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "rumors_spread",
+      "description": "京城流言四起，传言定北侯萧寒夜入长公主府，两人秽乱宫闱、狼狈为奸。",
+      "time": "建安二十三年秋日清晨"
+    },
+    {
+      "id": "court_accusation",
+      "description": "御史大夫张远在太极殿弹劾萧寒行止放荡、秽乱宫闱，要求彻查。",
+      "time": "巳时一刻"
+    },
+    {
+      "id": "self_defilement_performance",
+      "description": "萧寒在朝堂上演戏，假装跌倒痛哭，自贬为泥腿子、杀人刑徒，声称只敢远观长公主不敢亵渎，甚至请求出家当和尚以证清白。",
+      "time": "巳时一刻"
+    },
+    {
+      "id": "emperors_judgment",
+      "description": "老皇帝被萧寒的表演蒙蔽，认为他只是个仰慕神女的俗人，并无谋逆之心，驳回了张远的弹劾。",
+      "time": "巳时一刻"
+    },
+    {
+      "id": "aftermath_conversation",
+      "description": "李瑾在府中识破萧寒计谋，决定配合演戏；萧寒回府后与沈锋确认将运送盐船给李瑾作为见面礼。",
+      "time": "早朝结束后"
+    }
+  ],
+  "time_period": "建安二十三年，秋，巳时一刻至半个时辰后",
+  "locations": [
+    "太极殿",
+    "长公主府",
+    "定北侯府",
+    "京城茶楼酒肆"
+  ],
+  "key_facts": [
+    {
+      "id": "public_image_strategy",
+      "content": "萧寒通过自污名声，将自己塑造成贪财好色、卑微舔狗的形象，成功误导皇帝和百官，使其认为与长公主的关系是单相思而非政治结盟。"
+    },
+    {
+      "id": "secret_deal_salt",
+      "content": "萧寒安排了一批盐船于当晚启运，这是他与长公主合作计划中的'第一桶金'，作为给李瑾的见面礼。"
+    },
+    {
+      "id": "political_enemy",
+      "content": "御史大夫张远是东宫太子的门生，今日的弹劾是针对长公主和定北侯的一次政治攻击。"
+    },
+    {
+      "id": "emperors_perception",
+      "content": "老皇帝目前对萧寒的戒心解除，认为他是一个懂得尊卑贵贱、无胆量搞权谋的庸俗莽夫。"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "高熵有序者",
+      "description": "身体覆盖灰白色金属光泽，外壳布满裂痕，左眼严重受损流出金色液体，瞳孔仅剩针尖大小黑点",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "古神",
+      "reason": "被格式化/坍塌解体"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "regurgitation_mechanism",
+      "description": "李疯狂被古神视为非法插件，通过反刍机制经括约肌出口排出体外",
+      "time": "古神反刍时刻"
+    },
+    {
+      "id": "crash_landing_antarctica",
+      "description": "李疯狂坠落在南极冰原，造成巨大撞击坑，身体严重受损",
+      "time": "外界世界的停滞三秒内"
+    },
+    {
+      "id": "ancient_god_collapse",
+      "description": "“中央厨房”构造体像素化解体，古神的疯狂叙事逻辑被删除",
+      "time": "外界世界的停滞三秒内"
+    },
+    {
+      "id": "recorder_trigger",
+      "description": "李疯狂把玩破碎的录音笔，播放出断续的“V我50”声音，引发情感爆发和系统错误",
+      "time": "外界世界的停滞三秒后"
+    }
+  ],
+  "time_period": "古神反刍时刻 · 外界世界的停滞三秒",
+  "locations": [
+    "古神体内 · 食道回流区",
+    "南极冰原 · 祭坛废墟",
+    "高空",
+    "意识领域"
+  ],
+  "key_facts": [
+    {
+      "id": "memory_deletion_remnant",
+      "content": "李疯狂删除了“苏浅”的概念记忆，但右手保留了无法清除的温度，属于底层硬件附着（只读）"
+    },
+    {
+      "id": "world_fragments",
+      "content": "古神吐出的时间线已变质，南极存在逻辑错误的时间碎片（如长翅膀的企鹅、留声机人）"
+    },
+    {
+      "id": "li_status",
+      "content": "李疯狂当前理智锁定100%，左眼系统错误（0xError），身体强度下降至65%"
+    },
+    {
+      "id": "error_code_love",
+      "content": "系统日志显示错误代码为“0x0000LOVE”，项目“疯狂星期四”已终止但状态建议作为永久保留的Bug"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角/高熵有序者",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

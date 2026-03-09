@@ -1,0 +1,103 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒（萧严）",
+      "age": "未知",
+      "role": "演员/主角（前世为定北侯）",
+      "description": "眼神深邃，演技精湛，此时为拍戏妆造，满头血污",
+      "status": "active"
+    },
+    {
+      "name": "王胖子",
+      "age": "未知",
+      "role": "艺人助理",
+      "description": "身材微胖，性格开朗机灵",
+      "status": "active"
+    },
+    {
+      "name": "小张",
+      "age": "未知",
+      "role": "化妆师",
+      "description": "细致但被萧寒眼神震慑",
+      "status": "active"
+    },
+    {
+      "name": "张伟",
+      "age": "未知",
+      "role": "导演",
+      "description": "对艺术有高要求，因萧寒的表演激动不已",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "影后/女主角（前世对应李瑾）",
+      "description": "身穿玄色龙袍，气场强大，对萧寒有复杂情感",
+      "status": "active"
+    },
+    {
+      "name": "陈宇",
+      "age": "未知",
+      "role": "男演员/男一号",
+      "description": "戏服为锦衣，因被抢戏而脸色铁青，心生嫉恨",
+      "status": "active"
+    },
+    {
+      "name": "小满",
+      "age": "未知",
+      "role": "林清雪助理",
+      "description": "负责搀扶林清雪",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "小满"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "finale_scene_shooting",
+      "description": "拍摄《大梁谍影》全剧终场戏，萧寒饰演权阉魏忠被处决",
+      "time": "2024年深秋午后"
+    },
+    {
+      "id": "improvised_acting",
+      "description": "萧寒临场发挥，以眼神和即兴台词震撼全场，完成杀青",
+      "time": "2024年深秋午后"
+    },
+    {
+      "id": "dinner_plan",
+      "description": "萧寒决定亲自买菜下厨，为林清雪做清蒸鲈鱼和鲫鱼豆腐汤",
+      "time": "傍晚"
+    }
+  ],
+  "time_period": "2024年深秋，午后四点至傍晚",
+  "locations": [
+    "横店影视城",
+    "《大梁谍影》刑场布景",
+    "剧组化妆间",
+    "剧组车内"
+  ],
+  "key_facts": [
+    {
+      "id": "rebirth_identity",
+      "content": "主角萧严拥有前世定北侯萧寒的记忆，前世于天狩七年被处决"
+    },
+    {
+      "id": "past_life_connection",
+      "content": "萧严视林清雪为前世女皇李瑾的对应人物，并与其产生跨越时空的情感共鸣"
+    },
+    {
+      "id": "show_wrapped",
+      "content": "电视剧《大梁谍影》所有戏份已拍摄完毕（杀青）"
+    },
+    {
+      "id": "chen_yu_hostility",
+      "content": "陈宇对萧严心存嫉妒，视其为竞争对手，并认为萧严靠林清雪上位"
+    },
+    {
+      "id": "food_preference",
+      "content": "林清雪爱吃清蒸鲈鱼；萧严计划做鲫鱼豆腐汤"
+    }
+  ]
+}

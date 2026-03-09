@@ -1,0 +1,82 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "逻辑之主（伪）v2.0 / 主角",
+      "description": "左眼为惨白色带有倒“V”符号，手持【李小鱼的肋骨（骨勺）】，性格绝对理智冷漠",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "同伴 / 资产",
+      "description": "左臂经历了【神性重构】，隐藏在袖子中，能逸散金色粉尘净化污染物",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "discovered_time_tampering",
+      "description": "发现公寓日历从“黑色星期四”篡改为“星期二”，推断世界跳过等待时间直接进行消化，进入了压缩的伪劣现实。",
+      "time": "清晨"
+    },
+    {
+      "id": "text_corruption_incident",
+      "description": "李疯狂尝试进行书面数据备份，文字自动扭曲变形为“V我50”等无意义信息，确认文字载体已被污染。",
+      "time": "清晨"
+    },
+    {
+      "id": "mutation_attack",
+      "description": "窗外天空泛起紫色霉菌，一辆破碎公交车被强制重组为巨型蜈蚣怪物撞击公寓。",
+      "time": "清晨"
+    },
+    {
+      "id": "definition_correction_cast",
+      "description": "李疯狂借用苏浅左臂的高维锚点权限，施展【定义修正】，将公寓标记为“数据丢失扇区”从而击退怪物。",
+      "time": "清晨"
+    }
+  ],
+  "time_period": "疯狂周期结束后的清晨（现实扭曲中，被篡改为星期二）",
+  "locations": [
+    "第4区·李疯狂的公寓（街道、玄关、屋内）",
+    "下水道尽头（即将前往的目的地）"
+  ],
+  "key_facts": [
+    {
+      "id": "world_residue_state",
+      "content": "当前现实版本为“残渣版本”，环境呈现灰败色泽，雨水带铁锈腥味，物质正在被恶意重组。"
+    },
+    {
+      "id": "time_axis_anomaly",
+      "content": "时间轴发生逻辑错误与断裂，从星期四直接跳跃/回滚至星期二，世界正在“消化”时间以加速进食。"
+    },
+    {
+      "id": "suqian_arm_attribute",
+      "content": "苏浅的左臂是“高维锚点”，能排斥紫色霉菌和净化淤泥，但会因高维能量排异产生剧痛和粉尘流失。"
+    },
+    {
+      "id": "li_crazy_ability_cost",
+      "content": "李疯狂使用【定义修正】会消耗算力并导致身体“逻辑崩坏”风险（如流黑色血迹）。"
+    },
+    {
+      "id": "written_text_unreliable",
+      "content": "文字底层规则已变质，书面记录不可信，易受污染变成谎言或无意义的诅咒。"
+    },
+    {
+      "id": "next_objective",
+      "content": "目标是前往下水道尽头寻找“投诉箱”的背面，那是连“星期二”都不敢轻易触碰的地方。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角/逻辑之主",
+      "names": [
+        "李疯狂",
+        "李狂热"
+      ]
+    }
+  ]
+}

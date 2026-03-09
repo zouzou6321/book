@@ -1,0 +1,63 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "前程序员/逻辑实体",
+      "description": "左眼为死寂惨白色倒“V”符号，右眼混沌不清，衣领破损，手持骨勺",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "收容局特工（代号净化者）/高维神性容器",
+      "description": "战术风衣破烂，头发湿漉漉，左手闪烁金色神性纹路并处于过载状态",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "emotion_module_uninstalled",
+      "description": "李疯狂在疯狂周期结束后醒来，因选择“退款”程序，情感模块被系统作为冗余数据卸载，变为极致理性的v2.0状态",
+      "time": "疯狂星期四后的黎明前最黑暗时刻"
+    },
+    {
+      "id": "refuse_survivor_aid",
+      "description": "李疯狂基于生存概率和收益计算，冷酷拒绝救助便利店中遇难者的孩子",
+      "time": "移动途中"
+    },
+    {
+      "id": "logic_of_rescue",
+      "description": "李疯狂向苏浅解释，若她遇险会救她是因为其A+级价值符合长期利益，仅为“止损”和“风控”，而非爱",
+      "time": "移动途中"
+    }
+  ],
+  "time_period": "疯狂星期四后的黎明前最黑暗时刻",
+  "locations": [
+    "第4区",
+    "满目疮痍的街道",
+    "废弃的长椅",
+    "冒着火星的便利店"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_status_v2",
+      "content": "李疯狂目前的情感模块已损坏或被删除，自称运行在最佳状态的“v2.0”，不再具备悲伤、同情等人类情感"
+    },
+    {
+      "id": "little_fish_bone_spoon",
+      "content": "李疯狂持有的骨勺由李小鱼的肋骨制成，刻有“致最挑剔的食客”，锋利度比旧勺子提升400%，是开启“后厨”隐藏地图的钥匙"
+    },
+    {
+      "id": "su_qian_arm_condition",
+      "content": "苏浅的左臂是新生的神性容器，目前存在高维能量排异反应，指节逸散金色粉尘"
+    },
+    {
+      "id": "su_qian_value_rank",
+      "content": "李疯狂判定苏浅的价值等级为A+，属于S级队友投资对象，普通幸存者仅为D-"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

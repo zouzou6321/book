@@ -1,0 +1,51 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "",
+      "role": "守秘人",
+      "description": "眼神深邃空洞，平静中带着疯狂气息，进食后打嗝冒青烟，拥有进化后的视觉和听觉",
+      "status": "active"
+    },
+    {
+      "name": "苏青",
+      "age": "",
+      "role": "警员/调查员",
+      "description": "紧握钛合金匕首，遭遇精神异常时感到恐惧，影子消失",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "c9_feeding",
+      "description": "顾长歌在C9区边缘使用“概念捕食”吃掉了被冻结的“周四回响”",
+      "time": "周日 20:05"
+    },
+    {
+      "id": "city_anomaly",
+      "description": "新纪元元年周三，城市空气粘稠，发生多起突发性精神失常事件",
+      "time": "周三"
+    },
+    {
+      "id": "mirror_horror",
+      "description": "苏青致电顾长歌，称镜子里的自己未关灯且在恐惧求救，自己的影子消失",
+      "time": "周三 22:00"
+    },
+    {
+      "id": "stabilization",
+      "description": "顾长歌指导苏青闭眼数羊以集中注意力，苏青恢复影子并平复情绪",
+      "time": "周三 22:00"
+    },
+    {
+      "id": "door_prowler",
+      "description": "顾长歌察觉门外有异响，通过猫眼发现403室（王大爷家）门缝后有横瞳怪眼窥视",
+      "time": "周三 22:05"
+    }
+  ],
+  "time_period": "新纪元元年，周三 22:00（含回溯至周日 20:05）",
+  "locations": [],
+  "key_facts": [],
+  "within_chapter_name_conflicts": []
+}

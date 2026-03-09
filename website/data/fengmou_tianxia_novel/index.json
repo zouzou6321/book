@@ -1,0 +1,438 @@
+{
+  "id": "fengmou_tianxia_novel",
+  "title": "凤谋天下",
+  "subtitle": "Phoenix Schemes the World",
+  "author": "AI & Thomas",
+  "description": "现代历史学博士苏锦瑟意外穿越到架空王朝大燕末年，以谋士身份辅佐势力最弱的靖王萧玄夜争霸天下，在与其他穿越女的智力交锋中步步为营，最终助男主登基称帝，也收获了一段从器重到深爱的旷世情缘。",
+  "tags": [
+    "女频穿越",
+    "架空历史",
+    "权谋争霸",
+    "言情"
+  ],
+  "cover_hue": 346,
+  "cover_image": true,
+  "total_chapters": 50,
+  "total_chars": 223420,
+  "volumes": [
+    {
+      "id": "volume_1_feng_luo_jiu_tian",
+      "name": "第一卷：凤落九天",
+      "chapters": [
+        {
+          "id": "chapter_001",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_001.md",
+          "title": "第一章：一梦千年",
+          "time": "",
+          "location": "",
+          "char_count": 3814
+        },
+        {
+          "id": "chapter_002",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_002.md",
+          "title": "第二章：靖王府",
+          "time": "",
+          "location": "",
+          "char_count": 4218
+        },
+        {
+          "id": "chapter_003",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_003.md",
+          "title": "第三章：破局一言",
+          "time": "",
+          "location": "",
+          "char_count": 4263
+        },
+        {
+          "id": "chapter_004",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_004.md",
+          "title": "第四章：初入棋局",
+          "time": "",
+          "location": "",
+          "char_count": 3784
+        },
+        {
+          "id": "chapter_005",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_005.md",
+          "title": "第五章：暗流涌动",
+          "time": "",
+          "location": "",
+          "char_count": 5817
+        },
+        {
+          "id": "chapter_006",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_006.md",
+          "title": "第六章：以战养战",
+          "time": "",
+          "location": "",
+          "char_count": 2660
+        },
+        {
+          "id": "chapter_007",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_007.md",
+          "title": "第七章：穿越者的直觉",
+          "time": "",
+          "location": "",
+          "char_count": 3057
+        },
+        {
+          "id": "chapter_008",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_008.md",
+          "title": "第八章：京城暗战（上）",
+          "time": "",
+          "location": "",
+          "char_count": 2803
+        },
+        {
+          "id": "chapter_009",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_009.md",
+          "title": "第九章：京城暗战（下）",
+          "time": "",
+          "location": "",
+          "char_count": 3902
+        },
+        {
+          "id": "chapter_010",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_010.md",
+          "title": "第十章：第二个穿越者",
+          "time": "",
+          "location": "",
+          "char_count": 3070
+        },
+        {
+          "id": "chapter_011",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_011.md",
+          "title": "第十一章：谍影重重",
+          "time": "",
+          "location": "",
+          "char_count": 3855
+        },
+        {
+          "id": "chapter_012",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_012.md",
+          "title": "第十二章：以商制商",
+          "time": "",
+          "location": "",
+          "char_count": 3033
+        },
+        {
+          "id": "chapter_013",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_013.md",
+          "title": "第十三章：联姻风波",
+          "time": "",
+          "location": "",
+          "char_count": 3907
+        },
+        {
+          "id": "chapter_014",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_014.md",
+          "title": "第十四章：帝心难测",
+          "time": "",
+          "location": "",
+          "char_count": 5808
+        },
+        {
+          "id": "chapter_015",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_015.md",
+          "title": "第十五章：北疆新政",
+          "time": "",
+          "location": "",
+          "char_count": 3850
+        },
+        {
+          "id": "chapter_016",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_016.md",
+          "title": "第十六章：棋逢对手",
+          "time": "",
+          "location": "",
+          "char_count": 4778
+        },
+        {
+          "id": "chapter_017",
+          "file": "fengmou_tianxia_novel/volume_1_feng_luo_jiu_tian/chapter_017.md",
+          "title": "第十七章：暴风前夕",
+          "time": "",
+          "location": "",
+          "char_count": 6571
+        }
+      ]
+    },
+    {
+      "id": "volume_2_long_zheng_hu_dou",
+      "name": "第二卷：龙争虎斗",
+      "chapters": [
+        {
+          "id": "chapter_018",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_018.md",
+          "title": "第十八章：龙驭上宾",
+          "time": "大燕历一五一年·冬",
+          "location": "北疆·靖王府",
+          "char_count": 3192
+        },
+        {
+          "id": "chapter_019",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_019.md",
+          "title": "第十九章：齐王起兵",
+          "time": "永安元年·初春",
+          "location": "江南·齐王行辕",
+          "char_count": 3319
+        },
+        {
+          "id": "chapter_020",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_020.md",
+          "title": "第二十章：借刀杀人",
+          "time": "永安元年·仲春",
+          "location": "北疆至中原·行军途中",
+          "char_count": 3312
+        },
+        {
+          "id": "chapter_021",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_021.md",
+          "title": "第二十一章：绝地反击",
+          "time": "永安元年·夏",
+          "location": "京城·御书房",
+          "char_count": 4110
+        },
+        {
+          "id": "chapter_022",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_022.md",
+          "title": "第二十二章：三分天下",
+          "time": "永安元年·秋",
+          "location": "齐鲁·济南·靖王驻所",
+          "char_count": 5367
+        },
+        {
+          "id": "chapter_023",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_023.md",
+          "title": "第二十三章：合纵连横",
+          "time": "永安元年·深秋",
+          "location": "齐鲁与中原交界·清平县",
+          "char_count": 6684
+        },
+        {
+          "id": "chapter_024",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_024.md",
+          "title": "第二十四章：信息战",
+          "time": "永安二年·初冬",
+          "location": "北疆·靖王治所",
+          "char_count": 4768
+        },
+        {
+          "id": "chapter_025",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_025.md",
+          "title": "第二十五章：经济绞杀",
+          "time": "永安二年·春",
+          "location": "北疆·靖王治所",
+          "char_count": 4203
+        },
+        {
+          "id": "chapter_026",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_026.md",
+          "title": "第二十六章：美人计",
+          "time": "永安二年·暮春",
+          "location": "靖王营地",
+          "char_count": 4455
+        },
+        {
+          "id": "chapter_027",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_027.md",
+          "title": "第二十七章：生死一线",
+          "time": "永安二年·夏",
+          "location": "齐鲁·前线",
+          "char_count": 7130
+        },
+        {
+          "id": "chapter_028",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_028.md",
+          "title": "第二十八章：代行王令",
+          "time": "永安二年·夏·苍狼峡之战后",
+          "location": "北疆·靖王军营",
+          "char_count": 6040
+        },
+        {
+          "id": "chapter_029",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_029.md",
+          "title": "第二十九章：齐王的裂痕",
+          "time": "永安二年·秋",
+          "location": "江南·金陵·齐王府",
+          "char_count": 4392
+        },
+        {
+          "id": "chapter_030",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_030.md",
+          "title": "第三十章：雪夜论策",
+          "time": "永安二年·冬",
+          "location": "北疆·靖王营帐",
+          "char_count": 4622
+        },
+        {
+          "id": "chapter_031",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_031.md",
+          "title": "第三十一章：将计就计",
+          "time": "永安三年·春",
+          "location": "北疆·靖王治所",
+          "char_count": 3753
+        },
+        {
+          "id": "chapter_032",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_032.md",
+          "title": "第三十二章：大战将至",
+          "time": "永安三年·春末",
+          "location": "北疆·靖王议事堂",
+          "char_count": 4237
+        },
+        {
+          "id": "chapter_033",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_033.md",
+          "title": "第三十三章：决战淮水",
+          "time": "永安三年·夏",
+          "location": "淮水北岸·靖王大营",
+          "char_count": 5204
+        },
+        {
+          "id": "chapter_034",
+          "file": "fengmou_tianxia_novel/volume_2_long_zheng_hu_dou/chapter_034.md",
+          "title": "第三十四章：月下心迹",
+          "time": "永安三年·夏·淮水大捷后第三日",
+          "location": "淮水北岸·靖王军营",
+          "char_count": 5412
+        }
+      ]
+    },
+    {
+      "id": "volume_3_feng_ming_tian_xia",
+      "name": "第三卷：凤鸣天下",
+      "chapters": [
+        {
+          "id": "chapter_035",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_035.md",
+          "title": "第三十五章：南征檄文",
+          "time": "永安二年·秋",
+          "location": "淮北·靖王行辕",
+          "char_count": 4817
+        },
+        {
+          "id": "chapter_036",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_036.md",
+          "title": "第三十六章：林妙音的动摇",
+          "time": "永安二年·秋",
+          "location": "京城·太子东宫",
+          "char_count": 4162
+        },
+        {
+          "id": "chapter_037",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_037.md",
+          "title": "第三十七章：情敌终章",
+          "time": "永安二年·深秋",
+          "location": "延津·靖王前哨营",
+          "char_count": 4849
+        },
+        {
+          "id": "chapter_038",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_038.md",
+          "title": "第三十八章：为你万死不辞",
+          "time": "永安二年·深秋",
+          "location": "京城外围·靖王大营",
+          "char_count": 6625
+        },
+        {
+          "id": "chapter_039",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_039.md",
+          "title": "第三十九章：破城之战",
+          "time": "永安二年·深秋·围城第七日",
+          "location": "京城外围·靖王大营",
+          "char_count": 6725
+        },
+        {
+          "id": "chapter_040",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_040.md",
+          "title": "第四十章：顾清影的落幕",
+          "time": "京城既定后·第七日",
+          "location": "京城·靖王行辕 / 荆湘前线 / 江南",
+          "char_count": 3158
+        },
+        {
+          "id": "chapter_041",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_041.md",
+          "title": "第四十一章：新朝初立",
+          "time": "永安四年·秋·九月初九",
+          "location": "京城·太极殿",
+          "char_count": 3718
+        },
+        {
+          "id": "chapter_042",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_042.md",
+          "title": "第四十二章：封后之争",
+          "time": "开元元年·秋·九月下旬",
+          "location": "京城·紫宸殿 / 苏锦瑟居所",
+          "char_count": 3434
+        },
+        {
+          "id": "chapter_043",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_043.md",
+          "title": "第四十三章：千年之秘",
+          "time": "开元元年·秋·九月廿八·深夜",
+          "location": "京城·御书房",
+          "char_count": 3918
+        },
+        {
+          "id": "chapter_044",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_044.md",
+          "title": "第四十四章：龙凤呈祥",
+          "time": "开元元年·秋·十月初三",
+          "location": "京城·太极殿 / 坤宁宫",
+          "char_count": 5065
+        },
+        {
+          "id": "chapter_045",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_045.md",
+          "title": "第四十五章：凤冠加冕",
+          "time": "大晟开元元年·秋·九月初九",
+          "location": "京城·太极殿",
+          "char_count": 5442
+        },
+        {
+          "id": "chapter_046",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_046.md",
+          "title": "第四十六章：安内攘外",
+          "time": "大晟开元元年·秋·九月至十一月",
+          "location": "京城·御书房 / 北疆·雁门关",
+          "char_count": 4112
+        },
+        {
+          "id": "chapter_047",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_047.md",
+          "title": "第四十七章：盛世蓝图",
+          "time": "大晟开元二年·春至秋",
+          "location": "京城·皇宫",
+          "char_count": 4224
+        },
+        {
+          "id": "chapter_048",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_048.md",
+          "title": "第四十八章：穿越者的余波",
+          "time": "大晟开元四年·春·三月",
+          "location": "京城·皇宫",
+          "char_count": 3732
+        },
+        {
+          "id": "chapter_049",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_049.md",
+          "title": "第四十九章：一世长安",
+          "time": "大晟开元四年·夏至秋",
+          "location": "京城·皇宫",
+          "char_count": 4090
+        },
+        {
+          "id": "chapter_050",
+          "file": "fengmou_tianxia_novel/volume_3_feng_ming_tian_xia/chapter_050.md",
+          "title": "第五十章：凤鸣九天",
+          "time": "大晟开元五年·春·正月十五",
+          "location": "京城·太极殿",
+          "char_count": 5959
+        }
+      ]
+    }
+  ],
+  "channel": ""
+}

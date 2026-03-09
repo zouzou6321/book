@@ -1,0 +1,1767 @@
+{
+  "ok": false,
+  "issues": [
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "李疯狂",
+      "detail": "角色「李疯狂」年龄不一致：chapter_006中为未知; chapter_008中为未提及; chapter_010中为未知; chapter_012中为未知; chapter_015中为未知; chapter_016中为未提及; chapter_020中为Unknown; chapter_024中为Unknown; chapter_032中为未知; chapter_040中为未知; chapter_044中为未知; chapter_045中为未知; chapter_046中为26岁; chapter_050中为未知; chapter_052中为未知; chapter_055中为未知; chapter_057中为未知; chapter_058中为未知; chapter_059中为未知; chapter_060中为未知; chapter_062中为未知; chapter_063中为未提及; chapter_064中为未知; chapter_065中为26岁; chapter_066中为未知; chapter_068中为未知; chapter_073中为未提及; chapter_075中为未知; chapter_080中为未知; chapter_082中为未知; chapter_086中为未知; chapter_087中为未知; chapter_090中为未知; chapter_095中为未知; chapter_098中为未知; chapter_099中为未知; chapter_102中为未知; chapter_104中为未知; chapter_111中为未知; chapter_114中为未知; chapter_118中为未知; chapter_120中为未提及; chapter_121中为未知; chapter_132中为未提及; chapter_133中为未知; chapter_135中为未知; chapter_137中为未知; chapter_138中为未知; chapter_140中为Unknown; chapter_142中为未知; chapter_145中为未提及; chapter_147中为26; chapter_150中为Unknown; chapter_152中为Unknown; chapter_153中为未知（已进化）; chapter_158中为未知; chapter_159中为未知; chapter_161中为未提及; chapter_164中为未知; chapter_166中为未知(数据体状态); chapter_167中为未知; chapter_168中为未明确; chapter_169中为未知; chapter_171中为未知; chapter_176中为未知; chapter_179中为未知; chapter_180中为二十六岁; chapter_181中为26岁; chapter_183中为26; chapter_184中为26; chapter_189中为二十六岁; chapter_193中为未提及; chapter_195中为未知; chapter_198中为未知; chapter_200中为未知",
+      "chapters": [
+        "chapter_006",
+        "chapter_008",
+        "chapter_010",
+        "chapter_012",
+        "chapter_015",
+        "chapter_016",
+        "chapter_020",
+        "chapter_024",
+        "chapter_032",
+        "chapter_040",
+        "chapter_044",
+        "chapter_045",
+        "chapter_046",
+        "chapter_050",
+        "chapter_052",
+        "chapter_055",
+        "chapter_057",
+        "chapter_058",
+        "chapter_059",
+        "chapter_060",
+        "chapter_062",
+        "chapter_063",
+        "chapter_064",
+        "chapter_065",
+        "chapter_066",
+        "chapter_068",
+        "chapter_073",
+        "chapter_075",
+        "chapter_080",
+        "chapter_082",
+        "chapter_086",
+        "chapter_087",
+        "chapter_090",
+        "chapter_095",
+        "chapter_098",
+        "chapter_099",
+        "chapter_102",
+        "chapter_104",
+        "chapter_111",
+        "chapter_114",
+        "chapter_118",
+        "chapter_120",
+        "chapter_121",
+        "chapter_132",
+        "chapter_133",
+        "chapter_135",
+        "chapter_137",
+        "chapter_138",
+        "chapter_140",
+        "chapter_142",
+        "chapter_145",
+        "chapter_147",
+        "chapter_150",
+        "chapter_152",
+        "chapter_153",
+        "chapter_158",
+        "chapter_159",
+        "chapter_161",
+        "chapter_164",
+        "chapter_166",
+        "chapter_167",
+        "chapter_168",
+        "chapter_169",
+        "chapter_171",
+        "chapter_176",
+        "chapter_179",
+        "chapter_180",
+        "chapter_181",
+        "chapter_183",
+        "chapter_184",
+        "chapter_189",
+        "chapter_193",
+        "chapter_195",
+        "chapter_198",
+        "chapter_200"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "李小鱼",
+      "detail": "角色「李小鱼」年龄不一致：chapter_012中为儿童; chapter_015中为幼童; chapter_016中为未提及; chapter_018中为16岁; chapter_020中为Unknown; chapter_024中为Unknown (Child); chapter_106中为儿童",
+      "chapters": [
+        "chapter_012",
+        "chapter_015",
+        "chapter_016",
+        "chapter_018",
+        "chapter_020",
+        "chapter_024",
+        "chapter_106"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "苏浅",
+      "detail": "角色「苏浅」年龄不一致：chapter_008中为未提及; chapter_010中为未知; chapter_012中为未知; chapter_015中为未知; chapter_016中为未提及; chapter_020中为Unknown; chapter_024中为Unknown; chapter_029中为未知; chapter_032中为未知; chapter_040中为未知; chapter_044中为未知; chapter_045中为未知; chapter_050中为未知; chapter_052中为未知; chapter_055中为25; chapter_057中为未知; chapter_058中为未知; chapter_059中为未知; chapter_060中为未知; chapter_062中为未知; chapter_064中为未知; chapter_065中为25岁; chapter_066中为未知; chapter_068中为未知; chapter_073中为未提及; chapter_075中为未知; chapter_080中为未知; chapter_086中为未知; chapter_087中为未知; chapter_090中为未知; chapter_095中为未知; chapter_098中为未知; chapter_099中为未知; chapter_102中为未知; chapter_104中为未知; chapter_111中为未知; chapter_114中为未知; chapter_118中为未知; chapter_120中为未提及; chapter_121中为未知; chapter_132中为未提及; chapter_133中为未知; chapter_135中为未知; chapter_137中为未知; chapter_140中为Unknown; chapter_142中为未知; chapter_150中为Unknown; chapter_153中为未知; chapter_159中为未知; chapter_161中为未提及; chapter_164中为未知; chapter_166中为未知; chapter_167中为未知; chapter_168中为未明确; chapter_169中为未知; chapter_171中为未知; chapter_176中为未知; chapter_179中为未知; chapter_180中为二十五岁左右; chapter_193中为未提及; chapter_195中为未知; chapter_198中为28; chapter_200中为未知",
+      "chapters": [
+        "chapter_008",
+        "chapter_010",
+        "chapter_012",
+        "chapter_015",
+        "chapter_016",
+        "chapter_020",
+        "chapter_024",
+        "chapter_029",
+        "chapter_032",
+        "chapter_040",
+        "chapter_044",
+        "chapter_045",
+        "chapter_050",
+        "chapter_052",
+        "chapter_055",
+        "chapter_057",
+        "chapter_058",
+        "chapter_059",
+        "chapter_060",
+        "chapter_062",
+        "chapter_064",
+        "chapter_065",
+        "chapter_066",
+        "chapter_068",
+        "chapter_073",
+        "chapter_075",
+        "chapter_080",
+        "chapter_086",
+        "chapter_087",
+        "chapter_090",
+        "chapter_095",
+        "chapter_098",
+        "chapter_099",
+        "chapter_102",
+        "chapter_104",
+        "chapter_111",
+        "chapter_114",
+        "chapter_118",
+        "chapter_120",
+        "chapter_121",
+        "chapter_132",
+        "chapter_133",
+        "chapter_135",
+        "chapter_137",
+        "chapter_140",
+        "chapter_142",
+        "chapter_150",
+        "chapter_153",
+        "chapter_159",
+        "chapter_161",
+        "chapter_164",
+        "chapter_166",
+        "chapter_167",
+        "chapter_168",
+        "chapter_169",
+        "chapter_171",
+        "chapter_176",
+        "chapter_179",
+        "chapter_180",
+        "chapter_193",
+        "chapter_195",
+        "chapter_198",
+        "chapter_200"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "三头柯基",
+      "detail": "角色「三头柯基」年龄不一致：chapter_015中为未知; chapter_016中为未提及",
+      "chapters": [
+        "chapter_015",
+        "chapter_016"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "半机械驾驶员",
+      "detail": "角色「半机械驾驶员」年龄不一致：chapter_063中为未提及; chapter_065中为未知; chapter_066中为未知; chapter_068中为未知",
+      "chapters": [
+        "chapter_063",
+        "chapter_065",
+        "chapter_066",
+        "chapter_068"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "影子",
+      "detail": "角色「影子」年龄不一致：chapter_068中为未知; chapter_135中为未知; chapter_140中为Unknown",
+      "chapters": [
+        "chapter_068",
+        "chapter_135",
+        "chapter_140"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "星期四创始人",
+      "detail": "角色「星期四创始人」年龄不一致：chapter_150中为Unknown; chapter_164中为未知",
+      "chapters": [
+        "chapter_150",
+        "chapter_164"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "古神",
+      "detail": "角色「古神」年龄不一致：chapter_150中为Ancient; chapter_167中为未知; chapter_193中为未知",
+      "chapters": [
+        "chapter_150",
+        "chapter_167",
+        "chapter_193"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "李疯狂",
+      "detail": "角色「李疯狂」在chapter_004中已离开诊所，但在chapter_006中再次活跃出场",
+      "chapters": [
+        "chapter_004",
+        "chapter_006"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "苏浅",
+      "detail": "角色「苏浅」在chapter_040中已离开，但在chapter_042中再次活跃出场",
+      "chapters": [
+        "chapter_040",
+        "chapter_042"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "影子",
+      "detail": "角色「影子」在chapter_068中已被李疯狂使用【篡改 · 协议层强制覆盖】强制删除，但在chapter_135中再次活跃出场",
+      "chapters": [
+        "chapter_068",
+        "chapter_135"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "副主厨",
+      "detail": "角色「副主厨」在chapter_106中已融入阴影中离开，但在chapter_107中再次活跃出场",
+      "chapters": [
+        "chapter_106",
+        "chapter_107"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "完美李疯狂",
+      "detail": "角色「完美李疯狂」在chapter_117中已死亡（被李疯狂删除），但在chapter_141中再次活跃出场",
+      "chapters": [
+        "chapter_117",
+        "chapter_141"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "乌鸦",
+      "detail": "角色「乌鸦」在chapter_158中已因恐惧且生意亏损而逃离，但在chapter_160中再次活跃出场",
+      "chapters": [
+        "chapter_158",
+        "chapter_160"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "古神残魂",
+      "detail": "角色「古神残魂」在chapter_160中已宿主李疯狂自我毁灭，古神残骸风化为沙砾，但在chapter_161中再次活跃出场",
+      "chapters": [
+        "chapter_160",
+        "chapter_161"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "李疯狂",
+      "detail": "角色「李疯狂」在多个章节被作为新角色引入：chapter_001, chapter_010, chapter_018",
+      "chapters": [
+        "chapter_001",
+        "chapter_010",
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "李小鱼",
+      "detail": "角色「李小鱼」在多个章节被作为新角色引入：chapter_004, chapter_010, chapter_012, chapter_018",
+      "chapters": [
+        "chapter_004",
+        "chapter_010",
+        "chapter_012",
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "苏浅",
+      "detail": "角色「苏浅」在多个章节被作为新角色引入：chapter_008, chapter_010, chapter_012, chapter_018",
+      "chapters": [
+        "chapter_008",
+        "chapter_010",
+        "chapter_012",
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "财务总监",
+      "detail": "角色「财务总监」在多个章节被作为新角色引入：chapter_018, chapter_163, chapter_164",
+      "chapters": [
+        "chapter_018",
+        "chapter_163",
+        "chapter_164"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "创始人肯",
+      "detail": "角色「创始人肯」在多个章节被作为新角色引入：chapter_029, chapter_050",
+      "chapters": [
+        "chapter_029",
+        "chapter_050"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "盒装侍者",
+      "detail": "角色「盒装侍者」在多个章节被作为新角色引入：chapter_032, chapter_057",
+      "chapters": [
+        "chapter_032",
+        "chapter_057"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "主厨",
+      "detail": "角色「主厨」在多个章节被作为新角色引入：chapter_062, chapter_095, chapter_135, chapter_146",
+      "chapters": [
+        "chapter_062",
+        "chapter_095",
+        "chapter_135",
+        "chapter_146"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "半机械驾驶员",
+      "detail": "角色「半机械驾驶员」在多个章节被作为新角色引入：chapter_063, chapter_065",
+      "chapters": [
+        "chapter_063",
+        "chapter_065"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "影子",
+      "detail": "角色「影子」在多个章节被作为新角色引入：chapter_068, chapter_135, chapter_140",
+      "chapters": [
+        "chapter_068",
+        "chapter_135",
+        "chapter_140"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "副主厨",
+      "detail": "角色「副主厨」在多个章节被作为新角色引入：chapter_106, chapter_108",
+      "chapters": [
+        "chapter_106",
+        "chapter_108"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "完美李疯狂",
+      "detail": "角色「完美李疯狂」在多个章节被作为新角色引入：chapter_117, chapter_141",
+      "chapters": [
+        "chapter_117",
+        "chapter_141"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "星期四创始人",
+      "detail": "角色「星期四创始人」在多个章节被作为新角色引入：chapter_150, chapter_164",
+      "chapters": [
+        "chapter_150",
+        "chapter_164"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_006"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_008"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角/李疯狂」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_009"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_012"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "肯、上校、The Colonel、创始人、那位大人",
+      "detail": "本章内「S+级旧日支配者/雕像之神」先后被指代为不同人名：肯、上校、The Colonel、创始人、那位大人，需统一为同一人。",
+      "chapters": [
+        "chapter_017"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角（李疯狂）」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "备料主管·剔骨者、张师傅、张三",
+      "detail": "本章内「备料主管·剔骨者」先后被指代为不同人名：备料主管·剔骨者、张师傅、张三，需统一为同一人。",
+      "chapters": [
+        "chapter_024"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李狂疯",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、李狂疯，需统一为同一人。",
+      "chapters": [
+        "chapter_035"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy、李 crazy",
+      "detail": "本章内「男主角」先后被指代为不同人名：李疯狂、李 crazy、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_036"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy、李老板",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、李 crazy、李老板，需统一为同一人。",
+      "chapters": [
+        "chapter_038"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「男主角」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_046"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "小女孩、小雅",
+      "detail": "本章内「递眼球的小女孩（被废弃的快乐样本）」先后被指代为不同人名：小女孩、小雅，需统一为同一人。",
+      "chapters": [
+        "chapter_050"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "黑礼服李疯狂、黑礼服",
+      "detail": "本章内「李疯狂的暗面/对手」先后被指代为不同人名：黑礼服李疯狂、黑礼服，需统一为同一人。",
+      "chapters": [
+        "chapter_052"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李狂热",
+      "detail": "本章内「主角/逻辑之主」先后被指代为不同人名：李疯狂、李狂热，需统一为同一人。",
+      "chapters": [
+        "chapter_059"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李小鱼（伪）、小女孩、星期三·回溯核心",
+      "detail": "本章内「诺亚方舟动力源核心」先后被指代为不同人名：李小鱼（伪）、小女孩、星期三·回溯核心，需统一为同一人。",
+      "chapters": [
+        "chapter_064"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy、导航员",
+      "detail": "本章内「李疯狂」先后被指代为不同人名：李疯狂、李 crazy、导航员，需统一为同一人。",
+      "chapters": [
+        "chapter_064"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "半机械驾驶员、驾驶员",
+      "detail": "本章内「驾驶员/转化为影子前的实体」先后被指代为不同人名：半机械驾驶员、驾驶员，需统一为同一人。",
+      "chapters": [
+        "chapter_068"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "序列 · 神性容器（未完成）、主人的餐具",
+      "detail": "本章内「苏浅左臂的描述」先后被指代为不同人名：序列 · 神性容器（未完成）、主人的餐具，需统一为同一人。",
+      "chapters": [
+        "chapter_068"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "西装李疯狂、没疯的你、镜子里的自己",
+      "detail": "本章内「来自过去的李疯狂」先后被指代为不同人名：西装李疯狂、没疯的你、镜子里的自己，需统一为同一人。",
+      "chapters": [
+        "chapter_068"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "影子、副主厨、苍蝇、餐巾纸上的一块污渍",
+      "detail": "本章内「敌对实体」先后被指代为不同人名：影子、副主厨、苍蝇、餐巾纸上的一块污渍，需统一为同一人。",
+      "chapters": [
+        "chapter_068"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_073"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "厨师长、主厨",
+      "detail": "本章内「反派头目/厨师」先后被指代为不同人名：厨师长、主厨，需统一为同一人。",
+      "chapters": [
+        "chapter_073"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角/宿主」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_090"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "苏浅、Type-K、铁脑壳",
+      "detail": "本章内「代号Type-K的机械巨人」先后被指代为不同人名：苏浅、Type-K、铁脑壳，需统一为同一人。",
+      "chapters": [
+        "chapter_094"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "主厨、旧日支配者、前科学家、黑心老板",
+      "detail": "本章内「主厨」先后被指代为不同人名：主厨、旧日支配者、前科学家、黑心老板，需统一为同一人。",
+      "chapters": [
+        "chapter_095"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "上校、实习生",
+      "detail": "本章内「上校」先后被指代为不同人名：上校、实习生，需统一为同一人。",
+      "chapters": [
+        "chapter_095"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "主厨、厨师长",
+      "detail": "本章内「高维生物/掌权者」先后被指代为不同人名：主厨、厨师长，需统一为同一人。",
+      "chapters": [
+        "chapter_104"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "完美李疯狂、完美李 crazy",
+      "detail": "本章内「完美李疯狂（此处指代同一反派实体）」先后被指代为不同人名：完美李疯狂、完美李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_117"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_121"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy、李 疯狂、小李、疯狂星期四",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、李 crazy、李 疯狂、小李、疯狂星期四，需统一为同一人。",
+      "chapters": [
+        "chapter_139"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "主厨、掌勺的、上面那个、神明、上帝",
+      "detail": "本章内「反派/神明」先后被指代为不同人名：主厨、掌勺的、上面那个、神明、上帝，需统一为同一人。",
+      "chapters": [
+        "chapter_139"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "影子、副主厨大人、另一个你",
+      "detail": "本章内「主厨代理人 / 李疯狂的影子」先后被指代为不同人名：影子、副主厨大人、另一个你，需统一为同一人。",
+      "chapters": [
+        "chapter_140"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "楼层经理、没脑子的服务员",
+      "detail": "本章内「变异体怪物 / 服务员」先后被指代为不同人名：楼层经理、没脑子的服务员，需统一为同一人。",
+      "chapters": [
+        "chapter_140"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "食评家、招牌菜、Human_v2.0测试版用户、坏种",
+      "detail": "本章内「李疯狂」先后被指代为不同人名：食评家、招牌菜、Human_v2.0测试版用户、坏种，需统一为同一人。",
+      "chapters": [
+        "chapter_140"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角/高熵有序者」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_151"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "Admin Su Qian、苏浅",
+      "detail": "本章内「痛觉管理系统管理员」先后被指代为不同人名：Admin Su Qian、苏浅，需统一为同一人。",
+      "chapters": [
+        "chapter_156"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、理、智、理智",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、理、智、理智，需统一为同一人。",
+      "chapters": [
+        "chapter_158"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "乌鸦、审计员",
+      "detail": "本章内「因果局审计员」先后被指代为不同人名：乌鸦、审计员，需统一为同一人。",
+      "chapters": [
+        "chapter_158"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、理智、爷",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、理智、爷，需统一为同一人。",
+      "chapters": [
+        "chapter_159"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "饕餮嘴、巨嘴",
+      "detail": "本章内「黑市店主」先后被指代为不同人名：饕餮嘴、巨嘴，需统一为同一人。",
+      "chapters": [
+        "chapter_159"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角（半神/服务生）」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_163"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "收银员、乞丐",
+      "detail": "本章内「餐厅门口的管理者」先后被指代为不同人名：收银员、乞丐，需统一为同一人。",
+      "chapters": [
+        "chapter_163"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "阿傻、38号病人",
+      "detail": "本章内「38号病人」先后被指代为不同人名：阿傻、38号病人，需统一为同一人。",
+      "chapters": [
+        "chapter_169"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "阿傻、阿俊",
+      "detail": "本章内「身体原主（阿傻）」先后被指代为不同人名：阿傻、阿俊，需统一为同一人。",
+      "chapters": [
+        "chapter_171"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角（李疯狂）」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_171"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "面具人、暴食之主、冒牌货、高熵有序者",
+      "detail": "本章内「反派/自称暴食之主的存在」先后被指代为不同人名：面具人、暴食之主、冒牌货、高熵有序者，需统一为同一人。",
+      "chapters": [
+        "chapter_177"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "剔骨工、迎宾机器人",
+      "detail": "本章内「旧日餐厅清理单位/机械巨手」先后被指代为不同人名：剔骨工、迎宾机器人，需统一为同一人。",
+      "chapters": [
+        "chapter_179"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "苏浅、Admin Su Qian",
+      "detail": "本章内「世界锚点/李疯狂的伴侣」先后被指代为不同人名：苏浅、Admin Su Qian，需统一为同一人。",
+      "chapters": [
+        "chapter_179"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「男主角」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_180"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy、李 insane",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、李 crazy、李 insane，需统一为同一人。",
+      "chapters": [
+        "chapter_183"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李 crazy",
+      "detail": "本章内「主角/院长/厨师」先后被指代为不同人名：李疯狂、李 crazy，需统一为同一人。",
+      "chapters": [
+        "chapter_185"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李经理、Mr. Li",
+      "detail": "本章内「“老爹炸鸡”总裁/老板」先后被指代为不同人名：李疯狂、李经理、Mr. Li，需统一为同一人。",
+      "chapters": [
+        "chapter_194"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李老板、小偷",
+      "detail": "本章内「主角（李疯狂）」先后被指代为不同人名：李疯狂、李老板、小偷，需统一为同一人。",
+      "chapters": [
+        "chapter_195"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "苏浅、Bug、合伙人",
+      "detail": "本章内「苏浅」先后被指代为不同人名：苏浅、Bug、合伙人，需统一为同一人。",
+      "chapters": [
+        "chapter_195"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "古神、房东、董事会",
+      "detail": "本章内「旧日神明/敌对势力」先后被指代为不同人名：古神、房东、董事会，需统一为同一人。",
+      "chapters": [
+        "chapter_195"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "李疯狂、李",
+      "detail": "本章内「主角」先后被指代为不同人名：李疯狂、李，需统一为同一人。",
+      "chapters": [
+        "chapter_200"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「memory_restoration」的时间在不同章节不一致：chapter_017中为「11:42」; chapter_168中为「深夜」",
+      "chapters": [
+        "chapter_017",
+        "chapter_168"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「fall_into_abyss」的时间在不同章节不一致：chapter_020中为「第一周期·周四 06:00」; chapter_108中为「定格的时间流中」",
+      "chapters": [
+        "chapter_020",
+        "chapter_108"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「logic_overwrite」的时间在不同章节不一致：chapter_035中为「周六黎明前」; chapter_166中为「23:59」",
+      "chapters": [
+        "chapter_035",
+        "chapter_166"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「sequence_promotion」的时间在不同章节不一致：chapter_035中为「周六清晨」; chapter_036中为「周六上午」",
+      "chapters": [
+        "chapter_035",
+        "chapter_036"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「waking_up」的时间在不同章节不一致：chapter_036中为「周六上午」; chapter_047中为「深夜/黎明前」",
+      "chapters": [
+        "chapter_036",
+        "chapter_047"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「enter_black_market」的时间在不同章节不一致：chapter_069中为「上午10:14」; chapter_082中为「周五上午 10:30」",
+      "chapters": [
+        "chapter_069",
+        "chapter_082"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「su_qian_sacrifice」的时间在不同章节不一致：chapter_117中为「疯狂星期四」; chapter_133中为「周日倒计时 03:33」",
+      "chapters": [
+        "chapter_117",
+        "chapter_133"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「monster_encounter」的时间在不同章节不一致：chapter_134中为「周日倒计时 02:58」; chapter_168中为「入夜后」",
+      "chapters": [
+        "chapter_134",
+        "chapter_168"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「su_qian_intervention」的时间在不同章节不一致：chapter_147中为「零点已过」; chapter_156中为「战后第一分钟」",
+      "chapters": [
+        "chapter_147",
+        "chapter_156"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "李疯狂",
+      "detail": "角色「李疯狂」身份描述出现3种以上变体：chapter_001中为「程序员/主角」; chapter_004中为「主角」; chapter_006中为「前程序员/记录者」; chapter_008中为「【记录者】/变异幸存者」; chapter_009中为「主角/厨师/收容局临时合作者」; chapter_010中为「记录者/程序员」; chapter_012中为「主角/拥有特殊能力的人类」; chapter_013中为「主角」; chapter_015中为「主角/变异体」; chapter_016中为「主角/容器」; chapter_017中为「“真理之胃”宿主」; chapter_018中为「主角/潜在“主厨”」; chapter_020中为「主厨候选人/收容物」; chapter_021中为「程序员/变异者」; chapter_024中为「真理之胃宿主」; chapter_032中为「主角/进化者」; chapter_034中为「主角/暴食者」; chapter_035中为「主角/篡改者」; chapter_036中为「主角/篡改者」; chapter_038中为「主角/篡改者」; chapter_039中为「特工/食客」; chapter_040中为「篡改者」; chapter_042中为「篡改者/幸存者」; chapter_043中为「篡改者」; chapter_044中为「篡改者/主角」; chapter_045中为「篡改者/程序员」; chapter_046中为「篡改者/源代码/任务目标」; chapter_047中为「主角」; chapter_050中为「主角/篡改者」; chapter_052中为「主角」; chapter_053中为「主角」; chapter_054中为「主角/篡改者」; chapter_055中为「逻辑之主（伪）」; chapter_057中为「差评师」; chapter_058中为「前程序员/逻辑实体」; chapter_059中为「逻辑之主（伪）v2.0 / 主角」; chapter_060中为「主角/逻辑之主」; chapter_062中为「导航员/逻辑之主/副主厨」; chapter_063中为「导航员 / 逻辑之主（伪）v2.0宿主」; chapter_064中为「导航员/逻辑之主」; chapter_065中为「理智之主（伪）」; chapter_066中为「导航员」; chapter_067中为「导航员/理智之主（伪）」; chapter_068中为「暴食者/篡改者」; chapter_069中为「幸存者/记录者」; chapter_070中为「S级资产/导航员」; chapter_073中为「主角」; chapter_075中为「主角/领袖」; chapter_076中为「诺亚方舟领袖 / 逻辑之主」; chapter_079中为「主角/核心动力源」; chapter_080中为「导航员」; chapter_082中为「篡改者」; chapter_083中为「主角，篡改者」; chapter_085中为「主角/食客」; chapter_086中为「主角/篡改者」; chapter_087中为「消费者协会代表/评审员/主角」; chapter_090中为「主角/宿主」; chapter_094中为「干涉者/食客」; chapter_095中为「主角/干涉者」; chapter_096中为「干涉者/幸存者」; chapter_098中为「主角」; chapter_099中为「主角 / 指挥官」; chapter_100中为「篡改者/自称管理员」; chapter_102中为「真理之胃宿主 / 前程序员」; chapter_104中为「主角/差评师」; chapter_106中为「父亲/主角」; chapter_107中为「主角」; chapter_108中为「主角/自定义为病毒的防火墙」; chapter_111中为「赌徒/程序员/流浪者」; chapter_113中为「副主厨/差评师」; chapter_114中为「主角/用户」; chapter_115中为「逻辑之主（伪）」; chapter_117中为「副主厨」; chapter_118中为「唯一未能消化的食材」; chapter_120中为「逻辑之主/BUG/病毒」; chapter_121中为「主角/职员」; chapter_126中为「程序员/逻辑之主(伪)/第0号碎片」; chapter_127中为「逻辑之主/机长」; chapter_131中为「幸存者/理智之主（伪）」; chapter_132中为「主角/逃离者」; chapter_133中为「主角/理智之主（伪）序列持有者」; chapter_134中为「程序员/食客」; chapter_135中为「主角、前程序员」; chapter_137中为「副主厨/补天者」; chapter_138中为「前管理员/未注册用户」; chapter_139中为「主角/程序员/Human_v2.0测试版用户」; chapter_140中为「食评家 / 招牌菜」; chapter_141中为「副主厨/Human_v2.0」; chapter_142中为「副主厨」; chapter_145中为「理智之主（伪）」; chapter_146中为「顾客/人类」; chapter_147中为「主角/特餐」; chapter_150中为「Protagonist / Reviser」; chapter_151中为「高熵有序者」; chapter_152中为「半神（伪）/ 高熵有序者」; chapter_153中为「高熵有序者/半神」; chapter_154中为「半神/高熵有序者」; chapter_155中为「半神/主角」; chapter_156中为「前半神/古神容器」; chapter_158中为「救世主/觉醒者/高熵有序者」; chapter_159中为「半神/前社畜/容器」; chapter_160中为「弑神者/前理智化怪物」; chapter_161中为「高熵有序者/篡改者」; chapter_162中为「主角/半神」; chapter_163中为「半神/伪装服务生」; chapter_164中为「篡改者/伪装服务生」; chapter_166中为「篡改者/世界守护灵」; chapter_167中为「世界管理员/观测者」; chapter_168中为「世界后台进程/防火墙（高维病毒）」; chapter_169中为「数据意识/防火墙」; chapter_171中为「主角/宿主」; chapter_176中为「主角/容器意识」; chapter_177中为「主角/诈骗师/高熵有序者」; chapter_179中为「数据幽灵 / 高熵有序者」; chapter_180中为「前高熵有序者/普通程序员」; chapter_181中为「主角/前“理智之主”」; chapter_183中为「主角/平衡者」; chapter_184中为「篡改者/暴食者/普通社畜」; chapter_185中为「疯人院院长/厨师」; chapter_189中为「老爹炸鸡经理」; chapter_193中为「防火墙/规则掌控者」; chapter_194中为「“老爹炸鸡”全球总部总裁」; chapter_195中为「主角/特许经营权持有者」; chapter_198中为「世界规则/管理员/隐形的食客」; chapter_200中为「系统补丁/清道夫/逻辑之主」",
+      "chapters": [
+        "chapter_001",
+        "chapter_004",
+        "chapter_006",
+        "chapter_008",
+        "chapter_009",
+        "chapter_010",
+        "chapter_012",
+        "chapter_013",
+        "chapter_015",
+        "chapter_016",
+        "chapter_017",
+        "chapter_018",
+        "chapter_020",
+        "chapter_021",
+        "chapter_024",
+        "chapter_032",
+        "chapter_034",
+        "chapter_035",
+        "chapter_036",
+        "chapter_038",
+        "chapter_039",
+        "chapter_040",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_045",
+        "chapter_046",
+        "chapter_047",
+        "chapter_050",
+        "chapter_052",
+        "chapter_053",
+        "chapter_054",
+        "chapter_055",
+        "chapter_057",
+        "chapter_058",
+        "chapter_059",
+        "chapter_060",
+        "chapter_062",
+        "chapter_063",
+        "chapter_064",
+        "chapter_065",
+        "chapter_066",
+        "chapter_067",
+        "chapter_068",
+        "chapter_069",
+        "chapter_070",
+        "chapter_073",
+        "chapter_075",
+        "chapter_076",
+        "chapter_079",
+        "chapter_080",
+        "chapter_082",
+        "chapter_083",
+        "chapter_085",
+        "chapter_086",
+        "chapter_087",
+        "chapter_090",
+        "chapter_094",
+        "chapter_095",
+        "chapter_096",
+        "chapter_098",
+        "chapter_099",
+        "chapter_100",
+        "chapter_102",
+        "chapter_104",
+        "chapter_106",
+        "chapter_107",
+        "chapter_108",
+        "chapter_111",
+        "chapter_113",
+        "chapter_114",
+        "chapter_115",
+        "chapter_117",
+        "chapter_118",
+        "chapter_120",
+        "chapter_121",
+        "chapter_126",
+        "chapter_127",
+        "chapter_131",
+        "chapter_132",
+        "chapter_133",
+        "chapter_134",
+        "chapter_135",
+        "chapter_137",
+        "chapter_138",
+        "chapter_139",
+        "chapter_140",
+        "chapter_141",
+        "chapter_142",
+        "chapter_145",
+        "chapter_146",
+        "chapter_147",
+        "chapter_150",
+        "chapter_151",
+        "chapter_152",
+        "chapter_153",
+        "chapter_154",
+        "chapter_155",
+        "chapter_156",
+        "chapter_158",
+        "chapter_159",
+        "chapter_160",
+        "chapter_161",
+        "chapter_162",
+        "chapter_163",
+        "chapter_164",
+        "chapter_166",
+        "chapter_167",
+        "chapter_168",
+        "chapter_169",
+        "chapter_171",
+        "chapter_176",
+        "chapter_177",
+        "chapter_179",
+        "chapter_180",
+        "chapter_181",
+        "chapter_183",
+        "chapter_184",
+        "chapter_185",
+        "chapter_189",
+        "chapter_193",
+        "chapter_194",
+        "chapter_195",
+        "chapter_198",
+        "chapter_200"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "李小鱼",
+      "detail": "角色「李小鱼」身份描述出现3种以上变体：chapter_004中为「李疯狂的妹妹」; chapter_012中为「李疯狂的妹妹」; chapter_013中为「李疯狂的妹妹」; chapter_015中为「李疯狂的妹妹」; chapter_016中为「幸存者」; chapter_017中为「幸存者/拥有进食天赋的女孩」; chapter_018中为「李疯狂的妹妹/“容器”」; chapter_020中为「李疯狂的妹妹」; chapter_024中为「李疯狂的妹妹/同伴」; chapter_106中为「女儿/怪物」; chapter_117中为「样本/食材」",
+      "chapters": [
+        "chapter_004",
+        "chapter_012",
+        "chapter_013",
+        "chapter_015",
+        "chapter_016",
+        "chapter_017",
+        "chapter_018",
+        "chapter_020",
+        "chapter_024",
+        "chapter_106",
+        "chapter_117"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "苏浅",
+      "detail": "角色「苏浅」身份描述出现3种以上变体：chapter_008中为「收容局特别调查员」; chapter_009中为「收容局调查员」; chapter_010中为「收容局调查员」; chapter_012中为「同盟者（疑似收容局相关）」; chapter_013中为「队友」; chapter_015中为「收容局特工/护卫」; chapter_016中为「收容局特工」; chapter_017中为「收容局特工/队长」; chapter_018中为「收容局特工/代号“净化者”」; chapter_020中为「收容局调查员」; chapter_021中为「特工」; chapter_024中为「调查员」; chapter_029中为「外围支援」; chapter_032中为「感知者/搭档」; chapter_034中为「特工」; chapter_035中为「特工/同伴」; chapter_036中为「同伴」; chapter_038中为「战士/同伴」; chapter_039中为「特工」; chapter_040中为「同伴」; chapter_042中为「幸存者」; chapter_043中为「收容局特工」; chapter_044中为「收容局前王牌/母体」; chapter_045中为「特工」; chapter_046中为「收容局特别调查员」; chapter_047中为「同伴」; chapter_050中为「收容局特工」; chapter_052中为「收容局特工/伙伴」; chapter_053中为「同伴」; chapter_054中为「同伴」; chapter_055中为「前收容局特工」; chapter_057中为「同伴/外置硬盘」; chapter_058中为「收容局特工（代号净化者）/高维神性容器」; chapter_059中为「同伴 / 资产」; chapter_060中为「同伴人类」; chapter_062中为「A级高价值资产/医疗人员」; chapter_064中为「医护人员/乘客」; chapter_065中为「医疗人员 / 神性容器」; chapter_066中为「同伴/幸存者」; chapter_067中为「主角同伴」; chapter_068中为「神性容器」; chapter_069中为「幸存者/同伴」; chapter_070中为「李疯狂的同伴」; chapter_073中为「特工/同伴」; chapter_075中为「同伴」; chapter_076中为「幸存者战士 / 狙击手」; chapter_079中为「幸存者/同伴」; chapter_080中为「副指挥官/前王牌调查员」; chapter_083中为「方舟人员/目标」; chapter_086中为「观察者/李疯狂的羁绊」; chapter_087中为「被吞噬的人类/餐具（食材）」; chapter_090中为「同伴/布偶」; chapter_094中为「代号Type-K（机械巨人/前导航员）」; chapter_095中为「Type-K/机械改造人」; chapter_096中为「Type-K机械躯体/仿生人」; chapter_098中为「保镖/特工」; chapter_099中为「AI助手 / 前人类 / 最佳员工」; chapter_100中为「保镖/最佳员工」; chapter_102中为「Type-K型精密机械 / 仿生人」; chapter_104中为「冒牌导航员」; chapter_106中为「特工/队友」; chapter_107中为「机械仿生人」; chapter_108中为「李疯狂的同伴（画像中人）」; chapter_111中为「抵押物/同伴」; chapter_113中为「导航员」; chapter_114中为「同伴」; chapter_115中为「同伴/被数据侵蚀者」; chapter_117中为「锚点」; chapter_118中为「超级管理员」; chapter_120中为「前超级管理员」; chapter_121中为「共犯/职员」; chapter_126中为「捕手/餐具」; chapter_127中为「李疯狂的搭档」; chapter_131中为「高维锚点/同伴」; chapter_132中为「同伴/逃离者」; chapter_133中为「净化者/神性容器」; chapter_134中为「AI意识/系统辅助」; chapter_135中为「序列核心、意识体」; chapter_137中为「AI助手/逻辑核心」; chapter_139中为「数据流/AI辅助/左眼植入体」; chapter_140中为「系统/AI助手」; chapter_141中为「左眼AI/意识体」; chapter_142中为「幻觉/逝者」; chapter_147中为「核心防火墙/Admin Su Qian」; chapter_150中为「Memory / Deceased」; chapter_153中为「爱之Bug/记忆体」; chapter_155中为「理智监狱/意识残渣/导航员」; chapter_159中为「记忆体/数据包」; chapter_161中为「防火墙/被囚禁者」; chapter_162中为「病毒/关键人物」; chapter_163中为「意识碎片/伪装餐巾」; chapter_164中为「价值锚点（概念体）」; chapter_166中为「同伴/幸存者」; chapter_167中为「精神卫生中心医生/关键观测对象」; chapter_168中为「精神科医生」; chapter_169中为「医生/逻辑锁芯」; chapter_171中为「观测者/Admin」; chapter_176中为「女主角」; chapter_177中为「核心角色/Bug」; chapter_179中为「世界锚点 / 防火墙」; chapter_180中为「路人/李疯狂的旧识」; chapter_185中为「未来视界科技园员工」; chapter_193中为「调律师」; chapter_194中为「总裁助理/【序列·调律者】」; chapter_195中为「同伴/核心逻辑Bug」; chapter_198中为「“老爹炸鸡”全球总部董事长」; chapter_200中为「合伙人/副主厨」",
+      "chapters": [
+        "chapter_008",
+        "chapter_009",
+        "chapter_010",
+        "chapter_012",
+        "chapter_013",
+        "chapter_015",
+        "chapter_016",
+        "chapter_017",
+        "chapter_018",
+        "chapter_020",
+        "chapter_021",
+        "chapter_024",
+        "chapter_029",
+        "chapter_032",
+        "chapter_034",
+        "chapter_035",
+        "chapter_036",
+        "chapter_038",
+        "chapter_039",
+        "chapter_040",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_045",
+        "chapter_046",
+        "chapter_047",
+        "chapter_050",
+        "chapter_052",
+        "chapter_053",
+        "chapter_054",
+        "chapter_055",
+        "chapter_057",
+        "chapter_058",
+        "chapter_059",
+        "chapter_060",
+        "chapter_062",
+        "chapter_064",
+        "chapter_065",
+        "chapter_066",
+        "chapter_067",
+        "chapter_068",
+        "chapter_069",
+        "chapter_070",
+        "chapter_073",
+        "chapter_075",
+        "chapter_076",
+        "chapter_079",
+        "chapter_080",
+        "chapter_083",
+        "chapter_086",
+        "chapter_087",
+        "chapter_090",
+        "chapter_094",
+        "chapter_095",
+        "chapter_096",
+        "chapter_098",
+        "chapter_099",
+        "chapter_100",
+        "chapter_102",
+        "chapter_104",
+        "chapter_106",
+        "chapter_107",
+        "chapter_108",
+        "chapter_111",
+        "chapter_113",
+        "chapter_114",
+        "chapter_115",
+        "chapter_117",
+        "chapter_118",
+        "chapter_120",
+        "chapter_121",
+        "chapter_126",
+        "chapter_127",
+        "chapter_131",
+        "chapter_132",
+        "chapter_133",
+        "chapter_134",
+        "chapter_135",
+        "chapter_137",
+        "chapter_139",
+        "chapter_140",
+        "chapter_141",
+        "chapter_142",
+        "chapter_147",
+        "chapter_150",
+        "chapter_153",
+        "chapter_155",
+        "chapter_159",
+        "chapter_161",
+        "chapter_162",
+        "chapter_163",
+        "chapter_164",
+        "chapter_166",
+        "chapter_167",
+        "chapter_168",
+        "chapter_169",
+        "chapter_171",
+        "chapter_176",
+        "chapter_177",
+        "chapter_179",
+        "chapter_180",
+        "chapter_185",
+        "chapter_193",
+        "chapter_194",
+        "chapter_195",
+        "chapter_198",
+        "chapter_200"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "财务总监",
+      "detail": "角色「财务总监」身份描述出现3种以上变体：chapter_018中为「变异柯基」; chapter_163中为「管理者」; chapter_164中为「旧日餐厅财务总监/账房守门人」",
+      "chapters": [
+        "chapter_018",
+        "chapter_163",
+        "chapter_164"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "半机械驾驶员",
+      "detail": "角色「半机械驾驶员」身份描述出现3种以上变体：chapter_063中为「驾驶员」; chapter_065中为「驾驶员 / 导航员」; chapter_066中为「驾驶员」; chapter_067中为「驾驶员」; chapter_068中为「驾驶员/副主厨宿主」",
+      "chapters": [
+        "chapter_063",
+        "chapter_065",
+        "chapter_066",
+        "chapter_067",
+        "chapter_068"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "主厨",
+      "detail": "角色「主厨」身份描述出现3种以上变体：chapter_064中为「神秘声音/高维存在」; chapter_120中为「世界顶层设计者」; chapter_135中为「神之餐厅最高管理者」; chapter_137中为「神之餐厅拥有者/循环缔造者」; chapter_146中为「统治者」; chapter_147中为「古神」",
+      "chapters": [
+        "chapter_064",
+        "chapter_120",
+        "chapter_135",
+        "chapter_137",
+        "chapter_146",
+        "chapter_147"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "影子",
+      "detail": "角色「影子」身份描述出现3种以上变体：chapter_068中为「副主厨/高维寄生程序」; chapter_135中为「李疯狂的影子/疯狂自我具象」; chapter_140中为「副主厨 / 另一个李疯狂」",
+      "chapters": [
+        "chapter_068",
+        "chapter_135",
+        "chapter_140"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "副主厨",
+      "detail": "角色「副主厨」身份描述出现3种以上变体：chapter_106中为「反派/观察者」; chapter_107中为「主厨助理/观察者」; chapter_108中为「餐厅管理者」",
+      "chapters": [
+        "chapter_106",
+        "chapter_107",
+        "chapter_108"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "食客",
+      "detail": "角色「食客」身份描述出现3种以上变体：chapter_117中为「主厨」; chapter_137中为「用餐的高维生物」; chapter_162中为「高维生物/古神」",
+      "chapters": [
+        "chapter_117",
+        "chapter_137",
+        "chapter_162"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "星期四创始人",
+      "detail": "角色「星期四创始人」身份描述出现3种以上变体：chapter_150中为「Ghost / Guide」; chapter_162中为「被囚禁者」; chapter_163中为「随从/伪装苍蝇」; chapter_164中为「星期四创始人」",
+      "chapters": [
+        "chapter_150",
+        "chapter_162",
+        "chapter_163",
+        "chapter_164"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "古神",
+      "detail": "角色「古神」身份描述出现3种以上变体：chapter_150中为「Antagonist / System」; chapter_167中为「旧日支配者/不良资产」; chapter_193中为「不可名状存在/特价菜」",
+      "chapters": [
+        "chapter_150",
+        "chapter_167",
+        "chapter_193"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "乌鸦",
+      "detail": "角色「乌鸦」身份描述出现3种以上变体：chapter_158中为「因果局审计员」; chapter_160中为「审计员/高维玩家」; chapter_193中为「信使/观察者」",
+      "chapters": [
+        "chapter_158",
+        "chapter_160",
+        "chapter_193"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "古神残魂",
+      "detail": "角色「古神残魂」身份描述出现3种以上变体：chapter_160中为「星期四之源」; chapter_161中为「被捕食者/残渣」; chapter_162中为「被囚禁的古神」; chapter_163中为「随从/伪装泔水」; chapter_164中为「古神残魂（伪装成泔水）」",
+      "chapters": [
+        "chapter_160",
+        "chapter_161",
+        "chapter_162",
+        "chapter_163",
+        "chapter_164"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「memory_restoration」的描述在不同章节不一致：\nchapter_017: 「李疯狂在幻境中恢复记忆，确认自己曾吞噬过收容局第7分队及“时间法则”，身份为“食客长”」\nchapter_168: 「李疯狂发短信后消失，苏浅记起了他的名字“李疯狂”。」",
+      "chapters": [
+        "chapter_017",
+        "chapter_168"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「fall_into_abyss」的描述在不同章节不一致：\nchapter_020: 「阶梯崩塌，三人坠入地下深渊」\nchapter_108: 「白色荒原被巨手捏碎，李疯狂、苏浅和副主厨一同坠入真实深渊」",
+      "chapters": [
+        "chapter_020",
+        "chapter_108"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「logic_overwrite」的描述在不同章节不一致：\nchapter_035: 「李疯狂使用写有'V你50'的纸条配合【无理之面】赋予核心'霸王餐条款'，随后用数据餐刀刺杀并吞噬核心」\nchapter_166: 「李疯狂利用管理员权限和人性能量，将导致世界崩坏的'疯狂'逻辑覆写为'疯狂星期四/V我50'的商业烂梗逻辑。」",
+      "chapters": [
+        "chapter_035",
+        "chapter_166"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「sequence_promotion」的描述在不同章节不一致：\nchapter_035: 「系统提示李疯狂序列由【记录者】进阶为【篡改者】，解锁能力【属性描述篡改】」\nchapter_036: 「李疯狂系统结算完成，序列晋升为'篡改者'，获得修改事物属性描述的能力」",
+      "chapters": [
+        "chapter_035",
+        "chapter_036"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「waking_up」的描述在不同章节不一致：\nchapter_036: 「李疯狂在露天咖啡馆遗址醒来，与苏浅确认了昨晚坠楼生还的事实」\nchapter_047: 「李疯狂在废弃安全屋醒来，发现右掌‘人’字受损，吃了苏浅给的巧克力」",
+      "chapters": [
+        "chapter_036",
+        "chapter_047"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「enter_black_market」的描述在不同章节不一致：\nchapter_069: 「李疯狂与苏浅进入方舟底层黑市“老饕食堂”」\nchapter_082: 「李疯狂进入黑市“地下兑换所”，支付硬币给守卫怪物。」",
+      "chapters": [
+        "chapter_069",
+        "chapter_082"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「su_qian_sacrifice」的描述在不同章节不一致：\nchapter_117: 「苏浅身体彻底分解，以自身为代价寻找并发送防火墙的逻辑漏洞（恶意代码）给李疯狂。」\nchapter_133: 「苏浅为了打破规则，撕裂胸膛挖出自己的序列核心，强行按入李疯狂的左眼眶」",
+      "chapters": [
+        "chapter_117",
+        "chapter_133"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「monster_encounter」的描述在不同章节不一致：\nchapter_134: 「遭遇概念集合体‘周一综合症’，对方释放精神污染试图让李疯狂‘躺平’并解雇其自我意识。」\nchapter_168: 「苏浅在回家巷口遭遇试图吞噬路人的变异怪物，世界开始崩塌。」",
+      "chapters": [
+        "chapter_134",
+        "chapter_168"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「su_qian_intervention」的描述在不同章节不一致：\nchapter_147: 「苏浅以意志介入，通过“爱”的概念构建冰膜防御，锁定李疯狂的理智」\nchapter_156: 「苏浅（Admin Su Qian）介入系统，阻止李疯狅删除情感和痛觉，用痛觉锚定其人性」",
+      "chapters": [
+        "chapter_147",
+        "chapter_156"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_017:「距离下一次“疯狂周期”开启剩余2天12小时45分」; chapter_184:「距离‘开饭’（古神/账单相关事件）还有不到两小时（倒计时显示01:59:00）」",
+      "chapters": [
+        "chapter_017",
+        "chapter_184"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_032:「苏浅作为感知者，受高维污染会在皮肤上生长黑色晶体，需食用高密度规则结晶压制」; chapter_064:「苏浅手臂上的晶体纹路已经蔓延到了颈部」; chapter_080:「苏浅目前肺部有因吸入精神粉尘导致的灼烧感，护目镜损坏」",
+      "chapters": [
+        "chapter_032",
+        "chapter_064",
+        "chapter_080"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_035:「苏浅左臂的晶体化症状消退，但留下了青色纹路」; chapter_042:「苏浅的左臂晶体化并带有青色纹路，在被李疯狂精神救援后，纹路退化为左小臂上的手铐状青色花纹。」; chapter_047:「苏浅的左臂晶体化被压制后，仍隐约透出淡青色纹路」",
+      "chapters": [
+        "chapter_035",
+        "chapter_042",
+        "chapter_047"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_036:「李疯狂左眼瞳孔深处悬浮着一个白色的倒'V'字形符号」; chapter_100:「李疯狂左眼有符号特征，常态为惨白色倒“V”，发动篡改能力时变为血红色正“V”。」",
+      "chapters": [
+        "chapter_036",
+        "chapter_100"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_036:「苏浅左臂青色电路板纹路蔓延至脖颈（状态：轻度污染），精神锚点为李疯狂（稳定）」; chapter_038:「苏浅身上的青色电路板纹路是污染/变异症状，具有传染性或危险性，可用特定物品（如老坛酸菜酱）压制」; chapter_050:「苏浅左臂完全晶体化，状态虚弱」; chapter_083:「苏浅目前存在率仅0.01%，以概念容器（布偶）形式藏身于时间死角，通过燃烧体内火柴维持茶会」; chapter_111:「苏浅的灵魂所有权被作为抵押物，当前正因概念融合而面临“永久外包协议”的转化，身体呈现玻璃/代码特征」; chapter_162:「苏浅以Bug形式存在于李疯狂体内，表现为发热的声音和图腾」; chapter_176:「苏浅被高维系统定义为‘无法核销的坏账’或‘Bug’，其力量（粉色光芒/爱）能破坏高维逻辑。」; chapter_189:「苏浅的灵魂概念（淡蓝色幽光）被寄宿在李疯狂心脏位置的微型牢笼中，其本体在重置后的世界里作为普通人生活」",
+      "chapters": [
+        "chapter_036",
+        "chapter_038",
+        "chapter_050",
+        "chapter_083",
+        "chapter_111",
+        "chapter_162",
+        "chapter_176",
+        "chapter_189"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_039:「苏浅身上有类似寄生虫的青色电路板纹路，正在缓慢向脸部蔓延，这是一种变异过程」; chapter_087:「苏浅目前被标记为汤的一部分（餐具/变质食材），如果被倒掉进入虚空排泄口将无法挽回」; chapter_114:「苏浅因环境充满“被遗弃”的绝望情绪，San值下降，身体开始数据溢出（透明化），净化序列正在反转。」",
+      "chapters": [
+        "chapter_039",
+        "chapter_087",
+        "chapter_114"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_040:「苏浅的左臂发生了严重的晶体化异变，伴有剧烈疼痛，呈现炸鸡酥皮般的色泽」; chapter_079:「苏浅左臂上的黑色晶体纹路对死寂领域有排斥反应，且能随着主人意志平静下来」",
+      "chapters": [
+        "chapter_040",
+        "chapter_079"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_040:「当前环境受高维污染源“创始人”影响，遵循“疯狂星期四”的规则，星期三的规则已失效」; chapter_142:「世界正处于被“消化”的状态，天空呈紫红色，光源来自蠕动的肠胃状大气层；周一到周六的时间已被吞噬，凝结成剧毒的“时间残渣”。」",
+      "chapters": [
+        "chapter_040",
+        "chapter_142"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_045:「苏浅身上的电路板异变纹路已延伸至脖颈，并且变得更加明亮、繁杂。」; chapter_053:「苏浅左臂断裂，晶体化暂缓，极度虚弱。」",
+      "chapters": [
+        "chapter_045",
+        "chapter_053"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_050:「李疯狂已删除“恐惧”模块，左眼具备数据解析、篡改和定义修正能力」; chapter_055:「李疯狂当前运行在【安全模式】，无情感、无恐惧、无痛觉，左眼呈死寂灰白色倒V字符号」; chapter_065:「李疯狂26岁，理智受损，左眼倒V符号发生结构性崩解，视野世界正在分解」; chapter_152:「李疯狂当前等级为半神（伪），身体完整性100%，情感模块缺失（0%），逻辑冗余度提升300%」; chapter_168:「李疯狂已失去实体，转化为高维病毒或世界后台进程，作为防火墙维护现实逻辑。」",
+      "chapters": [
+        "chapter_050",
+        "chapter_055",
+        "chapter_065",
+        "chapter_152",
+        "chapter_168"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_054:「虚空高处存在被称为“主厨”的高维观测者（旧日支配者化身），以吞噬数据为生」; chapter_076:「世界的最高意志被称为‘主厨’，其等级判定为超高维信号，位于比神明更高的维度」",
+      "chapters": [
+        "chapter_054",
+        "chapter_076"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_063:「苏浅被定义为“观测者”和“锚点”，其崩解会导致李疯狂面临逻辑回滚风险。」; chapter_113:「苏浅的身份是“导航员”，是作为“清醒”的调味剂存在的」",
+      "chapters": [
+        "chapter_063",
+        "chapter_113"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_067:「李疯狂的系统更新为“理智之主（伪）v2.0”，正在加载情感模块」; chapter_147:「李疯狂吞噬平行时间线后，皮肤半透明，体内流淌金色代码与暗红疯狂物质混合物，左眼印记变为苏浅名字缩写」",
+      "chapters": [
+        "chapter_067",
+        "chapter_147"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_067:「李疯狂的武器是【李小鱼的肋骨（骨勺）】，具备篡改概念的能力」; chapter_194:「李疯狂拥有一种外表像喷油壶的大型概念武器，扳机上刻满符文。」",
+      "chapters": [
+        "chapter_067",
+        "chapter_194"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_068:「当前世界观版本为'扭曲的星期四_v4.0.beta'，逻辑层未能完全重载」; chapter_121:「当前世界版本为“疯狂星期四_v5.1.0.hotfix”，特殊事件为“周一综合症”，规则强制劳动，非生产性存在将被清算。」",
+      "chapters": [
+        "chapter_068",
+        "chapter_121"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_069:「李疯狂的左眼呈现死机灰白色，且不受控制地抽搐，视野有噪点」; chapter_195:「李疯狂左眼的倒“V”符号在本章结束时裂开了一道细微缝隙」",
+      "chapters": [
+        "chapter_069",
+        "chapter_195"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_073:「苏浅是李疯狂的'高维锚点'，其左臂已晶体化蔓延至锁骨。」; chapter_142:「苏浅已逝，化为数据流融入了李疯狂的左眼和骨叉中。」",
+      "chapters": [
+        "chapter_073",
+        "chapter_142"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_075:「苏浅左臂原本蔓延至脖颈的黑色侵蚀纹路，因方舟被‘退货’而消退，变回了金色的晶体纹路。」; chapter_121:「苏浅的左臂因“周一综合症”正在异变，无痛觉且木质化，形状像步枪枪托。」",
+      "chapters": [
+        "chapter_075",
+        "chapter_121"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_085:「地球被放置在无限餐厅的长桌中央，如同方糖或待检查的葡萄，正被触手拨弄。」; chapter_137:「地球被数十根金色锁链贯穿，作为神之餐厅的主菜，大气层呈粉橘色（半熟的绝望与信仰）」",
+      "chapters": [
+        "chapter_085",
+        "chapter_137"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_087:「李疯狂的左眼处于极度危险的过载状态，伴有裂纹和血泪」; chapter_099:「李疯狂左眼呈惨白色倒'V'字符号，理智清零，处于绝对理性模式，痛觉微弱。」",
+      "chapters": [
+        "chapter_087",
+        "chapter_099"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_094:「李疯狂拥有【干涉者】权限，可使用协议层漏洞扫描、因果律置换等能力修改逻辑定义」; chapter_121:「李疯狂拥有“篡改”能力（协议层强制覆盖），可以改变规则逻辑，本次将“工作”逻辑篡改为“自相残杀以提升绩效”。」; chapter_132:「李疯狂的左眼具备“篡改·定义修正”的能力（例如将尸体定义为有机垃圾）。」",
+      "chapters": [
+        "chapter_094",
+        "chapter_121",
+        "chapter_132"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_099:「入场券提示'贵宾通道，直接上菜'，意味着李疯狂不再是食客，而是食材（主菜）。」; chapter_118:「主厨邀请函的内容是‘理智之刺刺身（少冰）’，不接受邀请则默认为‘打包带走’。」",
+      "chapters": [
+        "chapter_099",
+        "chapter_118"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_100:「李疯狂的主武器是一把生锈的骨勺，柄部由李小鱼的肋骨制成，勺子凹陷处连接黑色深渊。」; chapter_179:「李疯狂当前主要武器是高维流量构建的“逻辑构造光叉”。」",
+      "chapters": [
+        "chapter_100",
+        "chapter_179"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_102:「李疯狂拥有一枚在'神之喉咙'里留下的红色乐高积木（结石），作为对抗规则崩坏的底牌，但在本章未对苏浅使用」; chapter_137:「镶嵌在李疯狂心脏瓣膜的红色乐高积木是【第0号碎片·记忆之源】，包含他所有的痛苦、遗憾和关于李小鱼的记忆」",
+      "chapters": [
+        "chapter_102",
+        "chapter_137"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_127:「李疯狂手中的骨勺由李小鱼的肋骨磨成。」; chapter_135:「李疯狂的武器是【李小鱼的肋骨（骨勺）】，其妹妹李小鱼已故（肋骨化为骨勺）。」; chapter_141:「李疯狂手中的骨叉是由【李小鱼的肋骨】化作的变体」; chapter_146:「李疯狂的武器是骨勺，材质源自李小鱼的肋骨。」; chapter_198:「苏浅拥有一把特殊的枪，由无脸二维码保安的骨骼碎片打磨而成，缠绕着‘男科医院’传单残片。」",
+      "chapters": [
+        "chapter_127",
+        "chapter_135",
+        "chapter_141",
+        "chapter_146",
+        "chapter_198"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_132:「“星期四之源”不是生物也不是神，而是一种“注视”，依靠恐惧、疯狂和认知维持形态。」; chapter_154:「“星期四之源”本质是古神残留的“贪婪”剥离形成的独立模因病毒」",
+      "chapters": [
+        "chapter_132",
+        "chapter_154"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_133:「苏浅肉体已基本消散，仅存的核心与记忆已与李疯狂融合，成为李疯狂的‘眼睛’」; chapter_164:「苏浅目前为概念体，依附于一块洁白餐巾，被定义为“非卖品”和“价值锚点”，是李疯狂的核心力量来源」",
+      "chapters": [
+        "chapter_133",
+        "chapter_164"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_139:「李疯狂当前版本为Human_v2.0（测试版），无序列超能力，体能仅社畜水平。」; chapter_181:「李疯狂目前肉体凡胎，无超自然能力，但保留了记忆，且在凝视或情绪激动时左眼深处仍能浮现黑光。」",
+      "chapters": [
+        "chapter_139",
+        "chapter_181"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_140:「李疯狂的影子是独立的敌对实体，被称为“副主厨”或“另一个李疯狂”，拥有高维同源攻击能力」; chapter_176:「新出现的S级入侵者为李疯狂过去时间线的‘自我’阴影，被称为‘暴食之主’，手持生锈勺子。」",
+      "chapters": [
+        "chapter_140",
+        "chapter_176"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_142:「集市中的硬通货是类似鳞片的“肯德基兑换券”。」; chapter_185:「在该设定中，兑换券/欠条被视为硬通货」",
+      "chapters": [
+        "chapter_142",
+        "chapter_185"
+      ]
+    }
+  ],
+  "checked_chapters": 126,
+  "high_count": 92,
+  "medium_count": 52
+}

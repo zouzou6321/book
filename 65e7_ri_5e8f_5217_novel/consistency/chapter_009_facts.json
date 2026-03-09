@@ -1,0 +1,85 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角/厨师/收容局临时合作者",
+      "description": "皮肤呈现金属光泽，胸口有黑色漩涡；右手可异化为锋利的骨爪",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "收容局调查员",
+      "description": "身穿沾灰破损的黑色战术风衣，持有黑色手枪，因序列特性消耗快而感到饥饿",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "deep_fryer_theory_explained",
+      "description": "苏浅向李疯狂解释“深海炸锅理论”，指出世界是食材，疯狂周期是油炸过程，幸存者是被炸透的鱼排。",
+      "time": "第一周期·周六 21:00"
+    },
+    {
+      "id": "memory_fragment_unlock",
+      "description": "李疯狂因饥饿触发记忆碎片，在幻觉中成为用勺子烹饪变异体的“厨师”，并从苏浅处醒来。",
+      "time": "第一周期·周六 21:05左右"
+    },
+    {
+      "id": "oil_resonance_obtained",
+      "description": "李疯狂记忆解析完毕，获得被动特性【油脂共鸣】，并发现商场空气系统在喷洒油脂香料以催熟人类理智。",
+      "time": "第一周期·周六 21:10左右"
+    },
+    {
+      "id": "move_to_vent_room",
+      "description": "李疯狂与苏浅决定前往通风管道控制室（厨房）摧毁催熟系统，两人离开安保中心。",
+      "time": "第一周期·周六 21:15左右"
+    }
+  ],
+  "time_period": "第一周期·周六 21:00",
+  "locations": [
+    "金源百货大楼",
+    "三楼安保中心",
+    "商场中庭",
+    "走廊",
+    "通风管道控制室"
+  ],
+  "key_facts": [
+    {
+      "id": "deep_fryer_theory",
+      "content": "世界遵循“深海炸锅理论”，人类是食材，高维生物是食客，疯狂周期（尤其是星期四）对应油炸过程。"
+    },
+    {
+      "id": "air_contamination",
+      "content": "商场空气循环系统喷洒高维生物唾液与油脂的混合物，气味像炸鸡香料，目的是降低人类理智（催熟/腌制）。"
+    },
+    {
+      "id": "monster_composition",
+      "content": "“仿生拟态·塑料怨灵”体内流淌着金黄色油脂衍生物，非普通冷却液。"
+    },
+    {
+      "id": "protagonist_chef_identity",
+      "content": "李疯狂的深层身份是“厨师”，拥有烹饪变异体的记忆，曾用勺子按杀D+级食尸鬼。"
+    },
+    {
+      "id": "protagonist_traits",
+      "content": "李疯狂获得被动【油脂共鸣】（在高温/油性环境中精神抗性提升，易被油炸规则识别为同类）；右手可角质化为骨爪。"
+    },
+    {
+      "id": "su_qian_mechanic",
+      "content": "苏浅拥有特殊的序列特性，在污染区域活动会剧烈消耗体能并产生极度饥饿感，进食可缓解。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角/李疯狂",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

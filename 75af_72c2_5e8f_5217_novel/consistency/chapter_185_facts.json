@@ -1,0 +1,118 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "未知",
+      "role": "管理员",
+      "description": "脸色苍白，坐在沙发上，使用代码指令修改物理法则",
+      "status": "active"
+    },
+    {
+      "name": "真理会-第五清理小组刺客",
+      "age": "未知",
+      "role": "低阶序列者/杀手",
+      "description": "身穿黄色雨衣，身体半液化，部分位于管道井内，部分位于门外",
+      "status": "deceased/departed"
+    },
+    {
+      "name": "真理会第七分部“黄泉之水”主教",
+      "age": "未知",
+      "role": "反派高层",
+      "description": "由无数水滴构成的巨大脸庞，通过电视屏幕显现",
+      "status": "departed"
+    },
+    {
+      "name": "苏糖",
+      "age": "未知",
+      "role": "邻居",
+      "description": "402室住户，脸色苍白，拿着扫帚",
+      "status": "active"
+    },
+    {
+      "name": "苏糖的黑猫",
+      "age": "未知",
+      "role": "宠物",
+      "description": "蹲在冰箱顶上，眼神深邃如星空",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "真理会-第五清理小组",
+    "真理会第七分部“黄泉之水”主教",
+    "苏糖",
+    "苏糖的黑猫"
+  ],
+  "character_exits": [
+    {
+      "name": "真理会-第五清理小组刺客（管道内三人）",
+      "reason": "死亡（被高温蒸汽蒸干）"
+    },
+    {
+      "name": "真理会-第五清理小组刺客（门外掩护者）",
+      "reason": "逃跑（受惊吓）"
+    },
+    {
+      "name": "真理会第七分部“黄泉之水”主教",
+      "reason": "连接被切断"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "pipe_intrusion",
+      "description": "真理会通过水管向404室注入腐蚀性液体并炸裂水龙头发动触手攻击",
+      "time": "19:05之后"
+    },
+    {
+      "id": "counter_attack_gravity",
+      "description": "顾长歌使用代码指令反转重力并凝固触手，击退初波攻击",
+      "time": "19:05之后"
+    },
+    {
+      "id": "steam_explosion_assassination",
+      "description": "顾长歌查看地图并加热管道井至800℃，气化了三名躲在管道内的真理会刺客",
+      "time": "19:05之后"
+    },
+    {
+      "id": "tv_confrontation",
+      "description": "真理会主教通过电视联系顾长歌，随后顾长歌切断信号并反向植入病毒",
+      "time": "19:05之后"
+    },
+    {
+      "id": "logic_virus_spread",
+      "description": "顾长歌投放逻辑病毒“只要喝凉水都会塞牙”",
+      "time": "19:05之后"
+    }
+  ],
+  "time_period": "新纪元元年，周二 19:05",
+  "locations": [
+    "幸福家园小区4号楼404室",
+    "室内厨房",
+    "室内客厅",
+    "三楼与四楼之间的管道井",
+    "楼道",
+    "苏糖的402室"
+  ],
+  "key_facts": [
+    {
+      "id": "admin_identity",
+      "content": "顾长歌拥有管理员权限，可以使用代码修改物理法则（如重力、温度）和查看区域结构"
+    },
+    {
+      "id": "truth_society_weapon",
+      "content": "真理会使用名为“黄泉之水”的污染物进行攻击，具有硫磺味和强腐蚀性"
+    },
+    {
+      "id": "wednesday_countdown",
+      "content": "距离“周三全面沦陷”仅剩不到5小时（04小时32分），世界水循环系统已被局部污染"
+    },
+    {
+      "id": "su_tang_neighbor",
+      "content": "顾长歌的邻居苏糖住在402室，养有一只黑猫，对异常现象感到恐惧"
+    },
+    {
+      "id": "account_status",
+      "content": "顾长歌系统账户余额为289.6元（扣除电费和维修概念损耗后）"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,76 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "主角",
+      "description": "膝盖处瓷器裂纹愈合，皮肤泛着冷硬的金属光泽",
+      "status": "active"
+    },
+    {
+      "name": "老张",
+      "age": null,
+      "role": "诊所医生/变异体",
+      "description": "五官错乱，长满络腮胡的大嘴长在左侧脸颊，额头中央垂直排列两只眼睛，鼻子位置是黑洞喷出绿烟",
+      "status": "active"
+    },
+    {
+      "name": "李小鱼",
+      "age": null,
+      "role": "李疯狂的妹妹",
+      "description": "声音稚嫩，带着哭腔",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "老张",
+    "李小鱼"
+  ],
+  "character_exits": [
+    {
+      "name": "李疯狂",
+      "reason": "离开诊所"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "x_ray_diagnosis",
+      "description": "老张为李疯狂照X光，发现其胃部消失，取而代之的是一个黑色的漩涡（高维生物消化器官/旧日支配者器官残片）",
+      "time": "第一周期·周五 14:00"
+    },
+    {
+      "id": "iron_stomach_awakening",
+      "description": "李疯狂觉醒新器官【真理之胃（未完全体）】及被动特性【铁胃】，因打嗝释放的黑色波纹瞬间融化了一把金属椅子",
+      "time": "第一周期·周五 14:00"
+    },
+    {
+      "id": "phone_call_from_sister",
+      "description": "李疯狂接到唯一亲人妹妹李小鱼的电话，李小鱼询问那个带翅膀的黑色东西是不是他并求救",
+      "time": "第一周期·周五 14:00"
+    }
+  ],
+  "time_period": "第一周期·周五 14:00",
+  "locations": [
+    "幸福社区·老张诊所",
+    "诊所街道"
+  ],
+  "key_facts": [
+    {
+      "id": "iron_stomach_feature",
+      "content": "李疯狂拥有异能【铁胃】，可以消化普通物质、高能生物组织、低级概念道具及世界规则碎片，副作用是永久饥饿感"
+    },
+    {
+      "id": "consumed_entity_rank",
+      "content": "李疯狂昨晚吞下的生物是序列4以上的“眷属”，留存在其体内的器官是旧日支配者的进食器官残片"
+    },
+    {
+      "id": "recorder_ability",
+      "content": "李疯狂拥有【记录者】能力，能看到世界的底层逻辑（代码）"
+    },
+    {
+      "id": "old_zhang_ability",
+      "content": "老张觉醒的能力是指尖生火"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,98 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未提及",
+      "role": "太玄宗首席大弟子（化名玄天真人）",
+      "description": "戴着半旧不黑的斗笠，胡渣拉碴，身穿洗得发白的灰布长衫，目前伪装成凡人书生。",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未提及",
+      "role": "江越的师妹",
+      "description": "村姑打扮，身穿粗布荆钗，面容清丽如出水芙蓉。",
+      "status": "active"
+    },
+    {
+      "name": "说书先生",
+      "age": "老年",
+      "role": "茶楼说书人",
+      "description": "干瘦的老头，光头，摇着破蒲扇。",
+      "status": "active"
+    },
+    {
+      "name": "赵无极",
+      "age": "中年",
+      "role": "血影宗先锋大将（前）",
+      "description": "形容枯槁，身穿洗得发白的黑袍，左脸有一道从眼角延伸到下巴的狰狞刀疤，颓废如乞丐。",
+      "status": "active"
+    },
+    {
+      "name": "老灰",
+      "age": "未提及",
+      "role": "坐骑驴",
+      "description": "老灰驴，在路边吃草。",
+      "status": "active"
+    },
+    {
+      "name": "旺财",
+      "age": "未提及",
+      "role": "未知生物（疑似宠兽）",
+      "description": "趴在林清雪头顶睡觉。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "赵无极",
+    "说书先生"
+  ],
+  "character_exits": [
+    {
+      "name": "江越",
+      "reason": "前往清风城"
+    },
+    {
+      "name": "林清雪",
+      "reason": "前往清风城"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "story_of_xuantian_real_person",
+      "description": "说书先生讲述江越化身'玄天真人'脚踏祥云、手持神剑斩杀魔尊并吞金丹补天的夸张传说。",
+      "time": "未时三刻"
+    },
+    {
+      "id": "zhao_wuji_outburst",
+      "description": "赵无极打断说书，揭露当年江越一句'管饭吗'使其道心崩塌、走火入魔的真相。",
+      "time": "未时三刻"
+    },
+    {
+      "id": "departure_to_qingfeng_city",
+      "description": "江越与林清雪离开茶楼，骑着老灰驴前往清风城寻找包子铺。",
+      "time": "傍晚"
+    }
+  ],
+  "time_period": "一年后，未时三刻至傍晚",
+  "locations": [
+    "青州边境",
+    "听风茶楼",
+    "城外古道",
+    "清风城（目的地）"
+  ],
+  "key_facts": [
+    {
+      "id": "public_legend_vs_reality",
+      "content": "民间传说江越是斩杀魔尊的'玄天真人'，使用了开天神剑和太上忘情道；实际上江越当时使用的是液压剪（装修工具）且在抱怨工作。"
+    },
+    {
+      "id": "zhao_wuji_condition",
+      "content": "赵无极因江越的精神攻击'管饭吗'导致心魔深种，修为受损，至今未走出阴影，在此处表现为颓废醉鬼。"
+    },
+    {
+      "id": "jiangyue_mortal_status",
+      "content": "江越目前伪装成无灵力波动的凡人，依靠步行和骑驴旅行，对修仙界的称号不以为然，只想开奶茶店。"
+    }
+  ]
+}

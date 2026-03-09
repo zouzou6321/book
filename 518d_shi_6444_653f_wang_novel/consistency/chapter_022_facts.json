@@ -1,0 +1,84 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": null,
+      "role": "定北侯",
+      "description": "佯装病态（蜡黄、眼角抹胭脂、咳嗽）、穿着破旧灰棉袍、畏缩讨好；实则眼神深邃、身姿挺拔、心思缜密",
+      "status": "active"
+    },
+    {
+      "name": "刘全",
+      "age": null,
+      "role": "侯府管家兼皇帝眼线",
+      "description": "身着青灰色长衫、留着稀疏山羊胡、声音尖细",
+      "status": "active"
+    },
+    {
+      "name": "王大人",
+      "age": null,
+      "role": "兵部尚书",
+      "description": "身着绯色官袍、表面严肃实则贪婪",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": null,
+      "role": "萧寒的亲卫/部下",
+      "description": "满脸胡茬、手背青筋暴起、性格刚烈、对交权感到悲愤",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "刘全",
+    "王大人",
+    "沈锋"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "feign_surrender_intent",
+      "description": "萧寒在书房故意向眼线刘全表现出因朝堂压力而恐惧，并大张旗鼓声称要交出兵权保命",
+      "time": "数日后午后"
+    },
+    {
+      "id": "military_handover",
+      "description": "萧寒在兵部衙门向王大人正式移交三镇兵权符印和请辞折子，并贿赂王大人，成功让对方接手并放下戒心",
+      "time": "翌日清晨"
+    },
+    {
+      "id": "philosophy_reveal",
+      "description": "萧寒在兵部外向沈锋阐述示弱策略：像狗一样摇尾巴是为了让人放松警惕，从而在关键时刻咬喉管",
+      "time": "翌日清晨"
+    },
+    {
+      "id": "plot_against_princess",
+      "description": "萧寒夜间在密室地图上标注长公主府，计划利用自污名声的谣言和一首未完的禅诗接近长公主李瑾",
+      "time": "夜深人静"
+    }
+  ],
+  "time_period": "大梁建安二十三年秋，数日后午后至次日清晨及夜晚",
+  "locations": [
+    "定北侯府书房",
+    "兵部衙门",
+    "定北侯府地下密室"
+  ],
+  "key_facts": [
+    {
+      "id": "disguise_personality",
+      "content": "萧寒目前对外设定为贪财、怕死、无才且好色（想求菩萨心肠的老婆）的形象以麻痹众人"
+    },
+    {
+      "id": "transferred_power_baggage",
+      "content": "萧寒将兵权连同三镇的亏空和烂账一并移交给兵部王大人，完成了职场上的'甩锅'"
+    },
+    {
+      "id": "hidden_forces",
+      "content": "萧寒真正带进京的三千'乞丐兵'精锐并未移交，被藏匿在京城角落"
+    },
+    {
+      "id": "past_memory_link",
+      "content": "萧寒拥有前世记忆，将长公主李瑾与前世记忆中的林清雪重叠，决定保护她"
+    }
+  ]
+}

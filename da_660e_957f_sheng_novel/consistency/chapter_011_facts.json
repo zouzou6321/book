@@ -1,0 +1,85 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "二十五六岁",
+      "role": "百草园庄主",
+      "description": "面无表情，眼眸深邃冷静，拥有不死之身",
+      "status": "active"
+    },
+    {
+      "name": "青儿",
+      "age": "十四五岁",
+      "role": "长生卫教头",
+      "description": "身形瘦小，乱发，眼神如狼崽子般凶狠，声带受损说话沙哑",
+      "status": "active"
+    },
+    {
+      "name": "孙元化",
+      "age": "四十多岁",
+      "role": "工部营缮司主事",
+      "description": "身着半毁官服，满脸是血，火器专家",
+      "status": "active"
+    },
+    {
+      "name": "沈炼的亲信校尉",
+      "age": "未知",
+      "role": "锦衣卫",
+      "description": "监视陈默并向北镇抚司汇报",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "孙元化",
+    "沈炼的亲信校尉"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "wanggongchang_explosion",
+      "description": "王恭厂火药局发生大爆炸，产生蘑菇云和巨大冲击波，造成京城巨大伤亡",
+      "time": "天启六年五月三十日巳时"
+    },
+    {
+      "id": "disaster_looting",
+      "description": "陈默带领长生卫趁乱进入灾区搜刮硝石、硫磺等物资",
+      "time": "爆炸后半个时辰"
+    },
+    {
+      "id": "sun_yuanhua_capture",
+      "description": "青儿杀死地痞救下被压的官员，陈默确认其为工部孙元化并带回营地",
+      "time": "搜刮行动中"
+    },
+    {
+      "id": "wei_agency_discovery",
+      "description": "沈炼的亲信校尉监视并记录了陈默等人的行动，向北镇抚司汇报",
+      "time": "夜间"
+    }
+  ],
+  "time_period": "天启六年（1626年）五月三十日，巳时至夜间",
+  "locations": [
+    "北京城西南隅王恭厂附近",
+    "城南百草园",
+    "阜成门到象来街一带",
+    "百草园地窖"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_mo_regeneration",
+      "content": "陈默拥有不死之身，伤口（如左臂割伤）可在十几秒内愈合"
+    },
+    {
+      "id": "sun_yuanhua_expertise",
+      "content": "孙元化是精通火器的专家，持有《火攻》册子和精炼铁锭/钢材"
+    },
+    {
+      "id": "changsheng_wei_nature",
+      "content": "长生卫是从流民中训练出的死士，无感情，受药物控制"
+    },
+    {
+      "id": "tech_shortage",
+      "content": "陈默目前的流民徒弟缺乏精细打磨枪管阳堂线的技术"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

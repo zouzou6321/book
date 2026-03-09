@@ -1,0 +1,141 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "暴食者/篡改者",
+      "description": "左眼死机呈灰色倒V字，嘴角溢出黑血，手持骨勺",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "神性容器",
+      "description": "左臂金色纹路蔓延至脖颈，身体冰冷但内部灼热，战术风衣破烂",
+      "status": "active"
+    },
+    {
+      "name": "半机械驾驶员",
+      "age": "未知",
+      "role": "驾驶员/副主厨宿主",
+      "description": "脑袋只剩一半，眼球爆裂变成黑色液体",
+      "status": "deceased"
+    },
+    {
+      "name": "西装李疯狂",
+      "age": "未知",
+      "role": "记忆投影",
+      "description": "穿着整齐黑色西装，举止优雅，存在于镜像记忆中",
+      "status": "departed"
+    },
+    {
+      "name": "影子",
+      "age": "未知",
+      "role": "副主厨/高维寄生程序",
+      "description": "身穿燕尾服，戴着高礼帽，面部空白，嘴巴有红线缝合",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "西装李疯狂",
+    "影子"
+  ],
+  "character_exits": [
+    {
+      "name": "影子",
+      "reason": "被李疯狂使用【篡改 · 协议层强制覆盖】强制删除"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "awakening_after_incubation",
+      "description": "李疯狂在孵化日金光退去后醒来，发现自己系统卡顿，世界重组",
+      "time": "清醒日 · 星期四清晨"
+    },
+    {
+      "id": "package_discovery",
+      "description": "在半机械驾驶员旁发现粉色包裹，寄件人为'还没疯的你'",
+      "time": "清醒日 · 星期四清晨"
+    },
+    {
+      "id": "key_and_eye_reveal",
+      "description": "李疯狂拆开包裹，获得【门之匙（伪）】和巨大螺旋眼球，解锁关于'最后的晚餐'的记忆",
+      "time": "清醒日 · 星期四清晨"
+    },
+    {
+      "id": "shadow_attack",
+      "description": "驾驶员残骸化为燕尾服影子，试图夺走苏浅左臂称其为餐具",
+      "time": "清醒日 · 星期四清晨"
+    },
+    {
+      "id": "shadow_deletion",
+      "description": "李疯狂按下左眼开关进入进食模式，发动【篡改 · 协议层强制覆盖】删除了影子",
+      "time": "清醒日 · 星期四清晨"
+    }
+  ],
+  "time_period": "清醒日 · 星期四清晨（孵化日余波）",
+  "locations": [
+    "世界背面",
+    "地壳裂谷",
+    "诺亚方舟01号临时营地"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_eye_mode",
+      "content": "李疯狂左眼死机，但可通过物理按压眼眶强制切换至暴食/进食模式，此时能产生黑色数据流干涉现实"
+    },
+    {
+      "id": "su_qian_arm_progression",
+      "content": "苏浅左臂金色纹路已蔓延过肩膀至脖颈，被称为'主人的餐具'"
+    },
+    {
+      "id": "obtained_key",
+      "content": "获得生锈铜钥匙【门之匙（伪）】，可打开'旧日梦境'入口寻找真正的菜单"
+    },
+    {
+      "id": "hidden_quest_activated",
+      "content": "触发隐藏支线任务：最后的晚餐"
+    },
+    {
+      "id": "world_version",
+      "content": "当前世界观版本为'扭曲的星期四_v4.0.beta'，逻辑层未能完全重载"
+    },
+    {
+      "id": "sky_phenomenon",
+      "content": "章节结尾天空中出现巨眼和黑色雪花，被称为'食客'的注视"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "驾驶员/转化为影子前的实体",
+      "names": [
+        "半机械驾驶员",
+        "驾驶员"
+      ]
+    },
+    {
+      "role_or_identity": "苏浅左臂的描述",
+      "names": [
+        "序列 · 神性容器（未完成）",
+        "主人的餐具"
+      ]
+    },
+    {
+      "role_or_identity": "来自过去的李疯狂",
+      "names": [
+        "西装李疯狂",
+        "没疯的你",
+        "镜子里的自己"
+      ]
+    },
+    {
+      "role_or_identity": "敌对实体",
+      "names": [
+        "影子",
+        "副主厨",
+        "苍蝇",
+        "餐巾纸上的一块污渍"
+      ]
+    }
+  ]
+}

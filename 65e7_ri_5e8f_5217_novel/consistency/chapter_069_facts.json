@@ -1,0 +1,114 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "幸存者/记录者",
+      "description": "左眼呈死机灰白色并有倒'V'符号抽搐，流鼻血，患有胃结石疼痛",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "幸存者/同伴",
+      "description": "左臂蔓延至脖颈有金色晶体纹路（被绷带缠绕），持有【门之匙（伪）】",
+      "status": "active"
+    },
+    {
+      "name": "摊主",
+      "age": "半老头",
+      "role": "黑市情报贩子",
+      "description": "脑袋肿大，额头只有一只独眼",
+      "status": "active"
+    },
+    {
+      "name": "试吃员",
+      "age": "",
+      "role": "评论家阶级/执行者",
+      "description": "身穿笔挺西装，头戴防毒面具，胸口别着流泪眼睛徽章",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "摊主",
+    "试吃员"
+  ],
+  "character_exits": [
+    {
+      "name": "试吃员",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "enter_black_market",
+      "description": "李疯狂与苏浅进入方舟底层黑市“老饕食堂”",
+      "time": "上午10:14"
+    },
+    {
+      "id": "inquiry_about_egg",
+      "description": "李疯狂用骨头向摊主打听关于“蛋”和钥匙的信息，得知“世界是蛋，钥匙是勺子”",
+      "time": "上午10:15"
+    },
+    {
+      "id": "encounter_taster",
+      "description": "“试吃员”出现并索要钥匙，发动逻辑攻击",
+      "time": "上午10:16"
+    },
+    {
+      "id": "identity_switch_trick",
+      "description": "李疯狂发动【记录者·视频跳帧】，将二人身份逻辑互换，李疯狂作为“持有者”被攻击消失（逻辑层面），苏浅伪装成箱子幸存",
+      "time": "上午10:17"
+    },
+    {
+      "id": "reappearance_and_plan",
+      "description": "李疯狂现身揭示自己利用逻辑漏洞存活，决定去寻找牺牲医疗车厢的提议者并前往D-404号餐桌",
+      "time": "上午10:18"
+    }
+  ],
+  "time_period": "扭曲的星期四 v4.0 · 上午10:14 - 10:18",
+  "locations": [
+    "诺亚方舟01号",
+    "底层货舱",
+    "老饕食堂（黑市）"
+  ],
+  "key_facts": [
+    {
+      "id": "li_eye_condition",
+      "content": "李疯狂的左眼呈现死机灰白色，且不受控制地抽搐，视野有噪点"
+    },
+    {
+      "id": "suqian markings",
+      "content": "苏浅身上有金色晶体纹路，被形容为“主厨特选餐具”，具有神性光泽"
+    },
+    {
+      "id": "currency_kfc",
+      "content": "黑市流通货币包括“肯德基兑换券”或硬通货（如骨头）"
+    },
+    {
+      "id": "item_key_fake",
+      "content": "苏浅持有【门之匙（伪）】，属于“旧日梦境”相关物品"
+    },
+    {
+      "id": "faction_tasters",
+      "content": "存在“评论家”阶级，下属有“试吃员”负责清理和回收，徽章为流泪的眼睛带微笑"
+    },
+    {
+      "id": "world_metaphor",
+      "content": "传言世界是个“蛋”，钥匙是打破蛋壳的“勺子”，通往“后厨”"
+    },
+    {
+      "id": "li_stomach_stone",
+      "content": "李疯狂胃部有一块红色的结石（像乐高积木），会带来钝痛"
+    },
+    {
+      "id": "hidden_map_d404",
+      "content": "系统提示发现隐藏地图碎片：D-404号餐桌"
+    },
+    {
+      "id": "li_chest_mark",
+      "content": "李疯狂胸口有一道断裂的勺子形状印记"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

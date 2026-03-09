@@ -1,0 +1,100 @@
+{
+  "characters_present": [
+    {
+      "name": "苏青",
+      "age": "未提及",
+      "role": "调查员/特别行动小队成员",
+      "description": "身穿破损黑色制服，短发，左脚踝有旧伤，满头大汗",
+      "status": "active"
+    },
+    {
+      "name": "秃鹫",
+      "age": "未提及",
+      "role": "副手/资深行动专员",
+      "description": "半边身体融化进肉墙，半张脸残留",
+      "status": "deceased"
+    },
+    {
+      "name": "千目之视",
+      "age": "未提及",
+      "role": "诡秘生物/高维怪物",
+      "description": "面部由无数挤在一起的眼球构成，身着灰色风衣，拥有触手",
+      "status": "departed"
+    },
+    {
+      "name": "顾长歌",
+      "age": "未提及",
+      "role": "神秘闯入者",
+      "description": "脸色苍白，营养不良，穿着破旧灰色风衣，赤一只脚，手持断骨",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "苏青",
+    "秃鹫",
+    "千目之视",
+    "顾长歌"
+  ],
+  "character_exits": [
+    {
+      "name": "秃鹫",
+      "reason": "死亡/融化"
+    },
+    {
+      "name": "千目之视",
+      "reason": "逃跑"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "squad_wiped_out",
+      "description": "特别行动小队全军覆没，副手秃鹫死亡",
+      "time": "22:15之前的十分钟内"
+    },
+    {
+      "id": "monster_intrusion",
+      "description": "代号“千目之视”的怪物闯入并攻击苏青",
+      "time": "22:15"
+    },
+    {
+      "id": "gu_intervention",
+      "description": "顾长歌打断怪物攻击并向其借火",
+      "time": "22:15"
+    },
+    {
+      "id": "monster_defeated",
+      "description": "顾长歌用断骨重击怪物触手，将其吓退",
+      "time": "22:15"
+    },
+    {
+      "id": "gu_rescue",
+      "description": "顾长歌救助苏青并带其前往迷宫深处",
+      "time": "22:15"
+    }
+  ],
+  "time_period": "新纪元元年，周四 22:15",
+  "locations": [
+    "C9隔离区",
+    "神之肠道迷宫",
+    "正在消化的幽闭空间"
+  ],
+  "key_facts": [
+    {
+      "id": "squad_loadout",
+      "content": "苏青所在的特别行动小队携带了“静EMP”干扰器和三级理智阻断剂"
+    },
+    {
+      "id": "gu_power_aura",
+      "content": "顾长歌在战斗时会散发出一种古老、深沉、令人绝望的“味道”或威压"
+    },
+    {
+      "id": "monocle_function",
+      "content": "顾长歌捡到的单片眼镜遗物可以直接看到物体的保质期"
+    },
+    {
+      "id": "gu_weapon",
+      "content": "顾长歌使用一根滴着酸水的断骨作为武器，威力巨大"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,83 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角/篡改者",
+      "description": "左眼有倒'V'符号，身体曾因过度使用能力而液化，重组后皮肉脱落露出黑色数据流",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "同伴",
+      "description": "左臂为重生的神性金属光泽臂，因用力过度崩裂出金色火花",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "fall_into_void",
+      "description": "李疯狂和苏浅坠入理智之塔废墟下方的虚空“神之喉咙”",
+      "time": "虚无坐标 00:00"
+    },
+    {
+      "id": "system_logic_activation",
+      "description": "李疯狂San值跌破临界点启动逻辑模块，关闭情感以数字视角解析世界",
+      "time": "虚无坐标 00:00"
+    },
+    {
+      "id": "self_definition_oil_stain",
+      "description": "李疯狂自我定义为“顽固油渍”，免疫上方红眼的精神攻击并利用光束能量加速",
+      "time": "虚无坐标 00:00"
+    },
+    {
+      "id": "variable_x_conflict",
+      "description": "系统检测到无法删除的变量X（苏浅写的“人”字），李疯狂经历逻辑与本能的博弈",
+      "time": "虚无坐标 00:00"
+    },
+    {
+      "id": "logic_reversal_vomit",
+      "description": "李疯狂拒绝系统建议，自我定义为“消化不良的刺身”，利用【篡改·协议层强制覆盖】制造反向动力场",
+      "time": "虚无坐标 00:00"
+    },
+    {
+      "id": "spoon_anchor_failure",
+      "description": "李疯狂用勺子插入虚空底板作为支点救下苏浅，但勺子断裂，两人坠入“后厨”",
+      "time": "虚无坐标 00:00"
+    }
+  ],
+  "time_period": "虚无坐标 00:00（时间概念失效）",
+  "locations": [
+    "理智之塔崩塌废墟下方的无尽虚空",
+    "神之喉咙",
+    "世界的回收站",
+    "后厨",
+    "下水道（废弃订单处理区）"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_sequence_ability",
+      "content": "李疯狂领悟序列能力雏形：【逻辑之主（伪）】，可通过修改定义来干涉规则（如定义为油渍、消化不良的刺身）"
+    },
+    {
+      "id": "suqian_new_arm",
+      "content": "苏浅拥有一只重生的、具有神性金属光泽的左臂"
+    },
+    {
+      "id": "chef_entity",
+      "content": "虚空高处存在被称为“主厨”的高维观测者（旧日支配者化身），以吞噬数据为生"
+    },
+    {
+      "id": "variable_x_human",
+      "content": "苏浅写在李疯狂手心的字“人”成为了无法被系统逻辑删除或屏蔽的变量X"
+    },
+    {
+      "id": "li_crazy_physical_state",
+      "content": "李疯狂体内拥有“真理之胃”，本章中身体经历液化、重组和重伤"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

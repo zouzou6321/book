@@ -1,0 +1,850 @@
+{
+  "id": "star_forgers_novel",
+  "title": "铸星者",
+  "subtitle": "The Star Forgers",
+  "author": "AI & Thomas",
+  "description": "从2025年的一次火箭发射事故开始，跨越近千年，讲述了一位万亿富豪如何利用当代科技全力推进太空制造基地的建造，最终带领人类摆脱引力束缚、建立太空工业帝国，并在太阳系毁灭前夕逃离摇篮、成为星际文明的硬科幻史诗。",
+  "tags": [
+    "硬科幻",
+    "太空工业",
+    "星际文明",
+    "长篇史诗"
+  ],
+  "cover_hue": 102,
+  "cover_image": true,
+  "total_chapters": 100,
+  "total_chars": 256120,
+  "volumes": [
+    {
+      "id": "volume_1_gravity_well",
+      "name": "第一卷：引力之井",
+      "chapters": [
+        {
+          "id": "chapter_001",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_001.md",
+          "title": "第1章：星链之夜",
+          "time": "",
+          "location": "",
+          "char_count": 1707
+        },
+        {
+          "id": "chapter_002",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_002.md",
+          "title": "第2章：汇报",
+          "time": "",
+          "location": "",
+          "char_count": 2303
+        },
+        {
+          "id": "chapter_003",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_003.md",
+          "title": "第3章：天工",
+          "time": "",
+          "location": "",
+          "char_count": 2076
+        },
+        {
+          "id": "chapter_004",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_004.md",
+          "title": "第4章：选拔",
+          "time": "",
+          "location": "",
+          "char_count": 2090
+        },
+        {
+          "id": "chapter_005",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_005.md",
+          "title": "第5章：九号甲",
+          "time": "",
+          "location": "",
+          "char_count": 2228
+        },
+        {
+          "id": "chapter_006",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_006.md",
+          "title": "第6章：上升",
+          "time": "",
+          "location": "",
+          "char_count": 2714
+        },
+        {
+          "id": "chapter_007",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_007.md",
+          "title": "第7章：焊缝",
+          "time": "",
+          "location": "",
+          "char_count": 2297
+        },
+        {
+          "id": "chapter_008",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_008.md",
+          "title": "第8章：工人",
+          "time": "",
+          "location": "",
+          "char_count": 2424
+        },
+        {
+          "id": "chapter_009",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_009.md",
+          "title": "第9章：第一炉火",
+          "time": "",
+          "location": "",
+          "char_count": 2616
+        },
+        {
+          "id": "chapter_010",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_010.md",
+          "title": "第10章：镜子",
+          "time": "",
+          "location": "",
+          "char_count": 2958
+        },
+        {
+          "id": "chapter_011",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_011.md",
+          "title": "第11章：信号延迟",
+          "time": "",
+          "location": "",
+          "char_count": 3262
+        },
+        {
+          "id": "chapter_012",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_012.md",
+          "title": "第12章：结晶",
+          "time": "",
+          "location": "",
+          "char_count": 2829
+        },
+        {
+          "id": "chapter_013",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_013.md",
+          "title": "第13章：熔炼",
+          "time": "",
+          "location": "",
+          "char_count": 3196
+        },
+        {
+          "id": "chapter_014",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_014.md",
+          "title": "第14章：家书",
+          "time": "",
+          "location": "",
+          "char_count": 2498
+        },
+        {
+          "id": "chapter_015",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_015.md",
+          "title": "第15章：事故",
+          "time": "",
+          "location": "",
+          "char_count": 2983
+        },
+        {
+          "id": "chapter_016",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_016.md",
+          "title": "第16章：陈默的镜头",
+          "time": "",
+          "location": "",
+          "char_count": 2549
+        },
+        {
+          "id": "chapter_017",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_017.md",
+          "title": "第17章：竞赛者",
+          "time": "",
+          "location": "",
+          "char_count": 2319
+        },
+        {
+          "id": "chapter_018",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_018.md",
+          "title": "第18章：下一步",
+          "time": "",
+          "location": "",
+          "char_count": 2525
+        },
+        {
+          "id": "chapter_019",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_019.md",
+          "title": "第19章：牧星",
+          "time": "",
+          "location": "",
+          "char_count": 2912
+        },
+        {
+          "id": "chapter_020",
+          "file": "star_forgers_novel/volume_1_gravity_well/chapter_020.md",
+          "title": "第20章：天工纪元",
+          "time": "",
+          "location": "",
+          "char_count": 2792
+        }
+      ]
+    },
+    {
+      "id": "volume_2_star_catcher",
+      "name": "第二卷：捕星者",
+      "chapters": [
+        {
+          "id": "chapter_021",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_021.md",
+          "title": "第21章：漫长等待",
+          "time": "",
+          "location": "",
+          "char_count": 1925
+        },
+        {
+          "id": "chapter_022",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_022.md",
+          "title": "第22章：附着",
+          "time": "",
+          "location": "",
+          "char_count": 2118
+        },
+        {
+          "id": "chapter_023",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_023.md",
+          "title": "第23章：推",
+          "time": "",
+          "location": "",
+          "char_count": 1900
+        },
+        {
+          "id": "chapter_024",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_024.md",
+          "title": "第24章：升级",
+          "time": "",
+          "location": "",
+          "char_count": 2094
+        },
+        {
+          "id": "chapter_025",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_025.md",
+          "title": "第25章：种菜",
+          "time": "",
+          "location": "",
+          "char_count": 2255
+        },
+        {
+          "id": "chapter_026",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_026.md",
+          "title": "第26章：轮换",
+          "time": "",
+          "location": "",
+          "char_count": 2062
+        },
+        {
+          "id": "chapter_027",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_027.md",
+          "title": "第27章：抵达",
+          "time": "",
+          "location": "",
+          "char_count": 2009
+        },
+        {
+          "id": "chapter_028",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_028.md",
+          "title": "第28章：矿山",
+          "time": "",
+          "location": "",
+          "char_count": 2354
+        },
+        {
+          "id": "chapter_029",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_029.md",
+          "title": "第29章：第一炉",
+          "time": "",
+          "location": "",
+          "char_count": 2640
+        },
+        {
+          "id": "chapter_030",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_030.md",
+          "title": "第30章：分离",
+          "time": "",
+          "location": "",
+          "char_count": 2615
+        },
+        {
+          "id": "chapter_031",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_031.md",
+          "title": "第31章：水",
+          "time": "",
+          "location": "",
+          "char_count": 2299
+        },
+        {
+          "id": "chapter_032",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_032.md",
+          "title": "第32章：自我复制",
+          "time": "",
+          "location": "",
+          "char_count": 2708
+        },
+        {
+          "id": "chapter_033",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_033.md",
+          "title": "第33章：成本",
+          "time": "",
+          "location": "",
+          "char_count": 2231
+        },
+        {
+          "id": "chapter_034",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_034.md",
+          "title": "第34章：第二颗",
+          "time": "",
+          "location": "",
+          "char_count": 2120
+        },
+        {
+          "id": "chapter_035",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_035.md",
+          "title": "第35章：百人",
+          "time": "",
+          "location": "",
+          "char_count": 2531
+        },
+        {
+          "id": "chapter_036",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_036.md",
+          "title": "第36章：争议",
+          "time": "",
+          "location": "",
+          "char_count": 2110
+        },
+        {
+          "id": "chapter_037",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_037.md",
+          "title": "第37章：聚光镜工厂",
+          "time": "",
+          "location": "",
+          "char_count": 2120
+        },
+        {
+          "id": "chapter_038",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_038.md",
+          "title": "第38章：第二颗星",
+          "time": "",
+          "location": "",
+          "char_count": 2258
+        },
+        {
+          "id": "chapter_039",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_039.md",
+          "title": "第39章：女儿",
+          "time": "",
+          "location": "",
+          "char_count": 3007
+        },
+        {
+          "id": "chapter_040",
+          "file": "star_forgers_novel/volume_2_star_catcher/chapter_040.md",
+          "title": "第40章：种子",
+          "time": "",
+          "location": "",
+          "char_count": 2852
+        }
+      ]
+    },
+    {
+      "id": "volume_3_forging_ring",
+      "name": "第三卷：锻造之环",
+      "chapters": [
+        {
+          "id": "chapter_041",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_041.md",
+          "title": "第41章：指数",
+          "time": "",
+          "location": "",
+          "char_count": 1987
+        },
+        {
+          "id": "chapter_042",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_042.md",
+          "title": "第42章：新总师",
+          "time": "",
+          "location": "",
+          "char_count": 1777
+        },
+        {
+          "id": "chapter_043",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_043.md",
+          "title": "第43章：旋转",
+          "time": "",
+          "location": "",
+          "char_count": 1673
+        },
+        {
+          "id": "chapter_044",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_044.md",
+          "title": "第44章：圆柱",
+          "time": "",
+          "location": "",
+          "char_count": 1648
+        },
+        {
+          "id": "chapter_045",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_045.md",
+          "title": "第45章：铸造",
+          "time": "",
+          "location": "",
+          "char_count": 1776
+        },
+        {
+          "id": "chapter_046",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_046.md",
+          "title": "第46章：转起来",
+          "time": "",
+          "location": "",
+          "char_count": 1933
+        },
+        {
+          "id": "chapter_047",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_047.md",
+          "title": "第47章：新家",
+          "time": "",
+          "location": "",
+          "char_count": 1802
+        },
+        {
+          "id": "chapter_048",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_048.md",
+          "title": "第48章：农场",
+          "time": "",
+          "location": "",
+          "char_count": 2160
+        },
+        {
+          "id": "chapter_049",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_049.md",
+          "title": "第49章：孩子",
+          "time": "",
+          "location": "",
+          "char_count": 2137
+        },
+        {
+          "id": "chapter_050",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_050.md",
+          "title": "第50章：产品",
+          "time": "",
+          "location": "",
+          "char_count": 2734
+        },
+        {
+          "id": "chapter_051",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_051.md",
+          "title": "第51章：五百人",
+          "time": "",
+          "location": "",
+          "char_count": 3386
+        },
+        {
+          "id": "chapter_052",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_052.md",
+          "title": "第52章：远航",
+          "time": "",
+          "location": "",
+          "char_count": 2504
+        },
+        {
+          "id": "chapter_053",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_053.md",
+          "title": "第53章：设计",
+          "time": "",
+          "location": "",
+          "char_count": 2329
+        },
+        {
+          "id": "chapter_054",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_054.md",
+          "title": "第54章：建造",
+          "time": "",
+          "location": "",
+          "char_count": 3000
+        },
+        {
+          "id": "chapter_055",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_055.md",
+          "title": "第55章：选人",
+          "time": "",
+          "location": "",
+          "char_count": 2316
+        },
+        {
+          "id": "chapter_056",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_056.md",
+          "title": "第56章：告别",
+          "time": "",
+          "location": "",
+          "char_count": 2581
+        },
+        {
+          "id": "chapter_057",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_057.md",
+          "title": "第57章：出发",
+          "time": "",
+          "location": "",
+          "char_count": 2881
+        },
+        {
+          "id": "chapter_058",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_058.md",
+          "title": "第58章：旅途",
+          "time": "",
+          "location": "",
+          "char_count": 2775
+        },
+        {
+          "id": "chapter_059",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_059.md",
+          "title": "第59章：盘古",
+          "time": "",
+          "location": "",
+          "char_count": 2136
+        },
+        {
+          "id": "chapter_060",
+          "file": "star_forgers_novel/volume_3_forging_ring/chapter_060.md",
+          "title": "第60章：前哨",
+          "time": "",
+          "location": "",
+          "char_count": 3551
+        }
+      ]
+    },
+    {
+      "id": "volume_4_belt_factory",
+      "name": "第四卷：带区工厂",
+      "chapters": [
+        {
+          "id": "chapter_061",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_061.md",
+          "title": "第61章：延迟",
+          "time": "",
+          "location": "",
+          "char_count": 2877
+        },
+        {
+          "id": "chapter_062",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_062.md",
+          "title": "第62章：扩张",
+          "time": "",
+          "location": "",
+          "char_count": 2813
+        },
+        {
+          "id": "chapter_063",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_063.md",
+          "title": "第63章：补给船",
+          "time": "",
+          "location": "",
+          "char_count": 2573
+        },
+        {
+          "id": "chapter_064",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_064.md",
+          "title": "第64章：自给",
+          "time": "",
+          "location": "",
+          "char_count": 2892
+        },
+        {
+          "id": "chapter_065",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_065.md",
+          "title": "第65章：第二波",
+          "time": "",
+          "location": "",
+          "char_count": 3104
+        },
+        {
+          "id": "chapter_066",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_066.md",
+          "title": "第66章：采矿船",
+          "time": "",
+          "location": "",
+          "char_count": 2802
+        },
+        {
+          "id": "chapter_067",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_067.md",
+          "title": "第67章：林远来了",
+          "time": "",
+          "location": "",
+          "char_count": 2931
+        },
+        {
+          "id": "chapter_068",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_068.md",
+          "title": "第68章：重逢",
+          "time": "",
+          "location": "",
+          "char_count": 3352
+        },
+        {
+          "id": "chapter_069",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_069.md",
+          "title": "第69章：百人",
+          "time": "",
+          "location": "",
+          "char_count": 3035
+        },
+        {
+          "id": "chapter_070",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_070.md",
+          "title": "第70章：通信塔",
+          "time": "",
+          "location": "",
+          "char_count": 4127
+        },
+        {
+          "id": "chapter_071",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_071.md",
+          "title": "第71章：风化层",
+          "time": "",
+          "location": "",
+          "char_count": 2534
+        },
+        {
+          "id": "chapter_072",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_072.md",
+          "title": "第72章：旋转城",
+          "time": "",
+          "location": "",
+          "char_count": 2532
+        },
+        {
+          "id": "chapter_073",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_073.md",
+          "title": "第73章：医疗",
+          "time": "",
+          "location": "",
+          "char_count": 2982
+        },
+        {
+          "id": "chapter_074",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_074.md",
+          "title": "第74章：小萱",
+          "time": "",
+          "location": "",
+          "char_count": 2408
+        },
+        {
+          "id": "chapter_075",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_075.md",
+          "title": "第75章：新一代",
+          "time": "",
+          "location": "",
+          "char_count": 2763
+        },
+        {
+          "id": "chapter_076",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_076.md",
+          "title": "第76章：扩张",
+          "time": "",
+          "location": "",
+          "char_count": 2728
+        },
+        {
+          "id": "chapter_077",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_077.md",
+          "title": "第77章：工业网络",
+          "time": "",
+          "location": "",
+          "char_count": 2831
+        },
+        {
+          "id": "chapter_078",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_078.md",
+          "title": "第78章：地球的消息",
+          "time": "",
+          "location": "",
+          "char_count": 2231
+        },
+        {
+          "id": "chapter_079",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_079.md",
+          "title": "第79章：自给自足",
+          "time": "",
+          "location": "",
+          "char_count": 2399
+        },
+        {
+          "id": "chapter_080",
+          "file": "star_forgers_novel/volume_4_belt_factory/chapter_080.md",
+          "title": "第80章：望回去",
+          "time": "",
+          "location": "",
+          "char_count": 3080
+        }
+      ]
+    },
+    {
+      "id": "volume_5_new_world",
+      "name": "第五卷：新世界",
+      "chapters": [
+        {
+          "id": "chapter_081",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_081.md",
+          "title": "第81章：天工星群",
+          "time": "",
+          "location": "",
+          "char_count": 2183
+        },
+        {
+          "id": "chapter_082",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_082.md",
+          "title": "第82章：大圆柱",
+          "time": "",
+          "location": "",
+          "char_count": 2314
+        },
+        {
+          "id": "chapter_083",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_083.md",
+          "title": "第83章：世代",
+          "time": "",
+          "location": "",
+          "char_count": 2433
+        },
+        {
+          "id": "chapter_084",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_084.md",
+          "title": "第84章：教育",
+          "time": "",
+          "location": "",
+          "char_count": 3150
+        },
+        {
+          "id": "chapter_085",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_085.md",
+          "title": "第85章：文化",
+          "time": "",
+          "location": "",
+          "char_count": 2494
+        },
+        {
+          "id": "chapter_086",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_086.md",
+          "title": "第86章：治理",
+          "time": "",
+          "location": "",
+          "char_count": 2772
+        },
+        {
+          "id": "chapter_087",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_087.md",
+          "title": "第87章：美国人",
+          "time": "",
+          "location": "",
+          "char_count": 3599
+        },
+        {
+          "id": "chapter_088",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_088.md",
+          "title": "第88章：反哺",
+          "time": "",
+          "location": "",
+          "char_count": 2908
+        },
+        {
+          "id": "chapter_089",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_089.md",
+          "title": "第89章：林远的课",
+          "time": "",
+          "location": "",
+          "char_count": 2654
+        },
+        {
+          "id": "chapter_090",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_090.md",
+          "title": "第90章：大圆柱进展",
+          "time": "",
+          "location": "",
+          "char_count": 3106
+        },
+        {
+          "id": "chapter_091",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_091.md",
+          "title": "第91章：返乡",
+          "time": "",
+          "location": "",
+          "char_count": 2009
+        },
+        {
+          "id": "chapter_092",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_092.md",
+          "title": "第92章：老赵",
+          "time": "",
+          "location": "",
+          "char_count": 2028
+        },
+        {
+          "id": "chapter_093",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_093.md",
+          "title": "第93章：芯片",
+          "time": "",
+          "location": "",
+          "char_count": 2362
+        },
+        {
+          "id": "chapter_094",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_094.md",
+          "title": "第94章：木星",
+          "time": "",
+          "location": "",
+          "char_count": 2482
+        },
+        {
+          "id": "chapter_095",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_095.md",
+          "title": "第95章：千人",
+          "time": "",
+          "location": "",
+          "char_count": 2041
+        },
+        {
+          "id": "chapter_096",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_096.md",
+          "title": "第96章：小萱的选择",
+          "time": "",
+          "location": "",
+          "char_count": 2245
+        },
+        {
+          "id": "chapter_097",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_097.md",
+          "title": "第97章：建造者的黄昏",
+          "time": "",
+          "location": "",
+          "char_count": 2573
+        },
+        {
+          "id": "chapter_098",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_098.md",
+          "title": "第98章：编年史",
+          "time": "",
+          "location": "",
+          "char_count": 2743
+        },
+        {
+          "id": "chapter_099",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_099.md",
+          "title": "第99章：落日",
+          "time": "",
+          "location": "",
+          "char_count": 3378
+        },
+        {
+          "id": "chapter_100",
+          "file": "star_forgers_novel/volume_5_new_world/chapter_100.md",
+          "title": "第100章：继续",
+          "time": "",
+          "location": "",
+          "char_count": 5080
+        }
+      ]
+    }
+  ],
+  "channel": ""
+}

@@ -1,0 +1,106 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "杂役弟子/大师兄",
+      "description": "身穿破烂杂役服，头发乱糟糟，手持工业级液压剪（加强版），浑身浴血",
+      "status": "active"
+    },
+    {
+      "name": "太玄宗掌门",
+      "age": "未知",
+      "role": "反派/金丹修士",
+      "description": "魔化为百丈高的血色巨人，浑身流淌岩浆状液体，周身环绕数百个痛苦的人脸怨魂",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "杂役弟子",
+      "description": "手持装修用的大铁锤，额头青筋暴起，双脚踩出深坑",
+      "status": "active"
+    },
+    {
+      "name": "王虎",
+      "age": "未知",
+      "role": "杂役弟子",
+      "description": "手持马桶搋子（自称通天棍），满头冷汗，身体因恐惧微微颤抖",
+      "status": "active"
+    },
+    {
+      "name": "苏软软",
+      "age": "未知",
+      "role": "外门弟子",
+      "description": "脸色苍白，眼泪直流，手里抓着一把石灰粉",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "内门弟子/小师妹",
+      "description": "胸口插着半截断箭，白衣染红，气息极其微弱",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "leader_demonized",
+      "description": "太玄宗掌门撕下伪装，现出金丹大圆满魔化形态，化为百丈高的血色巨人",
+      "time": "黄昏"
+    },
+    {
+      "id": "jiangyue_blocks_attack",
+      "description": "江越没有使用灵力，仅凭肉体被动【钢筋铁骨】和液压剪硬接了掌门的全力一掌",
+      "time": "黄昏"
+    },
+    {
+      "id": "jiangyue_taunts_leader",
+      "description": "江越嘲讽掌门力度不如体育老师推铅球，并当场吃辣条羞辱对方",
+      "time": "黄昏"
+    },
+    {
+      "id": "qingxue_woke_up",
+      "description": "重伤濒死的林清雪在废墟中苏醒，目睹江越挡在她身前",
+      "time": "黄昏"
+    },
+    {
+      "id": "counterattack_formation",
+      "description": "江越分配战术：李二牛砸地基，王虎保护林清雪，自己负责拆大殿主梁",
+      "time": "黄昏"
+    }
+  ],
+  "time_period": "黄昏，残阳如血",
+  "locations": [
+    "太玄宗主殿内",
+    "大殿废墟"
+  ],
+  "key_facts": [
+    {
+      "id": "jiangyue_passive_skill",
+      "content": "江越拥有肉体被动技能【钢筋铁骨】，系统当前处于【最终过载模式】"
+    },
+    {
+      "id": "sect_leader_cannibalism",
+      "content": "太玄宗掌门通过吞噬信任他的弟子来进行血祭修炼"
+    },
+    {
+      "id": "weapon_hydraulic_shear",
+      "content": "江越使用的武器是工业级液压剪（加强版），曾破坏了护殿大阵"
+    },
+    {
+      "id": "disciple_weapons",
+      "content": "王虎视马桶搋子为法宝（通天棍），李二牛使用装修大铁锤"
+    },
+    {
+      "id": "qingxue_injury_status",
+      "content": "林清雪胸口插着断箭，处于濒死状态但意识尚存"
+    },
+    {
+      "id": "jiangyue_consumes_snack",
+      "content": "江越在战斗过程中吃了一包辣条"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "篡改者/幸存者",
+      "description": "身穿印有“V我50”的破烂T恤，左眼深处有白色倒V字符号（黯淡）",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "幸存者",
+      "description": "左臂晶体化带有青色电路板纹路（后变为手铐状花纹），身体虚弱",
+      "status": "active"
+    },
+    {
+      "name": "看门人",
+      "age": "",
+      "role": "理智交易所交易员",
+      "description": "脸部为一张竖着的嘴，周围密布五十只眼睛，手由肋骨构成",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "看门人"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "awakening_in_exchange",
+      "description": "李疯狂和苏浅在理智交易所醒来，发现天空呈现诡异的紫色。",
+      "time": "凌晨"
+    },
+    {
+      "id": "gatekeeper_transaction",
+      "description": "李疯狂通过向看门人提供关于神罚的原始记忆影像，换取关于紫色天空的情报。",
+      "time": "本章时间内"
+    },
+    {
+      "id": "truth_revealed",
+      "description": "看门人透露紫色天空是因为神将星期三咬断后骨头卡在喉咙里（消化不良），导致了时间盲区的产生。",
+      "time": "本章时间内"
+    },
+    {
+      "id": "mental_rescue",
+      "description": "苏浅触碰“遗忘”导致精神世界入侵，李疯狂额头抵住其额头，利用真理之胃本能吞噬了试图污染苏浅的紫色逻辑黑影。",
+      "time": "本章时间内"
+    },
+    {
+      "id": "new_plan",
+      "description": "两人决定离开交易所，计划利用神“消化不良”会痛的弱点，去拔掉卡在喉咙里的“骨头”来反击。",
+      "time": "本章末尾"
+    }
+  ],
+  "time_period": "被篡改的“第二个星期四”凌晨（呈现诡异周三气象）",
+  "locations": [
+    "理智交易所（原中央证券交易所遗址）"
+  ],
+  "key_facts": [
+    {
+      "id": "purple_sky_origin",
+      "content": "紫色天空是神把星期三咬断后骨头卡在喉咙里流出的脓水，该区域是时间的盲区/避难所。"
+    },
+    {
+      "id": "suqian_arm_status",
+      "content": "苏浅的左臂晶体化并带有青色纹路，在被李疯狂精神救援后，纹路退化为左小臂上的手铐状青色花纹。"
+    },
+    {
+      "id": "truth_stomach_consumption",
+      "content": "李疯狂体内的“真理之胃”可以吞噬精神层面的恶意逻辑并反哺精神力，尽管口感极差。"
+    },
+    {
+      "id": "soul_link",
+      "content": "通过精神层面的救援与接触，李疯狂和苏浅之间加深了精神链接，能隐约感知对方的情绪或状态。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

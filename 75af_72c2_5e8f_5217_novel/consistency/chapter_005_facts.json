@@ -1,0 +1,77 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "未知",
+      "role": "主角/守秘人",
+      "description": "脸色苍白，黑眼圈深重，看起来像连续熬夜加班的社畜，眼神深邃无迷茫，手部力量异常",
+      "status": "active"
+    },
+    {
+      "name": "隔壁403室那个胖子",
+      "age": "未知",
+      "role": "邻居",
+      "description": "未直接露面，只被顾长歌听到呼吸声和肠蠕动声",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "隔壁403室那个胖子"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "world_restoration",
+      "description": "疯狂世界消退，环境开始重塑恢复为正常的理智世界（真菌路灯变回金属杆，肉质路面变回沥青）",
+      "time": "周四 23:50 - 周五 00:00"
+    },
+    {
+      "id": "disposal_of_evidence",
+      "description": "顾长歌将客厅遗留的一条带有鳞片的断臂扔出窗外，使其落入下水道，以免在理智世界被视为凶案现场",
+      "time": "周四 23:50左右"
+    },
+    {
+      "id": "sanity_transition_pain",
+      "description": "周五00:00到来，顾长歌经历世界观重塑带来的剧痛，世界规则从疯狂转为秩序",
+      "time": "周五 00:00"
+    },
+    {
+      "id": "memory_retention_and_evolution",
+      "description": "顾长歌保留了疯狂世界的记忆，并未像常人一样遗忘，且身体机能（听觉、视觉）得到进化增强，适应了污染",
+      "time": "周五 00:00之后"
+    },
+    {
+      "id": "system_awakening",
+      "description": "系统提示顾长歌精神异常，理智值检定结果为“绝对理智（清醒状态下的深度污染适应）”，序列能力“守秘人”微弱觉醒",
+      "time": "周五清晨"
+    }
+  ],
+  "time_period": "新纪元元年，周四 23:50 至周五清晨",
+  "locations": [
+    "幸福家园小区4号楼404室",
+    "满是粘液的街道（重塑中）",
+    "单元楼楼道",
+    "楼下小区花园",
+    "下水道口",
+    "卫生间"
+  ],
+  "key_facts": [
+    {
+      "id": "weekly_cycle",
+      "content": "每周四为“疯狂星期四”，世界变得怪诞混乱；每周五0点起世界恢复理智与正常，普通人会自动遗忘昨日的疯狂经历。"
+    },
+    {
+      "id": "gu_resilience",
+      "content": "顾长歌具备“污染耐受”特性，未因保留记忆而脑死亡，反而获得了超人般的感官（听觉、视觉）和特殊的物理体质。"
+    },
+    {
+      "id": "secret_awakening",
+      "content": "顾长歌觉醒了序列能力“守秘人”，理智值状态被判定为“绝对理智（清醒状态下的深度污染适应）”。"
+    },
+    {
+      "id": "item_brain_flavor",
+      "content": "顾长歌食用了“脑味源”罐头，口感像过期肥皂，能缓解胃部痉挛并减少脑海噪音。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

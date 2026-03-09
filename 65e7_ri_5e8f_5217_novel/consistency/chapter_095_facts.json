@@ -1,0 +1,115 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/干涉者",
+      "description": "身穿烂成抹布的燕尾服，左眼为死机灰白色倒“V”字符号且正在流出血泪，肋骨断裂",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "Type-K/机械改造人",
+      "description": "仅剩一只机械臂且受损严重，动力炉过载，半边身体彻底黑截露出核心和线路，独眼红灯暗淡",
+      "status": "active"
+    },
+    {
+      "name": "巨大的眼球/主厨",
+      "age": "未知",
+      "role": "高维神明/旧日支配者",
+      "description": "由0和1构成的瞳孔，充血愤怒，后因尴尬呈现灰白色",
+      "status": "departed"
+    },
+    {
+      "name": "李疯狂的影子",
+      "age": "未知",
+      "role": "影子/独立意识体",
+      "description": "穿着破烂燕尾服，举杯敬酒，笑容带有恶意",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "主厨",
+    "上校",
+    "S+级异常生物（寄生虫）",
+    "李疯狂的影子"
+  ],
+  "character_exits": [
+    {
+      "name": "巨大的眼球/主厨",
+      "reason": "因被揭穿底细导致世界“消化不良”而消失/退去"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "public_shame_attack",
+      "description": "李疯狂利用【干涉者】能力向高维生物揭露“主厨”其实是前科学家，售卖的是“预制菜”和“垃圾”",
+      "time": "星期四 00:15"
+    },
+    {
+      "id": "world_rejection",
+      "description": "高维世界因食物（李疯狂的言论）“难吃”产生排斥反应，将李疯狂和苏浅反向呕吐出去",
+      "time": "星期四 00:15"
+    },
+    {
+      "id": "ark_crash_landing",
+      "description": "李疯狂和苏浅坠落在诺亚方舟01号残骸的甲板上",
+      "time": "星期四 00:15"
+    },
+    {
+      "id": "shadow_autonomy",
+      "description": "李疯狂的影子在背后独立举杯并表示祝用餐愉快",
+      "time": "未知"
+    }
+  ],
+  "time_period": "星期四 00:15",
+  "locations": [
+    "第4区上空",
+    "诺亚方舟01号残骸甲板"
+  ],
+  "key_facts": [
+    {
+      "id": "achievement_bad_reviewer",
+      "content": "李疯狂触发隐藏成就“差评师”，获得“高维隐匿斗篷”（一次性体验版，有效期30分钟）"
+    },
+    {
+      "id": "hit_list_priority",
+      "content": "李疯狂被列入“主厨”的暗杀名单第一位，优先级提至SSS级"
+    },
+    {
+      "id": "su_qian_damaged_state",
+      "content": "苏浅仅剩一只机械臂，链锯臂只剩半截锯齿，半边身体彻底黑截"
+    },
+    {
+      "id": "parasite_nature",
+      "content": "S+级异常生物名为“寄生虫”，不仅吃食物还吃“希望”，只要相信它能救你就会被吞噬"
+    },
+    {
+      "id": "chef_identity_rumor",
+      "content": "主厨被李疯狂（谣言/揭露）定义为“前科学家”，无限炸鸡桶被定义为存放失败数据的垃圾桶，上校被定义为被开除的实习生"
+    },
+    {
+      "id": "weird_clock_time",
+      "content": "古老闹钟停在了不存在的时间“星期三：99:99”"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主厨",
+      "names": [
+        "主厨",
+        "旧日支配者",
+        "前科学家",
+        "黑心老板"
+      ]
+    },
+    {
+      "role_or_identity": "上校",
+      "names": [
+        "上校",
+        "实习生"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角 / 指挥官",
+      "description": "身穿破烂不堪、沾满油污血迹的燕尾服，左眼深处呈惨白色的倒“V”字符号，处于理智清零的绝对理性模式",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "AI助手 / 前人类 / 最佳员工",
+      "description": "庞大的金属躯体，红眼闪烁，钛合金装甲上有酸液腐蚀痕迹，左肩贴着'最佳员工'便利贴",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "return_to_safehouse",
+      "description": "李疯狂与苏浅通过空间折叠回到李疯狂位于第4区的安全屋（破烂公寓），外部环境被迷雾覆盖。",
+      "time": "周日"
+    },
+    {
+      "id": "ticket_transformation",
+      "description": "李疯狂身上的金色入场券文字发生异变，提示可兑换'上帝视角'座位并提供'贵宾通道'（直接上菜）。",
+      "time": "周日"
+    },
+    {
+      "id": "planting_cognitive_singularity",
+      "description": "李疯狂让苏浅将代表认知奇点的'烂苹果'种进泡面汤桶，随后生长出一棵由电缆和钢筋构成、挂着微型人造卫星的金属树。",
+      "time": "周日"
+    },
+    {
+      "id": "world_transition",
+      "description": "餐铃声响起，公寓内部空间异变（地板变成汤底液体，墙壁变为肠道），通往'餐厅'的大门显现，摆着两副刀叉。",
+      "time": "周日末"
+    }
+  ],
+  "time_period": "周日（最后的宁静 / 疯狂期前的短暂间歇）",
+  "locations": [
+    "老城区 · 李疯狂的安全屋（第4区公寓）",
+    "异变的维维度空间（餐厅/餐桌）"
+  ],
+  "key_facts": [
+    {
+      "id": "li_eye_status",
+      "content": "李疯狂左眼呈惨白色倒'V'字符号，理智清零，处于绝对理性模式，痛觉微弱。"
+    },
+    {
+      "id": "referral_code_agreement",
+      "content": "李疯狂与苏浅约定，若自己彻底疯狂需被关进冰箱；因冰箱已满，预约排队号为'V我50'。"
+    },
+    {
+      "id": "metal_tree_function",
+      "content": "由认知奇点生长出的金属树挂满微型卫星，能接收世界频段信息（如收容局沦陷、主厨准备剔骨）。"
+    },
+    {
+      "id": "su_warning",
+      "content": "苏（Su）的纸条灰烬重组后的警告为'别去。那是餐桌。'"
+    },
+    {
+      "id": "invitation_content",
+      "content": "入场券提示'贵宾通道，直接上菜'，意味着李疯狂不再是食客，而是食材（主菜）。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

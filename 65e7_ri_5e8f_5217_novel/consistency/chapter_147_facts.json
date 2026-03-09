@@ -1,0 +1,83 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "26",
+      "role": "主角/特餐",
+      "description": "皮肤呈诡异的半透明状，体内流淌着金色代码与暗红疯狂物质的混合物，左眼图案变为苏浅名字的缩写",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "核心防火墙/Admin Su Qian",
+      "description": "由录音笔转化而来，以虚拟声音和意识形式存在，曾化作冰膜包裹李疯狂",
+      "status": "active"
+    },
+    {
+      "name": "主厨",
+      "age": null,
+      "role": "古神",
+      "description": "悬挂的巨大独眼，天顶像蜡油般垂落，被李疯狂攻击",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "environment_reconstruction",
+      "description": "环境重构为巨型油炸祭坛，地板化为黄油，墙壁分泌油脂，本质是液化时间与历史",
+      "time": "零点已过"
+    },
+    {
+      "id": "vision_of_parallel_selves",
+      "description": "李疯狂在油泡中看到平行世界的失败版本（疯狗、机器、教皇），被称为油炸鬼",
+      "time": "零点已过"
+    },
+    {
+      "id": "su_qian_intervention",
+      "description": "苏浅以意志介入，通过“爱”的概念构建冰膜防御，锁定李疯狂的理智",
+      "time": "零点已过"
+    },
+    {
+      "id": "devouring_timelines",
+      "description": "李疯狂开启理智暴食模式，吞噬周围的平行世界残尸以消化可能性",
+      "time": "零点已过"
+    },
+    {
+      "id": "giant_fork_rip",
+      "description": "李疯狂变异后用黑色几何体手掌扯下代表神权的巨型叉子",
+      "time": "零点已过"
+    },
+    {
+      "id": "attack_on_chef",
+      "description": "李疯狂抡起巨型叉子砸向天空中的独眼（主厨）",
+      "time": "零点已过"
+    }
+  ],
+  "time_period": "零点已过，无时间概念",
+  "locations": [
+    "古神降临点 · 巨型油炸祭坛",
+    "中央厨房大堂"
+  ],
+  "key_facts": [
+    {
+      "id": "oil_nature",
+      "content": "油炸祭坛的锅油本质上是液化的时间与历史"
+    },
+    {
+      "id": "su_qian_defense",
+      "content": "苏浅能够作为高维能量实体介入，用“爱”构建绝对防御"
+    },
+    {
+      "id": "li_crazy_evolution",
+      "content": "李疯狂吞噬平行时间线后，皮肤半透明，体内流淌金色代码与暗红疯狂物质混合物，左眼印记变为苏浅名字缩写"
+    },
+    {
+      "id": "engagement_trophy",
+      "content": "巨型金属叉子被苏浅戏称为两人的订婚信物"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

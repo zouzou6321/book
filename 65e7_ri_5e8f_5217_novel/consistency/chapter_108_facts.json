@@ -1,0 +1,94 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角/自定义为病毒的防火墙",
+      "description": "黑色风衣，左眼血红，右眼是死机灰白色的倒“V”字，不断溢出黑色数据流并凝结成冰晶，牙齿被烟草熏黄",
+      "status": "active"
+    },
+    {
+      "name": "审判官零",
+      "age": "",
+      "role": "世界秩序/程序",
+      "description": "白色的光晕，周围有无数红色报错弹窗像雪花一样飞舞",
+      "status": "deceased"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "李疯狂的同伴（画像中人）",
+      "description": "原本是黑白画卷中人，正在三维化，裸露肌理和鲜红的指甲，未完全成型，只有左眼清晰（紫色螺旋瞳孔）",
+      "status": "active"
+    },
+    {
+      "name": "副主厨",
+      "age": "",
+      "role": "餐厅管理者",
+      "description": "小人，细长手掌，绿豆般的小眼睛，笑容极度扭曲",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "审判官零",
+    "副主厨"
+  ],
+  "character_exits": [
+    {
+      "name": "审判官零",
+      "reason": "被高维存在的巨手撕碎吞噬"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "world_fracture",
+      "description": "世界因逻辑崩坏出现裂缝，边缘闪烁紫红色像素块",
+      "time": "定格的时间流中 · 裂隙崩坏的第0.01秒"
+    },
+    {
+      "id": "financial_tsunami",
+      "description": "李疯狂将“50块钱”的坏账转化为引发“金融海啸”的混乱，释放被格式化的历史与情感",
+      "time": "定格的时间流中"
+    },
+    {
+      "id": "suqian_revival",
+      "description": "李疯狂以自身鲜血为“高维燃料”激活苏浅画像，使其发生暴力且粗糙的三维化重生",
+      "time": "定格的时间流中"
+    },
+    {
+      "id": "angel_financing",
+      "description": "李疯狂将乐高积木和骨勺塞入手机充电口生成二维码，向高维观测者发起天使轮融资，抵押存在权与收益权",
+      "time": "定格的时间流中"
+    },
+    {
+      "id": "fall_into_abyss",
+      "description": "白色荒原被巨手捏碎，李疯狂、苏浅和副主厨一同坠入真实深渊",
+      "time": "定格的时间流中"
+    }
+  ],
+  "time_period": "定格的时间流中 · 裂隙崩坏的第0.01秒",
+  "locations": [
+    "白色荒原",
+    "世界的格式化弹窗边缘",
+    "真实深渊"
+  ],
+  "key_facts": [
+    {
+      "id": "system_reboot_version",
+      "content": "李疯狂脑海中的系统重启成功，更新为“疯狂星期四 v4.1.2（内测版）”"
+    },
+    {
+      "id": "li_crazy_eye_feature",
+      "content": "李疯狂的右眼是一个死机灰白色的倒“V”字，受伤时会流出黑色数据流而非鲜血"
+    },
+    {
+      "id": "high_dimension_funding",
+      "content": "通过抵押“存在权”和“未来收益”，可以向高维观测者（旧日支配者）借款获取力量"
+    },
+    {
+      "id": "suqian_revival_state",
+      "content": "苏浅复活初期为血肉裸露的半成品状态，拥有紫色螺旋瞳孔"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

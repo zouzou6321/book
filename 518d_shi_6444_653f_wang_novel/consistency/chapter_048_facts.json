@@ -1,0 +1,121 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "Unknown",
+      "role": "摄政王 / 原北境主帅",
+      "description": "身穿紫蟒亲王朝服，腰束玉带，气质儒雅深不可测，拥有两世记忆。",
+      "status": "active"
+    },
+    {
+      "name": "李恪",
+      "age": "10",
+      "role": "大梁新帝",
+      "description": "身穿明黄龙袍，稚嫩但努力维持帝威，对萧寒依赖且信任。",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "Unknown",
+      "role": "长公主",
+      "description": "身穿红色凤吉服，头戴九翅凤冠，面容绝美，平日铁血手腕，此刻流露柔情。",
+      "status": "active"
+    },
+    {
+      "name": "礼部尚书",
+      "age": "Unknown",
+      "role": "大臣",
+      "description": "嗓音尖细，注重仪态。",
+      "status": "active"
+    },
+    {
+      "name": "中书令",
+      "age": "Unknown",
+      "role": "大臣",
+      "description": "负责宣读圣旨。",
+      "status": "active"
+    },
+    {
+      "name": "御史大夫",
+      "age": "Unknown",
+      "role": "言官",
+      "description": "平日里刺头，不敢直视萧寒。",
+      "status": "active"
+    },
+    {
+      "name": "老御史",
+      "age": "Unknown",
+      "role": "言官",
+      "description": "须发皆白，激烈反对在朝堂谈论儿女私情。",
+      "status": "active"
+    },
+    {
+      "name": "兵部尚书",
+      "age": "Unknown",
+      "role": "大臣",
+      "description": "萧寒前死忠，私下议论二人关系。",
+      "status": "active"
+    },
+    {
+      "name": "工部侍郎刘大人",
+      "age": "Unknown",
+      "role": "官员",
+      "description": "带头起哄赞同婚事。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "工部侍郎刘大人"
+  ],
+  "character_exits": [
+    {
+      "name": "萧寒",
+      "reason": "退休/卸甲归田/辞去朝职"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "triumph_ceremony",
+      "description": "大梁新帝李恪举行首次凯旋大典，迎接平定北境归来的摄政王萧寒。",
+      "time": "建安二十五年春巳时三刻"
+    },
+    {
+      "id": "xiaohan_declined_title",
+      "description": "中书令宣读封萧寒为一字并肩王及赐九锡的圣旨，萧寒当场拒绝，并解剑示意外放兵权。",
+      "time": "建安二十五年春巳时三刻"
+    },
+    {
+      "id": "court_proposal",
+      "description": "萧寒在太极殿众目睽睽下向长公主李瑾求婚，辞去所有朝职，愿做赘婿只为一人折腰。",
+      "time": "建安二十五年春巳时三刻"
+    },
+    {
+      "id": "engagement_accepted",
+      "description": "长公主李瑾走出珠帘接受求婚，以金凤步摇插于萧寒发冠作为信物，皇帝李恪当场赐婚。",
+      "time": "建安二十五年春巳时三刻"
+    }
+  ],
+  "time_period": "建安二十五年，春，巳时三刻",
+  "locations": [
+    "大梁皇宫",
+    "太极殿"
+  ],
+  "key_facts": [
+    {
+      "id": "xiaohan_rebirth",
+      "content": "萧寒拥有两世记忆，前世在刑场被斩，今生通过权谋赢了天下。"
+    },
+    {
+      "id": "jinli_background",
+      "content": "李瑾是铁血手腕的长公主，曾在江南拥兵自重，现奉命垂帘听政，曾与萧寒有两世纠葛。"
+    },
+    {
+      "id": "xiaohan_resignation",
+      "content": "萧寒正式辞去摄政王职位及所有朝职，放弃九锡殊荣，决定与李瑾归隐。"
+    },
+    {
+      "id": "political_transition",
+      "content": "北境已定，朝局已定，大梁权力结构从摄政王辅政过渡到皇帝亲政（或长公主与皇帝共治）。"
+    }
+  ]
+}

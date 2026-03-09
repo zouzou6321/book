@@ -1,0 +1,69 @@
+{
+  "characters_present": [
+    {
+      "name": "萧严 (萧寒)",
+      "age": "未提及",
+      "role": "演员 / 定北侯转世",
+      "description": "英俊沧桑，脸色苍白如纸，双眼赤红充血，身穿黑色冲锋衣",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "萧严",
+      "reason": "遭遇车祸（主动放弃躲避）"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "breakup_cleanup",
+      "description": "萧严独自喝完劣质白酒，删除并拉黑了林清雪的所有联系方式及照片",
+      "time": "深夜"
+    },
+    {
+      "id": "night_walk",
+      "description": "萧严身穿黑色冲锋衣走入雨夜，在街道上漫无目的行走",
+      "time": "深夜"
+    },
+    {
+      "id": "watching_news",
+      "description": "萧严在便利店外观看电视重播，看见自己饰演的魏忠演技备受好评",
+      "time": "深夜"
+    },
+    {
+      "id": "car_accident",
+      "description": "萧严产生解脱念头，未躲避迎面驶来的货车，被撞飞并失去意识",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "2024年深秋，深夜",
+  "locations": [
+    "出租屋",
+    "街道",
+    "十字路口",
+    "便利店（外）"
+  ],
+  "key_facts": [
+    {
+      "id": "identity_reveal",
+      "content": "萧严是前世定北侯萧寒的重生载体，记忆融合"
+    },
+    {
+      "id": "acting_role",
+      "content": "萧严在古装剧《大梁谍影》中饰演太监魏忠，演技被封神"
+    },
+    {
+      "id": "relationship_status",
+      "content": "萧严为了保护林清雪不受赵宏（京圈资本）迫害，主动将其推开并断绝关系"
+    },
+    {
+      "id": "antagonist_threat",
+      "content": "赵宏是京圈大佬，正死死盯着林氏集团，且威胁着医院里的老夫人"
+    },
+    {
+      "id": "protagonist_fate",
+      "content": "萧严在十字路口遭遇货车撞击，意识消散"
+    }
+  ]
+}

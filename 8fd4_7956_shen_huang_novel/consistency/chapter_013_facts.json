@@ -1,0 +1,121 @@
+{
+  "characters_present": [
+    {
+      "name": "林野",
+      "age": "22",
+      "role": "主角",
+      "description": "瞳孔由漆黑转为血色，上身赤裸，周身游走暗红色血纹，爆发时有赤金色血气",
+      "status": "active"
+    },
+    {
+      "name": "收割者",
+      "age": "未知",
+      "role": "外星战舰指挥官/AI",
+      "description": "机械合成音",
+      "status": "active"
+    },
+    {
+      "name": "苏振国",
+      "age": "未知",
+      "role": "龙组总队长",
+      "description": "身穿作训服，满手老茧",
+      "status": "active"
+    },
+    {
+      "name": "苏清鸢",
+      "age": "16-17岁",
+      "role": "学生",
+      "description": "脸色苍白，双手紧紧攥着衣角",
+      "status": "active"
+    },
+    {
+      "name": "黑袍老者",
+      "age": "未知",
+      "role": "黑日王庭教徒",
+      "description": "声音沙哑，负责监控阵法",
+      "status": "active"
+    },
+    {
+      "name": "编号734",
+      "age": "未知",
+      "role": "半机械化改造体",
+      "description": "全身包裹在银色流体金属中，面部中央有猩红电子眼，刃锋锋利",
+      "status": "active"
+    },
+    {
+      "name": "黑袍教徒",
+      "age": "未知",
+      "role": "黑日王庭教徒",
+      "description": "身穿黑袍，吟唱咒语",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "收割者",
+    "苏振国",
+    "苏清鸢",
+    "黑袍老者",
+    "编号734"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "alien_arrival",
+      "description": "外星战舰降临东海市上空，收割者向全球宣战",
+      "time": "第3天 晚9:15"
+    },
+    {
+      "id": "lye_blocks_cannon",
+      "description": "林野在电视塔顶端利用兵主之握挡下外星战舰的高能光炮",
+      "time": "第3天 晚9:15"
+    },
+    {
+      "id": "battle_mechas",
+      "description": "林野与外星无人战斗机体群交战，并使用自创招式万兽血元突围",
+      "time": "第3天 晚9:15"
+    },
+    {
+      "id": "infiltration_underground",
+      "description": "林野突入市政府广场地下深处，直面传送阵与守卫",
+      "time": "第3天 晚9:15"
+    }
+  ],
+  "time_period": "第3天 晚9:15",
+  "locations": [
+    "东海市电视塔顶层",
+    "龙组作战指挥中心",
+    "东海市空中",
+    "市政府中心广场地下深处"
+  ],
+  "key_facts": [
+    {
+      "id": "lye_age",
+      "content": "林野22岁"
+    },
+    {
+      "id": "lye_power_source",
+      "content": "林野拥有刑天遗存战意和蚩尤狂暴的血脉之力"
+    },
+    {
+      "id": "alien_ship_specs",
+      "content": "外星战舰通体漆黑、形似深海蝠鲼，长达两公里，拥有幽蓝色纹路"
+    },
+    {
+      "id": "portal_details",
+      "content": "小型传送阵位于市政府中心广场地下三百米地脉汇聚点"
+    },
+    {
+      "id": "portal_countdown",
+      "content": "传送阵能量读数已达临界值85%，预计24小时后完全启动"
+    },
+    {
+      "id": "metal_man_id",
+      "content": "守卫传送阵的半机械化改造体代号为编号734"
+    },
+    {
+      "id": "su_qingyuan_relation",
+      "content": "苏清鸢称呼林野为林叔叔，并非亲生父女关系"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

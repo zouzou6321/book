@@ -1,0 +1,118 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "Unknown",
+      "role": "外门弟子/主角",
+      "description": "身穿破旧麻袋，手持一把生锈破菜刀，左手拿着一根手臂粗的白萝卜，头发凌乱",
+      "status": "active"
+    },
+    {
+      "name": "李剑痴",
+      "age": "Unknown",
+      "role": "外门种子选手/体修",
+      "description": "身高九尺的巨汉，赤裸上身，肌肉虬结如老树根，古铜色皮肤，手持门板宽的巨型重剑（后断裂）",
+      "status": "departed"
+    },
+    {
+      "name": "王虎",
+      "age": "Unknown",
+      "role": "杂役弟子/江越拥趸",
+      "description": "鼻梁上贴着一块显眼的膏药，手臂粗壮，情绪激动",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "Unknown",
+      "role": "内门长老（推测）",
+      "description": "一袭胜雪白衣，端坐在高台贵宾席，面若冰山，眼中对江越极度痴迷",
+      "status": "active"
+    },
+    {
+      "name": "百晓生",
+      "age": "Unknown",
+      "role": "神秘画师",
+      "description": "手持画笔，正在快速记录比赛画面",
+      "status": "active"
+    },
+    {
+      "name": "黑袍神秘人",
+      "age": "Unknown",
+      "role": "反派/围观者",
+      "description": "身穿黑袍，躲在广场阴影中，言语间透露其家族少爷即将上场",
+      "status": "active"
+    },
+    {
+      "name": "执事长老",
+      "age": "Unknown",
+      "role": "裁判",
+      "description": "在擂台旁宣布比赛进程",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "李剑痴",
+    "百晓生",
+    "黑袍神秘人"
+  ],
+  "character_exits": [
+    {
+      "name": "李剑痴",
+      "reason": "被击败并感悟“道”后，心服口服地主动退下擂台"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "sixteen_to_eight_match",
+      "description": "外门大比十六强进八强（十强争夺战）开始，江越对阵体修李剑痴",
+      "time": "申时"
+    },
+    {
+      "id": "sword_severing_event",
+      "description": "江越在系统强制任务下，用“切萝卜”的姿势和生锈破菜刀切断了李剑痴的巨剑",
+      "time": "申时"
+    },
+    {
+      "id": "system_reward_announcement",
+      "description": "系统判定任务完成，评价S级，反差值增加2000，当前余额4488",
+      "time": "比赛结束后"
+    },
+    {
+      "id": "secret_sealing_order",
+      "description": "林清雪下令将今日对战记录封为‘天字号’机密，入藏经阁顶层",
+      "time": "比赛结束后"
+    },
+    {
+      "id": "next_opponent_reveal",
+      "description": "系统发布新任务，预告下一场对手是来自千剑门的交换生",
+      "time": "比赛结束后"
+    }
+  ],
+  "time_period": "穿越第十五天，申时（下午 3:00 - 5:00）",
+  "locations": [
+    "太玄宗外门 - 演武广场",
+    "黑曜石擂台"
+  ],
+  "key_facts": [
+    {
+      "id": "weapon_ability_absolute_sharpness",
+      "content": "江越手中的‘生锈破菜刀’附带‘绝对锋利（针对器物）’的被动效果"
+    },
+    {
+      "id": "jiang_contrast_points_balance",
+      "content": "江越当前反差值余额为4488"
+    },
+    {
+      "id": "li_jianchi_cultivation_level",
+      "content": "李剑痴迷是炼气六层的体修"
+    },
+    {
+      "id": "next_opponent_origin",
+      "content": "下一场对手是来自‘千剑门’的交换生"
+    },
+    {
+      "id": "public_misunderstanding",
+      "content": "围观群众和林清雪将江越的吃萝卜行为和切菜招式过度解读为高深的‘参王磨性’和‘生活大道’"
+    }
+  ]
+}

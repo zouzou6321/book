@@ -1,0 +1,113 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未提及",
+      "role": "前摄政王/王爷/新郎",
+      "description": "身穿绣着金线暗纹的绯红喜袍，头戴金冠，身披鲜红大氅，骑枣红色骏马。",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "未提及",
+      "role": "长公主/王妃/新娘",
+      "description": "身穿绣着百子千孙图的正红色嫁衣，头戴凤冠，流苏遮面。",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "未提及",
+      "role": "黑云骑统领/亲卫",
+      "description": "身穿暗红锦袍，满脸胡茬，笑容满面，维持秩序并分发财物。",
+      "status": "active"
+    },
+    {
+      "name": "李恪",
+      "age": "10岁",
+      "role": "大梁皇帝",
+      "description": "趴在城楼城垛上观礼并大笑。",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "未提及",
+      "role": "丫鬟",
+      "description": "红着眼眶，替李瑾整理凤冠。",
+      "status": "active"
+    },
+    {
+      "name": "礼部老官员",
+      "age": "未提及",
+      "role": "礼部官员",
+      "description": "胡子气歪，想指责萧寒不合礼数。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "street_distribution",
+      "description": "沈锋带领黑云骑在朱雀大街向百姓分发喜糖、金瓜子和铜钱。",
+      "time": "正午"
+    },
+    {
+      "id": "lion_dance",
+      "description": "两对威风凛凛的南狮在朱雀大街王府门前表演。",
+      "time": "正午"
+    },
+    {
+      "id": "groom_arrival_mansion",
+      "description": "萧寒骑马抵达长公主府大门准备迎亲。",
+      "time": "下午"
+    },
+    {
+      "id": "bribing_door",
+      "description": "萧寒在长公主府门前遭遇堵门，撒下大量金元宝作为开门红包。",
+      "time": "下午"
+    },
+    {
+      "id": "public_kneel_mount",
+      "description": "萧寒在长公主府门外当众单膝跪地，扶李瑾上马，两人同骑前往王府。",
+      "time": "下午"
+    },
+    {
+      "id": "procession_to_wangfu",
+      "description": "迎亲队伍穿过朱雀大街抵达摄政王府，百姓欢呼，小皇帝在城楼观看。",
+      "time": "下午"
+    },
+    {
+      "id": "wedding_night",
+      "description": "洞房花烛夜，萧寒与李瑾喝合卺酒，萧寒送出‘长乐未央’玉佩，两人圆房。",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "建安二十五年，春，正午至深夜",
+  "locations": [
+    "京城朱雀大街",
+    "长公主府",
+    "摄政王府"
+  ],
+  "key_facts": [
+    {
+      "id": "regent_resignation",
+      "content": "萧寒已卸下摄政王印信，不再担任摄政王职位。"
+    },
+    {
+      "id": "jin_title_change",
+      "content": "李瑾今日成婚后身份转变为王妃。"
+    },
+    {
+      "id": "jade_token_gift",
+      "content": "萧寒赠予李瑾一枚刻有‘长乐未央’四字的玉佩，称是前世母后留给他的遗物。"
+    },
+    {
+      "id": "imperial_support",
+      "content": "小皇帝李恪对萧寒和李瑾的成亲持支持态度，并在城楼观看并未制止。"
+    },
+    {
+      "id": "future_plan",
+      "content": "萧寒与李瑾计划未来游历天下，提及了江南烟雨和塞外落日。"
+    }
+  ]
+}

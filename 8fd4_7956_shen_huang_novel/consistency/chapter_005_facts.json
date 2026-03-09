@@ -1,0 +1,120 @@
+{
+  "characters_present": [
+    {
+      "name": "林野",
+      "age": "22岁",
+      "role": "E级巅峰觉醒者、蚩尤血脉持有者",
+      "description": "穿洗得发白的牛仔外套，眼底有乌青，使用碎屏旧安卓机",
+      "status": "active"
+    },
+    {
+      "name": "张磊",
+      "age": "30岁上下",
+      "role": "原龙组东海分队小队长",
+      "description": "满脸横肉，脖颈处有刀疤，左手腕脱臼",
+      "status": "departed"
+    },
+    {
+      "name": "苏清鸢",
+      "age": "十六七岁",
+      "role": "刚高考完的学生",
+      "description": "穿白色连帽卫衣，扎高马尾，发梢为浅棕色，脸蛋有婴儿肥",
+      "status": "active"
+    },
+    {
+      "name": "神秘黑风衣男子",
+      "age": "未提及",
+      "role": "不明势力成员",
+      "description": "穿黑风衣，持有长焦相机",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "张磊",
+    "苏清鸢",
+    "神秘黑风衣男子"
+  ],
+  "character_exits": [
+    {
+      "name": "张磊",
+      "reason": "涉嫌走私异兽材料、渎职致平民死亡、滥用职权被龙组督查逮捕带走"
+    },
+    {
+      "name": "张磊的亲信及同伙",
+      "reason": "涉嫌违法犯罪被龙组督查逮捕扣押"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "linye_kill_ten_first_order_bone_spike_tiger",
+      "description": "林野击杀第9、10头一阶骨刺虎，蚩尤血脉解锁进度提升至11.5%，获得系统奖励现金2万元",
+      "time": "第1天晚8:40"
+    },
+    {
+      "id": "system_detected_zhanglei_crime",
+      "description": "系统检测到张磊存在多项违法犯罪记录并同步抓取证据，询问林野是否开启公共投屏公示，林野同意公示",
+      "time": "第1天晚8:40"
+    },
+    {
+      "id": "zhanglei_crime_public_displayed",
+      "description": "张磊走私异兽材料、渎职致平民死亡、滥用职权等罪证被投放至商场外墙巨型LED屏公示，引发民众公愤，随行龙徽特勤放弃对林野的敌对行动",
+      "time": "第1天晚8:40"
+    },
+    {
+      "id": "longzu_inspection_arrest_zhanglei",
+      "description": "龙组督查赶到现场，出示逮捕令逮捕张磊，告知其分队长因包庇罪已被控制，其邀约的持重武器同伙也被扣押",
+      "time": "第1天晚8:40"
+    },
+    {
+      "id": "linye_get_sanction_reward",
+      "description": "林野因制裁龙组贪腐人员张磊，获得系统奖励现金5万元，蚩尤血脉解锁进度提升至11.8%，张磊230万非法所得同步转入其账户",
+      "time": "第1天晚8:40"
+    },
+    {
+      "id": "suqingyuan_add_linye_wechat",
+      "description": "苏清鸢为感谢林野此前的救命之恩，主动添加林野微信，提出后续要请林野吃饭",
+      "time": "第1天晚8:40"
+    },
+    {
+      "id": "second_order_bone_spike_tiger_arrive",
+      "description": "系统发出警报，二阶骨刺虎即将降临，体内存在蚩尤牙碎片，空间裂缝扩张，要求周边平民撤离，随后二阶骨刺虎从裂缝冲出，林野激活霸体、狂血神通上前迎战",
+      "time": "第1天晚8:40"
+    },
+    {
+      "id": "mystery_man_launch_plan_b",
+      "description": "潜伏在现场的神秘黑风衣男子拍下林野的照片，发送加密信息上报张磊失败的消息，启动Plan B打算亲自抢夺蚩尤指骨",
+      "time": "第1天晚8:40"
+    }
+  ],
+  "time_period": "第1天晚8:40左右",
+  "locations": [
+    "东海市郊区16号线地铁口施工路段"
+  ],
+  "key_facts": [
+    {
+      "id": "linye_chiyou_bloodline_status",
+      "content": "林野为E级巅峰觉醒者，持有蚩尤指骨，拥有霸体、狂血神通，当前蚩尤血脉解锁进度为11.8%"
+    },
+    {
+      "id": "zhanglei_crime_established",
+      "content": "原龙组东海分队小队长张磊犯有走私异兽材料、渎职致平民死亡、滥用职权等多项罪名，已被龙组督查逮捕，其直属上级分队长因包庇罪被控制"
+    },
+    {
+      "id": "second_order_tiger_has_chiyou_fragment",
+      "content": "刚降临的二阶骨刺虎体内存在蚩尤牙碎片，与林野所持的蚩尤指骨产生强烈共振"
+    },
+    {
+      "id": "mystery_man_target_chiyou_relic",
+      "content": "不明身份的黑风衣男子觊觎蚩尤指骨，在张磊行动失败后启动Plan B，打算亲自出手抢夺"
+    },
+    {
+      "id": "suqingyuan_relation_with_linye",
+      "content": "苏清鸢曾被林野救过，其父亲疑似在官方相关部门任职"
+    },
+    {
+      "id": "linye_family_situation",
+      "content": "林野母亲生病住院，林野计划赚钱为母亲更换单人特护病房、聘请24小时护工、购买按摩椅"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

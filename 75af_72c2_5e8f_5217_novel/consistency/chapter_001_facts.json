@@ -1,0 +1,77 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "",
+      "role": "主角",
+      "description": "上半身穿燕尾服，下半身光腿，手指苍白，脖颈僵硬，手握一根粘连的断骨",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "顾长歌",
+    "苏糖",
+    "李大妈",
+    "小张"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "waking_up",
+      "description": "顾长歌在混乱的404室醒来，身穿燕尾服但裤子失踪，发现自己手中紧握一根无法丢弃的神秘断骨",
+      "time": "周五清晨 07:00"
+    },
+    {
+      "id": "bone_vision",
+      "description": "顾长歌通过断骨产生幻觉，看到一轮猩红月亮和向骨头下跪致谢的巨大不可名状黑影",
+      "time": "周五清晨"
+    },
+    {
+      "id": "tv_news",
+      "description": "电视机自动播放离奇新闻，播报昨日“紫色星期四”的暴乱及今日可能降下肉块雨，提醒市民假装无事发生",
+      "time": "周五清晨"
+    },
+    {
+      "id": "blood_print",
+      "description": "顾长歌发现门框上印有四指血手印，触碰后听到幻听般的骨骼咀嚼声",
+      "time": "周五清晨"
+    },
+    {
+      "id": "breakfast_plan",
+      "description": "顾长歌决定前往隔壁苏糖家蹭早饭",
+      "time": "周五清晨"
+    }
+  ],
+  "time_period": "周五清晨 07:00",
+  "locations": [
+    "幸福家园小区4号楼404室",
+    "街道（窗外）"
+  ],
+  "key_facts": [
+    {
+      "id": "world_name",
+      "content": "故事背景的世界名为“疯狂序列”"
+    },
+    {
+      "id": "mc_balance",
+      "content": "顾长歌的余额仅为25.6元"
+    },
+    {
+      "id": "the_bone",
+      "content": "顾长歌手中握着一根高密度、带金属光泽角质层的断骨，与手掌发生粘连融合，散发焦香"
+    },
+    {
+      "id": "purple_thursday",
+      "content": "昨晚是“紫色星期四”，全市发生了多起未知暴乱事件"
+    },
+    {
+      "id": "door_status",
+      "content": "404室的防盗门缺失，仅用透明胶带在虚空中勾画出门框轮廓"
+    },
+    {
+      "id": "neighbor_402",
+      "content": "隔壁402室传来淡淡的铁锈味"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

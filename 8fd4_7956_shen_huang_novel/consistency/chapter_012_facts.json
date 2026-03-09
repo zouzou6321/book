@@ -1,0 +1,100 @@
+{
+  "characters_present": [
+    {
+      "name": "林野",
+      "age": null,
+      "role": "主角/幸存者",
+      "description": "浑身浴血，拥有蚩尤血脉与刑天神力",
+      "status": "active"
+    },
+    {
+      "name": "莫森",
+      "age": null,
+      "role": "黑日王庭·执行长老 / 进化议会·特级观察员",
+      "description": "身穿深红色修身西装的白人男子，金发碧眼",
+      "status": "deceased"
+    },
+    {
+      "name": "黑日卫队成员",
+      "age": null,
+      "role": "莫森的护卫/基因改造士兵",
+      "description": "四人，黑人，手持重型狙击枪，胸口纹有黑色太阳图腾",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "莫森",
+    "黑日卫队成员",
+    "收割者"
+  ],
+  "character_exits": [
+    {
+      "name": "莫森",
+      "reason": "被林野爆头杀害"
+    },
+    {
+      "name": "黑日卫队成员",
+      "reason": "被林野瞬间击杀"
+    },
+    {
+      "name": "三头二阶变异铁甲暴熊",
+      "reason": "被林野击杀"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "kill_bears_at_tower_base",
+      "description": "林野在电视塔广场瞬间击杀三头二阶变异铁甲暴熊",
+      "time": "第3天 晚9:00左右"
+    },
+    {
+      "id": "confrontation_on_tower_top",
+      "description": "林野冲上电视塔顶端与莫森及黑日卫队对峙",
+      "time": "第3天 晚9:00后"
+    },
+    {
+      "id": "execution_of_mosen_group",
+      "description": "林野徒手接住穿甲爆破弹，并在两秒内全灭四名黑日卫队与莫森",
+      "time": "第3天 晚9:00后"
+    },
+    {
+      "id": "revelation_of_project",
+      "description": "林野破译仪器信息，得知兽潮是名为'投放'的测试，且地下藏有小型传送阵",
+      "time": "第3天 晚9:00后"
+    },
+    {
+      "id": "arrival_of_warship",
+      "description": "域外邪族战舰降临东海市上空，'收割者'向全人类宣战",
+      "time": "第3天 晚9:00后"
+    }
+  ],
+  "time_period": "第3天 晚9:00",
+  "locations": [
+    "东海市电视塔",
+    "东海市电视塔顶端观光平台",
+    "东海市龙组作战指挥中心"
+  ],
+  "key_facts": [
+    {
+      "id": "lin_ye_power_up",
+      "content": "林野肉体力量极强，可徒手接住穿甲爆破弹，实力远超B级"
+    },
+    {
+      "id": "beast_tide_experiment",
+      "content": "兽潮是名为'投放'的基因数据采集测试，'蚩尤'和'刑天'序列表现优异"
+    },
+    {
+      "id": "stage_two_countdown",
+      "content": "第二阶段'降临'将在约24小时后（倒计时23小时59分）开始"
+    },
+    {
+      "id": "underground_portal",
+      "content": "东海市地下深处有一条连接域外空间的'小型传送阵'，是兽潮源源不断的根源"
+    },
+    {
+      "id": "alien_invasion",
+      "content": "域外邪族战舰降临，自称'收割者'，向全人类发起攻击"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

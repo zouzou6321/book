@@ -1,0 +1,90 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "篡改者",
+      "description": "外在伪装为颓废人类，内在为金属与高维数据，体温12℃，San值5%，左眼有倒“V”字符号。在虾米经理面前也被称为‘非常有质感的客人’。",
+      "status": "active"
+    },
+    {
+      "name": "虾米经理",
+      "age": "未知",
+      "role": "黑市商人",
+      "description": "一只直立行走的巨大龙虾，戴着单片眼镜、高礼帽和手套，举止滑稽。",
+      "status": "active"
+    },
+    {
+      "name": "收银机怪物",
+      "age": "未知",
+      "role": "黑市入口守卫/商家",
+      "description": "由无数废弃收银机拼凑而成的怪物，触手拿菜单，发声器官是生锈扬声器。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "虾米经理",
+    "收银机怪物"
+  ],
+  "character_exits": [
+    {
+      "name": "李疯狂",
+      "reason": "交易完成，前往城西游乐园"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "enter_black_market",
+      "description": "李疯狂进入黑市“地下兑换所”，支付硬币给守卫怪物。",
+      "time": "周五上午 10:30"
+    },
+    {
+      "id": "banana_to_gun",
+      "description": "李疯狂发动【篡改 · 定义修正】，将一根烂香蕉变成了一把拥有自我意识的黄金“沙漠之鹰”手枪，作为与虾米经理交易的筹码。",
+      "time": "周五上午 10:30"
+    },
+    {
+      "id": "tuesday_memory_recall",
+      "description": "通过照片触发了记忆回溯，揭露周二时李疯狂的高维投影曾向旧日支配者推销‘吞噬者意外险’。",
+      "time": "周五上午 10:30"
+    },
+    {
+      "id": "get_intel_amusement_park",
+      "description": "虾米经理透露苏浅藏在‘城西游乐园’，并给出坐标碎片及‘带刀’的警告。",
+      "time": "周五上午 10:30"
+    }
+  ],
+  "time_period": "周五上午 10:30",
+  "locations": [
+    "黑市“地下兑换所”（原地铁4号线永安里站遗址）",
+    "旧日支配者的下午茶·现场（回忆中）",
+    "城西游乐园（提及）"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_disguise_status",
+      "content": "李疯狂当前使用【篡改 · 定义修正：伪装】覆盖了人类外皮，体温12℃，San值仅剩5%。"
+    },
+    {
+      "id": "power_definition_override_cost",
+      "content": "发动序列能力【篡改 · 定义修正】需要支付‘逻辑崩坏值’作为代价，本次转化香蕉增加0.5%。"
+    },
+    {
+      "id": "suqian_location_warning",
+      "content": "苏浅留下的坐标指向城西游乐园的‘旋转木马’，并留下警告信息：‘别带礼物。带刀。’。"
+    },
+    {
+      "id": "carousel_function",
+      "content": "在城西游乐园（周二规则残留区域），旋转木马是用来‘磨碎时间’的，而非骑乘。"
+    },
+    {
+      "id": "tuesday_insurance_sales",
+      "content": "周二的李疯狂（高维投影）曾身穿燕尾服、脸为代码屏，向旧日支配者推销‘吞噬者意外险’及疯狂星期四套餐。"
+    },
+    {
+      "id": "bone_spoon_weapon",
+      "content": "李疯狂身上有一把由李小鱼肋骨变成的骨勺，被其视为最锋利的刀。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

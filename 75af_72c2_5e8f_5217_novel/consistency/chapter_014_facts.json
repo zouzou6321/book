@@ -1,0 +1,81 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "未知",
+      "role": "守秘人",
+      "description": "黑瞳，身材瘦弱，穿着冒烟的运动鞋和湿透的风衣，手持生锈铁尺",
+      "status": "active"
+    },
+    {
+      "name": "账单怪物",
+      "age": "未知",
+      "role": "催收员/规则生物",
+      "description": "由废旧账单、收据、借条包裹的高达三米的畸形怪物，胸腔中央贴着顾长歌的身份证，嘴有缝合线",
+      "status": "deceased"
+    },
+    {
+      "name": "黄金会计师",
+      "age": "未知",
+      "role": "高序列序列者",
+      "description": "仅剩金色手骨，表面流动液态黄金光泽，镌刻微小符文",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "账单怪物",
+    "黄金会计师"
+  ],
+  "character_exits": [
+    {
+      "name": "账单怪物",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "monster_encounter",
+      "description": "顾长歌在沼泽中发现贴有自己身份证的肉瘤，肉瘤化作账单怪物进行讨债攻击",
+      "time": "周四 18:00"
+    },
+    {
+      "id": "logic_override_attack",
+      "description": "顾长歌使用【守秘人】权能解析并修改怪物的底层逻辑，使其逻辑溢出而崩解",
+      "time": "周四 18:00"
+    },
+    {
+      "id": "loot_acquisition",
+      "description": "怪物死亡后留下金色手骨，顾长歌获取并得知其为‘黄金会计师’的遗物",
+      "time": "周四 18:00"
+    }
+  ],
+  "time_period": "新纪元元年，周四 18:00",
+  "locations": [
+    "漂浮肉块大陆·胃酸沼泽",
+    "原市中心下沉区域",
+    "城市废墟核心区"
+  ],
+  "key_facts": [
+    {
+      "id": "secretary_ability",
+      "content": "顾长歌拥有‘守秘人’的权能，能解析攻击并修改局部底层逻辑"
+    },
+    {
+      "id": "accountant_bone_ability",
+      "content": "金色手骨属于‘黄金会计师’序列，具有万物量化、定价的规则能力"
+    },
+    {
+      "id": "accountant_death_history",
+      "content": "‘黄金会计师’因试图给降临的神明计算‘降临费’而被杀"
+    },
+    {
+      "id": "protagonist_financial_status",
+      "content": "顾长歌当前余额为25.6元"
+    },
+    {
+      "id": "location_anatomy",
+      "content": "胃酸沼泽区域 corresponds to (对应) 不可名状神明的‘肠道末端’"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,96 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "前半神/古神容器",
+      "description": "白发乱糟糟，脸色苍白，左眼缺失仅剩平滑皮肤，仅存右眼，胸口有暗红色几何纹路伤疤，虚弱但气势强大",
+      "status": "active"
+    },
+    {
+      "name": "Admin Su Qian",
+      "age": "",
+      "role": "系统管理员/意识干涉者",
+      "description": "以清冷傲娇的女声在李疯狂灵魂深处出现，接管痛觉管理系统",
+      "status": "active"
+    },
+    {
+      "name": "黑色乌鸦",
+      "age": "",
+      "role": "高维观察者/信使",
+      "description": "脚爪上戴着用旧日文字写成的二维码项圈，眼神像看死人",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "黑色乌鸦"
+  ],
+  "character_exits": [
+    {
+      "name": "黑色乌鸦",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "waking_in_snow",
+      "description": "李疯狂在南极撞击坑中苏醒，身体虚弱但左眼已消失，正在消化古神核心",
+      "time": "战后第一分钟"
+    },
+    {
+      "id": "su_qian_intervention",
+      "description": "苏浅（Admin Su Qian）介入系统，阻止李疯狅删除情感和痛觉，用痛觉锚定其人性",
+      "time": "战后第一分钟"
+    },
+    {
+      "id": "digesting_god",
+      "description": "李疯狅通过荒诞幽默将古神逻辑解构为废话（如将贪婪比作集卡怨念），成功完成消化",
+      "time": "战后第一分钟"
+    },
+    {
+      "id": "crow_observation",
+      "description": "一只带有二维码的乌鸦出现观察李疯狅，暗示高维度的账单未结，随后飞走",
+      "time": "战后第一分钟"
+    }
+  ],
+  "time_period": "战后 · “星期四”概念被抹除后的第一分钟",
+  "locations": [
+    "南极 · “补天计划”废墟中心",
+    "深度积雪下的撞击坑"
+  ],
+  "key_facts": [
+    {
+      "id": "li_fengkuang_new_status",
+      "content": "李疯狅失去了黑曜石半神外壳，左眼彻底缺失，胸口留下了关押古神贪婪意志的暗红色伤疤（牢笼/胃）。"
+    },
+    {
+      "id": "thursday_erasure",
+      "content": "“星期四”概念已被抹除，李疯狅体内是古神（星期四之源）的意志。"
+    },
+    {
+      "id": "humanity_farming_truth",
+      "content": "历史真相揭示人类文明被古神视为“饲料”，“疯狂星期四”是宰杀前的放血仪式以增加灵魂风味。"
+    },
+    {
+      "id": "su_qian_permission",
+      "content": "苏浅拥有痛觉管理系统的最高管理员权限（Admin Su Qian），并能覆盖李疯狅的系统指令。"
+    },
+    {
+      "id": "digestion_method",
+      "content": "李疯狅通过将高维恐怖概念转化为低维荒诞概念（如大学生怨念、乐事薯片包装语）来消化神明意志。"
+    },
+    {
+      "id": "crow_qr_code",
+      "content": "出现了一只脚上戴着二维码（旧日文字写成的账单）的乌鸦，暗示更高维度的势力在关注这笔“霸王餐”。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "痛觉管理系统管理员",
+      "names": [
+        "Admin Su Qian",
+        "苏浅"
+      ]
+    }
+  ]
+}

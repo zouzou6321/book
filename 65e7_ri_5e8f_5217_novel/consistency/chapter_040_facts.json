@@ -1,0 +1,94 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "篡改者",
+      "description": "右臂异化为漆黑塔盾或利爪，左瞳深处有白色倒V字，战斗时全身覆盖黑色金属角质层",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "同伴",
+      "description": "身穿战术风衣，左臂皮肤下有青色晶体纹路蔓延并透出金黄色泽，手持黑色手枪",
+      "status": "active"
+    },
+    {
+      "name": "逾期未付款的食客",
+      "age": "未知",
+      "role": "D+级变异体",
+      "description": "穿着破烂西装，下半身为吸管触须，嘴部巨大且满是锯齿，五官被缝合线封闭",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "逾期未付款的食客"
+  ],
+  "character_exits": [
+    {
+      "name": "李疯狂",
+      "reason": "离开"
+    },
+    {
+      "name": "苏浅",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "logic_override_thursday",
+      "description": "现实逻辑被“疯狂星期四”覆盖，废弃通讯大厦天台变为自助取餐台，充满炸鸡香气和油脂",
+      "time": "00:05"
+    },
+    {
+      "id": "monster_encounter_diner",
+      "description": "李疯狂击败首只怪物D+级变异体，利用篡改能力将其牙齿变软并吞噬",
+      "time": "00:05"
+    },
+    {
+      "id": "feast_massacre",
+      "description": "大量星期四信徒怪物袭来，李疯狂发动区域概念覆写将地面变为高弹果冻，随后屠尽全场",
+      "time": "00:05后不久"
+    },
+    {
+      "id": "system_penalty",
+      "description": "李疯狂杀戮后，世界系统判定违规，下调信用评分并发布追加任务“强制催收”",
+      "time": "战斗结束"
+    },
+    {
+      "id": "escape_to_next_building",
+      "description": "李疯狂与苏浅通过通讯电缆滑向对面矮楼撤离",
+      "time": "战斗结束"
+    }
+  ],
+  "time_period": "“第二个星期四” 00:05",
+  "locations": [
+    "城市北区·废弃通讯大厦顶层天台",
+    "对面的一栋矮楼",
+    "收容局（目标地点）"
+  ],
+  "key_facts": [
+    {
+      "id": "protagonist abilities",
+      "content": "李疯狂拥有“篡改者”权限（可修改物体属性如锋利变软糯、坚硬变果冻）和“真理之胃”（可吞噬怪物恢复精神力并提取词条）"
+    },
+    {
+      "id": "su_qian_arm",
+      "content": "苏浅的左臂发生了严重的晶体化异变，伴有剧烈疼痛，呈现炸鸡酥皮般的色泽"
+    },
+    {
+      "id": "world_environment",
+      "content": "当前环境受高维污染源“创始人”影响，遵循“疯狂星期四”的规则，星期三的规则已失效"
+    },
+    {
+      "id": "sky_entity",
+      "content": "天空中有一只巨大的金钱独眼正在注视众生"
+    },
+    {
+      "id": "player_status",
+      "content": "李疯狂的世界系统信用评分已下调"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

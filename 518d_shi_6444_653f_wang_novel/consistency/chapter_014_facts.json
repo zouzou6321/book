@@ -1,0 +1,92 @@
+{
+  "characters_present": [
+    {
+      "name": "萧严",
+      "age": "",
+      "role": "演员",
+      "description": "身穿高定西装，身形挺拔，气质沉郁如水，眼神冷冽，尚未完全卸去烟熏妆",
+      "status": "active"
+    },
+    {
+      "name": "张伟",
+      "age": "中年",
+      "role": "导演",
+      "description": "满脸通红，举着红酒杯，素来眼高于顶",
+      "status": "active"
+    },
+    {
+      "name": "王胖子",
+      "age": "",
+      "role": "经纪人",
+      "description": "身体肥胖，胆小怕事，穿着西装",
+      "status": "active"
+    },
+    {
+      "name": "赵宏",
+      "age": "中年",
+      "role": "资本大鳄/投资人",
+      "description": "梳着大背头，戴金丝眼镜，穿深灰色手工定制西装，戴百达翡丽手表，气场强大",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "女演员",
+      "description": "身穿黑色高定露背晚礼服，红唇烈焰，长发如瀑，气质高傲如黑天鹅",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "赵宏"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "zhang_wei_praises_xiao_yan",
+      "description": "导演张伟在杀青宴上盛赞萧严饰演魏忠的演技为教科书级别，并要求其海报上C位",
+      "time": "2024年深秋，晚八点"
+    },
+    {
+      "id": "zhao_hong_arrival",
+      "description": "资本大鳄赵宏进入宴会厅，众投资人趋炎附势，赵宏走向林清雪并搭肩示好",
+      "time": "2024年深秋，晚八点"
+    },
+    {
+      "id": "zhao_hong_threatens_xiao_yan",
+      "description": "赵宏走向萧严，言语羞辱并将萧严比作玩具，伸手拍打萧严脸颊进行威胁",
+      "time": "2024年深秋，晚八点"
+    },
+    {
+      "id": "lin_qingxue_calms_conflict",
+      "description": "萧严险些暴起伤人，林清雪在桌下握住他的手，眼神示意忍耐，成功平息冲突",
+      "time": "2024年深秋，晚八点"
+    },
+    {
+      "id": "xiao_yan_resolution",
+      "description": "萧严向赵宏敬酒并暗讽，事后决定不再甘心只做演员，要掌握资本与权势，成为幕后的掌控者",
+      "time": "2024年深秋，晚八点"
+    }
+  ],
+  "time_period": "2024年深秋，晚八点",
+  "locations": [
+    "横店某五星级酒店翡翠厅"
+  ],
+  "key_facts": [
+    {
+      "id": "zhao_hong_background",
+      "content": "赵宏是京圈著名的资本大鳄，也是《大梁谍影》背后最大的金主之一"
+    },
+    {
+      "id": "zhao_lin_engagement",
+      "content": "赵宏是林清雪家里内定的联姻对象，掌握着林家的命运"
+    },
+    {
+      "id": "xiao_yan_role",
+      "content": "萧严在《大梁谍影》中饰演太监角色魏忠"
+    },
+    {
+      "id": "xiao_yan_ambition",
+      "content": "萧严决定与资本进行权力的博弈，不再顺从，意图掌控娱乐圈的规则"
+    }
+  ]
+}

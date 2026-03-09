@@ -1,0 +1,69 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "",
+      "role": "内门首席大师兄/玄天真人/秘境领队",
+      "description": "身穿流云飞鹤锦袍(松垮)，领口敞开露出红裤衩，眼皮半耷拉",
+      "status": "active"
+    },
+    {
+      "name": "掌门",
+      "age": "",
+      "role": "太玄宗主",
+      "description": "须发皆白，面如冠玉，身穿绣着玄鹤吞云的黑色金丝道袍，眼神深处藏有算计",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "",
+      "role": "内门卷王/秘境小队成员",
+      "description": "眼神空洞，盯着地面，精神状态不稳定",
+      "status": "active"
+    },
+    {
+      "name": "苏小小",
+      "age": "十五六岁",
+      "role": "内门弟子/秘境小队成员",
+      "description": "身穿鹅黄衣裙，胆小如鼠，爱哭",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "内门第一天骄/秘境小队成员",
+      "description": "白衣胜雪，清冷如仙，容貌绝美，有剑意傍身",
+      "status": "active"
+    },
+    {
+      "name": "执法长老",
+      "age": "",
+      "role": "太玄宗长老",
+      "description": "眉头紧锁",
+      "status": "active"
+    },
+    {
+      "name": "丹房长老",
+      "age": "",
+      "role": "太玄宗长老",
+      "description": "恍然大悟状",
+      "status": "active"
+    },
+    {
+      "name": "黑袍老者",
+      "age": "",
+      "role": "观察者(疑似敌对)",
+      "description": "身在远处高塔，透过水镜窥视",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "李二牛",
+    "苏小小"
+  ],
+  "character_exits": [],
+  "major_events": [],
+  "time_period": "",
+  "locations": [],
+  "key_facts": []
+}

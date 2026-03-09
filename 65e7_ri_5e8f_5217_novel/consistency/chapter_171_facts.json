@@ -1,0 +1,116 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/宿主",
+      "description": "目前占据阿傻的身体，左眼有倒“V”字符号，掌心有同心圆印记（爱的锚点）",
+      "status": "active"
+    },
+    {
+      "name": "阿俊",
+      "age": "未知",
+      "role": "身体原主/镜中怪物",
+      "description": "肉躯身体被李疯狂占据，残魂在镜面世界化为全身爬满发光触手的怪物",
+      "status": "deceased"
+    },
+    {
+      "name": "无脸保安",
+      "age": "未知",
+      "role": "神秘来电者/反派",
+      "description": "穿着油腻保安制服，脸上没有五官，只有巨大的二维码图案，手持红色公用电话听筒",
+      "status": "active"
+    },
+    {
+      "name": "黄毛",
+      "age": "未知",
+      "role": "网咖门口混混",
+      "description": "染着黄毛，穿着校服，在台阶上吞云吐雾",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "观测者/Admin",
+      "description": "仅在回忆和言语中被提及，作为李疯狂的“爱的锚点”存在",
+      "status": "mentioned"
+    }
+  ],
+  "new_characters_introduced": [
+    "黄毛",
+    "无脸保安"
+  ],
+  "character_exits": [
+    {
+      "name": "阿俊",
+      "reason": "死亡/被彻底同化（残魂被李疯狂在镜面世界粉碎并吸收数据）"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "body_control_struggle",
+      "description": "李疯狂与阿傻的残魂在旧城区小巷中争夺身体控制权，依靠“爱的锚点”压制失控并切断神经连接",
+      "time": "20:42"
+    },
+    {
+      "id": "enter_mirror_world",
+      "description": "李疯狂试图进入“快乐星球”网咖时，通过门口的八卦镜被拉入了高维镜面世界空间",
+      "time": "20:50左右"
+    },
+    {
+      "id": "mirror_battle",
+      "description": "李疯狂在镜面世界与化身为怪物的阿俊战斗，使用“篡改·概念覆写：镜子里的怪物，永远抓不到镜子外面的人”获胜并吸收对方数据",
+      "time": "20:50左右"
+    },
+    {
+      "id": "confront_security",
+      "description": "李疯狂回到现实网咖大厅，在吧台遇到伪装成保安的神秘来电者，发现其实际目标是苏浅和自己留下的Bug",
+      "time": "23:00"
+    }
+  ],
+  "time_period": "新时间线·星期三，20:42 - 23:00",
+  "locations": [
+    "旧城区小巷",
+    "“快乐星球”网咖门口",
+    "镜面世界（高维空间）",
+    "网咖大厅吧台"
+  ],
+  "key_facts": [
+    {
+      "id": "anchor_of_love",
+      "content": "李疯狂掌心有苏浅按下的“爱的锚点”（同心圆印记），能散发热量帮助抵抗阿傻残魂的吞噬"
+    },
+    {
+      "id": "cafe_interdimensional_nature",
+      "content": "“快乐星球”网咖入口实为通往高维镜面世界的折叠空间入口，内部空间大于外部空间"
+    },
+    {
+      "id": "guard_identity",
+      "content": "神秘来电者伪装成网咖保安，面部无五官，呈现二维码图案，旁边贴有“Target: Admin Su Qian”的便利贴"
+    },
+    {
+      "id": "logic_refresh_timer",
+      "content": "距离逻辑刷新（疯狂星期四）还有一个小时（即星期四00:00）"
+    },
+    {
+      "id": "body_restoration",
+      "content": "击败阿俊怪物后，李疯狂捕获“空白逻辑数据”，身体崩溃度从42%修复至35%，彻底掌控了肉躯"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "身体原主（阿傻）",
+      "names": [
+        "阿傻",
+        "阿俊"
+      ]
+    },
+    {
+      "role_or_identity": "主角（李疯狂）",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

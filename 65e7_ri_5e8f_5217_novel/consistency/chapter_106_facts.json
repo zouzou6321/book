@@ -1,0 +1,106 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "父亲/主角",
+      "description": "左眼溢血，右手因过载呈现半透明晶体化，手持骨勺/剔骨刀",
+      "status": "active"
+    },
+    {
+      "name": "李小鱼",
+      "age": "儿童",
+      "role": "女儿/怪物",
+      "description": "怪物形态为粉色校服、头部显示【Error 404】、腹部有无数写有“疯”字的嘴；真身为记忆/数据",
+      "status": "deceased"
+    },
+    {
+      "name": "KFC-404",
+      "age": null,
+      "role": "电子宠物/助手",
+      "description": "红色像素小鸡，可膨胀变形，发出尖锐噪鸣",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "特工/队友",
+      "description": "紫色螺旋瞳孔，战术风衣破损，身体呈现“Debug”半透明状态",
+      "status": "active"
+    },
+    {
+      "name": "副主厨",
+      "age": null,
+      "role": "反派/观察者",
+      "description": "指甲盖大小的独眼小人，穿着黑色燕尾服",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "副主厨"
+  ],
+  "character_exits": [
+    {
+      "name": "李小鱼（怪物形态）",
+      "reason": "被李疯狂拔出核心餐刀后崩塌消散"
+    },
+    {
+      "name": "副主厨",
+      "reason": "融入阴影中离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "battle_in_nursery",
+      "description": "李疯狂与KFC-404在崩塌的拟态儿童房对抗“李小鱼”怪物",
+      "time": "崩塌倒计时 00:03:12"
+    },
+    {
+      "id": "su_qian_support",
+      "description": "苏浅使用【Type-K · 绝过载模式 · 解析光束】打断李疯狂的精神污染",
+      "time": "战斗中段"
+    },
+    {
+      "id": "dagger_acquisition",
+      "description": "李疯狂从怪物体内拔出【母亲的剔骨刀】，并看到关于主厨切“时间”的记忆闪回",
+      "time": "战斗高潮"
+    },
+    {
+      "id": "chef_hand_attack",
+      "description": "高维“主厨”的黑色巨手从天而降，李疯狂利用“违禁建筑”逻辑将其击退",
+      "time": "逃亡前夕"
+    },
+    {
+      "id": "escape_to_trash_can",
+      "description": "李疯狂带苏浅乘坐KFC-404逃离99号楼，前往“垃圾桶”区域",
+      "time": "本章结束"
+    }
+  ],
+  "time_period": "第4区镜像层崩溃倒计时 00:03:12 前后",
+  "locations": [
+    "第4区镜像层",
+    "99号楼顶层",
+    "拟态儿童房",
+    "楼外钢铁丛林",
+    "垃圾桶区域"
+  ],
+  "key_facts": [
+    {
+      "id": "li_xiaoyu_fate",
+      "content": "李小鱼已成为“主厨”的食材（被切割的“时间”），以代码/数据形式存在"
+    },
+    {
+      "id": "item_mothers_dagger",
+      "content": "关键道具【母亲的剔骨刀（残缺）】可对“规则”护盾造成真实伤害并切割“因果”，副作用是使用一次随机遗忘一段关于“温暖”的记忆"
+    },
+    {
+      "id": "chef_villian",
+      "content": "存在高维敌人“主厨”及其下属“副主厨”，正在进行“菜单”相关的清理活动"
+    },
+    {
+      "id": "kfc_404_ability",
+      "content": "KFC-404可以变大变小，并在逃亡时作为载具载人飞行"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

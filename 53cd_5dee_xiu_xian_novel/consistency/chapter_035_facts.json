@@ -1,0 +1,87 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "内门首席大弟子、玄天真人",
+      "description": "身穿破旧灰色道袍，反穿着裤子",
+      "status": "active"
+    },
+    {
+      "name": "太玄宗掌门",
+      "age": "老年",
+      "role": "掌门",
+      "description": "须发皆白，身穿黑色金丝道袍(绣玄鹤吞云)",
+      "status": "active"
+    },
+    {
+      "name": "赵无极",
+      "age": "未知",
+      "role": "血影宗先锋(裂魂手)",
+      "description": "身穿暗红战甲，头戴白骨面具，手持散发猩红血气的斩马刀",
+      "status": "deceased"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "太玄宗第一天骄",
+      "description": "高冷如霜",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "弟子",
+      "description": "修持'理科'",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "赵无极"
+  ],
+  "character_exits": [
+    {
+      "name": "赵无极",
+      "reason": "气急攻心走火入魔"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "demon_siege",
+      "description": "血影宗先锋赵无极率大军压境太玄宗，打破防御光幕并投掷战书",
+      "time": "午后"
+    },
+    {
+      "id": "jiangyue_rejects_logic",
+      "description": "江越接住战书，回应询问是否'管饭'及'加班费'，触发系统任务",
+      "time": "午后"
+    },
+    {
+      "id": "rival_defeat",
+      "description": "魔教先锋赵无极被江越的话语气得真气逆流，当场吐血倒地",
+      "time": "午后"
+    }
+  ],
+  "time_period": "午后",
+  "locations": [
+    "太玄宗大殿前广场"
+  ],
+  "key_facts": [
+    {
+      "id": "jiangyue_title",
+      "content": "江越现任太玄宗内门首席大弟子，封号'玄天真人'"
+    },
+    {
+      "id": "food_prices",
+      "content": "内门食堂的红烧灵肉价格已从三块灵石涨到五块灵石"
+    },
+    {
+      "id": "system_item",
+      "content": "江越从系统兑换了'极品灵谷辣条(特辣版)'，被林清雪误认为'红莲业火锻体棒'"
+    },
+    {
+      "id": "jiangyue_outfit",
+      "content": "江越反穿着裤子"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "未知",
+      "role": "坐堂郎中/百草园主人",
+      "description": "身穿青缎棉袍，戴羊皮围脖，半眯着眼，外表市侩圆滑，实则冷静狠厉",
+      "status": "active"
+    },
+    {
+      "name": "朱由检",
+      "age": "青年",
+      "role": "信王",
+      "description": "身形瘦削，衣着朴素，脸颊微红，眉宇间阴郁深沉",
+      "status": "departed"
+    },
+    {
+      "name": "青儿",
+      "age": "未知",
+      "role": "陈默的下属/护卫",
+      "description": "身形瘦小，穿着灰布棉袄，裹着粗布头巾，眼神警惕如小兽",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "朱由检",
+    "青儿"
+  ],
+  "character_exits": [
+    {
+      "name": "朱由检",
+      "reason": "会面结束，乘马车离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "wang_meeting",
+      "description": "信王朱由检在什刹海冰面试探陈默关于王恭厂大爆炸物资及忠诚度",
+      "time": "天启六年冬"
+    },
+    {
+      "id": "tiger_token",
+      "description": "信王授予陈默一块虎头铁牌，赋予其联络辽东将领（祖大寿、吴襄）的权力",
+      "time": "天启六年冬"
+    },
+    {
+      "id": "surveillance_alert",
+      "description": "青儿汇报锦衣卫（沈炼）及东厂番子正在监视百草园，形势紧迫",
+      "time": "天启六年冬"
+    }
+  ],
+  "time_period": "天启六年（1626年）冬",
+  "locations": [
+    "京师",
+    "什刹海冰面",
+    "茶肆",
+    "僻静巷弄",
+    "马车"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_curse",
+      "content": "陈默身患'长生诅咒'，体内有长生之力，需服用特制毒药汤剂压制副作用"
+    },
+    {
+      "id": "chen_arms",
+      "content": "陈默手中持有王恭厂劫掠的火药原料，正在暗中私造燧发枪，并拥有秘密武力'长生卫'"
+    },
+    {
+      "id": "wang_strategy",
+      "content": "信王朱由检在天启病重期间积极布局，拉拢陈默并试图建立辽东（祖大寿、吴襄）暗线联系"
+    },
+    {
+      "id": "political_atmosphere",
+      "content": "朝堂局势紧张，天启帝病重，魏忠贤权势熏天，多方势力（信王、东厂、锦衣卫）暗中博弈"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

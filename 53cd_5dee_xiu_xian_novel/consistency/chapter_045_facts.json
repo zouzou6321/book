@@ -1,0 +1,111 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "十八岁左右",
+      "role": "太玄宗首席大弟子（现为凡人）",
+      "description": "衣着破烂，手持工业级液压剪（加强版），被系统还原出厂设置，无修为无灵力",
+      "status": "active"
+    },
+    {
+      "name": "太玄宗掌门",
+      "age": "未知",
+      "role": "太玄宗掌门/魔化修仙者",
+      "description": "高达百丈的血色巨人，周身流淌岩浆状金丹魔血，皮肤有冤魂面孔，金丹期大圆满",
+      "status": "active"
+    },
+    {
+      "name": "王虎",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "手持马桶搋子，躲在废墟后",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "手持装修大铁锤",
+      "status": "active"
+    },
+    {
+      "name": "苏软软",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "手持石灰粉，受惊状",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "脸色苍白，重伤靠在断墙下",
+      "status": "active"
+    },
+    {
+      "name": "画师（百晓生）",
+      "age": "未知",
+      "role": "观察者/记录者",
+      "description": "疯狂在纸上作画",
+      "status": "active"
+    },
+    {
+      "name": "黑袍老者",
+      "age": "未知",
+      "role": "窥探者",
+      "description": "躲在废墟阴影中",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "画师（百晓生）",
+    "黑袍老者"
+  ],
+  "character_exits": [
+    {
+      "name": "黑袍老者",
+      "reason": "逃离"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "system_reset",
+      "description": "江越被系统强制还原出厂设置，修为和灵力归零，成为绝对凡人",
+      "time": "决战时刻（丑时三刻）"
+    },
+    {
+      "id": "stomp_countered",
+      "description": "太玄宗掌门踩踏江越，但因江越是绝对凡人（无能量受体），灵力攻击无效并发生反噬，导致掌门腿部受伤",
+      "time": "决战时刻（丑时三刻）"
+    },
+    {
+      "id": "leg_fracture",
+      "description": "江越使用工业级液压剪运用'骨折力学'剪断血色巨人的小腿骨",
+      "time": "决战时刻（丑时三刻）"
+    },
+    {
+      "id": "old_man_flee",
+      "description": "黑袍老者因恐惧江越展现出疑似'返璞归真'的未知力量而逃离",
+      "time": "决战时刻（丑时三刻）"
+    }
+  ],
+  "time_period": "决战时刻（丑时三刻）",
+  "locations": [
+    "太玄宗废墟",
+    "大殿广场"
+  ],
+  "key_facts": [
+    {
+      "id": "jiangyue_zero_status",
+      "content": "江越当前修为、灵气、光环全为零，体质仅为稍好的凡人，手持工业级液压剪（加强版）"
+    },
+    {
+      "id": "absolute_mortal_immunity",
+      "content": "江越因其'绝对凡人'状态，被视为修仙法则中的'不存在'黑洞，所有针对性修仙能量攻击会失效或反噬"
+    },
+    {
+      "id": "sect_leader_demon_form",
+      "content": "太玄宗掌门已魔化为百丈血色巨人，拥有金丹期大圆满修为"
+    }
+  ]
+}

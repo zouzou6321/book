@@ -1,0 +1,101 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "外门第一/晋升内门弟子",
+      "description": "身穿破布麻袋衣，外穿王虎送的黑色旧裤衩（套在红裤衩外），手持生锈破菜刀",
+      "status": "active"
+    },
+    {
+      "name": "李峰",
+      "age": "未知",
+      "role": "外门第一天骄",
+      "description": "身穿雪白剑袍，面容英俊惨白，腰悬三柄极品法器长剑",
+      "status": "active"
+    },
+    {
+      "name": "百晓生",
+      "age": "未知",
+      "role": "画师/江越研究专家",
+      "description": "手持炭笔和画纸，对江越的行为进行疯狂解读",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "女修/观众",
+      "description": "美眸闪烁，位于看台观察力敏锐",
+      "status": "active"
+    },
+    {
+      "name": "王虎",
+      "age": "未知",
+      "role": "外门弟子/观众",
+      "description": "赠送江越黑色裤衩的人",
+      "status": "active"
+    },
+    {
+      "name": "执事长老",
+      "age": "未知",
+      "role": "裁判",
+      "description": "胡须乱颤，宣布比赛结果",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "百晓生",
+    "林清雪",
+    "王虎"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "li_feng_entry",
+      "description": "李峰入场，剑气冲天，吟诵诗词，施展禁术状态",
+      "time": "巳时三刻"
+    },
+    {
+      "id": "jiang_yue_entry",
+      "description": "江越因裤衩太紧走路姿势怪异，被百晓生解读为‘寸步千里’",
+      "time": "巳时三刻"
+    },
+    {
+      "id": "climax_dodge",
+      "description": "李峰施展禁术‘天地同寿’，江越为提裤子弯腰躲避，被众人解读为‘潜龙在渊’身法",
+      "time": "巳时三刻"
+    },
+    {
+      "id": "li_feng_defeat",
+      "description": "李峰道心破碎，吐血认输，拜谢江越教导",
+      "time": "巳时三刻"
+    },
+    {
+      "id": "underwear_incident",
+      "description": "江越黑裤衩崩裂露出红色内裤，被林清雪解读为‘混沌法相’",
+      "time": "巳时三刻"
+    }
+  ],
+  "time_period": "穿越第十七天，巳时三刻（约 9:45 - 10:00）",
+  "locations": [
+    "太玄宗 · 外门中心演武广场"
+  ],
+  "key_facts": [
+    {
+      "id": "system_defense_mode",
+      "content": "系统防御模式‘双色莲花’激活，防御力提升至筑基期大圆满顶格水平"
+    },
+    {
+      "id": "jin_rewards",
+      "content": "江越获得外门大比第一、S级评价、10000反差值、称号‘裤裆藏雷’（防御力+100%），并将晋升内门"
+    },
+    {
+      "id": "jin_outfit_detail",
+      "content": "江越当前装备：红裤衩（内）+ 王虎赠送的黑色二手旧裤衩（外）"
+    },
+    {
+      "id": "public_misunderstanding",
+      "content": "全宗门上下将江越提裤子、裤衩崩裂等尴尬行为强行解读为高深的道法与神迹"
+    }
+  ]
+}

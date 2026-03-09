@@ -1,0 +1,97 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "",
+      "role": "外门弟子（系统伪装的扫地僧）",
+      "description": "身穿破布麻袋和五颜六色补丁，头发蓬乱插着鸡毛，因腿麻走路摇摇晃晃，实则炼气一层",
+      "status": "active"
+    },
+    {
+      "name": "王虎",
+      "age": "",
+      "role": "杂役弟子",
+      "description": "鼻梁贴着膏药，一脸横肉，对江越极度谄媚和敬畏",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "内门长老",
+      "description": "被誉为'太玄冰魄'的第一天骄",
+      "status": "active"
+    },
+    {
+      "name": "赵刚",
+      "age": "",
+      "role": "外门大比参赛者",
+      "description": "身材魁梧如铁塔，赤裸上身，肌肉虬结，古铜色皮肤，炼气七层",
+      "status": "active"
+    },
+    {
+      "name": "执法堂执事",
+      "age": "中年",
+      "role": "大比主持人",
+      "description": "身穿黑袍，手掌宽大，目光如炬",
+      "status": "active"
+    },
+    {
+      "name": "百晓生",
+      "age": "",
+      "role": "画师",
+      "description": "身穿灰袍、头戴斗笠",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "林清雪",
+    "赵刚",
+    "执法堂执事",
+    "百晓生"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "grand_tournament_opening",
+      "description": "外门大比开幕，江越以'扫地僧'形象登场，被众弟子误解为绝世高人",
+      "time": "辰时二刻"
+    },
+    {
+      "id": "system_lottery_intervention",
+      "description": "系统强制屏蔽了轮空签和弱鸡签，开启'天命之子'光环",
+      "time": "辰时二刻"
+    },
+    {
+      "id": "jiangyue_draws_lottery",
+      "description": "江越抽到甲组一号签，第一场将对战炼气七层的赵刚",
+      "time": "辰时二刻"
+    },
+    {
+      "id": "match_task_assigned",
+      "description": "系统发布任务：要求江越用'极其敷衍'的方式击败赵刚，且不能暴露真实修为",
+      "time": "辰时二刻"
+    }
+  ],
+  "time_period": "穿越第十五天，大比开幕日，辰时二刻",
+  "locations": [
+    "太玄宗外门演武广场"
+  ],
+  "key_facts": [
+    {
+      "id": "jiangyue_appearance_origin",
+      "content": "江越的麻袋和鸡毛造型是'系统强制限定皮肤'，并非其本意"
+    },
+    {
+      "id": "jiangyue_misconception",
+      "content": "外门弟子普遍误认江越为深不可测的'扫地僧'，将其腿麻解读为'返璞归真'"
+    },
+    {
+      "id": "jiangyue_vs_zhaogang_matchup",
+      "content": "江越（炼气一层）将在第一场对战赵刚（炼气七层，上届亚军）"
+    },
+    {
+      "id": "system_win_condition",
+      "content": "系统要求江越必须以'极其敷衍'的方式赢得比赛，奖励含道具'百分百空手接白刃（体验版）'"
+    }
+  ]
+}

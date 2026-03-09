@@ -1,0 +1,74 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未提及",
+      "role": "主角/逃离者",
+      "description": "左眼有贯穿瞳孔的裂痕并渗血，身体半边冰冷如液氮浸泡半边滚烫，左眼暗含红色图腾和数据流，双手布满裂痕。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未提及",
+      "role": "同伴/逃离者",
+      "description": "手腕纤细，左眼为黑色竖瞳（正在抽搐），处于抗拒“周二工作逻辑”的状态。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "discovery_of_graveyard",
+      "description": "李疯狂和苏浅进入时空乱流交界处，发现了一个充斥着平行世界失败版本尸体的乱葬岗（时空垃圾场）。",
+      "time": "新纪元第1个月，极夜期间，距离“毁灭指令”发射后14分钟"
+    },
+    {
+      "id": "retrieval_of_notebook",
+      "description": "李疯狂从一具身穿白大褂的尸体（理智过载而死）手中夺得《关于“星期四之源”的观测报告与遗书》。",
+      "time": "同上"
+    },
+    {
+      "id": "destruction_of_parallel_body",
+      "description": "苏浅遭遇平行世界的尸体（戴着订书钉戒指），精神险些崩溃。李疯狂使用左眼能力“篡改·定义修正”将尸体摧毁。",
+      "time": "同上"
+    },
+    {
+      "id": "approach_lightning_gate",
+      "description": "二人在无数平行世界尸体的注视下，迎着雷电向闪电之门进发。",
+      "time": "同上"
+    }
+  ],
+  "time_period": "新纪元第1个月，极夜期间，距离“毁灭指令”发射后14分钟",
+  "locations": [
+    "南极冰原·时空乱流交界处（镜像维度）",
+    "闪电之门"
+  ],
+  "key_facts": [
+    {
+      "id": "thursday_source_nature",
+      "content": "“星期四之源”不是生物也不是神，而是一种“注视”，依靠恐惧、疯狂和认知维持形态。"
+    },
+    {
+      "id": "thursday_weakness",
+      "content": "“星期四之源”的弱点在于“视界”，切断视线或让其看到逻辑上无法成立的东西会导致其崩塌。"
+    },
+    {
+      "id": "li_crazy_ability",
+      "content": "李疯狂的左眼具备“篡改·定义修正”的能力（例如将尸体定义为有机垃圾）。"
+    },
+    {
+      "id": "pighead_signal",
+      "content": "李疯狂和苏浅之间有特殊暗号：在手心画歪歪扭扭的猪头。"
+    },
+    {
+      "id": "staple_ring",
+      "content": "李疯狂曾用订书钉做戒指送给苏浅，苏浅为解手铐将其割断。"
+    },
+    {
+      "id": "tuesday_logic",
+      "content": "苏浅曾受“周二工作逻辑”控制，目前仍处于抗拒残留影响的状态。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

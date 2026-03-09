@@ -1,0 +1,106 @@
+{
+  "characters_present": [
+    {
+      "name": "萧严",
+      "age": "未提及",
+      "role": "演员（饰演太监魏忠）",
+      "description": "暗紫色太监常服，束发，苍白却轮廓分明，眼神深邃带有压迫感",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未提及",
+      "role": "演员（饰演女皇）",
+      "description": "绯红色丝绸寝衣，长发披散，赤足，眼神凌厉后转为迷离",
+      "status": "active"
+    },
+    {
+      "name": "张伟",
+      "age": "未提及",
+      "role": "导演",
+      "description": "黑着脸，卷着剧本，后被萧严的演技震撼",
+      "status": "active"
+    },
+    {
+      "name": "王胖子",
+      "age": "未提及",
+      "role": "工作人员/朋友",
+      "description": "满脸堆笑，八卦",
+      "status": "active"
+    },
+    {
+      "name": "小满",
+      "age": "未提及",
+      "role": "林清雪助理",
+      "description": "小心翼翼",
+      "status": "active"
+    },
+    {
+      "name": "助理小张",
+      "age": "未提及",
+      "role": "萧严助理",
+      "description": "听候吩咐",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "王胖子",
+    "小满",
+    "助理小张"
+  ],
+  "character_exits": [
+    {
+      "name": "林清雪",
+      "reason": "拍摄结束前往化妆间"
+    },
+    {
+      "name": "萧严",
+      "reason": "拍摄结束前往化妆间"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "lighting_adjustment",
+      "description": "萧严要求将灯光调暗，以符合魏忠活在阴影里的人物逻辑",
+      "time": "深夜拍摄前"
+    },
+    {
+      "id": "real_kiss_scene",
+      "description": "拍摄寝宫戏时，萧严无视剧本借位安排，实吻林清雪，林清雪在短暂震惊后顺从并回应",
+      "time": "深夜拍摄中"
+    },
+    {
+      "id": "aftermath_interaction",
+      "description": "导演喊卡后，萧严恢复恭顺姿态，林清雪对吻戏表示演技精湛，两人在化妆间内外心思各异",
+      "time": "深夜拍摄后"
+    }
+  ],
+  "time_period": "2024年秋，深夜",
+  "locations": [
+    "《大梁谍影》剧组",
+    "女皇寝宫布景",
+    "化妆间"
+  ],
+  "key_facts": [
+    {
+      "id": "show_name",
+      "content": "正在拍摄的剧集名为《大梁谍影》"
+    },
+    {
+      "id": "xiao_past_identity",
+      "content": "萧严前世是定北侯萧寒，与饰演女皇的林清雪（原型长公主李瑾）有未了的情感纠葛"
+    },
+    {
+      "id": "role_dynamic",
+      "content": "戏中角色魏忠试图反噬主人女皇，关系包含禁忌与控制"
+    },
+    {
+      "id": "qingxue_title",
+      "content": "林清雪是被称为影后的知名演员"
+    },
+    {
+      "id": "improvisation_impact",
+      "content": "萧严通过即兴实吻打破了两人之间的隔膜，意识到林清雪内心渴望被征服"
+    }
+  ]
+}

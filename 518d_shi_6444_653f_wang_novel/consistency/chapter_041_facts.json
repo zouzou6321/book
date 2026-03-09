@@ -1,0 +1,86 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": null,
+      "role": "定北侯",
+      "description": "一身墨色重甲，胯下神骏西域马，神态凌厉，行事果断疯狂",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": null,
+      "role": "长公主",
+      "description": "素白劲装，长发用木簪挽起，容貌倾国倾城，清冷从容",
+      "status": "active"
+    },
+    {
+      "name": "刘统领",
+      "age": null,
+      "role": "禁军统领/太子心腹",
+      "description": "三角眼，对萧寒抱有敌意",
+      "status": "departed"
+    },
+    {
+      "name": "沈锋",
+      "age": null,
+      "role": "黑云骑统领/萧寒下属",
+      "description": "动作迅猛，如出笼猛虎",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "刘统领",
+    "沈锋"
+  ],
+  "character_exits": [
+    {
+      "name": "刘统领",
+      "reason": "被俘并留活口以伪造现场报信"
+    },
+    {
+      "name": "禁军护卫队",
+      "reason": "被黑云骑击溃/俘虏"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "cut_flag",
+      "description": "萧寒在十里长亭斩断‘大梁和亲’旌旗，正式劫亲",
+      "time": "巳时三刻"
+    },
+    {
+      "id": "fake_ambush",
+      "description": "萧寒利用黑云骑制造北蛮伏击的假象，击溃太子的监视军队",
+      "time": "巳时三刻"
+    },
+    {
+      "id": "royal_elopement",
+      "description": "萧寒在凤辇中接应长公主李瑾，并未按计划使用假死药，两人一同骑马‘私奔’回营",
+      "time": "巳时三刻"
+    }
+  ],
+  "time_period": "建安二十三年腊月二十一日，巳时三刻",
+  "locations": [
+    "京城外三十里",
+    "十里长亭"
+  ],
+  "key_facts": [
+    {
+      "id": "black_cloud_cavalry",
+      "content": "萧寒麾下有一支名为‘黑云骑’的精锐亲兵，曾在边关令蛮族闻风丧胆"
+    },
+    {
+      "id": "princess_plan",
+      "content": "李瑾原计划服下假死药，但最终未服用，选择清醒状态下配合萧寒"
+    },
+    {
+      "id": "xiao_han_reputation",
+      "content": "萧寒在百姓口中被称为‘活菩萨’，被挟持的民意是萧寒用来牵制太子不敢追兵的筹码"
+    },
+    {
+      "id": "cover_story",
+      "content": "萧寒伪造了现场，将劫持长公主之事嫁祸给手段残忍的北蛮高手"
+    }
+  ]
+}

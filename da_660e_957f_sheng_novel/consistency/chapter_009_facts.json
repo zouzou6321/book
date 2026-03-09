@@ -1,0 +1,121 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "未提及",
+      "role": "死士营首领/怪医",
+      "description": "脸色苍白，眼底有青黑，服用解药后的后遗症",
+      "status": "active"
+    },
+    {
+      "name": "青儿",
+      "age": "未提及（约七八岁至十五六岁之间，瘦小）",
+      "role": "陈默的下属",
+      "description": "瘦小的少女，像只黑色的猫，声音沙哑",
+      "status": "active"
+    },
+    {
+      "name": "沈炼",
+      "age": "未提及",
+      "role": "锦衣卫千户",
+      "description": "身穿飞鱼服，腰佩绣春刀，比两年前更壮实，满脸横肉，眼神锐利",
+      "status": "departed"
+    },
+    {
+      "name": "缺耳少年",
+      "age": "约十五六岁",
+      "role": "死士（孤儿）",
+      "description": "缺了半只耳朵（被后金骑兵削掉），瘦得皮包骨头",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "青儿",
+    "沈炼",
+    "缺耳少年"
+  ],
+  "character_exits": [
+    {
+      "name": "青儿与孩子们",
+      "reason": "去后院搬运黑火药"
+    },
+    {
+      "name": "沈炼",
+      "reason": "离开陈家庄子"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "drug_induction",
+      "description": "陈默给二十三个孩子喂下毒药‘无命’，筛选并强化死士",
+      "time": "天启五年春"
+    },
+    {
+      "id": "shenlian_investigation",
+      "description": "锦衣卫千户沈炼突然造访，盘问药碗残留物及黑火药原料收购一事",
+      "time": "天启五年春"
+    },
+    {
+      "id": "flintlock_reveal",
+      "description": "沈炼瞥见陈默正在研发的燧发枪模型‘天策’",
+      "time": "天启五年春"
+    },
+    {
+      "id": "deadline_set",
+      "description": "陈默在图纸上圈出‘天启七年’作为出鞘的最后期限",
+      "time": "天启五年春"
+    }
+  ],
+  "time_period": "天启五年（1625年）春",
+  "locations": [
+    "京师南郊",
+    "陈家庄子",
+    "正厅（工坊）",
+    "后院"
+  ],
+  "key_facts": [
+    {
+      "id": "dead_soldiers_drug",
+      "content": "陈默制造的‘无命’药以寿命换取爆发力，成分含朱砂、水银，服用者寿命锐减"
+    },
+    {
+      "id": "tiance_rifle",
+      "content": "陈默已研制出粗糙的燧发枪模型（名为‘天策’），利用钢丝盘绕做弹簧，精铁锻造枪管"
+    },
+    {
+      "id": "deadline_1627",
+      "content": "陈默计划在天启七年之前完成所有准备（背景为该年大明朝局势将发生剧变）"
+    },
+    {
+      "id": "faction_standing",
+      "content": "陈默持有东厂眼线木牌，受到魏忠贤方面的材料管控放开；同时与锦衣卫千户沈炼有旧恩（曾治好其下属）"
+    },
+    {
+      "id": "base_disguise",
+      "content": "陈家庄子对外名为‘药田’，实为‘死士营’，外墙设有瞭望塔"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "锦衣卫千户",
+      "names": [
+        "沈炼",
+        "沈大人"
+      ]
+    },
+    {
+      "role_or_identity": "庄主/医者",
+      "names": [
+        "陈默",
+        "陈大夫"
+      ]
+    },
+    {
+      "role_or_identity": "受试孩子们",
+      "names": [
+        "孩子们",
+        "长工"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "副主厨/Human_v2.0",
+      "description": "左眼眶为空洞覆盖黑色织物，右手有粉色“人”字疤痕，当前眼部浮现暗紫色倒“V”字形符号，处于“微醺”状态",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "左眼AI/意识体",
+      "description": "存在李疯狂左眼眶的残留意识，呈现为银灰色星云，提供机械音解析",
+      "status": "active"
+    },
+    {
+      "name": "流氓软件",
+      "age": "",
+      "role": "影子实体",
+      "description": "外观凝实，裂开的大嘴，已融入李疯狂的身体影子里",
+      "status": "active"
+    },
+    {
+      "name": "完美李疯狂",
+      "age": "",
+      "role": "残魂/幻象",
+      "description": "穿着黑色礼服，出现在李疯狂精神迷宫角落，举杯致意",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "完美李疯狂",
+    "清理工"
+  ],
+  "character_exits": [
+    {
+      "name": "女性研究员",
+      "reason": "死亡（触碰后碎裂成冰晶）"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "waking_in_ice",
+      "description": "李疯狂在南极冰棺中苏醒，发现时间轴断裂，系统报错显示服务器为旧地图数据包_南极冰盖",
+      "time": "概念性早晨"
+    },
+    {
+      "id": "discovering_corpses",
+      "description": "发现补天计划废墟中的“周一尸体”，时间状态错位（上半身逃亡，下半身排队），被时间断层截断并排异",
+      "time": "概念性早晨"
+    },
+    {
+      "id": "finding_recorder",
+      "description": "在废墟指挥室床下发现苏浅留下的老式录音笔，听到遗留的“V我50”语音留言",
+      "time": "概念性早晨"
+    },
+    {
+      "id": "decoding_message",
+      "description": "解析出“V我50”非玩笑而是暗号：V为倒置的Lambda（衰变/波长），50指第五扇区/南纬50度，目标位于冰盖下方空腔",
+      "time": "概念性早晨"
+    },
+    {
+      "id": "forming_alliance",
+      "description": "李疯狂与流氓软件达成交易，流氓软件融入其影中，共同前往坐标寻找掀翻桌子的支点",
+      "time": "概念性早晨"
+    },
+    {
+      "id": "enemy_encounter",
+      "description": "清理程序发现入侵，大量由时间尸体异化的“清理工”怪物苏醒并包围指挥部",
+      "time": "概念性早晨"
+    },
+    {
+      "id": "consuming_monday",
+      "description": "李疯狂吞噬“时间残渣”冰块（周一的眼泪），获得临时序列【时间解析（残缺版）】，视觉中怪物动作变缓",
+      "time": "概念性早晨"
+    },
+    {
+      "id": "battle_start",
+      "description": "李疯狂以骨叉开始屠杀清理工，录音笔出现等待星期四的乱码提示",
+      "time": "概念性早晨"
+    }
+  ],
+  "time_period": "周一沦陷后的第一个“概念性早晨”",
+  "locations": [
+    "南极冰盖",
+    "补天计划废墟指挥部",
+    "南纬50度（地下空腔）"
+  ],
+  "key_facts": [
+    {
+      "id": "missing_week_days",
+      "content": "周一到周六的时间被世界逻辑“吃掉”或“刮花”，导致现实直接跳过了受损的时间扇区"
+    },
+    {
+      "id": "v_me_50_meaning",
+      "content": "“V我50”在特定加密频段中指代坐标，意为苏浅藏身于南纬50度地下几千米处的空腔（冷库重灾区）"
+    },
+    {
+      "id": "li_crazy_vision",
+      "content": "李疯狂吃下“周一”后进入微醺状态，获得【时间解析（残缺版）】，能看清数据流和缓慢的物理动作"
+    },
+    {
+      "id": "black_suit_fragment",
+      "content": "李疯狂精神深处存在着“完美李疯狂”（黑色礼服版）的残魂，这次进食后与其产生了短暂共鸣"
+    },
+    {
+      "id": "recorder_status",
+      "content": "录音笔最后显示乱码：“正在呼叫……接通率 0.01%……等待星期四……”"
+    },
+    {
+      "id": "weapon_origin",
+      "content": "李疯狂手中的骨叉是由【李小鱼的肋骨】化作的变体"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

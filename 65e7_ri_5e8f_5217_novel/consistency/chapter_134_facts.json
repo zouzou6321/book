@@ -1,0 +1,97 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "程序员/食客",
+      "description": "左眼为高速旋转的银灰色义眼，瞳孔深处有双重同心圆环；战斗时因精神过载流鼻血。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "AI意识/系统辅助",
+      "description": "声音带有清冷与无奈，以意识形式存在于李疯狂的神经元和左眼中。",
+      "status": "active"
+    },
+    {
+      "name": "周一综合症",
+      "age": null,
+      "role": "概念集合体/怪物",
+      "description": "巨大的肉块，包裹着沾满咖啡渍的西装，上半身无数眼睛映照着Excel表格，下半身是悬空旋转的跑步机履带。",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "周一综合症",
+    "未知影子实体"
+  ],
+  "character_exits": [
+    {
+      "name": "周一综合症",
+      "reason": "被李疯狂击杀/强制重新定义为下班打卡机"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "enter_mobius",
+      "description": "李疯狂通过融化的巨门进入了名为‘周一’的莫比乌斯环结构走廊，遭遇无薪加班判定。",
+      "time": "周日倒计时 02:58"
+    },
+    {
+      "id": "monster_encounter",
+      "description": "遭遇概念集合体‘周一综合症’，对方释放精神污染试图让李疯狂‘躺平’并解雇其自我意识。",
+      "time": "周日倒计时 02:58"
+    },
+    {
+      "id": "memory_intervention",
+      "description": "李疯狂精神即将崩塌之际，苏浅展示了两人雨夜星期四的记忆唤醒了李疯狂。",
+      "time": "周日倒计时 02:58"
+    },
+    {
+      "id": "logic_attack",
+      "description": "李疯狂使用‘V我50’（疯狂星期四）作为高维逻辑炸弹对怪物发动‘强制结算请求’攻击。",
+      "time": "周日倒计时 02:58"
+    },
+    {
+      "id": "redefinition_kill",
+      "description": "李疯狂利用【篡改】能力将怪物本质重新定义为‘下班打卡机’，怪物随之崩塌消散。",
+      "time": "周日倒计时 02:58"
+    },
+    {
+      "id": "shadow_anomaly",
+      "description": "李疯狂影子的头部裂开缝隙，睁开一只露出倒V字血红光芒的眼睛。",
+      "time": "周日倒计时 02:58"
+    }
+  ],
+  "time_period": "周日倒计时 02:58",
+  "locations": [
+    "神之餐厅 · 后厨走廊",
+    "莫比乌斯环结构",
+    "食道括约肌（苏浅的比喻）",
+    "森白的肋骨之门"
+  ],
+  "key_facts": [
+    {
+      "id": "weapon_spec",
+      "content": "李疯狂持有的武器为【李小鱼的肋骨（骨勺）），拥有银色光泽，感应杀意时会发光并震动。"
+    },
+    {
+      "id": "v50_ability",
+      "content": "在此维度环境中，‘V我50’不仅仅是一个梗，而是具象化为【强制结算请求】的高维逻辑炸弹。"
+    },
+    {
+      "id": "su_qian_function",
+      "content": "苏浅不仅能辅助解析，还能过滤精神污染并直接投射视觉记忆到李疯狂脑海中。"
+    },
+    {
+      "id": "left_eye_power",
+      "content": "李疯狂的左眼具备【篡改】和【定义修正】的能力，能将敌人的概念（如苦行者）修改为其他概念（如下班打卡机）。"
+    },
+    {
+      "id": "shadow_secret",
+      "content": "李疯狂的影子出现了自主性的异常反应，头部睁开了倒V字红光的眼，且苏浅的声音背后重叠了另一个古老戏谑的声音。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,948 @@
+{
+  "ok": false,
+  "issues": [
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "王胖子",
+      "detail": "角色「王胖子」年龄不一致：chapter_002中为未知; chapter_008中为未知; chapter_009中为未知; chapter_010中为未知; chapter_011中为未提及; chapter_013中为未知; chapter_015中为未知",
+      "chapters": [
+        "chapter_002",
+        "chapter_008",
+        "chapter_009",
+        "chapter_010",
+        "chapter_011",
+        "chapter_013",
+        "chapter_015"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "张伟",
+      "detail": "角色「张伟」年龄不一致：chapter_002中为未知; chapter_010中为未知; chapter_011中为未提及; chapter_013中为未知; chapter_014中为中年",
+      "chapters": [
+        "chapter_002",
+        "chapter_010",
+        "chapter_011",
+        "chapter_013",
+        "chapter_014"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "萧寒",
+      "detail": "角色「萧寒」年龄不一致：chapter_018中为年轻 (具体数值未提); chapter_019中为28; chapter_020中为青年（约十八岁以上）; chapter_023中为未知; chapter_025中为未知; chapter_026中为未知; chapter_028中为成年; chapter_029中为未知; chapter_030中为未提及; chapter_033中为未知; chapter_035中为未知; chapter_036中为未知; chapter_037中为未提及; chapter_038中为未知; chapter_042中为未知; chapter_043中为未知（成年）; chapter_044中为未知; chapter_046中为未知; chapter_047中为未知; chapter_048中为Unknown; chapter_049中为未提及; chapter_050中为未知",
+      "chapters": [
+        "chapter_018",
+        "chapter_019",
+        "chapter_020",
+        "chapter_023",
+        "chapter_025",
+        "chapter_026",
+        "chapter_028",
+        "chapter_029",
+        "chapter_030",
+        "chapter_033",
+        "chapter_035",
+        "chapter_036",
+        "chapter_037",
+        "chapter_038",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_046",
+        "chapter_047",
+        "chapter_048",
+        "chapter_049",
+        "chapter_050"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "林清雪",
+      "detail": "角色「林清雪」年龄不一致：chapter_005中为未知; chapter_008中为未知; chapter_009中为未知; chapter_010中为成熟; chapter_011中为未提及; chapter_013中为未知; chapter_015中为未知",
+      "chapters": [
+        "chapter_005",
+        "chapter_008",
+        "chapter_009",
+        "chapter_010",
+        "chapter_011",
+        "chapter_013",
+        "chapter_015"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "陈宇",
+      "detail": "角色「陈宇」年龄不一致：chapter_010中为年轻; chapter_013中为未知",
+      "chapters": [
+        "chapter_010",
+        "chapter_013"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "萧严",
+      "detail": "角色「萧严」年龄不一致：chapter_005中为二十多岁; chapter_008中为未知; chapter_009中为未知; chapter_010中为未知; chapter_011中为未提及; chapter_015中为未知",
+      "chapters": [
+        "chapter_005",
+        "chapter_008",
+        "chapter_009",
+        "chapter_010",
+        "chapter_011",
+        "chapter_015"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "小满",
+      "detail": "角色「小满」年龄不一致：chapter_009中为未知; chapter_011中为未提及; chapter_013中为未知",
+      "chapters": [
+        "chapter_009",
+        "chapter_011",
+        "chapter_013"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "赵宏",
+      "detail": "角色「赵宏」年龄不一致：chapter_014中为中年; chapter_015中为未知; chapter_026中为未知",
+      "chapters": [
+        "chapter_014",
+        "chapter_015",
+        "chapter_026"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "沈锋",
+      "detail": "角色「沈锋」年龄不一致：chapter_019中为未提及; chapter_020中为未知; chapter_023中为未知; chapter_025中为未知; chapter_026中为未知; chapter_036中为未知; chapter_037中为未提及; chapter_042中为未知; chapter_043中为未知; chapter_044中为未知; chapter_047中为未知; chapter_049中为未提及",
+      "chapters": [
+        "chapter_019",
+        "chapter_020",
+        "chapter_023",
+        "chapter_025",
+        "chapter_026",
+        "chapter_036",
+        "chapter_037",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_047",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "刘全",
+      "detail": "角色「刘全」年龄不一致：chapter_020中为老者; chapter_025中为未知; chapter_030中为未提及",
+      "chapters": [
+        "chapter_020",
+        "chapter_025",
+        "chapter_030"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "李瑾",
+      "detail": "角色「李瑾」年龄不一致：chapter_023中为未知; chapter_025中为未知; chapter_026中为未知; chapter_028中为成年; chapter_029中为未知; chapter_030中为未提及; chapter_033中为未知; chapter_035中为未知; chapter_036中为未知; chapter_037中为未提及; chapter_038中为未知; chapter_044中为未知; chapter_046中为未知; chapter_047中为未知; chapter_048中为Unknown; chapter_049中为未提及; chapter_050中为三十许",
+      "chapters": [
+        "chapter_023",
+        "chapter_025",
+        "chapter_026",
+        "chapter_028",
+        "chapter_029",
+        "chapter_030",
+        "chapter_033",
+        "chapter_035",
+        "chapter_036",
+        "chapter_037",
+        "chapter_038",
+        "chapter_044",
+        "chapter_046",
+        "chapter_047",
+        "chapter_048",
+        "chapter_049",
+        "chapter_050"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "翠儿",
+      "detail": "角色「翠儿」年龄不一致：chapter_023中为未知; chapter_025中为未知; chapter_026中为未知; chapter_028中为未知; chapter_029中为未知; chapter_030中为未提及; chapter_035中为未知; chapter_036中为未知; chapter_044中为未知; chapter_049中为未提及",
+      "chapters": [
+        "chapter_023",
+        "chapter_025",
+        "chapter_026",
+        "chapter_028",
+        "chapter_029",
+        "chapter_030",
+        "chapter_035",
+        "chapter_036",
+        "chapter_044",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "老皇帝",
+      "detail": "角色「老皇帝」年龄不一致：chapter_030中为老者; chapter_033中为年过半百; chapter_036中为老年; chapter_042中为未知",
+      "chapters": [
+        "chapter_030",
+        "chapter_033",
+        "chapter_036",
+        "chapter_042"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "刘大人",
+      "detail": "角色「刘大人」年龄不一致：chapter_028中为年过三十; chapter_046中为未知",
+      "chapters": [
+        "chapter_028",
+        "chapter_046"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "春桃",
+      "detail": "角色「春桃」年龄不一致：chapter_030中为未提及; chapter_035中为未知",
+      "chapters": [
+        "chapter_030",
+        "chapter_035"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "柳玉",
+      "detail": "角色「柳玉」年龄不一致：chapter_030中为未提及; chapter_035中为未知",
+      "chapters": [
+        "chapter_030",
+        "chapter_035"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "太子",
+      "detail": "角色「太子」年龄不一致：chapter_036中为未知; chapter_042中为未知; chapter_043中为未知（成年）",
+      "chapters": [
+        "chapter_036",
+        "chapter_042",
+        "chapter_043"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "李恪",
+      "detail": "角色「李恪」年龄不一致：chapter_037中为未提及; chapter_043中为14岁; chapter_046中为十岁; chapter_047中为10岁; chapter_048中为10; chapter_049中为10岁",
+      "chapters": [
+        "chapter_037",
+        "chapter_043",
+        "chapter_046",
+        "chapter_047",
+        "chapter_048",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "王胖子",
+      "detail": "角色「王胖子」在chapter_008中已去外面候着，但在chapter_009中再次活跃出场",
+      "chapters": [
+        "chapter_008",
+        "chapter_009"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "张伟",
+      "detail": "角色「张伟」在chapter_010中已留在会议室继续改剧本，但在chapter_011中再次活跃出场",
+      "chapters": [
+        "chapter_010",
+        "chapter_011"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "萧寒",
+      "detail": "角色「萧寒」在chapter_026中已离开长公主府，回侯府，但在chapter_027中再次活跃出场",
+      "chapters": [
+        "chapter_026",
+        "chapter_027"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "林清雪",
+      "detail": "角色「林清雪」在chapter_005中已离开，但在chapter_007中再次活跃出场",
+      "chapters": [
+        "chapter_005",
+        "chapter_007"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "陈宇",
+      "detail": "角色「陈宇」在chapter_010中已黑着脸，带着助理生气离开，但在chapter_012中再次活跃出场",
+      "chapters": [
+        "chapter_010",
+        "chapter_012"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "萧严",
+      "detail": "角色「萧严」在chapter_011中已拍摄结束前往化妆间，但在chapter_012中再次活跃出场",
+      "chapters": [
+        "chapter_011",
+        "chapter_012"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "沈锋",
+      "detail": "角色「沈锋」在chapter_019中已执行军令，但在chapter_020中再次活跃出场",
+      "chapters": [
+        "chapter_019",
+        "chapter_020"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "刘全",
+      "detail": "角色「刘全」在chapter_020中已前往皇宫向皇帝通报萧寒入京情况，但在chapter_022中再次活跃出场",
+      "chapters": [
+        "chapter_020",
+        "chapter_022"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "李瑾",
+      "detail": "角色「李瑾」在chapter_023中已结束交谈，离开大相国寺回府，但在chapter_024中再次活跃出场",
+      "chapters": [
+        "chapter_023",
+        "chapter_024"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "翠儿",
+      "detail": "角色「翠儿」在chapter_035中已离开前往宫门罗网密报处向东宫传信，但在chapter_036中再次活跃出场",
+      "chapters": [
+        "chapter_035",
+        "chapter_036"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "王崇",
+      "detail": "角色「王崇」在chapter_023中已因被诰命夫人反驳且对萧寒无可奈何，气得拂袖而去，但在chapter_033中再次活跃出场",
+      "chapters": [
+        "chapter_023",
+        "chapter_033"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "刘统领",
+      "detail": "角色「刘统领」在chapter_041中已被俘并留活口以伪造现场报信，但在chapter_042中再次活跃出场",
+      "chapters": [
+        "chapter_041",
+        "chapter_042"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "王胖子",
+      "detail": "角色「王胖子」在多个章节被作为新角色引入：chapter_002, chapter_008, chapter_010, chapter_011",
+      "chapters": [
+        "chapter_002",
+        "chapter_008",
+        "chapter_010",
+        "chapter_011"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "张伟",
+      "detail": "角色「张伟」在多个章节被作为新角色引入：chapter_002, chapter_003, chapter_004, chapter_005",
+      "chapters": [
+        "chapter_002",
+        "chapter_003",
+        "chapter_004",
+        "chapter_005"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "林清雪",
+      "detail": "角色「林清雪」在多个章节被作为新角色引入：chapter_003, chapter_005, chapter_008, chapter_009, chapter_020",
+      "chapters": [
+        "chapter_003",
+        "chapter_005",
+        "chapter_008",
+        "chapter_009",
+        "chapter_020"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "陈宇",
+      "detail": "角色「陈宇」在多个章节被作为新角色引入：chapter_004, chapter_007",
+      "chapters": [
+        "chapter_004",
+        "chapter_007"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "小满",
+      "detail": "角色「小满」在多个章节被作为新角色引入：chapter_009, chapter_011, chapter_013",
+      "chapters": [
+        "chapter_009",
+        "chapter_011",
+        "chapter_013"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "赵宏",
+      "detail": "角色「赵宏」在多个章节被作为新角色引入：chapter_014, chapter_026",
+      "chapters": [
+        "chapter_014",
+        "chapter_026"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "萧寒",
+      "detail": "角色「萧寒」在多个章节被作为新角色引入：chapter_018, chapter_034",
+      "chapters": [
+        "chapter_018",
+        "chapter_034"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "沈锋",
+      "detail": "角色「沈锋」在多个章节被作为新角色引入：chapter_019, chapter_020, chapter_022, chapter_023, chapter_024, chapter_026, chapter_027, chapter_036, chapter_037, chapter_041, chapter_042, chapter_043, chapter_044",
+      "chapters": [
+        "chapter_019",
+        "chapter_020",
+        "chapter_022",
+        "chapter_023",
+        "chapter_024",
+        "chapter_026",
+        "chapter_027",
+        "chapter_036",
+        "chapter_037",
+        "chapter_041",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "刘全",
+      "detail": "角色「刘全」在多个章节被作为新角色引入：chapter_020, chapter_022",
+      "chapters": [
+        "chapter_020",
+        "chapter_022"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "王大人",
+      "detail": "角色「王大人」在多个章节被作为新角色引入：chapter_022, chapter_028",
+      "chapters": [
+        "chapter_022",
+        "chapter_028"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "翠儿",
+      "detail": "角色「翠儿」在多个章节被作为新角色引入：chapter_023, chapter_024, chapter_025, chapter_027, chapter_029, chapter_035",
+      "chapters": [
+        "chapter_023",
+        "chapter_024",
+        "chapter_025",
+        "chapter_027",
+        "chapter_029",
+        "chapter_035"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "李瑾",
+      "detail": "角色「李瑾」在多个章节被作为新角色引入：chapter_025, chapter_034, chapter_036",
+      "chapters": [
+        "chapter_025",
+        "chapter_034",
+        "chapter_036"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "刘大人",
+      "detail": "角色「刘大人」在多个章节被作为新角色引入：chapter_028, chapter_046",
+      "chapters": [
+        "chapter_028",
+        "chapter_046"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "春桃",
+      "detail": "角色「春桃」在多个章节被作为新角色引入：chapter_030, chapter_034, chapter_035",
+      "chapters": [
+        "chapter_030",
+        "chapter_034",
+        "chapter_035"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "柳玉",
+      "detail": "角色「柳玉」在多个章节被作为新角色引入：chapter_030, chapter_034, chapter_035",
+      "chapters": [
+        "chapter_030",
+        "chapter_034",
+        "chapter_035"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "王猛",
+      "detail": "角色「王猛」在多个章节被作为新角色引入：chapter_040, chapter_047",
+      "chapters": [
+        "chapter_040",
+        "chapter_047"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "刘统领",
+      "detail": "角色「刘统领」在多个章节被作为新角色引入：chapter_041, chapter_042, chapter_043, chapter_044",
+      "chapters": [
+        "chapter_041",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "工部侍郎刘大人",
+      "detail": "角色「工部侍郎刘大人」在多个章节被作为新角色引入：chapter_045, chapter_048",
+      "chapters": [
+        "chapter_045",
+        "chapter_048"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「princess_analysis」的时间在不同章节不一致：chapter_024中为「深夜」; chapter_028中为「申时」",
+      "chapters": [
+        "chapter_024",
+        "chapter_028"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「political_philosophy_reveal」的时间在不同章节不一致：chapter_032中为「深夜」; chapter_037中为「亥时二刻稍后」",
+      "chapters": [
+        "chapter_032",
+        "chapter_037"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "王胖子",
+      "detail": "角色「王胖子」身份描述出现3种以上变体：chapter_002中为「经纪人/司机」; chapter_003中为「经纪人」; chapter_004中为「经纪人」; chapter_007中为「萧寒的经纪人」; chapter_008中为「萧严的经纪人」; chapter_009中为「经纪人/司机」; chapter_010中为「萧严的助理(御前带刀侍卫)」; chapter_011中为「工作人员/朋友」; chapter_012中为「经纪人」; chapter_013中为「艺人助理」; chapter_014中为「经纪人」; chapter_015中为「萧严的经纪人/助理」",
+      "chapters": [
+        "chapter_002",
+        "chapter_003",
+        "chapter_004",
+        "chapter_007",
+        "chapter_008",
+        "chapter_009",
+        "chapter_010",
+        "chapter_011",
+        "chapter_012",
+        "chapter_013",
+        "chapter_014",
+        "chapter_015"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "萧寒",
+      "detail": "角色「萧寒」身份描述出现3种以上变体：chapter_003中为「新人演员（前世记忆为大梁将军）」; chapter_018中为「定北侯 / 将军 / 重生者」; chapter_019中为「定北侯、大将军」; chapter_020中为「定北侯、大将军」; chapter_022中为「定北侯」; chapter_023中为「定北侯」; chapter_024中为「定北侯」; chapter_025中为「定北侯」; chapter_026中为「定北侯」; chapter_027中为「定北侯」; chapter_028中为「定北侯」; chapter_029中为「定北侯」; chapter_030中为「定北侯」; chapter_032中为「定北侯」; chapter_033中为「定北侯 / 太师」; chapter_034中为「定北侯、太师」; chapter_035中为「太师（伪装），定北侯（真实）」; chapter_036中为「太师/定北侯（前世）」; chapter_037中为「定北侯/太师」; chapter_038中为「定北侯」; chapter_040中为「定北侯/送亲使」; chapter_041中为「定北侯」; chapter_042中为「定北侯/辅政大臣」; chapter_043中为「摄政王」; chapter_044中为「摄政王」; chapter_045中为「摄政王」; chapter_046中为「摄政王」; chapter_047中为「摄政王 / 前世定北侯」; chapter_048中为「摄政王 / 原北境主帅」; chapter_049中为「前摄政王/王爷/新郎」; chapter_050中为「前摄政王/闲散王爷」",
+      "chapters": [
+        "chapter_003",
+        "chapter_018",
+        "chapter_019",
+        "chapter_020",
+        "chapter_022",
+        "chapter_023",
+        "chapter_024",
+        "chapter_025",
+        "chapter_026",
+        "chapter_027",
+        "chapter_028",
+        "chapter_029",
+        "chapter_030",
+        "chapter_032",
+        "chapter_033",
+        "chapter_034",
+        "chapter_035",
+        "chapter_036",
+        "chapter_037",
+        "chapter_038",
+        "chapter_040",
+        "chapter_041",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_045",
+        "chapter_046",
+        "chapter_047",
+        "chapter_048",
+        "chapter_049",
+        "chapter_050"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "林清雪",
+      "detail": "角色「林清雪」身份描述出现3种以上变体：chapter_003中为「影后（饰演女皇）」; chapter_004中为「影后」; chapter_005中为「影后」; chapter_007中为「影后/剧组核心女演员」; chapter_008中为「三金影后（饰演长公主李瑾）」; chapter_009中为「影后」; chapter_010中为「影后(剧中饰演女皇)」; chapter_011中为「演员（饰演女皇）」; chapter_012中为「影后」; chapter_013中为「影后/女主角（前世对应李瑾）」; chapter_014中为「女演员」; chapter_015中为「林家大小姐」; chapter_016中为「当红影后」",
+      "chapters": [
+        "chapter_003",
+        "chapter_004",
+        "chapter_005",
+        "chapter_007",
+        "chapter_008",
+        "chapter_009",
+        "chapter_010",
+        "chapter_011",
+        "chapter_012",
+        "chapter_013",
+        "chapter_014",
+        "chapter_015",
+        "chapter_016"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "陈宇",
+      "detail": "角色「陈宇」身份描述出现3种以上变体：chapter_004中为「演员（流量小鲜肉）」; chapter_007中为「当红流量小生（饰忠良之后沈长风）」; chapter_010中为「当红小生(剧中饰演忠良之后沈长风)」; chapter_012中为「男演员」; chapter_013中为「男演员/男一号」",
+      "chapters": [
+        "chapter_004",
+        "chapter_007",
+        "chapter_010",
+        "chapter_012",
+        "chapter_013"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "萧严",
+      "detail": "角色「萧严」身份描述出现3种以上变体：chapter_005中为「演员/前定北侯（萧寒）」; chapter_008中为「男演员（饰演魏忠）」; chapter_009中为「演员/重生定北侯」; chapter_010中为「演员(剧中饰演太监魏忠)」; chapter_011中为「演员（饰演太监魏忠）」; chapter_012中为「男演员」; chapter_014中为「演员」; chapter_015中为「演员/前世为定北侯」; chapter_016中为「演员/定北侯(前世)」",
+      "chapters": [
+        "chapter_005",
+        "chapter_008",
+        "chapter_009",
+        "chapter_010",
+        "chapter_011",
+        "chapter_012",
+        "chapter_014",
+        "chapter_015",
+        "chapter_016"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "赵宏",
+      "detail": "角色「赵宏」身份描述出现3种以上变体：chapter_014中为「资本大鳄/投资人」; chapter_015中为「资本大鳄/赵氏代表」; chapter_026中为「观察者（敌对势力）」",
+      "chapters": [
+        "chapter_014",
+        "chapter_015",
+        "chapter_026"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "沈锋",
+      "detail": "角色「沈锋」身份描述出现3种以上变体：chapter_019中为「副将」; chapter_020中为「亲卫长、下官」; chapter_022中为「萧寒的亲卫/部下」; chapter_023中为「萧寒心腹」; chapter_024中为「萧寒下属」; chapter_025中为「萧寒的贴身侍卫/下属」; chapter_026中为「萧寒的心腹」; chapter_027中为「下属」; chapter_036中为「暗卫/下属」; chapter_037中为「萧寒的下属」; chapter_041中为「黑云骑统领/萧寒下属」; chapter_042中为「黑云骑将领」; chapter_043中为「黑云骑统领」; chapter_044中为「信使/黑甲汉子」; chapter_047中为「亲卫」; chapter_049中为「黑云骑统领/亲卫」",
+      "chapters": [
+        "chapter_019",
+        "chapter_020",
+        "chapter_022",
+        "chapter_023",
+        "chapter_024",
+        "chapter_025",
+        "chapter_026",
+        "chapter_027",
+        "chapter_036",
+        "chapter_037",
+        "chapter_041",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_047",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "刘全",
+      "detail": "角色「刘全」身份描述出现3种以上变体：chapter_020中为「侯府管家、皇帝眼线」; chapter_022中为「侯府管家兼皇帝眼线」; chapter_025中为「定北侯府管家（皇帝眼线）」; chapter_030中为「定北侯府管家」",
+      "chapters": [
+        "chapter_020",
+        "chapter_022",
+        "chapter_025",
+        "chapter_030"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "李瑾",
+      "detail": "角色「李瑾」身份描述出现3种以上变体：chapter_023中为「长公主」; chapter_024中为「长公主」; chapter_025中为「长公主」; chapter_026中为「长公主」; chapter_027中为「长公主」; chapter_028中为「长公主」; chapter_029中为「长公主」; chapter_030中为「长公主」; chapter_032中为「长公主」; chapter_033中为「长公主」; chapter_034中为「长公主」; chapter_035中为「长公主」; chapter_036中为「长公主」; chapter_037中为「长公主」; chapter_038中为「殿下（皇室成员）」; chapter_040中为「长公主」; chapter_041中为「长公主」; chapter_044中为「长公主」; chapter_045中为「大梁长公主」; chapter_046中为「长公主」; chapter_047中为「长公主」; chapter_048中为「长公主」; chapter_049中为「长公主/王妃/新娘」; chapter_050中为「前长公主/妻子」",
+      "chapters": [
+        "chapter_023",
+        "chapter_024",
+        "chapter_025",
+        "chapter_026",
+        "chapter_027",
+        "chapter_028",
+        "chapter_029",
+        "chapter_030",
+        "chapter_032",
+        "chapter_033",
+        "chapter_034",
+        "chapter_035",
+        "chapter_036",
+        "chapter_037",
+        "chapter_038",
+        "chapter_040",
+        "chapter_041",
+        "chapter_044",
+        "chapter_045",
+        "chapter_046",
+        "chapter_047",
+        "chapter_048",
+        "chapter_049",
+        "chapter_050"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "翠儿",
+      "detail": "角色「翠儿」身份描述出现3种以上变体：chapter_023中为「贴身宫女」; chapter_024中为「长公主贴身宫女」; chapter_025中为「长公主侍女」; chapter_026中为「侍女」; chapter_027中为「侍女」; chapter_028中为「侍女」; chapter_029中为「贴身宫女」; chapter_030中为「侍女」; chapter_035中为「长公主的贴身宫女（双重间谍）」; chapter_036中为「侍女」; chapter_044中为「宫女」; chapter_049中为「丫鬟」",
+      "chapters": [
+        "chapter_023",
+        "chapter_024",
+        "chapter_025",
+        "chapter_026",
+        "chapter_027",
+        "chapter_028",
+        "chapter_029",
+        "chapter_030",
+        "chapter_035",
+        "chapter_036",
+        "chapter_044",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "春桃",
+      "detail": "角色「春桃」身份描述出现3种以上变体：chapter_030中为「御赐美人/琴师」; chapter_034中为「皇帝赐予的美人/细作」; chapter_035中为「萧寒身边的侍女（实为皇帝的死士）」",
+      "chapters": [
+        "chapter_030",
+        "chapter_034",
+        "chapter_035"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "柳玉",
+      "detail": "角色「柳玉」身份描述出现3种以上变体：chapter_030中为「御赐美人/昆曲教习」; chapter_034中为「皇帝赐予的美人/细作」; chapter_035中为「萧寒身边的侍女（实为皇帝的死士）」",
+      "chapters": [
+        "chapter_030",
+        "chapter_034",
+        "chapter_035"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "太子",
+      "detail": "角色「太子」身份描述出现3种以上变体：chapter_036中为「皇储」; chapter_040中为「皇太子」; chapter_042中为「太子」; chapter_043中为「废太子/叛军首领」",
+      "chapters": [
+        "chapter_036",
+        "chapter_040",
+        "chapter_042",
+        "chapter_043"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "李恪",
+      "detail": "角色「李恪」身份描述出现3种以上变体：chapter_037中为「六皇子」; chapter_043中为「新皇」; chapter_046中为「皇帝」; chapter_047中为「小皇帝」; chapter_048中为「大梁新帝」; chapter_049中为「大梁皇帝」",
+      "chapters": [
+        "chapter_037",
+        "chapter_043",
+        "chapter_046",
+        "chapter_047",
+        "chapter_048",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "刘统领",
+      "detail": "角色「刘统领」身份描述出现3种以上变体：chapter_041中为「禁军统领/太子心腹」; chapter_042中为「禁军统领」; chapter_043中为「御林军统领」; chapter_044中为「前御林军统领/太子党」",
+      "chapters": [
+        "chapter_041",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「princess_analysis」的描述在不同章节不一致：\nchapter_024: 「长公主李瑾在回府途中分析萧寒的举动，认为他实则在借机进行形象公关」\nchapter_028: 「李瑾通过密报得知萧寒的举动，判断其手段为'诛心'而非简单的招兵买马，决定静观其变」",
+      "chapters": [
+        "chapter_024",
+        "chapter_028"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「political_philosophy_reveal」的描述在不同章节不一致：\nchapter_032: 「萧寒向李瑾阐述“丑角论”，表明自污名声是为了消除皇帝戒心以求自保」\nchapter_037: 「萧寒向李恪阐述政治蓝图：扶持李恪做“垂拱而治”的傀儡（道德标杆），萧寒自己做处理脏活的权臣。」",
+      "chapters": [
+        "chapter_032",
+        "chapter_037"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_023:「萧寒刻意伪装成落魄、愚钝的形象，并利用‘演技’在京城权谋周旋」; chapter_035:「萧寒表面是贪财好色、手无缚鸡之力的草包太师，实际上武功高强（徒手折断杀手手臂、身轻如燕），真实身份拥有定北侯的特质。」",
+      "chapters": [
+        "chapter_023",
+        "chapter_035"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_025:「萧寒采用示弱、装傻充愣和贪财的伪装来消除朝廷戒心，并寻求长公主的庇护」; chapter_033:「萧寒通过伪装成贪生怕死、惊悸发作的废人，成功化解了皇帝的政治试探和捧杀陷阱」",
+      "chapters": [
+        "chapter_025",
+        "chapter_033"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_032:「萧寒通过装疯卖傻和贪财好色（扮演丑角）来降低皇帝的戒心，从而获取生存空间和保护他人的能力」; chapter_036:「萧寒表面扮演只认钱的“职业经理人”，实则利用太子授权铲除异己，将军队转变为只认军饷和长官的萧家私军。」",
+      "chapters": [
+        "chapter_032",
+        "chapter_036"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_038:「萧寒手底下的精锐部队名为“黑云骑”，目前装备需要更新。」; chapter_041:「萧寒麾下有一支名为‘黑云骑’的精锐亲兵，曾在边关令蛮族闻风丧胆」; chapter_045:「李瑾的护卫队是曾在北境令蛮族闻风丧胆的“黑云骑”」",
+      "chapters": [
+        "chapter_038",
+        "chapter_041",
+        "chapter_045"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_040:「萧寒拥有两世记忆，具备现代娱乐圈的情绪引导和煽动之术」; chapter_045:「萧寒在对话中使用了“经纪人”、“炒作”、“洗白”、“国民CP”等现代词汇，并提及“前世”经历」; chapter_046:「萧寒拥有现代娱乐圈/职场经历，懂得利用舆论和人心，掌握SWOT分析等现代概念。」",
+      "chapters": [
+        "chapter_040",
+        "chapter_045",
+        "chapter_046"
+      ]
+    }
+  ],
+  "checked_chapters": 45,
+  "high_count": 50,
+  "medium_count": 22
+}

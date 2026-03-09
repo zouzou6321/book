@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>书架 · BookShelf</title>
+  <meta name="theme-color" content="#4f46e5">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="书架">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="apple-touch-icon" href="/icons/icon.svg">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="app">
+    <!-- Catalog View -->
+    <div id="view-catalog" class="view active">
+      <header class="catalog-header">
+        <h1 class="logo">书架<span class="logo-dot">.</span></h1>
+        <p class="tagline">沉浸阅读，探索无限</p>
+      </header>
+      <div class="catalog-filters">
+        <button type="button" class="filter-chip active" data-channel="all" onclick="setCatalogChannel('all')">全部</button>
+        <button type="button" class="filter-chip" data-channel="male" onclick="setCatalogChannel('male')">男频</button>
+        <button type="button" class="filter-chip" data-channel="female" onclick="setCatalogChannel('female')">女频</button>
+      </div>
+      <div class="search-bar">
+        <input type="text" id="search-input" placeholder="搜索书名、作者或标签…">
+      </div>
+      <div id="book-grid" class="book-grid"></div>
+      <div id="loading-indicator" class="loading">加载中…</div>
+      <div class="catalog-fab">
+        <button class="btn-feedback-fab" onclick="router.go('feedback')" title="留言板">
+          <span class="fab-icon">💬</span>
+        </button>
+        <button class="btn-create-fab" onclick="router.go('create')" title="AI 创作">
+          <span class="fab-icon">✦</span>
+          <span class="fab-label">AI 创作</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Feedback / Product Comments View -->
+    <div id="view-feedback" class="view">
+      <nav class="top-bar">
+        <button class="btn-back" onclick="router.go('catalog')">← 返回书架</button>
+        <span class="top-bar-title">留言板</span>
+      </nav>
+      <div class="feedback-container">
+        <div class="feedback-hero">
+          <h2>读者留言板</h2>
+          <p>分享你对我们产品的想法、建议或感受</p>
+        </div>
+        <div class="feedback-tip">
+          <p class="feedback-tip-title">欢迎打赏</p>
+          <p class="feedback-tip-desc">如果你喜欢这里的作品，欢迎请作者喝杯咖啡，支持持续创作。</p>
+          <div class="feedback-tip-qr">
+            <img src="/images/wechat-tip.png" alt="微信收款码" width="200" height="200">
+            <span class="feedback-tip-hint">微信扫一扫打赏</span>
+          </div>
+        </div>
+        <div class="feedback-form">
+          <div class="feedback-form-row">
+            <input type="text" id="fb-author" placeholder="你的名字（选填）" maxlength="20">
+            <div class="feedback-rating" id="fb-rating">
+              <span class="star active" data-val="1">★</span>
+              <span class="star active" data-val="2">★</span>
+              <span class="star active" data-val="3">★</span>
+              <span class="star active" data-val="4">★</span>
+              <span class="star active" data-val="5">★</span>
+            </div>
+          </div>
+          <textarea id="fb-text" placeholder="写下你的留言…" rows="4"></textarea>
+          <button class="btn-primary" onclick="feedback.submit()">发布留言</button>
+        </div>
+        <div id="feedback-list" class="feedback-list"></div>
+      </div>
+    </div>
+
+    <!-- Book Detail View -->
+    <div id="view-detail" class="view">
+      <nav class="top-bar">
+        <button class="btn-back" onclick="router.go('catalog')">← 返回书架</button>
+      </nav>
+      <div id="book-detail" class="book-detail"></div>
+    </div>
+
+    <!-- Reader View -->
+    <div id="view-reader" class="view">
+      <nav class="reader-bar">
+        <button class="btn-back" onclick="router.goBack()">← 返回</button>
+        <span id="reader-title" class="reader-bar-title"></span>
+        <div class="reader-controls">
+          <button onclick="reader.changeFontSize(-1)" title="缩小字体">A-</button>
+          <button onclick="reader.changeFontSize(1)" title="放大字体">A+</button>
+          <button id="btn-dark" onclick="reader.toggleDark()">日间</button>
+          <button id="btn-comments" onclick="comments.toggle()" title="评论">💬</button>
+          <button id="btn-copy-chapter" onclick="reader.copyChapter()" title="复制整章">📋 复制</button>
+          <span id="reader-copy-status" class="reader-copy-status hidden" aria-live="polite"></span>
+        </div>
+      </nav>
+      <div class="reader-stage" id="reader-stage">
+        <div id="reader-viewport" class="reader-viewport">
+          <article id="reader-content" class="reader-content"></article>
+        </div>
+      </div>
+      <nav class="reader-footer">
+        <span id="page-indicator" class="page-indicator"></span>
+        <span id="chapter-progress" class="chapter-progress"></span>
+      </nav>
+
+      <!-- Comments Panel -->
+      <div id="comments-panel" class="comments-panel hidden">
+        <div class="comments-panel-header">
+          <div class="comments-panel-context" id="comments-context">章节评论</div>
+          <button class="comments-close" onclick="comments.close()">✕</button>
+        </div>
+        <div id="comments-quote-banner" class="comments-quote-banner hidden"></div>
+        <div class="comments-form">
+          <input type="text" id="comment-author" placeholder="你的名字（选填）" maxlength="20">
+          <textarea id="comment-text" placeholder="写下你的想法…" rows="3"></textarea>
+          <button class="btn-primary btn-sm" onclick="comments.submit()">发布评论</button>
+        </div>
+        <div id="comments-list" class="comments-list"></div>
+      </div>
+    </div>
+
+    <!-- Creation Center View -->
+    <div id="view-create" class="view">
+      <nav class="top-bar create-top-bar">
+        <button class="btn-back" id="create-back-btn" onclick="creator.goBack()">← 返回书架</button>
+        <span class="top-bar-title" id="create-title">AI 创作中心</span>
+        <button class="btn-icon" id="create-settings-btn" onclick="creator.toggleSettings()" title="AI 设置">⚙</button>
+      </nav>
+      <div id="create-content"></div>
+
+      <!-- Settings Modal -->
+      <div id="settings-modal" class="modal hidden">
+        <div class="modal-overlay" onclick="creator.toggleSettings()"></div>
+        <div class="modal-body">
+          <h3>AI 模型设置</h3>
+          <div id="builtin-ai-notice" class="builtin-ai-notice">
+            <span class="builtin-badge">内置 AI</span>
+            当前使用内置 NVIDIA AI（GLM-4.7）。无需配置即可直接创作。如需使用其他模型，请填写以下配置。
+          </div>
+          <div class="form-group">
+            <label>API Key <span class="optional-tag">（选填）</span></label>
+            <input type="password" id="cfg-api-key" placeholder="留空则使用内置 AI">
+          </div>
+          <div class="form-group">
+            <label>Base URL <span class="optional-tag">（选填）</span></label>
+            <input type="text" id="cfg-base-url" placeholder="留空则使用内置 AI">
+          </div>
+          <div class="form-group">
+            <label>模型名称 <span class="optional-tag">（选填）</span></label>
+            <input type="text" id="cfg-model" placeholder="留空则使用内置 AI">
+          </div>
+          <div class="modal-actions">
+            <button class="btn-primary" onclick="creator.saveSettings()">保存</button>
+            <button class="btn-secondary" onclick="creator.clearSettings()">恢复内置 AI</button>
+            <button class="btn-secondary" onclick="creator.toggleSettings()">取消</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Comment Selection Tooltip (body-level to avoid CSS containment issues) -->
+  <div id="comment-tooltip" class="comment-tooltip hidden">
+    <button onmousedown="event.preventDefault(); comments.openWithQuote()">💬 评论此处</button>
+  </div>
+  <!-- PWA 安装提示条 -->
+  <div id="pwa-install-banner" class="pwa-install-banner hidden" role="dialog" aria-label="安装应用">
+    <div class="pwa-install-content">
+      <p class="pwa-install-text">将「书架」安装到主屏幕，像 App 一样使用</p>
+      <div class="pwa-install-actions">
+        <button type="button" class="pwa-install-btn pwa-install-primary" id="pwa-install-confirm">安装</button>
+        <button type="button" class="pwa-install-btn pwa-install-dismiss" id="pwa-install-dismiss">暂不</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+  <script src="js/create.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('/sw.js').catch(function () {});
+      });
+    }
+    (function () {
+      var DISMISS_KEY = 'pwa_install_dismissed';
+      var DISMISS_DAYS = 7;
+      var banner = document.getElementById('pwa-install-banner');
+      var btnConfirm = document.getElementById('pwa-install-confirm');
+      var btnDismiss = document.getElementById('pwa-install-dismiss');
+      if (!banner || !btnConfirm || !btnDismiss) return;
+      function isStandalone() {
+        return window.matchMedia('(display-mode: standalone)').matches
+          || window.navigator.standalone === true
+          || document.referrer.includes('android-app://');
+      }
+      function wasDismissedRecently() {
+        try {
+          var raw = localStorage.getItem(DISMISS_KEY);
+          if (!raw) return false;
+          var t = parseInt(raw, 10);
+          return (Date.now() - t) < DISMISS_DAYS * 24 * 60 * 60 * 1000;
+        } catch (e) { return false; }
+      }
+      function dismissBanner() {
+        banner.classList.add('hidden');
+        try { localStorage.setItem(DISMISS_KEY, String(Date.now())); } catch (e) {}
+      }
+      var deferredPrompt = null;
+      window.addEventListener('beforeinstallprompt', function (e) {
+        e.preventDefault();
+        deferredPrompt = e;
+        if (!isStandalone() && !wasDismissedRecently()) banner.classList.remove('hidden');
+      });
+      btnConfirm.addEventListener('click', function () {
+        if (!deferredPrompt) return;
+        deferredPrompt.prompt();
+        deferredPrompt.userChoice.then(function (choice) {
+          deferredPrompt = null;
+          banner.classList.add('hidden');
+        });
+      });
+      btnDismiss.addEventListener('click', dismissBanner);
+      if (isStandalone()) banner.classList.add('hidden');
+    })();
+  </script>
+</body>
+</html>

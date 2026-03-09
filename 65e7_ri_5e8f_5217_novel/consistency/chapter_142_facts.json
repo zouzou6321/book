@@ -1,0 +1,98 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "副主厨",
+      "description": "左眼为暗紫色倒“V”字符号，裂纹向面部蔓延；右手半透明瓷器质感流淌黑色数据流；左手皮肤透星光，指尖如爪，持有由李小鱼的肋骨变形的骨叉。",
+      "status": "active"
+    },
+    {
+      "name": "眼球商贩",
+      "age": "未知",
+      "role": "商贩",
+      "description": "半张脸为人脸，另外半张脸由无数只眨动的眼球组成。",
+      "status": "active"
+    },
+    {
+      "name": "猿人怪物",
+      "age": "未知",
+      "role": "幸存者/怪物",
+      "description": "浑身长满黑毛，手持滴血腿骨，未完全进化。",
+      "status": "departed"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "幻觉/逝者",
+      "description": "黑色风衣，凌乱短发，面目模糊（幻觉状态），实为记忆在李疯狂眼中的投射。",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "猿人怪物",
+      "reason": "因恐惧逃离"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "market_intimidation",
+      "description": "李疯狂以“验货员”般的威压气场吓退试图抢劫的猿人怪物。",
+      "time": "09:30"
+    },
+    {
+      "id": "eating_monday_residue",
+      "description": "李疯狂食用“时间残渣（星期一）”，体验到了人类对周一的怨念与痛苦。",
+      "time": "09:30"
+    },
+    {
+      "id": "gaining_time_analysis",
+      "description": "李疯狂成功消化时间残渣，获得临时序列前置能力【时间解析（残缺版）】。",
+      "time": "09:30"
+    },
+    {
+      "id": "hallucination_incident",
+      "description": "李疯狂在集市尽头产生苏浅食心的幻觉，刺伤大腿后清醒，发现实为一具企鹅尸体。",
+      "time": "09:30"
+    }
+  ],
+  "time_period": "最后的星期日（安息日）上午 09:30",
+  "locations": [
+    "南极冰原",
+    "周日集市",
+    "补天计划指挥部旧址"
+  ],
+  "key_facts": [
+    {
+      "id": "mc_identity",
+      "content": "李疯狂的身份为“副主厨”。"
+    },
+    {
+      "id": "mc_phiological_state",
+      "content": "李疯狂已更新为“Human_v2.0”，饥饿感源于灵魂，普通食物无效，需食用带有“概念”属性的东西。"
+    },
+    {
+      "id": "suqian_status",
+      "content": "苏浅已逝，化为数据流融入了李疯狂的左眼和骨叉中。"
+    },
+    {
+      "id": "world_environment",
+      "content": "世界正处于被“消化”的状态，天空呈紫红色，光源来自蠕动的肠胃状大气层；周一到周六的时间已被吞噬，凝结成剧毒的“时间残渣”。"
+    },
+    {
+      "id": "currency",
+      "content": "集市中的硬通货是类似鳞片的“肯德基兑换券”。"
+    },
+    {
+      "id": "weapon_detail",
+      "content": "李疯狂的武器是一把骨叉，由【李小鱼的肋骨】变形而成，刻有铭文“致最挑剔的食客”。"
+    },
+    {
+      "id": "enemy_info",
+      "content": "敌方阵营有“主厨”（Chef）这一角色，位于“中央厨房”。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

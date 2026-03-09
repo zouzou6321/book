@@ -1,0 +1,105 @@
+{
+  "characters_present": [
+    {
+      "name": "萧严",
+      "age": "未知",
+      "role": "演员/前世为定北侯",
+      "description": "眼神锐利，气场沉稳强大，面对封杀毫不畏惧",
+      "status": "active"
+    },
+    {
+      "name": "王胖子",
+      "age": "未知",
+      "role": "萧严的经纪人/助理",
+      "description": "身材肥胖，胆小怕事，面对危机极度恐慌",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "林家大小姐",
+      "description": "身穿黑色居家服，脸色苍白但背脊挺直，像骄傲的黑天鹅",
+      "status": "active"
+    },
+    {
+      "name": "林震天",
+      "age": "年过半百",
+      "role": "林清雪的父亲",
+      "description": "严厉，将家族利益置于女儿幸福之上",
+      "status": "active"
+    },
+    {
+      "name": "林震海",
+      "age": "年过半百",
+      "role": "林家实际掌权者(二叔)",
+      "description": "傲慢，视人为资产，代表家族利益进行施压",
+      "status": "active"
+    },
+    {
+      "name": "赵宏",
+      "age": "未知",
+      "role": "资本大鳄/赵氏代表",
+      "description": "拥有优越感，手段狠辣，利用资本权力封杀他人",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "林震天",
+    "林震海"
+  ],
+  "character_exits": [
+    {
+      "name": "萧严",
+      "reason": "离开出租屋去借钱"
+    },
+    {
+      "name": "林震海",
+      "reason": "谈判结束离开房间"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "xiao_yan_blacklisted",
+      "description": "赵宏动用资本力量对萧严进行全面封杀，半小时内所有代言、综艺和电影角色被取消",
+      "time": "次日清晨"
+    },
+    {
+      "id": "lin_family_ultimatum",
+      "description": "林震天和林震海逼迫林清雪公开澄清绯闻并于三天后的慈善晚宴上戴上赵家订婚戒指",
+      "time": "上午"
+    },
+    {
+      "id": "agency_termination",
+      "description": "星耀经纪公司发函单方面解约萧严，并以严重违规为由索赔高额违约金",
+      "time": "下午"
+    },
+    {
+      "id": "xiao_yan_resolve",
+      "description": "萧严撕毁解约函，决定不再做被摆布的演员，而是借钱去夺取资本权力，成为制定规则的人",
+      "time": "下午"
+    }
+  ],
+  "time_period": "《大梁谍影》杀青宴后，次日清晨至午后",
+  "locations": [
+    "萧严的出租屋",
+    "城市另一端的林家豪宅"
+  ],
+  "key_facts": [
+    {
+      "id": "past_identity_revealed",
+      "content": "萧严的前世是手握重兵的定北侯，因被皇帝视为不可控风险而被毒酒赐死"
+    },
+    {
+      "id": "capital_power",
+      "content": "在本章世界观中，资本拥有类似古代皇权的生杀大权，能轻易封杀艺人"
+    },
+    {
+      "id": "lin_family_pressure",
+      "content": "林氏集团面临做空危机，急需赵氏全额担保下季度融资，因此牺牲林清雪的婚姻"
+    },
+    {
+      "id": "xiao_yan_transformation",
+      "content": "萧严觉醒了利用前世权谋手段在现代资本社会夺权的意识，决定从演员转变为掌控者"
+    }
+  ]
+}

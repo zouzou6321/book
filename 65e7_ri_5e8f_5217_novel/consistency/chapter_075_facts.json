@@ -1,0 +1,103 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/领袖",
+      "description": "左眼有幽蓝色光芒，使用能力后指尖呈现青紫色，手部有血泡",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "同伴",
+      "description": "左臂有金色晶体纹路，脸色苍白，戴着骨戒",
+      "status": "active"
+    },
+    {
+      "name": "老狼",
+      "age": "未知",
+      "role": "幸存船员",
+      "description": "未描述具体外貌",
+      "status": "active"
+    },
+    {
+      "name": "肉瘤AI车长",
+      "age": "未知",
+      "role": "方舟管理者",
+      "description": "已变为一滩散发恶臭的黑色淤泥",
+      "status": "deceased"
+    },
+    {
+      "name": "章鱼头怪物",
+      "age": "未知",
+      "role": "食客/敌人首领",
+      "description": "穿着破烂西装，脑袋是一颗巨大章鱼，骑着由尸体拼成的摩托车",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "章鱼头怪物",
+    "食客怪物大军"
+  ],
+  "character_exits": [
+    {
+      "name": "肉瘤AI车长",
+      "reason": "死亡/消解（变成黑色淤泥）"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "li_crazy_poison_attack",
+      "description": "李疯狂发动能力【篡改 · 定义修正：李疯狂 → 剧毒氰化钾】，自身化为剧毒概念，导致抓住方舟的高维巨手产生排斥反应并松开。",
+      "time": "第三个沦陷周 · 星期日黄昏"
+    },
+    {
+      "id": "ark_rejected_by_god",
+      "description": "高维生物因中毒呕吐，将诺亚方舟作为排泄物/呕吐物弹回地面/荒原。",
+      "time": "第三个沦陷周 · 星期日黄昏"
+    },
+    {
+      "id": "li_crazy_takeover",
+      "description": "李疯狂揭露方舟实为送餐车，人类是食材，随后宣布接管方舟，号召众人反抗（掀桌子）。",
+      "time": "苏浅恢复后"
+    },
+    {
+      "id": "bone_ring_presentation",
+      "description": "李疯狂用怪物的骨头打磨了一枚戒指交给苏浅，嘱咐如果自己彻底变成怪物，就用这枚戒指打碎他的头。",
+      "time": "几小时后"
+    },
+    {
+      "id": "enemy_siege_begins",
+      "description": "以章鱼头怪物为首的食客大军逼近并开始攻击围城，围城之夜正式开始。",
+      "time": "几小时后的暗红色天色时刻"
+    }
+  ],
+  "time_period": "第三个沦陷周 · 星期日黄昏",
+  "locations": [
+    "诺亚方舟01号",
+    "舰桥",
+    "外部甲板",
+    "荒原",
+    "高空（被弹射过程中）"
+  ],
+  "key_facts": [
+    {
+      "id": "ark_identity_reveal",
+      "content": "诺亚方舟实际上不是逃难船，而是一辆运送人类给高维生命（主厨）进食的‘送餐车’。"
+    },
+    {
+      "id": "su_qian_arm_status",
+      "content": "苏浅左臂原本蔓延至脖颈的黑色侵蚀纹路，因方舟被‘退货’而消退，变回了金色的晶体纹路。"
+    },
+    {
+      "id": "bone_ring_properties",
+      "content": "李疯狂制作的骨戒硬度能勉强扛住一次他的‘篡改’能力，是物理上阻止失控李疯狂的唯一手段。"
+    },
+    {
+      "id": "enemy_motivation",
+      "content": "方舟被视为‘有毒’或‘变质’的食物而被‘拒食者’（食客）大军围攻。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

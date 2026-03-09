@@ -1,0 +1,96 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "记录者/程序员",
+      "description": "胃部异化为“真理之胃”的黑色漩涡，持有银质餐刀，具备解析视界",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "收容局调查员",
+      "description": "戴战术护目镜，声音沙哑，性格冷硬，持枪",
+      "status": "active"
+    },
+    {
+      "name": "保安/看守",
+      "age": "未知",
+      "role": "低级变异看守",
+      "description": "左半边脖子长有肉瘤，手持狼牙棒，眼珠浑浊",
+      "status": "active"
+    },
+    {
+      "name": "乞丐/布道者",
+      "age": "未知",
+      "role": "星期四教派·低阶布道者（伪）",
+      "description": "衣衫褴褛，枯槁如柴，能控制影子，念叨“V我50”",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "李疯狂",
+    "苏浅",
+    "李小鱼"
+  ],
+  "character_exits": [
+    {
+      "name": "乞丐/布道者及其同伴",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "arrival_checkstation",
+      "description": "李疯狂与苏浅到达第4区入口检查站，遭遇“星期一预告”认知毒素。",
+      "time": "周日 10:00"
+    },
+    {
+      "id": "shadow_detected",
+      "description": "李疯狂通过【记录者】视界发现教派信徒的影子正在啃食他人影子。",
+      "time": "周日 10:00"
+    },
+    {
+      "id": "shadow_severed",
+      "description": "李疯狂利用几何逻辑断点，用银质餐刀切断影子的投射连接，消灭了高危逻辑污染源。",
+      "time": "周日 10:00"
+    },
+    {
+      "id": "entering_district_4",
+      "description": "苏浅射杀剩余信徒，李疯狂威慑变异保安，二人进入第4区。",
+      "time": "周日 10:00"
+    }
+  ],
+  "time_period": "第一周期·周日 10:00",
+  "locations": [
+    "城市边缘·第4区入口检查站"
+  ],
+  "key_facts": [
+    {
+      "id": "li_stomach_mutation",
+      "content": "李疯狂的胃部已异化为“真理之胃”，是一个黑色漩涡，能对高维分子和逻辑残渣产生反应。"
+    },
+    {
+      "id": "li_recorder_vision",
+      "content": "李疯狂拥有“记录者”能力，可以看到事物的数据标签、属性及逻辑断点（解析视界）。"
+    },
+    {
+      "id": "shadow_cutting_logic",
+      "content": "在该世界观下，影子存在与本体连接的二维坐标，通过物理手段切断投影（影子）“脖子”可导致实体崩塌。"
+    },
+    {
+      "id": "sunday_preheat_mechanic",
+      "content": "周日至周三是“疯狂周期”的预热期（星期四是主菜），空气中充满认知毒素“星期一预告”，增强感官敏感度。"
+    },
+    {
+      "id": "susan_affiliation",
+      "content": "苏浅隶属于“收容局”，持有盾形徽章证件，负责处理此类异常事件。"
+    },
+    {
+      "id": "lixiaoyu_signal",
+      "content": "第4区内存在与“李小鱼”同源的微弱信号以及大量被修饰过的逻辑痕迹。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

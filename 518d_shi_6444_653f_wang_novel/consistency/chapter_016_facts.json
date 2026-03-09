@@ -1,0 +1,75 @@
+{
+  "characters_present": [
+    {
+      "name": "萧严",
+      "age": "",
+      "role": "演员/定北侯(前世)",
+      "description": "英俊，此刻面容冷漠、内心痛苦，双眼赤红，身穿黑色冲锋衣",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "当红影后",
+      "description": "脸色惨白，满眼泪水，神情绝望与心碎",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "林清雪",
+      "reason": "因被迫和被萧严言语赶走而离开"
+    },
+    {
+      "name": "萧严",
+      "reason": "走进雨夜"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "ultimatum_call",
+      "description": "林父打来电话，传达赵宏的最后通牒：若林清雪不回来签字并断绝与萧严的关系，林氏集团将破产，住院的奶奶也会受牵连。",
+      "time": "2024年深秋夜晚"
+    },
+    {
+      "id": "fake_breakup",
+      "description": "萧严为了保护林清雪不被赵宏继续当成人质威胁，故意扮演负心汉，将回锅肉倒掉，用言语羞辱林清雪并赶她离开。",
+      "time": "2024年深秋夜晚"
+    },
+    {
+      "id": "qingxue_departure",
+      "description": "林清雪崩溃大哭，骂萧严混蛋后冲出出租屋。",
+      "time": "2024年深秋夜晚"
+    },
+    {
+      "id": "revenge_mode_activate",
+      "description": "萧严在林清雪走后展现出极大痛苦，删除所有与林清雪的联系，决定不再受牵制，准备向赵宏复仇。",
+      "time": "2024年深秋夜晚"
+    },
+    {
+      "id": "rain_night_incident",
+      "description": "萧严披上黑色冲锋衣走进雨夜，并在街道上遭遇失控的货车。",
+      "time": "2024年深秋夜晚"
+    }
+  ],
+  "time_period": "2024年深秋，夜晚",
+  "locations": [
+    "萧严的出租屋",
+    "雨夜街道"
+  ],
+  "key_facts": [
+    {
+      "id": "breakup_strategy",
+      "content": "萧严与林清雪的决裂是萧严为了保护林清雪不被赵宏针对而故意演的一出戏（弃车保帅），目的是让赵宏轻视自己，从而放过林清雪。"
+    },
+    {
+      "id": "script_info",
+      "content": "萧严打算饰演剧本《暗夜行者》中的角色“陈默”，该角色是一个哑巴杀手。"
+    },
+    {
+      "id": "family_threat",
+      "content": "林清雪的奶奶目前正在住院，被赵宏拿来作为威胁林清雪的筹码。"
+    }
+  ]
+}

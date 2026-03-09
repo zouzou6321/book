@@ -1,0 +1,82 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "二十六岁",
+      "role": "前高熵有序者/普通程序员",
+      "description": "黑发有些凌乱，眼底挂着淡淡的青黑，身穿印有“V我50”字样的白色T恤，散发着颓废的社畜感，瞳孔深处偶尔闪过数据流光。",
+      "status": "active"
+    },
+    {
+      "name": "服务员",
+      "age": "年轻",
+      "role": "肯德基服务员",
+      "description": "年轻女性，带着职业化微笑，脸庞模糊，具有“路人NPC”既视感。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "二十五岁左右",
+      "role": "路人/李疯狂的旧识",
+      "description": "身穿米色风衣，长发随意扎在脑后，手持豆浆，步伐轻盈有韵律，侧脸有柔和金边。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "first_breakfast_new_world",
+      "description": "李疯狂在逻辑重构后的第一个清晨于肯德基享用早餐，感受新世界的平庸与美好。",
+      "time": "08:30"
+    },
+    {
+      "id": "thursday_meme_transfer",
+      "description": "李疯狂收到“V我50”的微信消息，意识到这是普通的梗而非旧日世界的漏洞，大笑并转账50元。",
+      "time": "08:30"
+    },
+    {
+      "id": "reunion_encounter",
+      "description": "李疯狂透过落地窗发现苏浅，感受到强烈的违和感与熟悉感，随后冲出餐厅在斑马线旁追上她。",
+      "time": "清晨"
+    }
+  ],
+  "time_period": "逻辑重构后的第一个清晨，08:30",
+  "locations": [
+    "第7号街区",
+    "肯德基门店",
+    "街道",
+    "斑马线"
+  ],
+  "key_facts": [
+    {
+      "id": "world_reconstructed",
+      "content": "世界已经历逻辑重构，旧日的怪物和疯狂已消失，变成了一个庸俗、无聊但安全的日常世界。"
+    },
+    {
+      "id": "meme_meaning_changed",
+      "content": "“疯狂星期四”和“V我50”从撕裂现实的咒语变成了普通的营销段子或笑话。"
+    },
+    {
+      "id": "li_crazy_memory",
+      "content": "李疯狂保留了潜意识中关于旧世界的经历和作为半神的“出厂设置”，但选择以普通人的身份生活。"
+    },
+    {
+      "id": "suqian_subconscious",
+      "content": "苏浅在重构后的世界里失去了关于过去的显性记忆，但潜意识里仍保留了与李疯狂的情感链接和熟悉感。"
+    },
+    {
+      "id": "story_conclusion",
+      "content": "本章节为全书结尾，李疯狂与苏浅在新的现实中重新建立联系。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "男主角",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

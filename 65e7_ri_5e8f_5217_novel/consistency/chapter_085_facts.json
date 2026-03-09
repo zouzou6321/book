@@ -1,0 +1,98 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角/食客",
+      "description": "身穿破旧T恤，皮肤已金属化，左眼为死机灰白色的倒“V”符号（后爆发猩红光芒），面部浮现黑色裂纹。持有骨勺。",
+      "status": "active"
+    },
+    {
+      "name": "布偶苏浅",
+      "age": "",
+      "role": "餐具/食材/观察者",
+      "description": "破烂风衣布偶，心脏为“打火机”，一只眼睛呈餐叉形状。在高维空间中表现为水晶花瓶中的白色山茶花，花蕊中长着人类眼睛。",
+      "status": "active"
+    },
+    {
+      "name": "阿强",
+      "age": "",
+      "role": "随从/垃圾桶",
+      "description": "黑色橡胶桶身，垃圾桶盖脑袋，画满涂鸦（被雨冲花）。",
+      "status": "active"
+    },
+    {
+      "name": "旧日支配者",
+      "age": "",
+      "role": "食客",
+      "description": "不可名状的巨大影子，形态包括沸腾的沥青、眼睛组成的龙卷风、膨胀收缩的肉瘤等。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "red_rain_fall",
+      "description": "天空裂开，降下暗红色的雨水（显示为主厨的唾液），具有强制消化效用。",
+      "time": "周六（沦陷前奏）"
+    },
+    {
+      "id": "system_override_chaos",
+      "description": "李疯狂San值归零，理智模块离线，手动启动“疯狂”作为替代操作系统。",
+      "time": "周六（沦陷前奏）"
+    },
+    {
+      "id": "path_definition_ascension",
+      "description": "李疯狂使用骨勺发动“定义修正：我即是‘路径’”，将雨水化为地毯，沿天空裂隙上升。",
+      "time": "周六（沦陷前奏）"
+    },
+    {
+      "id": "entry_infinite_restaurant",
+      "description": "李狂进入高维“无限餐厅”，在Table 404入座，目睹地球作为食材被放置在餐桌中央。",
+      "time": "周六（沦陷前奏）"
+    },
+    {
+      "id": "crazy_negative_review",
+      "description": "李疯狂对着花蕊中的眼睛（主厨），用半截香蕉和餐刀做出无礼举动，要求“退菜”并给出差评，导致餐厅裂开。",
+      "time": "周六（沦陷前奏）"
+    }
+  ],
+  "time_period": "周六（沦陷前奏）",
+  "locations": [
+    "城西游乐园废墟",
+    "现实与概念的裂隙",
+    "无限餐厅"
+  ],
+  "key_facts": [
+    {
+      "id": "rain_composition",
+      "content": "暗红色雨水解析为“主厨的唾液（稀释版）”，数据溢出，具有强制消化效用。"
+    },
+    {
+      "id": "crazy_eye_state",
+      "content": "李疯狂左眼为死机灰白色的倒“V”符号，在“疯狂”启动并爆发时会裂开释放猩红光芒。"
+    },
+    {
+      "id": "weapon_bone_spoon",
+      "content": "李疯狂持有由李小鱼肋骨制成的骨勺，可用于发动定义类篡改能力。"
+    },
+    {
+      "id": "earth_status",
+      "content": "地球被放置在无限餐厅的长桌中央，如同方糖或待检查的葡萄，正被触手拨弄。"
+    },
+    {
+      "id": "suqian_high_dim_form",
+      "content": "苏浅在高维空间对应物为水晶花瓶中的白色山茶花，花蕊中长着一只悲伤的人类眼睛（疑似被主厨占据或观测）。"
+    },
+    {
+      "id": "table_404_identity",
+      "content": "李疯狂在无限餐厅的桌号是Table 404，餐巾上的称呼为“Guest: Li Crazy (The Bone)”。"
+    },
+    {
+      "id": "aqiang_paint",
+      "content": "阿强头部的涂鸦会被含有“主厨唾液”的红雨冲刷掉。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

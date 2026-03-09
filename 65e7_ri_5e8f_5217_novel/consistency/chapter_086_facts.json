@@ -1,0 +1,97 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/篡改者",
+      "description": "皮肤呈高密度金属材质，左眼有猩红色倒“V”字裂痕，发间有一朵雏菊（苏浅的眼睛）",
+      "status": "active"
+    },
+    {
+      "name": "镜之虚空",
+      "age": "未知",
+      "role": "旧日支配者·镜之虚空（投影）",
+      "description": "脸像镜子映照着毁灭世界，身体如融化的蜡油，触手末端是一张喋喋不休的人嘴",
+      "status": "departed"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "观察者/李疯狂的羁绊",
+      "description": "实体为发间的一朵雏菊（眼睛）；幻象为身穿战术风衣、左臂有黑色晶体纹路的苍白少女",
+      "status": "active"
+    },
+    {
+      "name": "星期四使徒",
+      "age": "未知",
+      "role": "李疯狂的影子/食欲本体",
+      "description": "由无数乱码和触手组成的巨大怪物，从李疯狂的影子中剥离站立",
+      "status": "active"
+    },
+    {
+      "name": "旧日支配者议会/食客",
+      "age": "未知",
+      "role": "餐厅的统治者",
+      "description": "包括呕吐星球的巨人、眼球议会等，由星云、触手和恶意构成的聚合体",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "镜之虚空",
+    "星期四使徒"
+  ],
+  "character_exits": [
+    {
+      "name": "镜之虚空",
+      "reason": "因“疯狂星期四”模因病毒感染而崩解降维"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "middle_finger_pause",
+      "description": "李疯狂竖起中指打断了餐厅的数据流，导致维度卡顿",
+      "time": "疯狂日/无尽宴席进行时"
+    },
+    {
+      "id": "kfc_coupon_attack",
+      "description": "李疯狂出示“肯德基疯狂星期四优惠券”作为契约文书，使镜之虚空感染“V我50”模因病毒并崩溃",
+      "time": "疯狂日/无尽宴席进行时"
+    },
+    {
+      "id": "su_qian_vision",
+      "description": "镜子破碎时李疯狂看到苏浅的幻象，并在桌上发现留下的神秘画作纸条",
+      "time": "疯狂日/无尽宴席进行时"
+    },
+    {
+      "id": "fork_claimed",
+      "description": "李疯狂将“副主厨”位置的银叉插在桌上，宣示按自己的规矩用餐",
+      "time": "疯狂日/无尽宴席进行时"
+    },
+    {
+      "id": "concept_swap",
+      "description": "李疯狂发动【篡改 · 概念覆写】，互换食客与餐具身份，导致餐厅逻辑死锁和崩溃",
+      "time": "疯狂日/无尽宴席进行时"
+    }
+  ],
+  "time_period": "疯狂日（概念上的周二）/ 无尽宴席进行时",
+  "locations": [
+    "旧日支配者的餐厅",
+    "扭曲的豪宅",
+    "高维数据重叠区"
+  ],
+  "key_facts": [
+    {
+      "id": "su_qian_eye_form",
+      "content": "苏浅目前化身为雏菊（眼睛）存在于李疯狂的头发上"
+    },
+    {
+      "id": "kfc_meme_effect",
+      "content": "“疯狂星期四”相关概念（如优惠券、V我50）能作为高维模因病毒对旧日支配者造成逻辑污染"
+    },
+    {
+      "id": "stick_figure_note",
+      "content": "李疯狂获得一张画着心脏开花的火柴人被怪物吞食的纸条，暗示某种共生或情感联系"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

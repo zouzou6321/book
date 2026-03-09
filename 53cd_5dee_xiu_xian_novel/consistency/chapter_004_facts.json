@@ -1,0 +1,90 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "外门杂役/穿越者",
+      "description": "身穿麻袋破布，头发蓬乱，眼神深邃（因饿或吃药），被误认为是绝世高人",
+      "status": "active"
+    },
+    {
+      "name": "孙无极",
+      "age": "老年",
+      "role": "太玄宗外门执事长老",
+      "description": "须发皆白，手持拂尘，面容红润，炼气九层圆满修为",
+      "status": "active"
+    },
+    {
+      "name": "神秘画师",
+      "age": "未知",
+      "role": "外门画师",
+      "description": "身穿灰色破布衫，手持画笔，负责记录传播江越的事迹",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "孙无极"
+  ],
+  "character_exits": [
+    {
+      "name": "江越",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "elders_visit",
+      "description": "外门执事长老孙无极携带珍藏版《太玄引气诀》前来向江越求教。",
+      "time": "巳时"
+    },
+    {
+      "id": "book_as_cushion",
+      "description": "江越为了完成系统反向任务，将珍贵的功法秘籍垫在屁股底下当坐垫。",
+      "time": "巳时"
+    },
+    {
+      "id": "fake_philosophy",
+      "description": "江越利用初中物理知识（磁场等）编造修仙理论，忽悠孙无极和众弟子，贬低文字功法。",
+      "time": "巳时"
+    },
+    {
+      "id": "pill_reward",
+      "description": "系统判定任务完成，奖励固本培元丹，江越服下后经脉紊乱缓解，脸色红润。",
+      "time": "巳时"
+    },
+    {
+      "id": "reject_room_offer",
+      "description": "江越拒绝孙无极赠送的天字号静室入住权，坚持留在杂役院以维持高人人设。",
+      "time": "巳时"
+    },
+    {
+      "id": "pig_sty_cultivation",
+      "description": "江越的言论导致外门弟子纷纷去猪圈等脏乱环境打坐，试图模仿“红尘炼心”。",
+      "time": "随后几天"
+    }
+  ],
+  "time_period": "穿越第四天，巳时（09:00 - 11:00）",
+  "locations": [
+    "太玄宗外门藏经阁外围广场",
+    "小巷",
+    "杂役院"
+  ],
+  "key_facts": [
+    {
+      "id": "jiangyue_condition",
+      "content": "江越真实修为为炼气一层（极不稳定），灵气紊乱度曾达85%，服用固本培元丹后身体稳定。"
+    },
+    {
+      "id": "sun_wuji_status",
+      "content": "孙无极是炼气九层圆满（半步筑基），深信江越是高人，并将江越坐过的书视为带有悟道痕迹的圣物。"
+    },
+    {
+      "id": "misunderstanding_truth",
+      "content": "外界认为江越是“以身试毒”、“不修之修”的高人，实则是被系统逼迫装逼。"
+    },
+    {
+      "id": "cultivation_trend",
+      "content": "太玄宗外门弟子受江越影响，开始认为“纸上的字是死的，心中的道才是活的”，流行去猪圈等地打坐。"
+    }
+  ]
+}

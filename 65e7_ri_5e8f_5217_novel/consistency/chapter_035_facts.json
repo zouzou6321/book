@@ -1,0 +1,94 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角/篡改者",
+      "description": "战斗中覆盖黑色角质层皮肤，手持数据流具象化巨型餐刀，拥有钛合金牙齿；结局时左眼瞳孔深处有倒立的鲜红色V字符号，身体恢复人类皮肤但左眼有异样",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "特工/同伴",
+      "description": "左臂原本完全晶体化且蔓延电路板纹路，结局时晶体化消退恢复白皙皮肤但残留青色纹路，左眼曾短暂失去焦距",
+      "status": "active"
+    },
+    {
+      "name": "星期四账单核心",
+      "age": "",
+      "role": "敌方BOSS/城市胃袋主厨",
+      "description": "直径超过五百米的跳动心脏，表面由无数人脸拼凑而成，布满二维码和代码，不断发出'V我50'的声音",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "星期四账单核心",
+      "reason": "被李疯狂吃掉/逻辑抹杀"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "battle_thursday_core",
+      "description": "李疯狂与'星期四账单核心'对峙，利用【真理之胃】吞噬黑色票据攻击，苏浅使用激光枪提供火力支援",
+      "time": "周六黎明前"
+    },
+    {
+      "id": "logic_overwrite",
+      "description": "李疯狂使用写有'V你50'的纸条配合【无理之面】赋予核心'霸王餐条款'，随后用数据餐刀刺杀并吞噬核心",
+      "time": "周六黎明前"
+    },
+    {
+      "id": "world_collapse",
+      "description": "城市胃袋（电视塔底层）因核心被毁而崩塌，李疯狂与苏浅坠落至老城区废墟",
+      "time": "周六清晨"
+    },
+    {
+      "id": "sequence_promotion",
+      "description": "系统提示李疯狂序列由【记录者】进阶为【篡改者】，解锁能力【属性描述篡改】",
+      "time": "周六清晨"
+    }
+  ],
+  "time_period": "周六黎明前至周六清晨",
+  "locations": [
+    "电视塔底层·城市胃袋（巨型油炸祭坛）",
+    "城市的一处老城区废墟"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_sequence",
+      "content": "李疯狂序列晋升为【篡改者】"
+    },
+    {
+      "id": "li_crazy_new_ability",
+      "content": "李疯狂解锁新能力【属性描述篡改】，需消耗精神力与因果点使用"
+    },
+    {
+      "id": "li_crazy_eye_condition",
+      "content": "李疯狂左眼带有倒立的鲜红色V字符号印记，副作用是视力下降50%且能看到人头顶的'折扣价'"
+    },
+    {
+      "id": "slip_hidden_meaning",
+      "content": "李疯狂持有的贴在脑门上的纸条被解读为可能包含'我也想救你'的含义"
+    },
+    {
+      "id": "suqian_arm_status",
+      "content": "苏浅左臂的晶体化症状消退，但留下了青色纹路"
+    },
+    {
+      "id": "tv_tower_destroyed",
+      "content": "原本矗立电视塔的地方变成了深坑"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "李狂疯"
+      ]
+    }
+  ]
+}

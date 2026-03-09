@@ -1,0 +1,84 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "未知",
+      "role": "神机营统领/官员",
+      "description": "骑着一匹瘦骨嶙峋的黑马，脸色苍白，服药后浮现病态红晕",
+      "status": "active"
+    },
+    {
+      "name": "青儿",
+      "age": "20",
+      "role": "护卫/神机营成员",
+      "description": "身披暗铁色山文甲，腰挂雁翎刀，左脸颊有一道浅浅的刀疤，眼神冷若冰霜",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "taking_medicine",
+      "description": "陈默服用含朱砂、铅粉和硫磺的丹药压制体内狂暴的长生气息。",
+      "time": "崇祯十三年春末"
+    },
+    {
+      "id": "refugee_encounter",
+      "description": "陈默率领神机营在潼关以西遭遇数万流民，流民因饥饿冲击官军抢粮。",
+      "time": "崇祯十三年春末"
+    },
+    {
+      "id": "massacre",
+      "description": "神机营使用燧发枪进行三轮'三段击'，屠杀约八百名流民，余众溃散。",
+      "time": "崇祯十三年春末"
+    },
+    {
+      "id": "inspection_vomiting",
+      "description": "陈默检查流民尸体发现泥土、树皮及人骨残渣等物，因震惊和恶心呕吐。",
+      "time": "崇祯十三年春末"
+    },
+    {
+      "id": "imperial_rejection",
+      "description": "王承恩传来崇祯皇帝的回复，内容仅有'没钱'二字，拒绝拨款赈灾。",
+      "time": "崇祯十三年春末夜"
+    },
+    {
+      "id": "strategic_pivot",
+      "description": "陈默下令神机营停止出击，决定等待混乱蔓延迫使朝廷掏钱迁都南京。",
+      "time": "崇祯十三年春末夜"
+    }
+  ],
+  "time_period": "崇祯十三年（1640年）春末",
+  "locations": [
+    "陕西",
+    "潼关以西荒原"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_mo_condition",
+      "content": "陈默是长生者，体内有狂暴的再生力量，需服用剧毒丹药压制。"
+    },
+    {
+      "id": "qing'er_background",
+      "content": "青儿今年二十岁，曾是乱葬岗的野女孩，左脸疤痕是去年截杀西班牙间谍时留下的。"
+    },
+    {
+      "id": "shenjiying_details",
+      "content": "陈默的底牌'神机营'有三百人，装备'神机一式'燧发枪、棉甲，采用'三段击'战术。"
+    },
+    {
+      "id": "refugee_cannibalism",
+      "content": "陕西流民极度饥饿，不仅啃食树皮黄土，甚至出现人相食的惨状。"
+    },
+    {
+      "id": "court_finances",
+      "content": "崇祯皇帝极度缺钱，面对陕西'人相食'的灾情和剿寇请求，拿不出任何赈灾银两。"
+    },
+    {
+      "id": "hidden_agenda",
+      "content": "陈默打算利用陕西百万人的尸体铺路，逼迫朝堂衮衮诸公同意迁都南京。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

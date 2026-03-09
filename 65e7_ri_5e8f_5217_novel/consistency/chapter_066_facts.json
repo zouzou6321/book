@@ -1,0 +1,104 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "导航员",
+      "description": "身穿黑色风衣，左眼瞳孔死寂灰白色带倒V符号，手背蔓延黑色鳞片状纹理至手肘",
+      "status": "active"
+    },
+    {
+      "name": "半机械驾驶员",
+      "age": "未知",
+      "role": "驾驶员",
+      "description": "半机械躯体，后脑插无数管线，双眼为破碎的玻璃眼球",
+      "status": "active"
+    },
+    {
+      "name": "特工们",
+      "age": "未知",
+      "role": "向导序列特工",
+      "description": "戴防毒面具，神情恐惧",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "同伴/幸存者",
+      "description": "声音虚弱疲惫，位于医疗区",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "ark_stop_refuel",
+      "description": "诺亚方舟01号因能量耗尽停在‘消化不良废墟’（垃圾山）前",
+      "time": "星期三上午"
+    },
+    {
+      "id": "eating_stone",
+      "description": "李疯狂鉴定并吞下‘悔恨矿石’以补充能量",
+      "time": "星期三上午"
+    },
+    {
+      "id": "discovering_marker",
+      "description": "李疯狂发现未来的自己（李疯子）留下的刻字骨牌标记",
+      "time": "星期三上午"
+    },
+    {
+      "id": "mirror_communication",
+      "description": "李疯狂通过通讯器联系苏浅，苏浅透露镜中出现了陌生的高贵冷血女人，并表示不认识她",
+      "time": "星期三上午"
+    },
+    {
+      "id": "monster_awakening",
+      "description": "垃圾山（被描述为巨大胃囊）苏醒，喷发高温腐蚀气体，并显露巨大眼球",
+      "time": "星期三上午"
+    },
+    {
+      "id": "counterattack_start",
+      "description": "李疯狂发动【篡改 · 协议层强制覆盖：自助餐开始】，准备吞噬垃圾山",
+      "time": "星期三上午"
+    }
+  ],
+  "time_period": "疯狂日 · 星期三上午",
+  "locations": [
+    "诺亚方舟01号",
+    "动力甲板",
+    "“消化不良废墟”（垃圾山）",
+    "第7车厢医疗区"
+  ],
+  "key_facts": [
+    {
+      "id": "fuel_mechanism",
+      "content": "诺亚方舟的动力来源是‘信仰’或‘执念’"
+    },
+    {
+      "id": "ruins_composition",
+      "content": "“消化不良废墟”由世界规则消化失败的残渣组成，包括精神废料、时间轴碎屑、概念残渣等"
+    },
+    {
+      "id": "regret_stone_effect",
+      "content": "“悔恨矿石”味道像过期奥利奥，食用后可能产生想找老板辞职的冲动"
+    },
+    {
+      "id": "li_crazy_mutation",
+      "content": "李疯狂手背的黑色鳞片已蔓延至手肘，伴随流动的黑色数据流，这是身体异化/进化的表现"
+    },
+    {
+      "id": "future_marker",
+      "content": "李疯狂发现了未来的自己留下的打卡点，刻在类似人类骨骼材质的牌子上"
+    },
+    {
+      "id": "driver_anomaly",
+      "content": "半机械驾驶员疑似被某种力量控制或附身（文末眼中浮现优雅的黑色微笑）"
+    },
+    {
+      "id": "suqian_mirror_entity",
+      "content": "苏浅在镜中倒影里看到了一个穿着高贵、冷血的女人，苏浅对此表示排斥"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,80 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "外表年轻（实际三百岁）",
+      "role": "前朝隐形国师/长生卫首领",
+      "description": "年轻毫无血色的脸，眼神如死水，盖着羊毛毯子",
+      "status": "active"
+    },
+    {
+      "name": "长生卫统领",
+      "age": "未提及",
+      "role": "长生卫新任统领",
+      "description": "身材高大，穿着藏青色棉袍，动作极轻像收敛利爪的老猫",
+      "status": "active"
+    },
+    {
+      "name": "王承恩",
+      "age": "老年",
+      "role": "司礼监秉笔太监",
+      "description": "两鬓斑白，身形消瘦，穿着陈旧的青布袍子",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "长生卫统领",
+    "王承恩"
+  ],
+  "character_exits": [
+    {
+      "name": "王承恩",
+      "reason": "求救被拒，绝望离开回宫复命"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "wang_chengens_visit",
+      "description": "王承恩深夜来到陈默府邸，送交崇祯皇帝的求救密信",
+      "time": "除夕夜"
+    },
+    {
+      "id": "chen_mo_refuses_emperor",
+      "description": "陈默阅读崇祯“先生救朕”的信后，将其扔进炭盆烧毁，拒绝出兵相助",
+      "time": "除夕夜"
+    },
+    {
+      "id": "preparation_for_departure",
+      "description": "陈默指示长生卫统领收拾书籍、图纸、刻板，并联系老夫子与匠人，准备南下",
+      "time": "除夕夜至新年钟声敲响"
+    }
+  ],
+  "time_period": "崇祯十七年（1644年）除夕夜至新年子时",
+  "locations": [
+    "北京城",
+    "陈默府邸（书房、偏厅、庭院）"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_mo_undeath",
+      "content": "陈默拥有不死之躯，依靠硫磺朱砂药丸压制体内的毒性和嗜血躁动"
+    },
+    {
+      "id": "qinger_death",
+      "content": "青儿（前长生卫统领）死于崇祯十五年的开封围城，心脏中箭，被埋在陈默府邸后院老槐树下"
+    },
+    {
+      "id": "emperors_desperation",
+      "content": "崇祯皇帝在御书房彻夜抄写《尚书》中的“危邦不入，乱邦不居”，并在信中首次松口愿意通过南迁求生"
+    },
+    {
+      "id": "strategic_abandonment",
+      "content": "陈默决定放弃神机营的火器和账册留给崇祯，认为救不了国，只带走书籍和工匠以保存文明火种"
+    },
+    {
+      "id": "spanish_threat",
+      "content": "有一个蓝眼睛的西班牙人在宫门外窥视，疑似带来了大炮或瘟疫等威胁"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

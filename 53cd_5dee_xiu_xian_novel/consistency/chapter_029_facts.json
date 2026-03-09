@@ -1,0 +1,110 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "",
+      "role": "太玄宗首席大弟子",
+      "description": "身穿流云飞鹤锦袍（后披破烂灰袍），被众人认为是绝世高人",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "太玄宗师妹",
+      "description": "美目，对大师兄极度崇拜，脑补能力强",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "",
+      "role": "太玄宗师弟",
+      "description": "两眼放光，用物理/数学术语理解修仙行为",
+      "status": "active"
+    },
+    {
+      "name": "苏软软",
+      "age": "",
+      "role": "太玄宗师妹",
+      "description": "胆小爱哭，手持灵瓜",
+      "status": "active"
+    },
+    {
+      "name": "血影宗首领",
+      "age": "",
+      "role": "血影宗余孽/敌人",
+      "description": "筑基中期，身穿血色长袍，腰挂骷髅法器",
+      "status": "departed"
+    },
+    {
+      "name": "血影宗弟子",
+      "age": "",
+      "role": "血影宗余孽/敌人",
+      "description": "筑基初期，身穿血色长袍，共三人",
+      "status": "departed"
+    },
+    {
+      "name": "散修刀疤脸",
+      "age": "",
+      "role": "散修/敌人",
+      "description": "炼气巅峰，刀疤脸，共两人",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "血影宗首领及众、散修刀疤脸",
+      "reason": "被江越扮作扫地僧并用板凳击退逃跑"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "arrival_cave",
+      "description": "江越一行人到达藏经洞遗址石门前",
+      "time": "秘境开启第三日，未时三刻"
+    },
+    {
+      "id": "enemy_ambush",
+      "description": "血影宗余孽及散修共六人出现，企图抢夺财物",
+      "time": "秘境开启第三日，未时三刻"
+    },
+    {
+      "id": "mission_trigger",
+      "description": "系统触发“反套路夺宝”任务，要求不发生武力冲突驱散敌人",
+      "time": "秘境开启第三日，未时三刻"
+    },
+    {
+      "id": "acting_intimidation",
+      "description": "江越自称“第四代扫地僧”并进行恐吓",
+      "time": "秘境开启第三日，未时三刻"
+    },
+    {
+      "id": "stool_attack",
+      "description": "江越使用系统道具“破旧板凳”击退/击晕六名敌人",
+      "time": "秘境开启第三日，未时三刻"
+    },
+    {
+      "id": "loot_acquisition",
+      "description": "江越进入藏经洞，获得《无字天书》（实为废话大全）和“定海神针”（实为夜明灯）",
+      "time": "秘境开启第三日，未时三刻"
+    }
+  ],
+  "time_period": "秘境开启第三日，未时三刻",
+  "locations": [
+    "上古秘境·藏经洞遗址"
+  ],
+  "key_facts": [
+    {
+      "id": "true_item_identity",
+      "content": "江越获得的宝物真名为“上古丹方残卷（真·废话大全）”和“灵气潮汐珠（只能当夜明灯用）”，但对外宣称是《无字天书》和“定海神针”"
+    },
+    {
+      "id": "weapon_stool",
+      "content": "江越的主力武器/道具是一张被狗啃过的破旧板凳，被门人弟子误解为蕴含规则之力的法宝“四脚蛇吞天凳”"
+    },
+    {
+      "id": "misunderstanding_peak",
+      "content": "林清雪、李二牛、苏软软坚信江越是拥有惊世修为的扫地僧/老怪，并将其滑稽、狼狈的行为（如摔倒、肌肉痉挛）解读为高深莫测的道法或燃烧神魂的反噬"
+    }
+  ]
+}

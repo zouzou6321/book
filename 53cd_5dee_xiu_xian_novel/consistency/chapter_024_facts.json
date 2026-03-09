@@ -1,0 +1,78 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "太玄宗首席大弟子",
+      "description": "身穿松垮的流云飞鹤锦袍，手持生锈菜刀，手持系统道具残页，表现高深莫测",
+      "status": "active"
+    },
+    {
+      "name": "血枯",
+      "age": "未知",
+      "role": "血影宗长老",
+      "description": "黑袍老者，手持白骨幡，金丹期修为，面色阴沉",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "白色身影，修炼体木剑术，剑意冰蓝",
+      "status": "active"
+    },
+    {
+      "name": "老张",
+      "age": "未知",
+      "role": "太玄宗外门守卫弟子",
+      "description": "盘腿坐在门槛上，淡定",
+      "status": "active"
+    },
+    {
+      "name": "啃瓜弟子",
+      "age": "未知",
+      "role": "太玄宗外门守卫弟子",
+      "description": "拿着半个灵瓜，嘴角挂着口水",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "血枯"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "blood_shadow_clan_arrival",
+      "description": "血影宗长老血枯率领黑色楼船降临太玄宗山门，释放威压踢馆",
+      "time": "穿越一个月后，午时三刻"
+    },
+    {
+      "id": "jiang_yue_confrontation",
+      "description": "江越利用系统道具'科学解释'将敌方筑基弟子的飞剑变成废铁，并以此在气势上压倒对方",
+      "time": "穿越一个月后，午时三刻"
+    },
+    {
+      "id": "lin_qingxue_rescue",
+      "description": "江越面对血枯的金丹期攻击时，林清雪及时赶到挡在身前",
+      "time": "穿越一个月后，午时三刻"
+    }
+  ],
+  "time_period": "穿越一个月后，午时三刻",
+  "locations": [
+    "太玄宗·巍峨山门"
+  ],
+  "key_facts": [
+    {
+      "id": "system_item_magic_defeat_magic",
+      "content": "系统道具《只有魔法才能打败魔法》（残页）可触发绝对防御结界'科学解释'，持续十分钟，冷却时间24小时"
+    },
+    {
+      "id": "jiang_yue_public_image",
+      "content": "太玄宗门人误以为江越是掌握'物理化学'天地至理的绝世高手，认为他将法器变废铁是'以理入道'"
+    },
+    {
+      "id": "xue_ku_identity",
+      "content": "血枯为血影宗长老，修为达到金丹期"
+    }
+  ]
+}

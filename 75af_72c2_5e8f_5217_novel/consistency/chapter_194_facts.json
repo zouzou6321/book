@@ -1,0 +1,125 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "未知",
+      "role": "逻辑篡改者/404室住户",
+      "description": "脸色苍白，黑眼圈深重",
+      "status": "active"
+    },
+    {
+      "name": "地毯小水",
+      "age": "未知",
+      "role": "宠物/地毯",
+      "description": "缩成一团不起眼的污渍状生物",
+      "status": "active"
+    },
+    {
+      "name": "裂兽刑讯官",
+      "age": "未知",
+      "role": "重型武装单位/执行者",
+      "description": "由生铁、机油和血肉缝合而成的钢铁巨兽，三米高，履带底盘，左臂热熔链锯，右臂霰弹炮，头部镶嵌红色电子眼",
+      "status": "deceased"
+    },
+    {
+      "name": "苏糖",
+      "age": "未知",
+      "role": "邻居/402室住户",
+      "description": "声音颤抖，通过墙壁对话",
+      "status": "departed"
+    },
+    {
+      "name": "智能家居们",
+      "age": "未知",
+      "role": "改造家具",
+      "description": "包括老板椅（前真理会B组首领）、落地灯（带防毒面具灯罩和脊椎骨）、电竞椅（改造自真理会杀手），具有生物组织和恐惧反应",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "裂兽刑讯官"
+  ],
+  "character_exits": [
+    {
+      "name": "裂兽刑讯官",
+      "reason": "被改造为书柜"
+    },
+    {
+      "name": "苏糖",
+      "reason": "离开回到402室"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "alert_third_stage",
+      "description": "广播发布第三阶段清理协议，目标锁定逻辑篡改者，执行者裂兽刑讯官开始破门",
+      "time": "清晨 08:00"
+    },
+    {
+      "id": "beast_entry",
+      "description": "防盗门在概念上崩碎，裂兽刑讯官进入404室并试图攻击",
+      "time": "清晨 08:00"
+    },
+    {
+      "id": "logic_swap_shoes",
+      "description": "顾长歌使用概念能力[追加修正：入场请先换鞋]，强行控制裂兽刑讯官做出劈叉动作",
+      "time": "清晨 08:00"
+    },
+    {
+      "id": "logic_protection_film",
+      "description": "顾长歌使用[定义：装修保护膜]将裂兽刑讯官的霰弹攻击化为泡沫塑料",
+      "time": "清晨 08:00"
+    },
+    {
+      "id": "transformation_bookshelf",
+      "description": "顾长歌通过追加修正将裂兽刑讯官彻底改造成具备智能分类功能的大书柜",
+      "time": "清晨 08:00"
+    },
+    {
+      "id": "neighbor_interaction",
+      "description": "邻居苏糖因听到动静敲墙询问，顾长歌谎称是宜家师傅安装新家具",
+      "time": "清晨"
+    }
+  ],
+  "time_period": "周三，清晨 08:00",
+  "locations": [
+    "幸福家园小区4号楼404室客厅",
+    "404室外走廊",
+    "402室"
+  ],
+  "key_facts": [
+    {
+      "id": "gu_balance",
+      "content": "顾长歌账户余额为297.6元"
+    },
+    {
+      "id": "bookshelf_origin",
+      "content": "404室新增的重型工业风书柜由裂兽刑讯官改造而成，具备智能分类和自动整理书籍功能"
+    },
+    {
+      "id": "404_door_status",
+      "content": "404室的防盗门再次崩碎化为乱码碎片，目前敞开"
+    },
+    {
+      "id": "smart_furniture_traits",
+      "content": "404室的家具（老板椅、地毯、落地灯、电竞椅）具有生物特征和意识，会感到恐惧"
+    },
+    {
+      "id": "su_tangent_relationship",
+      "content": "苏糖是402室邻居，对顾长歌的超自然行径不知情，容易被借口安抚"
+    },
+    {
+      "id": "window_view",
+      "content": "窗外是厚重的灰雾（草莓酱质感），楼下有吞噬眼球的眼球树"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "重型武装单位/执行者",
+      "names": [
+        "裂兽刑讯官",
+        "重型武装单位"
+      ]
+    }
+  ]
+}

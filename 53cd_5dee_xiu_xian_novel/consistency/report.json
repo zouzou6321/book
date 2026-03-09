@@ -1,0 +1,652 @@
+{
+  "ok": false,
+  "issues": [
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "江越",
+      "detail": "角色「江越」年龄不一致：chapter_001中为未知; chapter_002中为未知; chapter_003中为未知; chapter_004中为未知; chapter_010中为未知; chapter_011中为Unknown; chapter_016中为未知; chapter_017中为未知; chapter_018中为未知; chapter_019中为未知（青年）; chapter_020中为未知; chapter_022中为未知; chapter_024中为未知; chapter_025中为未知; chapter_027中为未知; chapter_030中为未知; chapter_031中为少年; chapter_032中为未知; chapter_034中为未知; chapter_035中为未知; chapter_036中为未知; chapter_038中为未知; chapter_040中为未知; chapter_042中为未知; chapter_043中为未知; chapter_044中为十八; chapter_045中为十八岁左右; chapter_047中为未知; chapter_049中为未提及",
+      "chapters": [
+        "chapter_001",
+        "chapter_002",
+        "chapter_003",
+        "chapter_004",
+        "chapter_010",
+        "chapter_011",
+        "chapter_016",
+        "chapter_017",
+        "chapter_018",
+        "chapter_019",
+        "chapter_020",
+        "chapter_022",
+        "chapter_024",
+        "chapter_025",
+        "chapter_027",
+        "chapter_030",
+        "chapter_031",
+        "chapter_032",
+        "chapter_034",
+        "chapter_035",
+        "chapter_036",
+        "chapter_038",
+        "chapter_040",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_045",
+        "chapter_047",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "王虎",
+      "detail": "角色「王虎」年龄不一致：chapter_001中为未知; chapter_010中为未知; chapter_011中为Unknown; chapter_016中为未知; chapter_017中为未知; chapter_042中为未知; chapter_043中为未知; chapter_044中为未知; chapter_045中为未知; chapter_047中为未知",
+      "chapters": [
+        "chapter_001",
+        "chapter_010",
+        "chapter_011",
+        "chapter_016",
+        "chapter_017",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_045",
+        "chapter_047"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "林清雪",
+      "detail": "角色「林清雪」年龄不一致：chapter_010中为未知; chapter_011中为Unknown; chapter_016中为未知; chapter_017中为未知; chapter_018中为未知; chapter_019中为未知; chapter_020中为未知; chapter_022中为未知; chapter_024中为未知; chapter_025中为未知; chapter_027中为未知; chapter_030中为未知; chapter_031中为未知; chapter_032中为未知; chapter_035中为未知; chapter_036中为未知; chapter_038中为未知; chapter_040中为未知; chapter_042中为未知; chapter_043中为未知; chapter_044中为未知; chapter_045中为未知; chapter_047中为未知; chapter_049中为未提及",
+      "chapters": [
+        "chapter_010",
+        "chapter_011",
+        "chapter_016",
+        "chapter_017",
+        "chapter_018",
+        "chapter_019",
+        "chapter_020",
+        "chapter_022",
+        "chapter_024",
+        "chapter_025",
+        "chapter_027",
+        "chapter_030",
+        "chapter_031",
+        "chapter_032",
+        "chapter_035",
+        "chapter_036",
+        "chapter_038",
+        "chapter_040",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_045",
+        "chapter_047",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "百晓生",
+      "detail": "角色「百晓生」年龄不一致：chapter_011中为Unknown; chapter_016中为未知; chapter_044中为未知",
+      "chapters": [
+        "chapter_011",
+        "chapter_016",
+        "chapter_044"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "执事长老",
+      "detail": "角色「执事长老」年龄不一致：chapter_011中为Unknown; chapter_016中为未知",
+      "chapters": [
+        "chapter_011",
+        "chapter_016"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "掌门",
+      "detail": "角色「掌门」年龄不一致：chapter_017中为老年; chapter_034中为老人; chapter_036中为须发皆白; chapter_038中为须发皆白",
+      "chapters": [
+        "chapter_017",
+        "chapter_034",
+        "chapter_036",
+        "chapter_038"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "黑袍老者",
+      "detail": "角色「黑袍老者」年龄不一致：chapter_018中为未知; chapter_020中为未知; chapter_022中为老者; chapter_034中为未知; chapter_044中为未知; chapter_045中为未知",
+      "chapters": [
+        "chapter_018",
+        "chapter_020",
+        "chapter_022",
+        "chapter_034",
+        "chapter_044",
+        "chapter_045"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "血枯",
+      "detail": "角色「血枯」年龄不一致：chapter_024中为未知; chapter_034中为中老年",
+      "chapters": [
+        "chapter_024",
+        "chapter_034"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "血枯长老",
+      "detail": "角色「血枯长老」年龄不一致：chapter_025中为老年; chapter_032中为未知",
+      "chapters": [
+        "chapter_025",
+        "chapter_032"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "太玄宗掌门",
+      "detail": "角色「太玄宗掌门」年龄不一致：chapter_035中为老年; chapter_043中为未知; chapter_045中为未知",
+      "chapters": [
+        "chapter_035",
+        "chapter_043",
+        "chapter_045"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "赵无极",
+      "detail": "角色「赵无极」年龄不一致：chapter_035中为未知; chapter_049中为中年",
+      "chapters": [
+        "chapter_035",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "旺财",
+      "detail": "角色「旺财」年龄不一致：chapter_038中为未知; chapter_040中为未知; chapter_049中为未提及",
+      "chapters": [
+        "chapter_038",
+        "chapter_040",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "江越",
+      "detail": "角色「江越」在chapter_002中已离开，但在chapter_003中再次活跃出场",
+      "chapters": [
+        "chapter_002",
+        "chapter_003"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "王虎",
+      "detail": "角色「王虎」在chapter_001中已被弹指神通击飞并昏厥，但在chapter_007中再次活跃出场",
+      "chapters": [
+        "chapter_001",
+        "chapter_007"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "画师",
+      "detail": "角色「画师」在chapter_032中已离开去传播情报，但在chapter_047中再次活跃出场",
+      "chapters": [
+        "chapter_032",
+        "chapter_047"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "林清雪",
+      "detail": "角色「林清雪」在chapter_010中已离去，但在chapter_011中再次活跃出场",
+      "chapters": [
+        "chapter_010",
+        "chapter_011"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "黑袍老者",
+      "detail": "角色「黑袍老者」在chapter_022中已监视结束，离去谋划，但在chapter_026中再次活跃出场",
+      "chapters": [
+        "chapter_022",
+        "chapter_026"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "血枯长老",
+      "detail": "角色「血枯长老」在chapter_025中已被姜味击溃神识，道心受损，认为是邪术而遁逃，但在chapter_032中再次活跃出场",
+      "chapters": [
+        "chapter_025",
+        "chapter_032"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "赵无极",
+      "detail": "角色「赵无极」在chapter_035中已气急攻心走火入魔，但在chapter_049中再次活跃出场",
+      "chapters": [
+        "chapter_035",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "王虎",
+      "detail": "角色「王虎」在多个章节被作为新角色引入：chapter_001, chapter_010, chapter_016",
+      "chapters": [
+        "chapter_001",
+        "chapter_010",
+        "chapter_016"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "画师",
+      "detail": "角色「画师」在多个章节被作为新角色引入：chapter_002, chapter_032",
+      "chapters": [
+        "chapter_002",
+        "chapter_032"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "赵铁",
+      "detail": "角色「赵铁」在多个章节被作为新角色引入：chapter_003, chapter_020",
+      "chapters": [
+        "chapter_003",
+        "chapter_020"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "林清雪",
+      "detail": "角色「林清雪」在多个章节被作为新角色引入：chapter_007, chapter_010, chapter_016, chapter_017, chapter_020",
+      "chapters": [
+        "chapter_007",
+        "chapter_010",
+        "chapter_016",
+        "chapter_017",
+        "chapter_020"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "百晓生",
+      "detail": "角色「百晓生」在多个章节被作为新角色引入：chapter_007, chapter_009, chapter_011, chapter_016, chapter_044",
+      "chapters": [
+        "chapter_007",
+        "chapter_009",
+        "chapter_011",
+        "chapter_016",
+        "chapter_044"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "黑袍老者",
+      "detail": "角色「黑袍老者」在多个章节被作为新角色引入：chapter_018, chapter_020, chapter_022, chapter_034, chapter_037, chapter_044, chapter_045, chapter_046",
+      "chapters": [
+        "chapter_018",
+        "chapter_020",
+        "chapter_022",
+        "chapter_034",
+        "chapter_037",
+        "chapter_044",
+        "chapter_045",
+        "chapter_046"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "李二牛",
+      "detail": "角色「李二牛」在多个章节被作为新角色引入：chapter_020, chapter_026",
+      "chapters": [
+        "chapter_020",
+        "chapter_026"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "血枯",
+      "detail": "角色「血枯」在多个章节被作为新角色引入：chapter_024, chapter_034",
+      "chapters": [
+        "chapter_024",
+        "chapter_034"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "画师（百晓生）",
+      "detail": "角色「画师（百晓生）」在多个章节被作为新角色引入：chapter_031, chapter_045",
+      "chapters": [
+        "chapter_031",
+        "chapter_045"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "赵无极",
+      "detail": "角色「赵无极」在多个章节被作为新角色引入：chapter_035, chapter_049",
+      "chapters": [
+        "chapter_035",
+        "chapter_049"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "旺财",
+      "detail": "角色「旺财」在多个章节被作为新角色引入：chapter_037, chapter_040",
+      "chapters": [
+        "chapter_037",
+        "chapter_040"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "江越",
+      "detail": "角色「江越」身份描述出现3种以上变体：chapter_001中为「外门杂役弟子」; chapter_002中为「主角/杂役弟子」; chapter_003中为「杂役弟子/穿越者」; chapter_004中为「外门杂役/穿越者」; chapter_007中为「外门弟子（系统伪装的扫地僧）」; chapter_009中为「外门弟子/穿越者」; chapter_010中为「太玄宗外门杂役/伪装绝世高人」; chapter_011中为「外门弟子/主角」; chapter_016中为「外门第一/晋升内门弟子」; chapter_017中为「内门首席大弟子/玄天真人」; chapter_018中为「内门首席大弟子 / 玄天真人」; chapter_019中为「太玄宗内门大师兄 / 玄天真人」; chapter_020中为「内门首席大弟子、玄天真人」; chapter_022中为「记名师父/玄天真人(伪装)」; chapter_024中为「太玄宗首席大弟子」; chapter_025中为「太玄宗内门首席/玄天真人」; chapter_026中为「内门首席大师兄/玄天真人/秘境领队」; chapter_027中为「太玄宗新任首席」; chapter_028中为「大师兄」; chapter_029中为「太玄宗首席大弟子」; chapter_030中为「主角/大师兄」; chapter_031中为「太玄宗内门首席大师兄」; chapter_032中为「大师兄」; chapter_034中为「大师兄/玄天真人」; chapter_035中为「内门首席大弟子、玄天真人」; chapter_036中为「太玄宗内门首席」; chapter_037中为「太玄宗大师兄」; chapter_038中为「外门弟子」; chapter_040中为「主角/被追捕者」; chapter_042中为「主角」; chapter_043中为「杂役弟子/大师兄」; chapter_044中为「太玄宗弟子（现为伪装/凡人状态）」; chapter_045中为「太玄宗首席大弟子（现为凡人）」; chapter_046中为「主角/大师兄」; chapter_047中为「太玄宗大师兄/凡人」; chapter_049中为「太玄宗首席大弟子（化名玄天真人）」; chapter_050中为「前太玄宗弟子，修仙界肄业学生」",
+      "chapters": [
+        "chapter_001",
+        "chapter_002",
+        "chapter_003",
+        "chapter_004",
+        "chapter_007",
+        "chapter_009",
+        "chapter_010",
+        "chapter_011",
+        "chapter_016",
+        "chapter_017",
+        "chapter_018",
+        "chapter_019",
+        "chapter_020",
+        "chapter_022",
+        "chapter_024",
+        "chapter_025",
+        "chapter_026",
+        "chapter_027",
+        "chapter_028",
+        "chapter_029",
+        "chapter_030",
+        "chapter_031",
+        "chapter_032",
+        "chapter_034",
+        "chapter_035",
+        "chapter_036",
+        "chapter_037",
+        "chapter_038",
+        "chapter_040",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_045",
+        "chapter_046",
+        "chapter_047",
+        "chapter_049",
+        "chapter_050"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "王虎",
+      "detail": "角色「王虎」身份描述出现3种以上变体：chapter_001中为「外门恶霸」; chapter_007中为「杂役弟子」; chapter_009中为「外门弟子/迷弟」; chapter_010中为「外门杂役弟子」; chapter_011中为「杂役弟子/江越拥趸」; chapter_016中为「外门弟子/观众」; chapter_017中为「外门弟子」; chapter_042中为「杂役弟子」; chapter_043中为「杂役弟子」; chapter_044中为「太玄宗弟子」; chapter_045中为「太玄宗弟子」; chapter_046中为「内门弟子」; chapter_047中为「外门弟子/昔日外门一霸」",
+      "chapters": [
+        "chapter_001",
+        "chapter_007",
+        "chapter_009",
+        "chapter_010",
+        "chapter_011",
+        "chapter_016",
+        "chapter_017",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_045",
+        "chapter_046",
+        "chapter_047"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "林清雪",
+      "detail": "角色「林清雪」身份描述出现3种以上变体：chapter_007中为「内门长老」; chapter_009中为「外门天才弟子」; chapter_010中为「太玄宗内门长老」; chapter_011中为「内门长老（推测）」; chapter_016中为「女修/观众」; chapter_017中为「内门第一天骄/记名侍女」; chapter_018中为「师妹/侍女」; chapter_019中为「内门精英弟子」; chapter_020中为「记录弟子」; chapter_022中为「太玄宗内门第一天骄/记名侍女」; chapter_024中为「太玄宗弟子」; chapter_025中为「太玄宗弟子」; chapter_026中为「内门第一天骄/秘境小队成员」; chapter_027中为「太玄宗弟子」; chapter_028中为「师妹」; chapter_029中为「太玄宗师妹」; chapter_030中为「太玄宗天骄/三师妹」; chapter_031中为「宗门天骄（目前昏迷）」; chapter_032中为「师妹」; chapter_035中为「太玄宗第一天骄」; chapter_036中为「太玄宗第一天骄/记名侍女」; chapter_037中为「太玄宗师妹」; chapter_038中为「内门精英」; chapter_040中为「内门第一天骄/同伴」; chapter_042中为「内门弟子/江越同伴」; chapter_043中为「内门弟子/小师妹」; chapter_044中为「太玄宗弟子」; chapter_045中为「太玄宗弟子」; chapter_046中为「内门弟子」; chapter_047中为「太玄宗弟子/师妹」; chapter_049中为「江越的师妹」; chapter_050中为「江越的师妹，剑修」",
+      "chapters": [
+        "chapter_007",
+        "chapter_009",
+        "chapter_010",
+        "chapter_011",
+        "chapter_016",
+        "chapter_017",
+        "chapter_018",
+        "chapter_019",
+        "chapter_020",
+        "chapter_022",
+        "chapter_024",
+        "chapter_025",
+        "chapter_026",
+        "chapter_027",
+        "chapter_028",
+        "chapter_029",
+        "chapter_030",
+        "chapter_031",
+        "chapter_032",
+        "chapter_035",
+        "chapter_036",
+        "chapter_037",
+        "chapter_038",
+        "chapter_040",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_045",
+        "chapter_046",
+        "chapter_047",
+        "chapter_049",
+        "chapter_050"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "百晓生",
+      "detail": "角色「百晓生」身份描述出现3种以上变体：chapter_007中为「画师」; chapter_009中为「神秘画师」; chapter_011中为「神秘画师」; chapter_016中为「画师/江越研究专家」; chapter_044中为「神秘画师」",
+      "chapters": [
+        "chapter_007",
+        "chapter_009",
+        "chapter_011",
+        "chapter_016",
+        "chapter_044"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "掌门",
+      "detail": "角色「掌门」身份描述出现3种以上变体：chapter_017中为「太玄宗掌门」; chapter_026中为「太玄宗主」; chapter_034中为「太玄宗掌门」; chapter_036中为「太玄宗掌门」; chapter_038中为「太玄宗掌门/金丹大圆满」; chapter_046中为「太玄宗掌门/反派」",
+      "chapters": [
+        "chapter_017",
+        "chapter_026",
+        "chapter_034",
+        "chapter_036",
+        "chapter_038",
+        "chapter_046"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "黑袍老者",
+      "detail": "角色「黑袍老者」身份描述出现3种以上变体：chapter_018中为「神秘反派」; chapter_020中为「神秘观察者（反派）」; chapter_022中为「潜伏的监视者」; chapter_026中为「观察者(疑似敌对)」; chapter_034中为「神秘窥视者」; chapter_037中为「魔教观察者」; chapter_044中为「观战者」; chapter_045中为「窥探者」; chapter_046中为「窥视者」",
+      "chapters": [
+        "chapter_018",
+        "chapter_020",
+        "chapter_022",
+        "chapter_026",
+        "chapter_034",
+        "chapter_037",
+        "chapter_044",
+        "chapter_045",
+        "chapter_046"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "李二牛",
+      "detail": "角色「李二牛」身份描述出现3种以上变体：chapter_020中为「内门弟子、卷王」; chapter_025中为「太玄宗弟子」; chapter_026中为「内门卷王/秘境小队成员」; chapter_027中为「太玄宗弟子」; chapter_028中为「师弟」; chapter_029中为「太玄宗师弟」; chapter_030中为「太玄宗弟子/二师弟」; chapter_031中为「太玄宗弟子」; chapter_032中为「师弟」; chapter_034中为「“卷王”弟子」; chapter_035中为「弟子」; chapter_036中为「太玄宗弟子」; chapter_037中为「太玄宗弟子」; chapter_038中为「弟子」; chapter_042中为「杂役弟子」; chapter_043中为「杂役弟子」; chapter_044中为「太玄宗弟子」; chapter_045中为「太玄宗弟子」; chapter_046中为「内门弟子」; chapter_047中为「太玄宗弟子」",
+      "chapters": [
+        "chapter_020",
+        "chapter_025",
+        "chapter_026",
+        "chapter_027",
+        "chapter_028",
+        "chapter_029",
+        "chapter_030",
+        "chapter_031",
+        "chapter_032",
+        "chapter_034",
+        "chapter_035",
+        "chapter_036",
+        "chapter_037",
+        "chapter_038",
+        "chapter_042",
+        "chapter_043",
+        "chapter_044",
+        "chapter_045",
+        "chapter_046",
+        "chapter_047"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "苏软软",
+      "detail": "角色「苏软软」身份描述出现3种以上变体：chapter_027中为「太玄宗弟子」; chapter_028中为「师妹」; chapter_029中为「太玄宗师妹」; chapter_030中为「太玄宗弟子/小师妹」; chapter_031中为「太玄宗弟子」; chapter_032中为「师妹」; chapter_043中为「外门弟子」; chapter_045中为「太玄宗弟子」; chapter_046中为「内门弟子」; chapter_047中为「太玄宗弟子」",
+      "chapters": [
+        "chapter_027",
+        "chapter_028",
+        "chapter_029",
+        "chapter_030",
+        "chapter_031",
+        "chapter_032",
+        "chapter_043",
+        "chapter_045",
+        "chapter_046",
+        "chapter_047"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "太玄宗掌门",
+      "detail": "角色「太玄宗掌门」身份描述出现3种以上变体：chapter_035中为「掌门」; chapter_043中为「反派/金丹修士」; chapter_045中为「太玄宗掌门/魔化修仙者」",
+      "chapters": [
+        "chapter_035",
+        "chapter_043",
+        "chapter_045"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "旺财",
+      "detail": "角色「旺财」身份描述出现3种以上变体：chapter_037中为「太玄宗镇魔剑/神兽」; chapter_038中为「妖兽(吞天金蟾)」; chapter_040中为「宠物蟾蜍」; chapter_049中为「未知生物（疑似宠兽）」; chapter_050中为「神兽（吞天金蟾）」",
+      "chapters": [
+        "chapter_037",
+        "chapter_038",
+        "chapter_040",
+        "chapter_049",
+        "chapter_050"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_009:「大众误以为江越掌握了“音波震荡”与“气劲护体”结合的高深神通，处于“道法自然”的境界。」; chapter_044:「旁观者（如林清雪、百晓生、其他弟子、黑袍老者）误以为江越的凡人状态是‘返璞归真’或‘无道’的大恐怖境界。」",
+      "chapters": [
+        "chapter_009",
+        "chapter_044"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_011:「围观群众和林清雪将江越的吃萝卜行为和切菜招式过度解读为高深的‘参王磨性’和‘生活大道’」; chapter_016:「全宗门上下将江越提裤子、裤衩崩裂等尴尬行为强行解读为高深的道法与神迹」",
+      "chapters": [
+        "chapter_011",
+        "chapter_016"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_027:「江越外披一件旧被单，将其命名为‘返璞归真袍’。」; chapter_035:「江越反穿着裤子」",
+      "chapters": [
+        "chapter_027",
+        "chapter_035"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_036:「宗门弟子将江越随口胡诌的物理名词（受力分析、刚体、流体力学等）奉为修仙至理并加以练习」; chapter_037:「林清雪和李二牛将江越的挖土和笨拙行为过度解读为深奥的‘物理修真’大道」",
+      "chapters": [
+        "chapter_036",
+        "chapter_037"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_044:「江越消耗系统所有资源重置为‘原始凡人’，无灵力，无修仙技能（如钢筋铁骨），被视为‘天道之外’的存在，免疫修仙界的法则/能量攻击。」; chapter_049:「江越目前伪装成无灵力波动的凡人，依靠步行和骑驴旅行，对修仙界的称号不以为然，只想开奶茶店。」",
+      "chapters": [
+        "chapter_044",
+        "chapter_049"
+      ]
+    }
+  ],
+  "checked_chapters": 37,
+  "high_count": 30,
+  "medium_count": 15
+}

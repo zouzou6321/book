@@ -1,0 +1,105 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知（青年）",
+      "role": "太玄宗内门大师兄 / 玄天真人",
+      "description": "身穿流云飞鹤锦袍，内穿贴身短裤，头发乱糟糟，外表看似懒散、市井无赖，实则拥有系统",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "内门精英弟子",
+      "description": "清冷如冰，眼神充满对大道的痴迷，随身携带记录小册子",
+      "status": "active"
+    },
+    {
+      "name": "陆云",
+      "age": "未知",
+      "role": "千剑门交换生 / 天才弟子",
+      "description": "身穿雪白剑袍，背负三柄利剑，面容俊美但眼神傲慢",
+      "status": "departed"
+    },
+    {
+      "name": "白发老者",
+      "age": "老年",
+      "role": "神秘反派 / 观察者",
+      "description": "身穿黑袍，头发花白，眼神猩红，身形可融入黑暗",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "陆云",
+    "白发老者"
+  ],
+  "character_exits": [
+    {
+      "name": "陆云",
+      "reason": "道心破碎，跪服后离开"
+    },
+    {
+      "name": "白发老者",
+      "reason": "观察完毕后隐入黑暗离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "morning_lecture_crisis",
+      "description": "江越在内门演武场面临数百名精英弟子的晨间讲道考验，触发系统任务。",
+      "time": "辰时二刻"
+    },
+    {
+      "id": "translation_machine_activation",
+      "description": "系统道具“瞎扯淡翻译机（体验版）”生效，江越的抱怨和废话被翻译成高深道法。",
+      "time": "辰时二刻"
+    },
+    {
+      "id": "lu_yun_defeat",
+      "description": "千剑门陆云挑衅江越，江越利用生姜和翻译机通过言语击溃其道心。",
+      "time": "辰时"
+    },
+    {
+      "id": "ginger_craze",
+      "description": "外门菜地老姜被信徒挖光，弟子们模仿江越举姜对日，引发宗门混乱。",
+      "time": "半个时辰后"
+    },
+    {
+      "id": "mysterious_observer",
+      "description": "一名黑袍白发老者在暗处观察姜法仪式，并策划后续行动。",
+      "time": "章节末尾"
+    }
+  ],
+  "time_period": "穿越第十八日，辰时二刻（上午 08:30）至随后半个时辰",
+  "locations": [
+    "太玄宗·内门演武场",
+    "听雨阁（江越居所）",
+    "太玄宗外（结尾处老者所在地）"
+  ],
+  "key_facts": [
+    {
+      "id": "jiangyue_system",
+      "content": "江越拥有“反差修真系统”，可通过制造反差获得反差值及道具。"
+    },
+    {
+      "id": "translation_mechanism",
+      "content": "道具“瞎扯淡翻译机”能将宿主的口语在特定时间内自动翻译为听者认为高深莫测的语言。"
+    },
+    {
+      "id": "jiangyue_habits",
+      "content": "江越作为穿越者，保留着现代生活习惯（如睡软床腰疼、想吃红烧肉、穿短裤），且性格市井懒散。"
+    },
+    {
+      "id": "disciple_mentality",
+      "content": "太玄宗内门弟子（包括林清雪）具有极强的脑补能力，倾向于将一切不合理行为解读为高深道法。"
+    },
+    {
+      "id": "ginging_method",
+      "content": "“姜法”被弟子们误认为是绝世杀伐术，老姜成为珍贵修炼材料。"
+    },
+    {
+      "id": "lu_yun_background",
+      "content": "陆云曾在外门被江越用大葱破阵，患有“看到葱就发抖”的心理阴影。"
+    }
+  ]
+}

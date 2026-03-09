@@ -1,0 +1,85 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角",
+      "description": "梦中穿黑色燕尾服，现实中穿印有‘V我50’的T恤，左眼瞳孔深处有倒‘V’字符号，右手掌心‘人’字变模糊",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "同伴",
+      "description": "脸色苍白，左臂隐约透出淡青色纹路，战术护目镜推在额头上",
+      "status": "active"
+    },
+    {
+      "name": "镜中神",
+      "age": "",
+      "role": "潜意识具象/本能",
+      "description": "纯黑皮肤，左眼白色火焰右眼黑洞，身披‘V我50’纸条拼凑的祭司长袍，手持滴血叉子",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "镜中神"
+  ],
+  "character_exits": [
+    {
+      "name": "镜中神",
+      "reason": "被击碎吞噬"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "dream_entry",
+      "description": "李疯狂进入潜意识层的镜像迷宫（无限回廊），与镜中神（本能）对话",
+      "time": "伪·周三深夜"
+    },
+    {
+      "id": "rejecting_instinct",
+      "description": "李疯狂拒绝镜中神放弃人性的诱惑，咬断其手并击碎镜面",
+      "time": "伪·周三深夜"
+    },
+    {
+      "id": "consuming_hallucination",
+      "description": "李疯狂面对苏浅受难的幻象，为了维持理智，利用【真理之胃】强行吞噬了梦境和恐惧",
+      "time": "伪·周三深夜"
+    },
+    {
+      "id": "waking_up",
+      "description": "李疯狂在废弃安全屋醒来，发现右掌‘人’字受损，吃了苏浅给的巧克力",
+      "time": "深夜/黎明前"
+    },
+    {
+      "id": "setting_off",
+      "description": "两人决定前往‘神的喉咙’寻找世界的BUG",
+      "time": "深夜/黎明前"
+    }
+  ],
+  "time_period": "伪·周三深夜 至 黎明前",
+  "locations": [
+    "梦境底层 · 无限回廊",
+    "废弃安全屋"
+  ],
+  "key_facts": [
+    {
+      "id": "palm_tattoo_damaged",
+      "content": "李疯狂右手掌心苏浅刻下的‘人’字变得模糊黯淡，因梦中试图被消化"
+    },
+    {
+      "id": "suqian_arm_status",
+      "content": "苏浅的左臂晶体化被压制后，仍隐约透出淡青色纹路"
+    },
+    {
+      "id": "next_destination",
+      "content": "剧情下一目的地为‘神的喉咙’"
+    },
+    {
+      "id": "subconscious_form",
+      "content": "李疯狂的潜意识表现为由无数镜子组成的长廊，包含过去的记忆和本能"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

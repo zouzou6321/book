@@ -1,0 +1,76 @@
+{
+  "characters_present": [
+    {
+      "name": "林野",
+      "age": null,
+      "role": "腾飞科技前员工",
+      "description": "身穿洗得发白的牛仔裤，拥有如深渊般漆黑的眸子，觉醒蚩尤血脉",
+      "status": "departed"
+    },
+    {
+      "name": "刘强",
+      "age": null,
+      "role": "腾飞科技行政部经理",
+      "description": "满脸横肉，秃顶（回忆），穿着显得油腻，神情傲慢",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "刘强"
+  ],
+  "character_exits": [
+    {
+      "name": "林野",
+      "reason": "辞职"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "resignation_confrontation",
+      "description": "林野到行政部经理办公室向刘强提出辞职，受到刘强辱骂后并未生气，仅释放血气威压震慑对方",
+      "time": "第3天 14:00左右"
+    },
+    {
+      "id": "smashing_luxury_car",
+      "description": "林野在地下停车场使用蚩尤肉身力量将刘强的保时捷帕拉梅拉砸烂并撕成两半",
+      "time": "第3天 14:30左右"
+    },
+    {
+      "id": "compensation_transfer",
+      "description": "林野向刘强转账50万元人民币作为车辆赔偿和精神损失费",
+      "time": "第3天 14:30"
+    },
+    {
+      "id": "mysterious_mms_received",
+      "description": "林野收到匿名彩信，对方展示刑天遗珍照片并以此设局，邀其今晚8点独自前往东海市西郊废旧钢厂",
+      "time": "第3天 下午"
+    }
+  ],
+  "time_period": "第3天 下午2:00",
+  "locations": [
+    "东海市",
+    "腾飞科技大楼",
+    "行政部经理办公室",
+    "地下负二层停车场",
+    "东海市西郊废旧钢厂"
+  ],
+  "key_facts": [
+    {
+      "id": "chiyou_bloodline_level",
+      "content": "林野拥有15.8%的蚩尤血脉，感官远超常人，能释放血气威压"
+    },
+    {
+      "id": "lin_ye_financial_status",
+      "content": "林野向刘强转账50万后，余额仅剩一万多块"
+    },
+    {
+      "id": "liu_qiang_car_info",
+      "content": "刘强的车是一辆红色的保时捷帕拉梅拉，首付是其妻子卖掉娘家房子凑的"
+    },
+    {
+      "id": "enemy_organization_info",
+      "content": "存在一个神秘组织，知晓林野拥有“上古返祖系统”及其实力，手持刑天遗珍作为诱饵"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

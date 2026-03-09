@@ -1,0 +1,95 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/特许经营权持有者",
+      "description": "脖颈处有如发丝般游走的金色电路，左眼有倒“V”符号（本章变为幽蓝，最后裂开），手掌冒热气",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "同伴/核心逻辑Bug",
+      "description": "身穿职业羽绒装，手持改装电击枪，瞳孔深处隐约映出二维码（仅李疯狂视角）",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "discovery_of_cashier",
+      "description": "李疯狂与苏浅在南极深坑底部发现巨型收银机，确认为地球的账单",
+      "time": "本章中段"
+    },
+    {
+      "id": "logic_hack",
+      "description": "李疯狂发动【理智暴食 · 终极篡改】，将收银机逻辑修改为自动取款机，利用通货膨胀逻辑迫使机器吐出优惠券",
+      "time": "本章高潮"
+    },
+    {
+      "id": "change_of_ownership",
+      "description": "李疯狂通过霸王餐逻辑获得原始契约，收银机崩解，李疯狂成为世界代理经理",
+      "time": "本章后段"
+    },
+    {
+      "id": "trojan_horse_reveal",
+      "description": "李疯狂收到董事会回响，被指认为“小偷”，并惊觉苏浅是植入的“Bug”/特洛伊木马",
+      "time": "本章结尾"
+    }
+  ],
+  "time_period": "重置后第N个周期，“最终盘点”爆发瞬间的数月后（主观）",
+  "locations": [
+    "南极冰盖",
+    "旧日坐标（原点）"
+  ],
+  "key_facts": [
+    {
+      "id": "earth_asset_id",
+      "content": "地球编号为“KFC-404”，当前状态为“不良资产”，租赁方为“旧日餐厅董事会”，承租方为“人类文明”"
+    },
+    {
+      "id": "bill_details",
+      "content": "本期应付款为“绝望 × ∞”，滞纳金为“疯狂（已逾期）”"
+    },
+    {
+      "id": "contract_clause",
+      "content": "李疯狂获得的契约备注为“想吃啥吃啥，记得V我50”"
+    },
+    {
+      "id": "suqian_bug_identity",
+      "content": "苏浅被系统警告为核心逻辑“Bug”，李疯狂推测她是旧日餐厅植入的特洛伊木马"
+    },
+    {
+      "id": "li_eye_condition",
+      "content": "李疯狂左眼的倒“V”符号在本章结束时裂开了一道细微缝隙"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角（李疯狂）",
+      "names": [
+        "李疯狂",
+        "李老板",
+        "小偷"
+      ]
+    },
+    {
+      "role_or_identity": "苏浅",
+      "names": [
+        "苏浅",
+        "Bug",
+        "合伙人"
+      ]
+    },
+    {
+      "role_or_identity": "旧日神明/敌对势力",
+      "names": [
+        "古神",
+        "房东",
+        "董事会"
+      ]
+    }
+  ]
+}

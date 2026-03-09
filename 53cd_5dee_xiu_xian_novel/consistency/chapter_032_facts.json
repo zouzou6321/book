@@ -1,0 +1,92 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "大师兄",
+      "description": "脸有些脏兮兮，手持黑色厚重书籍，眼神时而悲悯时而深邃",
+      "status": "active"
+    },
+    {
+      "name": "血枯长老",
+      "age": "未知",
+      "role": "血影宗长老/金丹期修士",
+      "description": "双眼翻白，额头贴有写有‘阅’字的黄纸，身体抽搐",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "师弟",
+      "description": "神色兴奋，动作熟练",
+      "status": "active"
+    },
+    {
+      "name": "苏软软",
+      "age": "未知",
+      "role": "师妹",
+      "description": "眼中含泪，充满崇拜",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "师妹",
+      "description": "脸色苍白，睫毛长，美眸流转",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "画师"
+  ],
+  "character_exits": [
+    {
+      "name": "画师",
+      "reason": "离开去传播情报"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "physics_tutoring",
+      "description": "江越利用《五三》对血枯长老进行物理攻击（力的作用是相互的、摩擦力、动能定理），将其打至神志不清",
+      "time": "黄昏"
+    },
+    {
+      "id": "qingxue_awakes",
+      "description": "林清雪苏醒，误以为江越使用的是‘理科禁术’和‘文武合一’的高深手段，对江越彻底改观并崇拜",
+      "time": "黄昏"
+    },
+    {
+      "id": "painter_intel",
+      "description": "潜伏的画师目击江越战斗，将其记录为‘理科学派’传人及‘牛顿传人’，判定为毁天灭地级危险后离开报信",
+      "time": "夜晚"
+    },
+    {
+      "id": "camp_founding",
+      "description": "江越小队在藏经洞外扎营，搜寻血枯长老的储物戒，并准备吃火锅",
+      "time": "夜晚"
+    }
+  ],
+  "time_period": "秘境开启第三日，黄昏至夜晚",
+  "locations": [
+    "上古秘境·藏经洞外荒原"
+  ],
+  "key_facts": [
+    {
+      "id": "wusan_properties",
+      "content": "江越的法器《五年高考三年模拟·魔改版》厚达五百页，硬壳书脊，可作为物理攻击武器，具备‘以理服人’效果"
+    },
+    {
+      "id": "blood_elder_condition",
+      "content": "血枯长老被击败后处于昏迷状态，但意识中残留物理公式（F=ma等），额头贴有李二牛写的‘阅’字黄纸"
+    },
+    {
+      "id": "newton_successor_alias",
+      "content": "外界（画师）将江越识别为‘牛顿传人’，修习‘理科学派’，专破修真玄机，危险等级极高"
+    },
+    {
+      "id": "qingxue_devotion",
+      "content": "林清雪因误解江越的实力层次，主动提出愿为师兄洗衣服做饭‘效犬马之劳’"
+    }
+  ]
+}

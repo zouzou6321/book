@@ -1,0 +1,439 @@
+{
+  "id": "da_660e_957f_sheng_novel",
+  "title": "大明长生",
+  "subtitle": "The Eternal Ming",
+  "author": "AI & Thomas",
+  "description": "穿越明代，长生不老。稳健发展，想要改变历史进程，最后发现其实什么也改变不了。",
+  "tags": [
+    "穿越",
+    "历史架空",
+    "长生流",
+    "稳健",
+    "宿命"
+  ],
+  "cover_hue": 230,
+  "cover_image": true,
+  "total_chapters": 50,
+  "total_chars": 224875,
+  "volumes": [
+    {
+      "id": "volume_1",
+      "name": "第一卷：苟全性命于乱世",
+      "chapters": [
+        {
+          "id": "chapter_001",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_001.md",
+          "title": "第001章：不死的尸体",
+          "time": "万历四十七年（1619年）三月",
+          "location": "辽东，萨尔浒战场",
+          "char_count": 3704
+        },
+        {
+          "id": "chapter_002",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_002.md",
+          "title": "第002章：逃出生天",
+          "time": "万历四十七年（1619年）四月",
+          "location": "萨尔浒以东至沈阳沿途",
+          "char_count": 4558
+        },
+        {
+          "id": "chapter_003",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_003.md",
+          "title": "第003章：京师烟尘",
+          "time": "万历四十七年（1619年）夏",
+          "location": "北京城，外城，正阳门外",
+          "char_count": 5163
+        },
+        {
+          "id": "chapter_004",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_004.md",
+          "title": "第004章：庸医陈默",
+          "time": "泰昌元年（1620年）九月",
+          "location": "北京城，外城，回春堂药铺",
+          "char_count": 5244
+        },
+        {
+          "id": "chapter_005",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_005.md",
+          "title": "第005章：王府夜半叩门声",
+          "time": "天启二年（1622年）冬，深夜",
+          "location": "北京城，回春堂药铺 → 信王府",
+          "char_count": 5287
+        },
+        {
+          "id": "chapter_006",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_006.md",
+          "title": "第006章：血染刀锋第一刀",
+          "time": "天启二年（1622年）冬，深夜",
+          "location": "信王府，偏殿暖阁",
+          "char_count": 9157
+        },
+        {
+          "id": "chapter_007",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_007.md",
+          "title": "第007章：辽东风云起",
+          "time": "天启三年（1623年）春",
+          "location": "北京城，崇文门外，陈默私宅",
+          "char_count": 4169
+        },
+        {
+          "id": "chapter_008",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_008.md",
+          "title": "第008章：魏忠贤的阴影",
+          "time": "天启四年（1624年）秋",
+          "location": "北京城，东厂附近酒楼 → 崇文门外陈默私宅",
+          "char_count": 3959
+        },
+        {
+          "id": "chapter_009",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_009.md",
+          "title": "第009章：长生卫的雏形",
+          "time": "天启五年（1625年）仲春",
+          "location": "北京城南郊，百草园（陈默私家庄园）",
+          "char_count": 4637
+        },
+        {
+          "id": "chapter_010",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_010.md",
+          "title": "第010章：东林乏术",
+          "time": "天启五年（1625年）仲春（雨夜）；天启六年（1626年）春（午后）",
+          "location": "京郊百草园；京城，江南会馆",
+          "char_count": 4431
+        },
+        {
+          "id": "chapter_011",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_011.md",
+          "title": "第011章：王恭厂大爆炸",
+          "time": "天启六年（1626年）五月三十日，巳时",
+          "location": "北京城，西南角王恭厂 · 城南百草园",
+          "char_count": 5299
+        },
+        {
+          "id": "chapter_012",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_012.md",
+          "title": "第012章：信王的试探",
+          "time": "天启六年（1626年）冬",
+          "location": "京师，什刹海冰面",
+          "char_count": 4459
+        },
+        {
+          "id": "chapter_013",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_013.md",
+          "title": "第013章：血色黄金",
+          "time": "天启七年（1627年）春（深夜）",
+          "location": "渤海湾，天津卫外海，一艘伪装商船的甲板上",
+          "char_count": 4097
+        },
+        {
+          "id": "chapter_014",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_014.md",
+          "title": "第014章：药人的囚笼",
+          "time": "天启七年（1627年）夏，大暑",
+          "location": "北京城南，百草园庄园地下密室",
+          "char_count": 4607
+        },
+        {
+          "id": "chapter_015",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_015.md",
+          "title": "第015章：深宫孤煞",
+          "time": "天启七年（1627年）秋",
+          "location": "紫禁城，西六宫区域深巷",
+          "char_count": 3759
+        },
+        {
+          "id": "chapter_016",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_016.md",
+          "title": "第016章：深夜定乾坤",
+          "time": "天启七年（1627年）秋，夜",
+          "location": "信王府，地下书斋",
+          "char_count": 4103
+        },
+        {
+          "id": "chapter_017",
+          "file": "da_660e_957f_sheng_novel/volume_1/chapter_017.md",
+          "title": "第017章：皇位之下的交易",
+          "time": "天启七年（1627年）八月下旬",
+          "location": "紫禁城，乾清宫西暖阁",
+          "char_count": 4754
+        }
+      ]
+    },
+    {
+      "id": "volume_2",
+      "name": "第二卷：大厦将倾独木支",
+      "chapters": [
+        {
+          "id": "chapter_018",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_018.md",
+          "title": "第018章：新君旧梦，饮鸩止渴",
+          "time": "崇祯元年（1628年）春（深夜）",
+          "location": "紫禁城 · 乾清宫西暖阁密室",
+          "char_count": 3763
+        },
+        {
+          "id": "chapter_019",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_019.md",
+          "title": "第019章：算盘声中的帝国",
+          "time": "崇祯二年（1629年）暮春",
+          "location": "户部衙门 · 后堂账房 / 崇文门外 · 陈默私宅",
+          "char_count": 4437
+        },
+        {
+          "id": "chapter_020",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_020.md",
+          "title": "第020章：十年一梦，神机始成",
+          "time": "崇祯三年（1630） —— 崇祯十二年（1639）",
+          "location": "京南百草园地下工坊 / 京东军演场",
+          "char_count": 4251
+        },
+        {
+          "id": "chapter_021",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_021.md",
+          "title": "第021章：己巳之变，皇城下的枪声",
+          "time": "崇祯二年（1629年）冬 / 崇祯十二年（1639年）冬",
+          "location": "北京城头 / 蓟州镇长城外卧虎山",
+          "char_count": 4947
+        },
+        {
+          "id": "chapter_022",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_022.md",
+          "title": "第022章：流民如潮，非战之罪",
+          "time": "崇祯十三年（1640年）春",
+          "location": "陕西 · 潼关",
+          "char_count": 4345
+        },
+        {
+          "id": "chapter_023",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_023.md",
+          "title": "第023章：开封围城，修罗地狱",
+          "time": "崇祯十五年（1642年）冬",
+          "location": "河南开封府 · 城头",
+          "char_count": 5345
+        },
+        {
+          "id": "chapter_024",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_024.md",
+          "title": "第024章：松锦大败，最后的精锐",
+          "time": "崇祯十五年（1642年）冬",
+          "location": "北京城 · 陈默宅邸 / 紫禁城 · 武英殿",
+          "char_count": 4757
+        },
+        {
+          "id": "chapter_025",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_025.md",
+          "title": "第025章：南迁之议，死结",
+          "time": "崇祯十六年冬",
+          "location": "紫禁城 · 武英殿",
+          "char_count": 4125
+        },
+        {
+          "id": "chapter_026",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_026.md",
+          "title": "第026章：最后的除夕",
+          "time": "崇祯十七年（1644年）春节",
+          "location": "北京城 · 陈默府邸",
+          "char_count": 3196
+        },
+        {
+          "id": "chapter_027",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_027.md",
+          "title": "第027章：兵临城下，鸟尽弓藏",
+          "time": "崇祯十七年（1644年）三月",
+          "location": "北京外城 · 阜成门",
+          "char_count": 4707
+        },
+        {
+          "id": "chapter_028",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_028.md",
+          "title": "第028章：煤山夜话，最后的告别",
+          "time": "崇祯十七年三月十八日夜",
+          "location": "北京城 · 煤山（万岁山）寿皇亭侧",
+          "char_count": 4143
+        },
+        {
+          "id": "chapter_029",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_029.md",
+          "title": "第029章：城破之夜",
+          "time": "崇祯十七年（1644年）三月十九日凌晨",
+          "location": "北京城内街巷 · 崇文门外",
+          "char_count": 4197
+        },
+        {
+          "id": "chapter_030",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_030.md",
+          "title": "第030章：钟声回响",
+          "time": "崇祯十七年三月十九日清晨",
+          "location": "北京城外 · 卢沟桥",
+          "char_count": 4290
+        },
+        {
+          "id": "chapter_031",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_031.md",
+          "title": "第031章：江南一梦，旧人新事",
+          "time": "崇祯十七年夏（弘光元年·1644年五月）",
+          "location": "南京 · 秦淮河畔 · 王征私宅",
+          "char_count": 5074
+        },
+        {
+          "id": "chapter_032",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_032.md",
+          "title": "第032章：扬州城下，留发留头",
+          "time": "清顺治二年（1645年）四月二十五日",
+          "location": "扬州城南 · 观音山至天宁寺一线",
+          "char_count": 4200
+        },
+        {
+          "id": "chapter_033",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_033.md",
+          "title": "第033章：桃花扇底送南朝",
+          "time": "顺治二年（1645年）五月",
+          "location": "杭州 · 西湖 · 舟中 / 岸边",
+          "char_count": 3994
+        },
+        {
+          "id": "chapter_034",
+          "file": "da_660e_957f_sheng_novel/volume_2/chapter_034.md",
+          "title": "第034章：无名之辈",
+          "time": "顺治三年 —— 康熙元年",
+          "location": "东海某无名荒岛 / 浙东沿海小镇",
+          "char_count": 4136
+        }
+      ]
+    },
+    {
+      "id": "volume_3",
+      "name": "第三卷：白头宫女在，闲话说玄宗",
+      "chapters": [
+        {
+          "id": "chapter_035",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_035.md",
+          "title": "第035章：残阳如血，渡江一梦",
+          "time": "崇祯十七年（1644年）三月下旬",
+          "location": "北京城外通州运河码头",
+          "char_count": 3198
+        },
+        {
+          "id": "chapter_036",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_036.md",
+          "title": "第036章：秦淮笙歌，未识亡音",
+          "time": "崇祯十七年（1644年）五月",
+          "location": "南京，夫子庙泮池/秦淮河畔",
+          "char_count": 4130
+        },
+        {
+          "id": "chapter_037",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_037.md",
+          "title": "第037章：党争酷烈，甚于辽东",
+          "time": "弘光元年（1645年）正月",
+          "location": "南京，王征私宅 & 聚宝门外的乱石岗",
+          "char_count": 4526
+        },
+        {
+          "id": "chapter_038",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_038.md",
+          "title": "第038章：铁骑渡江，天堑变通途",
+          "time": "弘光元年（1645年）五月",
+          "location": "扬州城外 → 扬州城内文选楼",
+          "char_count": 3807
+        },
+        {
+          "id": "chapter_039",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_039.md",
+          "title": "第039章：剃发易服，断发不绝情",
+          "time": "顺治二年（1645年）六月",
+          "location": "苏州，城外破山（莫厘山）古寺",
+          "char_count": 5398
+        },
+        {
+          "id": "chapter_040",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_040.md",
+          "title": "第040章：鲁监国，海上孤忠",
+          "time": "监国元年（1646年）",
+          "location": "浙江舟山群岛",
+          "char_count": 4506
+        },
+        {
+          "id": "chapter_041",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_041.md",
+          "title": "第041章：两广烽烟，永历西奔",
+          "time": "永历二年（1648年）五月",
+          "location": "广东肇庆，端州行在",
+          "char_count": 4470
+        },
+        {
+          "id": "chapter_042",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_042.md",
+          "title": "第042章：封刀挂剑，最后的一课",
+          "time": "永历四年（1650年）十一月",
+          "location": "桂林，独秀峰下 → 漓江边",
+          "char_count": 3642
+        },
+        {
+          "id": "chapter_043",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_043.md",
+          "title": "第043章：流落西南，夜郎谷主",
+          "time": "永历六年（1652年）至永历十一年（1657年）",
+          "location": "贵州大山深处 · 长生谷",
+          "char_count": 4780
+        },
+        {
+          "id": "chapter_044",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_044.md",
+          "title": "第044章：缅京悲歌，帝终尘土",
+          "time": "永历十五年（1661年），八月",
+          "location": "中缅边境，蛮莫土司府，怒江对岸",
+          "char_count": 4106
+        },
+        {
+          "id": "chapter_045",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_045.md",
+          "title": "第045章：昆明雨冷，瓮中杀机",
+          "time": "康熙元年（1662年）四月",
+          "location": "云南昆明，翠湖畔陈府",
+          "char_count": 4049
+        },
+        {
+          "id": "chapter_046",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_046.md",
+          "title": "第046章：三藩乱起，又是轮回",
+          "time": "康熙十二年（1673年）冬",
+          "location": "湖南，长沙府",
+          "char_count": 5509
+        },
+        {
+          "id": "chapter_047",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_047.md",
+          "title": "第047章：岁月如刀，朱砂染血",
+          "time": "康熙十五年（1676年）冬",
+          "location": "徽州，深山藏书楼",
+          "char_count": 5015
+        },
+        {
+          "id": "chapter_048",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_048.md",
+          "title": "第048章：白头宫女在，闲话说玄宗",
+          "time": "康熙二十年（1681年），腊月",
+          "location": "北京，前门外，大栅栏",
+          "char_count": 4734
+        },
+        {
+          "id": "chapter_049",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_049.md",
+          "title": "第049章：闲话说玄宗，戏里戏外",
+          "time": "康熙二十年，腊月",
+          "location": "京师，广和楼",
+          "char_count": 3231
+        },
+        {
+          "id": "chapter_050",
+          "file": "da_660e_957f_sheng_novel/volume_3/chapter_050.md",
+          "title": "第050章：茫茫人海，独行者",
+          "time": "康熙二十一年（1682年），春",
+          "location": "京师 → 江南小镇",
+          "char_count": 4480
+        }
+      ]
+    }
+  ],
+  "channel": ""
+}

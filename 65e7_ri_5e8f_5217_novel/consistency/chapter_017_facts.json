@@ -1,0 +1,119 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "“真理之胃”宿主",
+      "description": "身穿破烂的皮卡丘睡衣，左臂有“逻辑悖论”符文",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "收容局特工/队长",
+      "description": "表情冷漠，持枪，战术能力强",
+      "status": "active"
+    },
+    {
+      "name": "李小鱼",
+      "age": null,
+      "role": "幸存者/拥有进食天赋的女孩",
+      "description": "眼神空洞但渴望食物",
+      "status": "active"
+    },
+    {
+      "name": "三头柯基",
+      "age": null,
+      "role": "变异生物/向导",
+      "description": "三个头（右笑脸领结、左蓝领带、中间正常），被称作“死狗”",
+      "status": "active"
+    },
+    {
+      "name": "The Colonel（上校）",
+      "age": null,
+      "role": "S+级旧日支配者/概念集合体",
+      "description": "鸡头、蜘蛛腿、穿西装围裙，高达十米的雕像",
+      "status": "sleeping"
+    }
+  ],
+  "new_characters_introduced": [
+    "The Colonel（上校）",
+    "三头柯基（首次具体描写）"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "enter_sanctuary",
+      "description": "众人打开闸门进入地下B4层深处，发现充满油炸香气的“食欲”神殿",
+      "time": "第一周期·周三 11:30"
+    },
+    {
+      "id": "statue_reveal",
+      "description": "发现中央的S+级实体“上校”雕像，解析其构成逻辑为[养殖]+[屠宰]+[低价促销]",
+      "time": "11:35"
+    },
+    {
+      "id": "oil_frying_mechanism",
+      "description": "一只老鼠被天花板滴下的热油瞬间裹上蛋液面包糠并油炸，展示了场所的致死规则",
+      "time": "11:36"
+    },
+    {
+      "id": "reckoning_attempt",
+      "description": "李疯狂利用“真理之胃”特权触碰雕像基座进行“对账”，进入精神幻境",
+      "time": "11:40"
+    },
+    {
+      "id": "memory_restoration",
+      "description": "李疯狂在幻境中恢复记忆，确认自己曾吞噬过收容局第7分队及“时间法则”，身份为“食客长”",
+      "time": "11:42"
+    },
+    {
+      "id": "pipeline_entry",
+      "description": "众人跟随三头柯基穿过雕像背后，进入通往后厨的通风管道",
+      "time": "11:45"
+    }
+  ],
+  "time_period": "第一周期·周三 11:30 左右",
+  "locations": [
+    "地下B4层",
+    "世纪公园站遗址",
+    "原城市中心广场地下枢纽",
+    "地下商场中庭",
+    "通风管道",
+    "精神幻境"
+  ],
+  "key_facts": [
+    {
+      "id": "colonel_entity",
+      "content": "S+级旧日支配者“上校”（肯）是原初的厨师，第一个把人类定义为“家禽”的存在"
+    },
+    {
+      "id": "truth_stomach_origin",
+      "content": "李疯狂的“真理之胃”源于他在高维状态时吞噬了“时间法则”、“绝望”等概念"
+    },
+    {
+      "id": "diner_identity",
+      "content": "李疯狂在“疯狂星期四”神话体系中的真实身份是拥有高级特权的“食客长”，上一周期曾吞噬收容局第7分队"
+    },
+    {
+      "id": "golden_particles",
+      "content": "所谓的“油炸香味”实质上是能导致理智清零的金色微生物，接触油污会被瞬间油炸"
+    },
+    {
+      "id": "countdown_timer",
+      "content": "距离下一次“疯狂周期”开启剩余2天12小时45分"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "S+级旧日支配者/雕像之神",
+      "names": [
+        "肯",
+        "上校",
+        "The Colonel",
+        "创始人",
+        "那位大人"
+      ]
+    }
+  ]
+}

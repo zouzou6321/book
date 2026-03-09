@@ -1,0 +1,83 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "25岁（外表），实际穿越26年",
+      "role": "穿越者/长生卫之主",
+      "description": "身穿洗得发白的青布长衫，发髻随意挽着插木簪，眼神深不见底如古井死水，面容不老。",
+      "status": "active"
+    },
+    {
+      "name": "长生卫统领",
+      "age": "不详",
+      "role": "长生卫新任统领",
+      "description": "沉默寡言，身披暗铁色山文甲，总是保持按刀警戒姿势，接替青儿。",
+      "status": "active"
+    },
+    {
+      "name": "孙在丰",
+      "age": "年轻",
+      "role": "书生/方以智学生",
+      "description": "身穿破烂儒衫，左肩被流矢洞穿，虚弱倔强。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "孙在丰",
+    "长生卫统领"
+  ],
+  "character_exits": [
+    {
+      "name": "史可法",
+      "reason": "殉国"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "yangzhou_city_fall",
+      "description": "红夷大炮轰击两个时辰后，扬州城南门被攻破，多铎率领的正白旗清军入城。",
+      "time": "弘光元年五月"
+    },
+    {
+      "id": "westerners_spotted",
+      "description": "在扬州城南废墟中发现几个金发碧眼、外貌特殊的西方人。",
+      "time": "弘光元年五月"
+    },
+    {
+      "id": "rescue_books_and_scholar",
+      "description": "陈默与长生卫在城南巷弄中杀死清兵，救下书生孙在丰及两箱藏书。",
+      "time": "弘光元年五月"
+    },
+    {
+      "id": "evacuation_to_sea",
+      "description": "陈默决定不救扬州百姓，只带孙在丰和书籍北上前往海边保存文明火种。",
+      "time": "弘光元年五月"
+    }
+  ],
+  "time_period": "弘光元年（1645年）五月",
+  "locations": [
+    "扬州城外",
+    "扬州城北废园",
+    "扬州城南巷弄",
+    "城外高岗"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_mo_condition",
+      "content": "陈默自万历四十七年穿越，至今26年，身体停止衰老，面容依旧定格在25岁。"
+    },
+    {
+      "id": "chen_mo_mission",
+      "content": "陈默当前目标为抢救书籍、技术与工匠以延续华夏文脉，而非挽救大明朝廷或百姓。"
+    },
+    {
+      "id": "sun_zaifeng_background",
+      "content": "孙在丰是方以智（方密之）的学生，负责护送藏书。"
+    },
+    {
+      "id": "books_content",
+      "content": "孙在丰护送的两箱书籍包含宋版算经、水利和农桑孤本。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

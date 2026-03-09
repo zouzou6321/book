@@ -1,0 +1,82 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未提及",
+      "role": "高熵有序者/篡改者",
+      "description": "半数据化身体，由金色电路和暗红色数据流交织，左眼有倒V字符号，后化作黑色闪电",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未提及",
+      "role": "防火墙/被囚禁者",
+      "description": "李疯狂体内的一团微弱蓝光，如同风烛残年的油灯",
+      "status": "active"
+    },
+    {
+      "name": "古神残魂",
+      "age": "未知",
+      "role": "被捕食者/残渣",
+      "description": "被压缩成球体的黑色物质，像被塞进罐头里的沙丁鱼",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "world_ends_quietly",
+      "description": "世界在寂静中结束，没有爆炸，只剩下概念空间中的时间残渣",
+      "time": "最后的星期日，00:00"
+    },
+    {
+      "id": "abacus_reset_attempt",
+      "description": "李疯狂使用老式算盘尝试计算世界重置公式，但因缺乏因果逻辑而失败（逻辑死锁）",
+      "time": "最后的星期日，00:00"
+    },
+    {
+      "id": "decision_to_attack_restaurant",
+      "description": "李疯狂放弃物理重启，决定前往“旧日餐厅”掀翻餐桌并吃掉食客",
+      "time": "最后的星期日，00:00"
+    },
+    {
+      "id": "kick_retaurant_door",
+      "description": "李疯狂化作黑色闪电，喊出“V我50”作为咒语，踹开了旧日餐厅的大门",
+      "time": "最后的星期日，00:00"
+    }
+  ],
+  "time_period": "最后的星期日，00:00",
+  "locations": [
+    "时间尽头的概念空间",
+    "李疯狂的体内空间",
+    "旧日餐厅"
+  ],
+  "key_facts": [
+    {
+      "id": "entity_status_form",
+      "content": "李疯狂当前形态为“高熵有序者（不稳定态）”，逻辑屏障极低"
+    },
+    {
+      "id": "world_digestion_status",
+      "content": "世界已被古神完全消化，空间、时间及因果（理由）均不复存在"
+    },
+    {
+      "id": "suqian_state_internal",
+      "content": "苏浅在李疯狂体内表现为蓝光，负责守护负面情绪数据作为防火墙"
+    },
+    {
+      "id": "abacus_stability",
+      "content": "老式算盘因依靠物理碰撞计算，在概念空间中具有诡异的稳定性"
+    },
+    {
+      "id": "meme_v50_power",
+      "content": "“V我50”这句烂梗携带的荒诞逻辑可作为撕开概念空间防御的咒语或入场券"
+    },
+    {
+      "id": "old_day_restaurant_concept",
+      "content": "存在一个名为“旧日餐厅”的高维度空间，古神在此品尝世界"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

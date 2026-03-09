@@ -1,0 +1,88 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "导航员/逻辑之主/副主厨",
+      "description": "穿廉价T恤，左眼有倒“V”字符号（目前呈灰白色），手持红色乐高积木",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "A级高价值资产/医疗人员",
+      "description": "穿着破损的黑色战术风衣，左臂为泛着金属光泽的新生手臂，指尖逸散金色粉尘",
+      "status": "active"
+    },
+    {
+      "name": "方舟01号驾驶员",
+      "age": "未知",
+      "role": "驾驶员",
+      "description": "半人半机械怪物，下半身与座位融合，双眼被摘除，后脑插满管线",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "主厨",
+    "方舟01号驾驶员",
+    "“向导”序列特工"
+  ],
+  "character_exits": [
+    {
+      "name": "苏浅",
+      "reason": "离开（被分配至方舟后部第7车厢医疗区）"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "arrival_at_square",
+      "description": "李疯狂与苏浅抵达第4区中央广场，目睹“方舟01号”及混乱的难民",
+      "time": "本章开始"
+    },
+    {
+      "id": "confrontation_at_gate",
+      "description": "检票口发生冲突，李疯狂被扫描出S级高能反应，确认为“逻辑之主”",
+      "time": "本章中间"
+    },
+    {
+      "id": "role_assignment",
+      "description": "方舟势力将李疯狂尊为“导航员”请入驾驶舱，将苏浅分配至医疗区",
+      "time": "本章中间"
+    },
+    {
+      "id": "ark_departure",
+      "description": "李疯狂进入驾驶舱，利用写有“欠炸鸡”的便签纸设定坐标，方舟启动，主厨在云层现身",
+      "time": "本章结尾"
+    }
+  ],
+  "time_period": "第三个沦陷周 · 星期三上午 09:30",
+  "locations": [
+    "第4区中央广场",
+    "“方舟01号”登船口",
+    "方舟01号驾驶舱",
+    "方舟01号后部第7车厢（医疗区）"
+  ],
+  "key_facts": [
+    {
+      "id": "ark01_appearance",
+      "content": "“方舟01号”是由重型卡车、装甲车、公交车强行拼接而成的移动钢铁巨兽，车轮比两层楼高，车身刷着“本次行程终点：未定义”"
+    },
+    {
+      "id": "li_madness_eye_status",
+      "content": "李疯狂左眼呈灰白色时代表“绝对理性”的停机状态；当他输入坐标时，左眼深处浮现猩红血色"
+    },
+    {
+      "id": "su_qin_arm_ability",
+      "content": "苏浅左臂属于【序列 · 神性容器】，具有高维污染和医疗辅助特征，过载时金色纹路亮起"
+    },
+    {
+      "id": "navigation_method",
+      "content": "方舟驾驶员看不见路，需要“导航员”用逻辑修正航向；李疯狂使用苏浅留下的便签纸作为坐标来源"
+    },
+    {
+      "id": "chef_identity",
+      "content": "“主厨”是一个能在此世界高空云层中显现巨大人脸、并能直接在李疯狂脑海中对话的存在，称呼李疯狂为“副主厨大人”"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,111 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "定北侯",
+      "description": "面如冠玉，身形修长，外表看似佝偻病态或纵欲过度的浪荡子，实则气度不凡",
+      "status": "active"
+    },
+    {
+      "name": "刘全",
+      "age": "未知",
+      "role": "定北侯府管家（皇帝眼线）",
+      "description": "无具体外貌描写",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "未知",
+      "role": "萧寒的贴身侍卫/下属",
+      "description": "脸色铁青，捧着锦袍",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "未知",
+      "role": "长公主",
+      "description": "玄衣金绣，未施粉黛，仅簪赤金凤钗，黑发如瀑，眼神清冷如霜",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "未知",
+      "role": "长公主侍女",
+      "description": "无具体外貌描写",
+      "status": "active"
+    },
+    {
+      "name": "传令官",
+      "age": "未知",
+      "role": "禁军传令官",
+      "description": "身穿禁军服饰",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "李瑾",
+    "翠儿"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "royal_summon",
+      "description": "朝廷传旨，命令定北侯萧寒即刻前往长公主府觐见",
+      "time": "次日清晨"
+    },
+    {
+      "id": "xiao_han_acting",
+      "description": "萧寒在管家和传令官面前表现得贪财、胆小、没见过世面",
+      "time": "次日清晨"
+    },
+    {
+      "id": "meeting_li_jin",
+      "description": "萧寒抵达长公主府听雨榭，与李瑾进行了一场言语试探的对峙",
+      "time": "次日清晨"
+    },
+    {
+      "id": "gaining_trust",
+      "description": "萧寒卸下伪装，以示弱和愿为‘刀’的言论，成功获得了李瑾的初步信任",
+      "time": "次日清晨"
+    },
+    {
+      "id": "received_token",
+      "description": "李瑾赐予萧寒一枚黑铁令牌，借口清理私账，实际上授予其调动三百暗桩的权力",
+      "time": "次日清晨"
+    }
+  ],
+  "time_period": "建安二十三年，秋，次日清晨",
+  "locations": [
+    "定北侯府",
+    "长公主府",
+    "听雨榭",
+    "朱雀大街"
+  ],
+  "key_facts": [
+    {
+      "id": "liuquan_spy",
+      "content": "定北侯府管家刘全是皇帝安插的眼线，认为萧寒贪财庸碌"
+    },
+    {
+      "id": "token_power",
+      "content": "萧寒获得一枚黑铁令牌，可调动长公主在京畿卫中的三百暗桩"
+    },
+    {
+      "id": "fengjin_metaphor",
+      "content": "李瑾将萧寒看作‘被困在笼子里的狼’，并认为萧寒未必想咬人，可作为互相利用的对象"
+    },
+    {
+      "id": "xiao_han_strategy",
+      "content": "萧寒采用示弱、装傻充愣和贪财的伪装来消除朝廷戒心，并寻求长公主的庇护"
+    },
+    {
+      "id": "qingxue_resemblance",
+      "content": "萧寒观察到李瑾的眼神酷似现代的林清雪，且李瑾的气质让萧寒产生莫名的熟悉感"
+    },
+    {
+      "id": "accounting_excuse",
+      "content": "萧寒获得权力的官方托辞是帮长公主做账（清理私账）"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯",
+      "age": "26",
+      "role": "前程序员 / S级通缉犯 / 疯狂星期四教派荣誉主席",
+      "description": "左手手背上有咖啡渍状印记（形状像西餐叉子），醒来时极度虚弱且饥饿",
+      "status": "active"
+    },
+    {
+      "name": "002号",
+      "age": "未知",
+      "role": "收容局捕食者小队领队 / 审讯科002号",
+      "description": "体型佝偻的老人，上半身穿制服，下半身为软趴趴的暗紫色肉块（像蜗牛），左臂是巨大的金属质地油枪，嘴巴有鲨鱼般的锯齿牙",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "外围支援",
+      "description": "仅通过通讯器声音出现，语气冷静清冷",
+      "status": "active"
+    },
+    {
+      "name": "理智之主",
+      "age": "未知",
+      "role": "李疯的意识/分裂人格",
+      "description": "脑海中身穿黑礼服的优雅黑色身影，自称“账单持有人”",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "002号",
+    "创始人肯"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "citywide_broadcast",
+      "description": "城市广播被接管，全城通缉李疯，指控其组织变异体集会，并标注其为具有暴食倾向的S级通缉犯。",
+      "time": "周五早晨 07:30"
+    },
+    {
+      "id": "memory_recall",
+      "description": "李疯通过名片刺激回想起昨晚成立“疯狂星期四教派”并煽动丧尸喊口号的疯狂行径。",
+      "time": "周五早晨 07:30"
+    },
+    {
+      "id": "assault_on_belfry",
+      "description": "收容局002号带队包围钟楼，使用“神罚之油”发起攻击，李疯躲避攻势。",
+      "time": "周五早晨 07:30"
+    },
+    {
+      "id": "su_warning",
+      "description": "苏浅告知李疯收容局高层意图将其活剐以夺取神格碎片，并指示逃往旧城区地铁黑市。",
+      "time": "周五早晨 07:30"
+    },
+    {
+      "id": "counter_attack_prep",
+      "description": "李疯获得理智之主的力量支持，决定反击并手持指骨准备突围。",
+      "time": "周五早晨 07:30"
+    }
+  ],
+  "time_period": "第一周期·周五早晨 07:30",
+  "locations": [
+    "城市第9区·废弃教堂钟楼顶端",
+    "旧城区地铁系统（提及）"
+  ],
+  "key_facts": [
+    {
+      "id": "li_feng_wanted_status",
+      "content": "李疯是S级通缉犯，悬赏为肯德基兑换券和配给罐头。罪名是组织大规模集会和暴力狂欢。"
+    },
+    {
+      "id": "li_feng_hand_mark",
+      "content": "李疯左手手背上有咖啡渍状印记，形状像西餐叉子，触碰有触电感。"
+    },
+    {
+      "id": "crazy_thursday_cult",
+      "content": "李疯持有一张印着“疯狂星期四教派·荣誉主席兼首席试吃官：李疯”的黑金名片，创始人为“肯”。"
+    },
+    {
+      "id": "li_feng_divinity_fragment",
+      "content": "李疯吞噬了“创始人”的神格碎片，在收容局眼中是行走的“神之容器”。"
+    },
+    {
+      "id": "agent_002_profile",
+      "content": "002号是收容局审讯科成员，已发生严重变异（下肢肉块化），左臂武装为S级概念武装“高压油脂喷射器（神罚之油）”。"
+    },
+    {
+      "id": "bureau_intention",
+      "content": "收容局高层意图活剐李疯，将其作为食材分食以提升自身序列或治愈变异。"
+    },
+    {
+      "id": "rational_lord_title",
+      "content": "李疯脑海中的理智之主自称“账单持有人”。"
+    },
+    {
+      "id": "item_phalanx_bone",
+      "content": "李疯拥有一根巨大的惨白指骨（缠绕红色丝带和蜡烛），作为武器使用。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

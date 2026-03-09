@@ -1,0 +1,92 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "半神/前社畜/容器",
+      "description": "苍白得近乎透明的皮肤，左眼瞳孔像坏掉的灯泡般半亮半灭，散发高浓度神血味",
+      "status": "active"
+    },
+    {
+      "name": "饕餮嘴",
+      "age": "未知",
+      "role": "黑市店铺管理者",
+      "description": "长在肉块上的直径超过两米的巨嘴，无舌，有无数条像蛆虫一样的小触手，挂着发黄象牙",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "记忆体/数据包",
+      "description": "穿着松垮T恤，头发凌乱，活生生的人类形象",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "饕餮嘴"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "memory_purchase",
+      "description": "李疯狂在“星期三”黑市用神性权柄（秩序的一角）从饕餮嘴处购买了苏浅的一个记忆碎片",
+      "time": "星期三·黄昏"
+    },
+    {
+      "id": "memory_ingestion",
+      "description": "李疯狂强行饮下含有苏浅记忆的试管液体，系统报警逻辑污染",
+      "time": "星期三·黄昏"
+    },
+    {
+      "id": "logic_collapse",
+      "description": "“爱”的逻辑病毒强制覆盖了“理智”协议，导致核心逻辑模块崩溃，李疯狂恢复人性情感",
+      "time": "星期三·黄昏"
+    },
+    {
+      "id": "identity_restoration",
+      "description": "系统卸载“理智”角色，恢复确认为“李疯狂”，并播放“V我50”录音",
+      "time": "星期三·黄昏"
+    },
+    {
+      "id": "inner_observer_awake",
+      "description": "李疯狂体内的古神残魂（高维眼球）苏醒并感知到变化",
+      "time": "星期三·黄昏"
+    }
+  ],
+  "time_period": "新时间线 · 星期三 · 黄昏",
+  "locations": [
+    "南极废墟地下三层 · “星期三”黑市记忆交易所",
+    "出租屋（记忆中）"
+  ],
+  "key_facts": [
+    {
+      "id": "love_virus",
+      "content": "苏浅的记忆被系统识别为“爱”的逻辑病毒，拥有最高权限，可改写底层协议并摧毁“理智”"
+    },
+    {
+      "id": "hidden_god_eye",
+      "content": "李疯狂的胃部盲区深处藏有一个高维眼球（古神残魂），一直在暗中观察并将李疯狂视为即将成熟的果实"
+    },
+    {
+      "id": "market_currency",
+      "content": "该黑市接受高维生物身上掉落的“神性”渣滓（如头发、血液）作为最高级货币"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "理智",
+        "爷"
+      ]
+    },
+    {
+      "role_or_identity": "黑市店主",
+      "names": [
+        "饕餮嘴",
+        "巨嘴"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "characters_present": [
+    {
+      "name": "太子",
+      "age": "未知",
+      "role": "太子",
+      "description": "面色阴沉如水，双眼布满血丝，眼神狠戾，急于掌权",
+      "status": "active"
+    },
+    {
+      "name": "刘统领",
+      "age": "未知",
+      "role": "禁军统领",
+      "description": "浑身是血，狼狈不堪，脸颊插着北蛮弯刀，瑟瑟发抖",
+      "status": "active"
+    },
+    {
+      "name": "谋士",
+      "age": "未知",
+      "role": "太子谋士",
+      "description": "小心翼翼",
+      "status": "active"
+    },
+    {
+      "name": "老皇帝",
+      "age": "未知",
+      "role": "皇帝",
+      "description": "弥留之际，卧病在床，眼神浑浊后回光返照",
+      "status": "deceased"
+    },
+    {
+      "name": "老太监",
+      "age": "未知",
+      "role": "太监",
+      "description": "守在床前伺候",
+      "status": "active"
+    },
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "定北侯/辅政大臣",
+      "description": "身穿素衣重孝，披头散发，左肩受重伤，神情由悲痛转为肃杀冷漠",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "未知",
+      "role": "黑云骑将领",
+      "description": "带领黑云骑残部赶来",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "刘统领",
+    "沈锋"
+  ],
+  "character_exits": [
+    {
+      "name": "老皇帝",
+      "reason": "驾崩"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "interrogation_in_east_palace",
+      "description": "太子审诈败归来的刘统领，识破萧寒“金蝉脱壳”计谋，决定封锁京城并抢夺先机。",
+      "time": "建安二十三年腊月深夜"
+    },
+    {
+      "id": "xiao_han_enters_taiji_hall",
+      "description": "萧寒带伤闯入太极殿，向垂死皇帝上演“护驾不力”的悲情戏码，博取信任。",
+      "time": "建安二十三年腊月深夜"
+    },
+    {
+      "id": "emperor_changes_heir",
+      "description": "老皇帝临终前认定太子为保皇权会牺牲长公主，决定传位给听话的六皇子，并托付给萧寒。",
+      "time": "建安二十三年腊月深夜"
+    },
+    {
+      "id": "emperor_passes_away",
+      "description": "老皇帝驾崩。",
+      "time": "建安二十三年腊月深夜"
+    },
+    {
+      "id": "xiao_han_announces_edict",
+      "description": "萧寒宣读遗诏，拥立六皇子登基，自封辅政大臣总领兵马，并软禁太子。",
+      "time": "建安二十三年腊月深夜"
+    }
+  ],
+  "time_period": "建安二十三年腊月，深夜（子时一刻）",
+  "locations": [
+    "东宫",
+    "太极殿"
+  ],
+  "key_facts": [
+    {
+      "id": "fake_kidnapping_plot",
+      "content": "长公主被劫实为萧寒与刘统领自导自演的苦肉计，目的是隐藏长公主并夺取政治筹码。"
+    },
+    {
+      "id": "prince_regent_title",
+      "content": "萧寒被封为辅政大臣，总领天下兵马，成为摄政王。"
+    },
+    {
+      "id": "sixth_prince_succession",
+      "content": "新皇遗诏指定由六皇子李恪即位。"
+    },
+    {
+      "id": "prince_confinement",
+      "content": "太子被萧寒勒令回东宫守孝，失去即位机会。"
+    },
+    {
+      "id": "xiao_han_injury",
+      "content": "萧寒左肩受伤流血，实际状态为演戏。"
+    }
+  ]
+}

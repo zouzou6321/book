@@ -1,0 +1,82 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "",
+      "role": "摄政王",
+      "description": "身着紫色的亲王蟒袍，头戴金冠，面容冷峻，拥有令人不敢直视的威严",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "",
+      "role": "大梁长公主",
+      "description": "身穿红色劲装，皮肤呈小麦色，英姿飒爽，眼神锐利",
+      "status": "active"
+    },
+    {
+      "name": "工部侍郎刘大人",
+      "age": "",
+      "role": "工部侍郎",
+      "description": "在茶楼观察，对局势理解透彻，态度看透",
+      "status": "active"
+    },
+    {
+      "name": "御史官员",
+      "age": "",
+      "role": "御史",
+      "description": "在茶楼观察，对萧寒和李瑾的行为感到愤怒和不满",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "工部侍郎刘大人",
+    "御史官员"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "princess_return",
+      "description": "长公主李瑾率领黑云骑，押送北蛮可汗首级及俘虏回到京城",
+      "time": "建安二十四年春正午"
+    },
+    {
+      "id": "couple_ride",
+      "description": "萧寒策马出城迎接，李瑾跳上萧寒的马，两人共骑一马穿过朱雀大街接受百姓欢呼",
+      "time": "建安二十四年春正午"
+    },
+    {
+      "id": "night_reunion",
+      "description": "萧寒夜闯长公主府后花园，与李瑾互诉前世今生情愫，确立关系",
+      "time": "建安二十四年春夜晚"
+    }
+  ],
+  "time_period": "建安二十四年，春（正午至夜晚）",
+  "locations": [
+    "朱雀大街",
+    "京城茶楼",
+    "长公主府后花园"
+  ],
+  "key_facts": [
+    {
+      "id": "barbarian_defeat",
+      "content": "李瑾消灭了北蛮部落，带回了北蛮可汗的首级和精锐俘虏"
+    },
+    {
+      "id": "black_cloud_cavalry",
+      "content": "李瑾的护卫队是曾在北境令蛮族闻风丧胆的“黑云骑”"
+    },
+    {
+      "id": "public_sentiment",
+      "content": "京城百姓因萧寒减免赋税和稳定物价而对其拥戴，并赞成其与长公主的恋情"
+    },
+    {
+      "id": "xiao_han_background",
+      "content": "萧寒在对话中使用了“经纪人”、“炒作”、“洗白”、“国民CP”等现代词汇，并提及“前世”经历"
+    },
+    {
+      "id": "political_move",
+      "content": "萧寒利用此次大游行和民意，变相逼迫朝中反对者无法对二人结合提出异议"
+    }
+  ]
+}

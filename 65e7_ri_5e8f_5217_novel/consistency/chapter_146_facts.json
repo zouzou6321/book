@@ -1,0 +1,82 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "顾客/人类",
+      "description": "左眼有纯金色倒V符号，左手半透明流淌着银色液态逻辑，手持由李小鱼的肋骨打磨成的骨勺。",
+      "status": "active"
+    },
+    {
+      "name": "代行者 · 肯尼基",
+      "age": "",
+      "role": "领班级/服务员",
+      "description": "身高超过十米的巨人，公鸡头骨骼，身穿油腻白色双排扣西装，双手如发酵面团，后颈悬挂逻辑核心工牌。",
+      "status": "deceased"
+    },
+    {
+      "name": "主厨",
+      "age": "",
+      "role": "统治者",
+      "description": "悬挂在天花板上的巨大金属叉子和一只布满血丝的独眼，声音宏大威严。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "代行者 · 肯尼基",
+    "主厨"
+  ],
+  "character_exits": [
+    {
+      "name": "代行者 · 肯尼基",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "entry_central_kitchen",
+      "description": "李疯狂进入中央厨房，发现地砖由人类头盖骨铺成。",
+      "time": "星期四零点前夕"
+    },
+    {
+      "id": "confrontation_kenny",
+      "description": "鸡头巨人肯尼基试图将李疯狂作为食材，李疯狂利用规则将其判定为违建并击杀。",
+      "time": "星期四零点前夕"
+    },
+    {
+      "id": "chef_appearance",
+      "description": "主厨通过巨眼现身并发动攻击，索要服务费。",
+      "time": "星期四零点前夕"
+    },
+    {
+      "id": "gluttony_mode_activation",
+      "description": "李疯狂开启理智暴食模式，准备对抗主厨。",
+      "time": "星期四零点前夕"
+    }
+  ],
+  "time_period": "星期四零点前夕（永恒的现在）",
+  "locations": [
+    "中央厨房",
+    "巨型消化道回廊",
+    "一楼大堂"
+  ],
+  "key_facts": [
+    {
+      "id": "floor_composition",
+      "content": "中央厨房一楼大堂的地砖由被压扁、打磨过的人类头盖骨铺成。"
+    },
+    {
+      "id": "su_qian_payment",
+      "content": "苏浅以灵魂所有权作为支付方式，为李疯狂付了款。"
+    },
+    {
+      "id": "weapon_origin",
+      "content": "李疯狂的武器是骨勺，材质源自李小鱼的肋骨。"
+    },
+    {
+      "id": "li_fengkuang_illusion",
+      "content": "李疯狂被误认为是“副主厨”。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

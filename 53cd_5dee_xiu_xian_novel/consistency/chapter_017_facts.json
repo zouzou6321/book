@@ -1,0 +1,94 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "内门首席大弟子/玄天真人",
+      "description": "外表穿着金光闪闪的云流天衣，里面罩着王虎的破灰袍和裂开的黑红双色裤衩",
+      "status": "active"
+    },
+    {
+      "name": "王虎",
+      "age": "未知",
+      "role": "外门弟子",
+      "description": "宽厚脊背，曾脱下灰袍给江越遮挡",
+      "status": "active"
+    },
+    {
+      "name": "李峰",
+      "age": "未知",
+      "role": "外门弟子",
+      "description": "面色惨白，双眼中燃烧着茅塞顿开的火焰",
+      "status": "departed"
+    },
+    {
+      "name": "掌门",
+      "age": "老年",
+      "role": "太玄宗掌门",
+      "description": "仙风道骨，白须飘飘",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "内门第一天骄/记名侍女",
+      "description": "白衣如雪，脸若冰霜但此刻脸红",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "掌门",
+    "林清雪"
+  ],
+  "character_exits": [
+    {
+      "name": "李峰",
+      "reason": "顿悟离开，回去重新练剑"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "li_feng_misunderstanding",
+      "description": "李峰误以为江越提裤是保全自己颜面的高风亮节，当场顿悟并离去",
+      "time": "上午9:45后不久"
+    },
+    {
+      "id": "jiangyue_promotion",
+      "description": "掌门宣布江越破格晋升为内门首席大弟子，赐号‘玄天真人’",
+      "time": "半小时后"
+    },
+    {
+      "id": "fashion_statement",
+      "description": "江越忽悠掌门，将破灰袍和彩色裤衩保留在内，把高贵的云流天衣穿在外面，被解读为时尚和高深境界",
+      "time": "晋升仪式上"
+    },
+    {
+      "id": "lin_qingxue_request",
+      "description": "林清雪为了观摩‘双色莲花’大道，自愿请贬为江越的记名侍女，江越被迫接受",
+      "time": "晋升仪式尾声"
+    }
+  ],
+  "time_period": "穿越第十七天，巳时三刻（上午 9:45）之后",
+  "locations": [
+    "太玄宗·外门演武广场",
+    "太玄宗·内门接引大殿"
+  ],
+  "key_facts": [
+    {
+      "id": "title_xuantian",
+      "content": "江越被赐予道号‘玄天真人’"
+    },
+    {
+      "id": "position_inner_disciple",
+      "content": "江越现任太玄宗内门首席大弟子"
+    },
+    {
+      "id": "outfit_layering",
+      "content": "江越目前的着装是：最里面是裂开的黑红双色裤衩，中间是王虎的破灰袍，最外层是华丽的云流天衣"
+    },
+    {
+      "id": "lin_qingxue_status",
+      "content": "林清雪现在是江越的记名侍女"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "二十六岁",
+      "role": "老爹炸鸡经理",
+      "description": "脸色苍白，发际线微后移，左眼为带有倒“V”符号的义眼",
+      "status": "active"
+    },
+    {
+      "name": "穿越者“观察者”",
+      "age": "未知",
+      "role": "修正者/残魂",
+      "description": "身形过高，黑色风衣，皮肤下有电路板般的黑色纹路，手持银色金属手提箱",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "穿越者“观察者”"
+  ],
+  "character_exits": [
+    {
+      "name": "穿越者“观察者”",
+      "reason": "被击败驱离"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "intruder_arrival",
+      "description": "非法数据源入侵经理办公室，系统识别来源为扇区404的穿越者“观察者”残魂",
+      "time": "10:15"
+    },
+    {
+      "id": "concept_battle",
+      "description": "李疯狂使用“通货膨胀逻辑”（篡改能力）配合番茄酱攻击，击退了试图用“旧日逻辑”污染他的入侵者",
+      "time": "10:15"
+    },
+    {
+      "id": "suitcase_disposal",
+      "description": "李疯狂将入侵者留下的银色手提箱（高危物品“旧日账单”）扔进炸锅销毁",
+      "time": "10:15之后"
+    }
+  ],
+  "time_period": "新纪元·第二周·星期六 10:15",
+  "locations": [
+    "中央商业区“老爹炸鸡”旗舰店经理办公室",
+    "炸锅区域"
+  ],
+  "key_facts": [
+    {
+      "id": "su_qian_status",
+      "content": "苏浅的灵魂概念（淡蓝色幽光）被寄宿在李疯狂心脏位置的微型牢笼中，其本体在重置后的世界里作为普通人生活"
+    },
+    {
+      "id": "world_logic_rewrite",
+      "content": "李疯狂将“古神”重命名为“星期四”，将“献祭”重命名为“吃炸鸡”，以此通过庸俗逻辑对抗高维悲剧叙事"
+    },
+    {
+      "id": "intruder_goal",
+      "content": "入侵者意图将苏浅“格式化”并注入“旧日”逻辑，以重启上一世的“神降计划”"
+    },
+    {
+      "id": "li_crazy_eye",
+      "content": "李疯狂拥有义眼，视野中可见金色代码线条，可解析物体的逻辑结构"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

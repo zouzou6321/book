@@ -1,0 +1,99 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "系统补丁/清道夫/逻辑之主",
+      "description": "白发如杂草，灰色夹克，左眼有倒V符号，胸口原心脏位置为空洞，体内有黑色风暴",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "合伙人/副主厨",
+      "description": "穿着昂贵的定制风衣，掌心有同心圆图腾，左臂皮肤完全晶体化",
+      "status": "active"
+    },
+    {
+      "name": "服务员",
+      "age": "年轻",
+      "role": "餐厅服务员",
+      "description": "年轻男性，身穿制服，被吓瘫",
+      "status": "active"
+    },
+    {
+      "name": "旧日董事长",
+      "age": "未知",
+      "role": "古神/旧日支配者",
+      "description": "被具象化为带有脸的炸鸡块，结尾在高楼阴影中表现为巨大的不可名状影子",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "服务员"
+  ],
+  "character_exits": [
+    {
+      "name": "旧日董事长",
+      "reason": "死亡"
+    },
+    {
+      "name": "李疯狂",
+      "reason": "离开"
+    },
+    {
+      "name": "苏浅",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "menu_manifestation",
+      "description": "李疯狂召唤出包含‘绝望’、‘旧日支配者的凝视’等概念的全息菜单，并将苏浅从‘非卖品’修改为专属",
+      "time": "黄昏"
+    },
+    {
+      "id": "partner_share",
+      "description": "苏浅拒绝让李疯狂独自承担，作为合伙人分担了高维废料的侵蚀",
+      "time": "黄昏"
+    },
+    {
+      "id": "global_gluttony",
+      "description": "李疯狂和苏浅开始进食，将具象化为炸鸡的全人类负面情绪（疯狂）吃掉",
+      "time": "黄昏"
+    },
+    {
+      "id": "world_restoration",
+      "description": "进食结束，李疯狂打出饱嗝，世界崩坏停止，变异人类恢复正常",
+      "time": "夜晚"
+    }
+  ],
+  "time_period": "新纪元第N个10月26日，星期四，黄昏至夜晚",
+  "locations": [
+    "老爹炸鸡旗舰店",
+    "靠窗第4号桌"
+  ],
+  "key_facts": [
+    {
+      "id": "lifeng_heart",
+      "content": "李疯狂胸口原心脏位置是一个通往另一个宇宙的空洞（黑色风暴），结尾处苏浅在此处留下了‘人性’的火种"
+    },
+    {
+      "id": "suqian_crystallization",
+      "content": "苏浅在分担高维废料后，左臂皮肤完全晶体化，呈现出诡异的银色光泽"
+    },
+    {
+      "id": "thursday_mechanism",
+      "content": "‘疯狂星期四’是李疯狂吞噬全人类贪婪、焦虑等负面情绪以维持世界正常运转的周期性机制"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "李"
+      ]
+    }
+  ]
+}

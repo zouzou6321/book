@@ -1,0 +1,93 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "",
+      "role": "前太玄宗弟子，修仙界肄业学生",
+      "description": "头发散乱，身穿平民衣物",
+      "status": "departed"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "江越的师妹，剑修",
+      "description": "身着青布荆钗，气质清丽，眼神坚定",
+      "status": "departed"
+    },
+    {
+      "name": "老灰",
+      "age": "",
+      "role": "坐骑（驴）",
+      "description": "瘦骨嶙峋，灰毛，倔强",
+      "status": "active"
+    },
+    {
+      "name": "旺财",
+      "age": "",
+      "role": "神兽（吞天金蟾）",
+      "description": "像长了疙瘩的陈年老泥，趴在头顶或藏在袖中",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "江越",
+      "reason": "被系统强制转学至高武世界补习班"
+    },
+    {
+      "name": "林清雪",
+      "reason": "因因果纠缠随江越一同转学至高武世界"
+    },
+    {
+      "name": "旺财",
+      "reason": "藏身于林清雪袖中随行至高武世界"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "system_interrupt",
+      "description": "江越在去桃花坞途中休息时，系统突然降临，判定其在修仙界生涯为‘肄业’。",
+      "time": "黄昏"
+    },
+    {
+      "id": "forced_transfer_start",
+      "description": "系统以‘学渣’需重修为由，启动强制转学程序，目标为高武世界补习班。",
+      "time": "黄昏"
+    },
+    {
+      "id": "companions_leaving",
+      "description": "林清雪抓住江越不愿分离，判定因果不可分割；旺财跳入林清雪袖中。三人一同被卷入传送漩涡。",
+      "time": "黄昏"
+    },
+    {
+      "id": "donkey_remaining",
+      "description": "老灰（驴）未被传送，在目送三人离开后，独自前往桃花坞。",
+      "time": "黄昏"
+    }
+  ],
+  "time_period": "黄昏",
+  "locations": [
+    "通往江南桃花坞的官道",
+    "荒野林地",
+    "高武世界补习班（目标）"
+  ],
+  "key_facts": [
+    {
+      "id": "world_shift",
+      "content": "剧情将从修仙界切换至高武世界。"
+    },
+    {
+      "id": "system_status",
+      "content": "系统判定江越修仙界学历为‘肄业’，认为其综合素质仍为‘学渣’水平。"
+    },
+    {
+      "id": "party_status",
+      "content": "江越、林清雪、旺财三人组队进入高武世界，老灰留在了修仙界。"
+    },
+    {
+      "id": "volume_end",
+      "content": "本章为第三卷完结。"
+    }
+  ]
+}

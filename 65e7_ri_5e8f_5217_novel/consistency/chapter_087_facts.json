@@ -1,0 +1,88 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "消费者协会代表/评审员/主角",
+      "description": "左眼眶深处有倒“V”符号，半张脸布满血色裂纹，面色发青，持有【疯狂星期四 · 特权邀请函】和【李小鱼的肋骨（骨勺）】",
+      "status": "active"
+    },
+    {
+      "name": "厨师长",
+      "age": "未知",
+      "role": "无限餐厅主厨/不可名状巨兽",
+      "description": "鸟头怪物，正方形嘴巴，复眼，羽毛比喜马拉雅山脉粗壮，手持截断的银河系作为搅拌棒",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "被吞噬的人类/餐具（食材）",
+      "description": "最初以雏菊中眼睛的形式出现，后表现为由破碎金属和布偶组成的机械手，被困在汤中",
+      "status": "active"
+    },
+    {
+      "name": "系统",
+      "age": "未知",
+      "role": "辅助系统",
+      "description": "存在于李疯狂脑海中的界面，提供序列能力和警告弹窗",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "厨师长"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "complaint_initiated",
+      "description": "李疯狂以持有特权邀请函的身份，对厨师长即将端上去的汤提出差评威胁",
+      "time": "疯狂日"
+    },
+    {
+      "id": "visit_kitchen_office",
+      "description": "李疯狂被带入厨师长的“办公室”（内部空间），目睹被剥皮行星和时间脊椎等食材，确认为现实世界正在被烹饪成“人类文明的绝望浓汤”",
+      "time": "疯狂日"
+    },
+    {
+      "id": "critique_and_rewrite",
+      "description": "李疯狂批评汤中混入陈旧底料（如恐龙灭绝），并系统发动“篡改 · 概念覆写”，强制赋予汤“过期·变质·腐坏”的属性",
+      "time": "疯狂日"
+    },
+    {
+      "id": "soup_dumping_crisis",
+      "description": "厨师长受概念诱导产生极度厌恶，开始倾倒巨锅汤液，意图销毁这锅“变质”的现实世界",
+      "time": "疯狂日"
+    },
+    {
+      "id": "rescue_attempt",
+      "description": "李疯狂发现苏浅在汤中且将被随之倒掉，在撤回指令失败后，试图冲去给锅“加个盖子”以挽救苏浅",
+      "time": "疯狂日"
+    }
+  ],
+  "time_period": "疯狂日（概念重叠的永恒下午三点）",
+  "locations": [
+    "无限餐厅 · 核心后厨区",
+    "宇宙屠宰场（厨师长的办公室）",
+    "无限餐厅主厨汤锅（本体）"
+  ],
+  "key_facts": [
+    {
+      "id": "reality_is_soup",
+      "content": "现实世界在无限餐厅中被定义为“人类文明的绝望浓汤”，属于预加工的半成品"
+    },
+    {
+      "id": "li_eye_status",
+      "content": "李疯狂的左眼处于极度危险的过载状态，伴有裂纹和血泪"
+    },
+    {
+      "id": "invitation_privilege",
+      "content": "持有【疯狂星期四 · 特权邀请函】在无限餐厅底层逻辑中拥有“最终解释权”"
+    },
+    {
+      "id": "su_qian_state",
+      "content": "苏浅目前被标记为汤的一部分（餐具/变质食材），如果被倒掉进入虚空排泄口将无法挽回"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

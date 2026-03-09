@@ -1,0 +1,95 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "导航员/理智之主（伪）",
+      "description": "面色苍白，左眼深处有倒“V”符号并处于高频闪烁状态，身穿印有“V我50”的T恤",
+      "status": "active"
+    },
+    {
+      "name": "半机械驾驶员",
+      "age": "",
+      "role": "驾驶员",
+      "description": "声音像漏风的风箱，拥有被改造过的玻璃眼球，眼球深处曾浮现诡异微笑",
+      "status": "active"
+    },
+    {
+      "name": "随队科学家",
+      "age": "",
+      "role": "科学家",
+      "description": "戴着厚瓶底眼镜，手里拿着老式盖革计数器",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "主角同伴",
+      "description": "身穿黑色战术风衣，左臂上有金色纹路",
+      "status": "active"
+    },
+    {
+      "name": "幸存的向导特工",
+      "age": "",
+      "role": "特工",
+      "description": "脸色煞白",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "随队科学家"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "capsaicin_escape",
+      "description": "李疯狂使用【篡改 · 概念覆写：辣椒素注入】攻击世界组织，引发反刍，方舟从“牙缝”逃出",
+      "time": "疯狂日 · 星期三下午"
+    },
+    {
+      "id": "world_truth_reveal",
+      "description": "科学家通过观察解释世界真相：世界是一枚卵/食物，地壳是蛋壳，时间融化是因为孵化温度升高",
+      "time": "疯狂日 · 星期三下午"
+    },
+    {
+      "id": "eyelash_threat",
+      "description": "深处的巨大睫毛（黑色晶体山脉）移动，掀起风压并险些压碎方舟",
+      "time": "疯狂日 · 星期三下午"
+    },
+    {
+      "id": "disgust_defense",
+      "description": "李疯狂竖中指并使用【篡改 · 定义修正：存在感 · 极度令人作呕】，使睫毛因厌恶而偏移",
+      "time": "疯狂日 · 星期三下午"
+    },
+    {
+      "id": "suqian_interaction",
+      "description": "苏浅出现在甲板，在李疯狂表示要吃了她后扇了他一巴掌，随后两人十指紧扣",
+      "time": "疯狂日 · 星期三下午"
+    }
+  ],
+  "time_period": "疯狂日 · 星期三下午",
+  "locations": [
+    "诺亚方舟01号甲板",
+    "地表裂谷（世界蛋壳裂缝处）",
+    "世界背面 · 地壳裂缝区"
+  ],
+  "key_facts": [
+    {
+      "id": "world_is_egg",
+      "content": "世界本质是一个巨大的卵或者食物，而非星球"
+    },
+    {
+      "id": "li_crazy_evolution",
+      "content": "李疯狂的系统更新为“理智之主（伪）v2.0”，正在加载情感模块"
+    },
+    {
+      "id": "pilot_possessed",
+      "content": "半机械驾驶员似乎被其他“食客”附身或监视，对主角持有恶意"
+    },
+    {
+      "id": "concept_weapon",
+      "content": "李疯狂的武器是【李小鱼的肋骨（骨勺）】，具备篡改概念的能力"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

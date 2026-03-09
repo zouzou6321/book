@@ -1,0 +1,111 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "半神/伪装服务生",
+      "description": "左眼有倒V符号，身穿小一号的洁白制服，推着沾有黑色油渍的三层不锈钢餐车",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "意识碎片/伪装餐巾",
+      "description": "一块洁白无瑕的餐巾，散发着与周围格格不入的纯净与温暖感",
+      "status": "active"
+    },
+    {
+      "name": "古神残魂",
+      "age": "",
+      "role": "随从/伪装泔水",
+      "description": "被封印在餐车下层的泔水桶里，冒着黑泡",
+      "status": "active"
+    },
+    {
+      "name": "星期四创始人",
+      "age": "",
+      "role": "随从/伪装苍蝇",
+      "description": "被压缩成一只穿着油腻背心的塑料苍蝇",
+      "status": "active"
+    },
+    {
+      "name": "肉球",
+      "age": "",
+      "role": "古神·贪食者",
+      "description": "由无数张痛苦嚎叫的人类面孔拼接而成的肉球",
+      "status": "active"
+    },
+    {
+      "name": "财务总监",
+      "age": "",
+      "role": "管理者",
+      "description": "机械音，操控数据光束，位于幽暗的后门深处",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "财务总监"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "identity_rewrite",
+      "description": "李疯狂发动【篡改者·概念覆写】，将自身及体内寄生意识（苏浅、古神残魂、星期四创始人）伪装成服务生、餐巾、泔水和苍蝇，混入餐厅",
+      "time": "最后的星期日，05:30"
+    },
+    {
+      "id": "dining_observation",
+      "description": "李疯狂观察到旧日支配者吞噬恒星系，并得知‘绝望’是鲜味剂，‘希望’是毒素，‘疯狂’是辣味",
+      "time": "最后的星期日，05:30"
+    },
+    {
+      "id": "poison_attack",
+      "description": "肉球古神试图舔食苏浅（餐巾），李疯狂利用概念覆写将其定义为‘剧毒’（高浓度爱意），导致肉球产生排异反应并呕吐",
+      "time": "最后的星期日，05:30"
+    },
+    {
+      "id": "backroom_encounter",
+      "description": "李疯狂到达通往后厨的入口，发现那是名为‘账房’的核心区域，并遭遇索要餐费的财务总监",
+      "time": "最后的星期日，05:30"
+    }
+  ],
+  "time_period": "最后的星期日，05:30",
+  "locations": [
+    "高维空间·旧日餐厅·自助取餐区",
+    "通往账房的入口"
+  ],
+  "key_facts": [
+    {
+      "id": "gourmet_taste",
+      "content": "对于旧日支配者，‘绝望’是鲜味剂，‘希望’是毒素，‘疯狂’是辣味（口感）"
+    },
+    {
+      "id": "love_toxicity",
+      "content": "苏浅所代表的‘牺牲’、‘无私的爱’和‘纯粹的信任’等概念，对于以绝望为食的神明是强烈的致幻毒药"
+    },
+    {
+      "id": "accounting_dept",
+      "content": "餐厅后方的区域实际上是‘账房’，掌管所有因果和债权，管理者是‘财务总监’"
+    },
+    {
+      "id": "super_loophole",
+      "content": "李疯狂口袋里写着“V我50”的纸条被定义为‘超级漏洞’，被财务总监锁定并索要餐费"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角（半神/服务生）",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    },
+    {
+      "role_or_identity": "餐厅门口的管理者",
+      "names": [
+        "收银员",
+        "乞丐"
+      ]
+    }
+  ]
+}

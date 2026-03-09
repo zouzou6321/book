@@ -1,0 +1,124 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "",
+      "role": "外门弟子/穿越者",
+      "description": "身穿破麻袋，眼神涣散（装高人），手持生锈菜刀",
+      "status": "active"
+    },
+    {
+      "name": "王虎",
+      "age": "",
+      "role": "外门弟子/迷弟",
+      "description": "体型肥胖，鼻梁上有膏药",
+      "status": "active"
+    },
+    {
+      "name": "刘奎",
+      "age": "",
+      "role": "千毒谷弃徒/参赛者",
+      "description": "身形枯瘦，面色惨白，身穿灰袍高领",
+      "status": "departed"
+    },
+    {
+      "name": "裁判",
+      "age": "",
+      "role": "演武场裁判",
+      "description": "高声唱喝比赛流程",
+      "status": "active"
+    },
+    {
+      "name": "百晓生",
+      "age": "",
+      "role": "神秘画师",
+      "description": "身穿灰袍，疯狂在画板上挥舞",
+      "status": "active"
+    },
+    {
+      "name": "执法长老",
+      "age": "",
+      "role": "太玄宗长老",
+      "description": "位于高台，准备救人",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "外门天才弟子",
+      "description": "美眸圆睁，位于回廊阴影处",
+      "status": "active"
+    },
+    {
+      "name": "扫地杂役弟子",
+      "age": "",
+      "role": "杂役",
+      "description": "手持鹅卵石",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "刘奎",
+    "百晓生"
+  ],
+  "character_exits": [
+    {
+      "name": "刘奎",
+      "reason": "被反弹的毒雾熏晕，被身穿防护法袍的弟子抬走"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "system_intervention",
+      "description": "系统发布任务，威胁江越若弃权将广播其穿开裆裤的照片，强迫其参赛。",
+      "time": "比赛开始前"
+    },
+    {
+      "id": "poison_release",
+      "description": "刘奎比赛一开始就释放“千机罗刹烟”试图毒杀江越。",
+      "time": "比赛开始瞬间"
+    },
+    {
+      "id": "sneeze_counterattack",
+      "description": "江越因系统被动护体未防住气味而打喷嚏，触发“狮子吼（喷嚏版）”，气浪将毒雾反弹至刘奎身上。",
+      "time": "比赛进行中"
+    },
+    {
+      "id": "match_end",
+      "description": "刘奎中毒倒地不起，江越被动获胜。",
+      "time": "比赛结束后"
+    },
+    {
+      "id": "mission_reward",
+      "description": "系统结算任务，给予江越S级评价和“洗髓丹（真）”。",
+      "time": "比赛结束后"
+    }
+  ],
+  "time_period": "穿越第十五天，巳时四刻（上午 10:00）",
+  "locations": [
+    "太玄宗外门",
+    "演武广场擂台"
+  ],
+  "key_facts": [
+    {
+      "id": "jiangyue_score",
+      "content": "江越当前反差值余额为2488。"
+    },
+    {
+      "id": "jiangyue_inventory",
+      "content": "江越获得道具“洗髓丹（真）”×1，系统预热的生锈破菜刀在其手中。"
+    },
+    {
+      "id": "jiangyue_abilities",
+      "content": "江越拥有系统技能【万法不侵（体验版）】，可防御伤害但无法阻隔气味；喷嚏可触发强力气流攻击。"
+    },
+    {
+      "id": "public_perception",
+      "content": "大众误以为江越掌握了“音波震荡”与“气劲护体”结合的高深神通，处于“道法自然”的境界。"
+    },
+    {
+      "id": "next_task_requirement",
+      "content": "系统要求下场比赛必须使用生锈菜刀，并以“切菜”的方式解决体修对手。"
+    }
+  ]
+}

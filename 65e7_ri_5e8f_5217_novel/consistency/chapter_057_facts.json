@@ -1,0 +1,99 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "差评师",
+      "description": "身穿黑色风衣，异色瞳（左眼死机惨白/红血色，右眼深邃漆黑），左眼有倒V字符号，后身具象化黑色燕尾服战斗装甲",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "同伴/外置硬盘",
+      "description": "拥有被重构过的左臂，原本流淌金色神性纹路，后通过注入理智变为流淌文字逻辑代码",
+      "status": "active"
+    },
+    {
+      "name": "盒装侍者",
+      "age": "未知",
+      "role": "侍者/高维投影",
+      "description": "身穿红色燕尾服，下半身是弹簧，脖子顶着炸全家桶纸桶，眼睛闪烁红光",
+      "status": "departed"
+    },
+    {
+      "name": "无面食客",
+      "age": "未知",
+      "role": "幽灵/食客",
+      "description": "没有五官，面部只有模糊肌肉，穿着各式破烂衣服",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "盒装侍者",
+    "无面食客",
+    "主厨(仅声音)"
+  ],
+  "character_exits": [
+    {
+      "name": "盒装侍者",
+      "reason": "被李疯狂吐出的理智腐蚀变回传单，随后被捕食"
+    },
+    {
+      "name": "无面食客",
+      "reason": "被李疯狂吐出的理智腐蚀净化，化为干枯白骨"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "enter_last_supper",
+      "description": "李疯狂和苏浅进入【最后的晚餐】餐厅，面对无面食客和盒装侍者",
+      "time": "本章"
+    },
+    {
+      "id": "serving_rationality",
+      "description": "盒装侍者端上由世界法则构成的‘理智汤’",
+      "time": "本章"
+    },
+    {
+      "id": "rejecting_rationality",
+      "description": "李疯狂喝下理智汤后立刻吐出，导致餐具和环境腐蚀，并消灭了无面食客",
+      "time": "本章"
+    },
+    {
+      "id": "su_qian_upgrade",
+      "description": "李疯狂将吐出的理智注入苏浅左臂，使其进化为【逻辑修正者】，获得强制定义现实状态的能力",
+      "time": "本章"
+    },
+    {
+      "id": "assault_chef",
+      "description": "李疯狂具象化黑色燕尾服战甲和断勺长刀，带领苏浅冲入代表主厨领域的黑色漩涡",
+      "time": "本章"
+    }
+  ],
+  "time_period": "星期三的边缘（永恒停滞的黄昏）",
+  "locations": [
+    "【最后的晚餐】餐厅",
+    "高维虚空折叠层",
+    "黑色漩涡（主厨领域）"
+  ],
+  "key_facts": [
+    {
+      "id": "li_mental_state",
+      "content": "李疯狂的San值跌破临界点，若不摄入高纯度逻辑能量会在一小时内崩解，但他认为虚伪的理智不如疯狂的掌控"
+    },
+    {
+      "id": "su_arm_evolution",
+      "content": "苏浅的左臂从【神性容器】升级为序列概念【逻辑修正者（临时版）】，能强制定义空间状态（如静止）"
+    },
+    {
+      "id": "li_equipment",
+      "content": "李疯狂的武器为一把可变形的断勺柄和一张写着‘V我50’的神圣传单，护具为具象化的黑色燕尾服"
+    },
+    {
+      "id": "world_billing",
+      "content": "破坏餐厅产生的账单金额为【整个世界】，支付方式为【灵魂抵债】"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

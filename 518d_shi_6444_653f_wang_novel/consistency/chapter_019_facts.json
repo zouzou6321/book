@@ -1,0 +1,76 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "28",
+      "role": "定北侯、大将军",
+      "description": "剑眉入鬓，鼻若悬胆，英武过人，手粗糙布满老茧。目前伪装成被战争摧垮、疲惫且小心翼翼的模样。",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "未提及",
+      "role": "副将",
+      "description": "满面胡茬、身披重甲的壮汉。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "沈锋"
+  ],
+  "character_exits": [
+    {
+      "name": "沈锋",
+      "reason": "执行军令"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "transformation_acting",
+      "description": "萧寒对着铜镜练习演技，将原本锐利的肃杀之气伪装成历经沧桑的疲惫与小心翼翼的讨好。",
+      "time": "深夜"
+    },
+    {
+      "id": "impeachment_report",
+      "description": "副将沈锋汇报御史台正起草奏折，弹劾北军纵兵劫掠、扰民伤财。",
+      "time": "深夜"
+    },
+    {
+      "id": "beggars_strategy",
+      "description": "萧寒制定“哭穷”策略，准备将干瘪肉干和粗糙石头作为礼物送往御史台，以示清贫并消除皇帝猜忌。",
+      "time": "深夜"
+    },
+    {
+      "id": "city_entry_orders",
+      "description": "萧寒下令全军明日进城时盔甲擦亮但脸上抹灰，并用破布和烂草严密遮盖缴获的精铁和黄金。",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "大梁，建安二十三年，秋，深夜",
+  "locations": [
+    "京城十里外",
+    "定北侯行辕大帐"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_han_age_identity",
+      "content": "萧寒现年二十八岁，身份是定北侯。"
+    },
+    {
+      "id": "xiao_han_reincarnation_background",
+      "content": "萧寒拥有双重记忆：前世是忠勇却被赐死的将军，上一世是现代娱乐圈演员萧严。他学会了现代的演技和权谋。"
+    },
+    {
+      "id": "emperor_relation",
+      "content": "皇帝多疑猜忌，前世曾赐毒酒毒杀萧寒。"
+    },
+    {
+      "id": "princess_relationship",
+      "content": "长公主李瑾是萧寒前世爱慕却让其失望的女人，对应现代记忆中的林清雪。"
+    },
+    {
+      "id": "military_wealth_status",
+      "content": "北军实际上拥有大量蛮族精铁和黄金战利品，但萧寒决定将其隐蔽以求自保。"
+    }
+  ]
+}

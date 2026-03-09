@@ -1,0 +1,88 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "",
+      "role": "大师兄",
+      "description": "炼气期，嘴叼狗尾巴草，故作高深，实为路痴",
+      "status": "active"
+    },
+    {
+      "name": "苏软软",
+      "age": "",
+      "role": "师妹",
+      "description": "胆小爱哭，挂着泪珠",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "",
+      "role": "师弟",
+      "description": "面色凝重，对大师兄盲目崇拜，喜欢过度解读",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "师妹",
+      "description": "冷若冰霜，白裙，美眸，对江越产生情愫",
+      "status": "active"
+    },
+    {
+      "name": "血影宗长老",
+      "age": "",
+      "role": "金丹期长老/反派",
+      "description": "黑袍老者，追兵",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "entering_mist_forest",
+      "description": "江越带队迷失方向，忽悠队友称是在‘行逆旅’；系统警告前方进入‘迷魂锁灵大阵’核心区域。",
+      "time": "第二天清晨"
+    },
+    {
+      "id": "holding_hands_tactic",
+      "description": "触发紧急任务后，江越为了防止走散，要求全员手拉手，并命名为‘一气化三清锁元链’。",
+      "time": "第二天清晨"
+    },
+    {
+      "id": "chaotic_breakout",
+      "description": "江越利用‘路痴’特质乱走并哼唱儿歌《两只老虎》，导致阵法逻辑混乱而破解；四人滚出迷雾，血影宗长老被困阵中。",
+      "time": "第二天清晨"
+    },
+    {
+      "id": "cave_discovery",
+      "description": "四人跌落在迷雾外的溪畔，发现了刻有‘藏经洞’的石门；江越将破阵过程解释为‘混沌步’与‘童趣’。",
+      "time": "第二天清晨"
+    }
+  ],
+  "time_period": "上古秘境试炼 · 第二天清晨",
+  "locations": [
+    "迷雾森林",
+    "迷魂锁灵大阵核心区域",
+    "溪畔草地",
+    "藏经洞门前"
+  ],
+  "key_facts": [
+    {
+      "id": "jiang_yue_trait",
+      "content": "江越具有严重路痴属性，其混乱的走位可产生‘混沌位移’效果意外破解迷魂锁灵大阵。"
+    },
+    {
+      "id": "two_tigers_song_effect",
+      "content": "江越通过哼唱儿歌《两只老虎》来对抗神识攻击，被队员误认为是‘童趣音波功’。"
+    },
+    {
+      "id": "lock_chain_array",
+      "content": "江越创制了‘一气化三清锁元链’，即全员手拉手以防止在迷雾中走散。"
+    },
+    {
+      "id": "location_zangjing_dong",
+      "content": "迷雾森林深处通往溪畔，溪尽头设有‘藏经洞’。"
+    }
+  ]
+}

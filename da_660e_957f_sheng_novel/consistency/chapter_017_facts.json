@@ -1,0 +1,107 @@
+{
+  "characters_present": [
+    {
+      "name": "朱由检",
+      "age": "年轻",
+      "role": "崇祯皇帝",
+      "description": "身着明黄色常服，面容清秀稚气但布满阴霾与疲惫，抓着龙椅扶手指节泛白",
+      "status": "active"
+    },
+    {
+      "name": "陈默",
+      "age": "未知",
+      "role": "谋士/郎中",
+      "description": "身着洗得发白的青色布衣，面容清秀惨白如纸，眼神深邃，步履平缓精确",
+      "status": "active"
+    },
+    {
+      "name": "青儿",
+      "age": "十五六岁",
+      "role": "杀手/陈默下属",
+      "description": "身形瘦小，有着野狼般的煞气，眼神冷漠，手握哑光漆短刃",
+      "status": "active"
+    },
+    {
+      "name": "沈炼",
+      "age": "未知",
+      "role": "北镇抚司千户",
+      "description": "身着飞鱼服，眉头紧锁，手端凉透的茶酒",
+      "status": "active"
+    },
+    {
+      "name": "校尉",
+      "age": "未知",
+      "role": "北镇抚司下属",
+      "description": "身着飞鱼服，向沈炼汇报",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "青儿",
+    "沈炼",
+    "校尉"
+  ],
+  "character_exits": [
+    {
+      "name": "陈默",
+      "reason": "离开乾清宫去安排事务"
+    },
+    {
+      "name": "青儿",
+      "reason": "刺杀任务完成后离开暗巷"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "wei_resignation_probe",
+      "description": "魏忠贤上朝递交辞呈以试探新皇态度，朱由检不敢批准并予以慰留",
+      "time": "本章之前/当夜"
+    },
+    {
+      "id": "chen_mo_presents_bank_plan",
+      "description": "陈默向朱由检呈上‘大明帝国银行’筹办草议，内容包括发纸币、商税改制及向宗室强行借贷",
+      "time": "深夜"
+    },
+    {
+      "id": "emperor_accepts_plan",
+      "description": "朱由检在陈默的劝说和给予解药后，决定冒险实施针对宗室的‘掠夺’计划以救国",
+      "time": "深夜"
+    },
+    {
+      "id": "qing_er_eliminates_spies",
+      "description": "青儿在京城城南暗巷杀死三名天津卫千总的私线，烧毁关于陈默海战行踪的密信",
+      "time": "深夜"
+    },
+    {
+      "id": "shen_lian_observes",
+      "description": "沈炼在庆丰楼目睹陈默深夜出入皇宫，推测其并非普通郎中而是‘操盘手’",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "天启七年（1627年）八月下旬，深夜",
+  "locations": [
+    "紫禁城",
+    "乾清宫西暖阁",
+    "京城城南深巷",
+    "庆丰楼"
+  ],
+  "key_facts": [
+    {
+      "id": "emperor_mental_state",
+      "content": "朱由检登基不足三日，对魏忠贤极度忌惮，感到皇位不稳且像坐在火山口"
+    },
+    {
+      "id": "chen_mo_poison_cure",
+      "content": "陈默给予朱由检‘七日断魂散’的另一半解药，使其不再受控制"
+    },
+    {
+      "id": "qing_er_background",
+      "content": "青儿是绝对服从陈默的杀手，负责处理暗线隐患"
+    },
+    {
+      "id": "bank_plan_logic",
+      "content": "陈默指出大明病根在于‘穷’，提出通过抢劫宗室财富来填补国库亏空"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

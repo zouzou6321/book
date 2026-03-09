@@ -1,0 +1,106 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "Unknown",
+      "role": "Protagonist / Reviser",
+      "description": "灰白金属光泽皮肤，血管呈金色代码线条，左眼有金色符号（苏浅缩写），半数据化状态",
+      "status": "active"
+    },
+    {
+      "name": "星期四创始人",
+      "age": "Unknown",
+      "role": "Ghost / Guide",
+      "description": "穿着脏兮兮背心的老头，幽灵形态",
+      "status": "active"
+    },
+    {
+      "name": "古神",
+      "age": "Ancient",
+      "role": "Antagonist / System",
+      "description": "由无数文字、符号和书页构成的巨型意识投影，控制逻辑规则",
+      "status": "formatted/dormant"
+    },
+    {
+      "name": "苏浅",
+      "age": "Unknown",
+      "role": "Memory / Deceased",
+      "description": "仅作为高优先级记忆数据包存在（雨天初遇画面），已被删除",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "星期四创始人"
+  ],
+  "character_exits": [
+    {
+      "name": "苏浅",
+      "reason": "记忆文件被李疯狂手动删除以释放内存空间"
+    },
+    {
+      "name": "李疯狂",
+      "reason": "跃入反刍通道离开深层意识领域"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "entry_deep_consciousness",
+      "description": "李疯狂拒绝‘完美人性’的循环逻辑，打碎逻辑镜面，在星期四创始人的指引下进入深层意识领域。",
+      "time": "本章初始"
+    },
+    {
+      "id": "logic_correction",
+      "description": "李疯狂利用【数据解析】视界，将古神的叙事逻辑识别为‘病句’，用红笔否定了‘疯狂飞升’的逻辑锁链。",
+      "time": "遭遇文字同化攻击时"
+    },
+    {
+      "id": "derived_madness_formula",
+      "description": "李疯狂推导出古神的核心逻辑公式‘疯狂 = 无序 + 低熵’，并指出‘疯狂星期四’本质是对发薪日的等待。",
+      "time": "对抗古神意识时"
+    },
+    {
+      "id": "memory_deletion",
+      "description": "因系统内存不足即将过载，李疯狂忍痛删除了‘Su_Qian_First_Meeting.memory’（雨天初遇苏浅的记忆）以释放算力。",
+      "time": "格式化进程卡顿（还差3%）时"
+    },
+    {
+      "id": "system_reformat",
+      "description": "李疯狂利用释放的算力覆写底层规则，将古神定义为数据垃圾，执行了世界范围内的‘格式化’。",
+      "time": "删除记忆后"
+    },
+    {
+      "id": "enter_rumination_channel",
+      "description": "深层意识领域被清空为白色虚无，古神引发呕吐反射打开贲门，李疯狂跃入反刍通道。",
+      "time": "本章结尾"
+    }
+  ],
+  "time_period": "周五之前的永恒卡顿（深层意识领域概念时间）",
+  "locations": [
+    "古神体内 · 中枢神经节点",
+    "深层意识领域（文字万花筒/虚空）",
+    "反刍通道（贲门后）"
+  ],
+  "key_facts": [
+    {
+      "id": "root_password_source",
+      "content": "李疯狂在之前吃掉了一个HR，从而获得了临时的管理员root密码，用于此处对抗古神权限。"
+    },
+    {
+      "id": "madness_logic_definition",
+      "content": "古神的‘疯狂’在逻辑上被定义为极致的低熵状态（简单重复的死循环），混乱只是表象。"
+    },
+    {
+      "id": "deleted_memory",
+      "content": "李疯狂为了执行系统重置，永久删除了关于苏浅在雨天便利店初遇的详细记忆，仅保留模糊的温度感觉。"
+    },
+    {
+      "id": "reality_nature",
+      "content": "该章节揭示当前世界的‘现实’是由古神的文字和叙事逻辑构成的，可以被解析和修改。"
+    },
+    {
+      "id": "eye_symbol",
+      "content": "李疯狂左眼深处的金色符号代表苏浅的名字缩写，是他理智与情感的锚点。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,63 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "",
+      "role": "守秘人",
+      "description": "身穿风衣，嗅觉灵敏，瞳孔可变为深邃黑色，精神层面感到饥饿",
+      "status": "active"
+    },
+    {
+      "name": "黑袍人",
+      "age": "",
+      "role": "真理会的使者",
+      "description": "身穿宽大黑袍，手指枯瘦，拥有由文字构成的笔，身上混合了墨水香气和腐烂的血腥味",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "黑袍人"
+  ],
+  "character_exits": [
+    {
+      "name": "黑袍人",
+      "reason": "因畏惧对方实力而主动隐匿离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "gravity_inversion",
+      "description": "世界发生重力反转，顾长歌从原城市坠落至漂浮的肉块大陆",
+      "time": "12:00"
+    },
+    {
+      "id": "encounter_truth_society",
+      "description": "顾长歌在肉质广场遭遇真理会使者，拒绝了对方的招募邀请",
+      "time": "12:10左右"
+    }
+  ],
+  "time_period": "新纪元元年，周四 12:00 - 12:10左右",
+  "locations": [
+    "漂浮的肉块大陆（原城市上空·重力反转区）",
+    "幸福家园小区4号楼楼道",
+    "毛发森林",
+    "胃酸沼泽",
+    "肉质广场",
+    "金色孢子区（神之肝脏区域）"
+  ],
+  "key_facts": [
+    {
+      "id": "world_nature_program",
+      "content": "世界本质上是一个巨大的程序，每周的疯狂（如疯狂星期四）是系统进行的定期代码清理和版本迭代"
+    },
+    {
+      "id": "truth_society_belief",
+      "content": "存在名为“真理会”的组织，其自视为看穿源代码的程序员，致力于掌握更新奥秘并成为BUG"
+    },
+    {
+      "id": "gu_changge_identity",
+      "content": "顾长歌已觉醒序列能力为【守秘人】，自称为“路过的美食评论家”，对高维能量（神性）有吞噬渴望"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

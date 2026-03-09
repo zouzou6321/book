@@ -1,0 +1,87 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": null,
+      "role": "主角/清醒者",
+      "description": "苍白修长的手指，眼神具有死鱼眼气息，穿着洗得发白的海绵宝宝T恤",
+      "status": "active"
+    },
+    {
+      "name": "首领杀手",
+      "age": null,
+      "role": "真理会低阶执行使徒",
+      "description": "身材魁梧，下颚处有蜈蚣般蠕动的缝合线，只有眼白的布满血丝眼球，异化时手部变成獠牙头颅",
+      "status": "departed"
+    },
+    {
+      "name": "两名黑衣人",
+      "age": null,
+      "role": "真理会杀手",
+      "description": "穿着黑色制服，双手可化作锋利的骨质镰刀",
+      "status": "departed"
+    },
+    {
+      "name": "苏糖",
+      "age": null,
+      "role": "邻居/402租客",
+      "description": "脸精致但略显苍白，身上缠绕淡淡灰雾，影子末端有猫爪轮廓",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "苏糖",
+    "首领杀手",
+    "两名黑衣人"
+  ],
+  "character_exits": [
+    {
+      "name": "首领杀手",
+      "reason": "逃走"
+    },
+    {
+      "name": "两名黑衣人",
+      "reason": "昏厥后被带走"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "truth_society_raid",
+      "description": "三名真理会杀手突袭404室欲抓捕顾长歌，被顾长歌通过逻辑修改能力（握手言和、热情拥抱、地形修改）轻松击败",
+      "time": "上午10:35后"
+    },
+    {
+      "id": "neighbor_interaction",
+      "description": "邻居苏糖因骚乱探出询问，顾长歌用胶带修门掩饰战斗痕迹，随后接受苏糖邀请去吃午饭",
+      "time": "战斗结束后"
+    }
+  ],
+  "time_period": "新纪元元年，周二惊蛰，上午10:35",
+  "locations": [
+    "幸福家园小区4号楼404室",
+    "楼道"
+  ],
+  "key_facts": [
+    {
+      "id": "gu_modification_ability",
+      "content": "顾长歌拥有可以通过输入指令修改区域底层逻辑的能力，例如定义为'握手言和'迫使敌人执行，或修改地形参数制造波浪地面"
+    },
+    {
+      "id": "truth_society_features",
+      "content": "真理会成员具有生理变异特征（如缝合线、肢体异化），且带有硫磺味和发霉纸张味"
+    },
+    {
+      "id": "su_tang_condition",
+      "content": "苏糖身上有'未被完全标记'的灰雾特征，且影子末端似有猫爪轮廓，存在某种因果残留"
+    },
+    {
+      "id": "gu_financial_status",
+      "content": "顾长歌目前银行余额仅剩297.6元，非常贫穷"
+    },
+    {
+      "id": "room_404_damage",
+      "content": "404室的防盗门被踹飞，电视机被砸碎，后顾长歌用透明胶带暂时固定了门"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

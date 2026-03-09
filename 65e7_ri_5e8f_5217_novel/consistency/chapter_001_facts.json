@@ -1,0 +1,83 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "程序员/主角",
+      "description": "身穿印有皮卡丘的破T恤，膝盖磨破的牛仔裤，皮肤有类似旧瓷器的裂纹，掌纹间流动微弱黑色光点",
+      "status": "active"
+    },
+    {
+      "name": "敲门女性（未具名）",
+      "age": "",
+      "role": "幸存者/神秘人",
+      "description": "声音清冷带血腥味，疑似持有枪械",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "李疯狂",
+    "敲门女性"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "waking_up_with_finger",
+      "description": "李疯狂在废墟般的公寓中醒来，发现嘴里含着半截非人类的断指",
+      "time": "周五上午 07:00"
+    },
+    {
+      "id": "discovering_room_ruins",
+      "description": "李疯狂发现家中被毁，墙体有通往隔壁的裂痕，墙上留有歪歪扭扭的“V我50”血书",
+      "time": "周五上午 07:00"
+    },
+    {
+      "id": "touching_spoon_flashback",
+      "description": "触碰一把弯曲发烫的KFC勺子，脑海中闪回昨日变身怪物破坏城市的记忆碎片",
+      "time": "周五上午 07:00"
+    },
+    {
+      "id": "observing_mad_city",
+      "description": "透过窗户看到外界街道异化，人群变异，三头流浪狗袭击车辆",
+      "time": "周五上午 07:00"
+    },
+    {
+      "id": "checking_phone_alerts",
+      "description": "查看手机收到催款、离职通知及系统关于“清醒日”的警告信息",
+      "time": "周五上午 07:00"
+    },
+    {
+      "id": "door_knocking_incident",
+      "description": "一名陌生女性在门外大力敲门，并伴有拉动枪栓的声音",
+      "time": "周五上午 07:00"
+    }
+  ],
+  "time_period": "第一个疯狂周期后的周五，上午 07:00",
+  "locations": [
+    "李疯狂的单身公寓",
+    "公寓外的街道"
+  ],
+  "key_facts": [
+    {
+      "id": "madness_cycle",
+      "content": "世界存在周期性的“疯狂”现象，周四为疯狂高潮，次日为清醒日"
+    },
+    {
+      "id": "protagonist_transformation",
+      "content": "李疯狂在疯狂周期会异化为身高三米、缠绕黑色触手的怪物"
+    },
+    {
+      "id": "special_perception",
+      "content": "李疯狂在清醒日保留了特殊的感官能力，能将外界事物解析为“数据”或“资源”"
+    },
+    {
+      "id": "wall_message_origin",
+      "content": "墙上的“V我50”字迹极大且充满疯狂气息，推测为李疯狂昨夜疯狂状态下所留"
+    },
+    {
+      "id": "magic_spoon",
+      "content": "一把弯曲的“KFC”勺子似乎是李疯狂在怪物形态下的武器或媒介"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

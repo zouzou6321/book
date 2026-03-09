@@ -1,0 +1,94 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/宿主",
+      "description": "上半身赤裸，满身咒文、伤疤和金属化皮肤痕迹，身穿'星之绅士的伪装'燕尾服，赤脚。鸡窝头，黑眼圈，左眼有死机灰白色的倒'V'字符号。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "同伴/布偶",
+      "description": "被塞在李疯狂燕尾服内侧口袋里的布偶",
+      "status": "active"
+    },
+    {
+      "name": "电视新闻主播",
+      "age": "未知",
+      "role": "新闻播报员",
+      "description": "戴眼镜，面色惨白，左眼是一个巨大的齿轮，声音带机械电流音",
+      "status": "active"
+    },
+    {
+      "name": "路过的幸存者",
+      "age": "未知",
+      "role": "幸存者",
+      "description": "衣衫褴褛，脸上写满麻木和恐惧",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "wakeup_tuxedo",
+      "description": "李疯狂在安全屋醒来，发现自己身穿传奇级概念装备'星之绅士的伪装'燕尾服，且San值极低。",
+      "time": "疯狂周期结束后的第一个清晨"
+    },
+    {
+      "id": "eat_apple_gain_skill",
+      "description": "李疯狂吃下'罪与罚之果'（黑色苹果），呕吐黑色物质后，成功消化并习得被动技能'空间盲跳'（LV.MAX）。",
+      "time": "本章内"
+    },
+    {
+      "id": "statue_news",
+      "description": "李疯狂在电器店看到新闻，得知市中心广场凭空出现一座名为'疯狂的星期四'的巨大雕像，造型为穿着燕尾服的他咬着章鱼触手。",
+      "time": "本章内"
+    },
+    {
+      "id": "missing_tuesday",
+      "description": "李疯狂与幸存者对话及查询系统后，确认本周的'星期二'被'主厨'吃掉了，导致相关数据和记忆丢失。",
+      "time": "本章内"
+    }
+  ],
+  "time_period": "疯狂周期结束后的第一个清晨（标记为星期三）",
+  "locations": [
+    "第4区 · 李疯狂的安全屋",
+    "城市废墟街道",
+    "电器店门前",
+    "城市废墟中心广场 (通过电视屏幕)"
+  ],
+  "key_facts": [
+    {
+      "id": "tuesday_consumed",
+      "content": "本周的'星期二'从时间线和集体记忆中消失（被'主厨'吃掉了）。"
+    },
+    {
+      "id": "gentleman_outfit",
+      "content": "李疯狂身穿'星之绅士的伪装'燕尾服，该装备能显著提升对不可名状生物的吸引力，同时也提高仇恨锁定率。"
+    },
+    {
+      "id": "blind_jump_skill",
+      "content": "李疯狂习得技能'空间盲跳'，可在视线范围内瞬间移动，代价是移动后强烈眩晕和呕吐。"
+    },
+    {
+      "id": "restaurant_debt",
+      "content": "李疯狂欠下无限餐厅巨额账单，已自动扣除50%的'理智'与'人性'作为首付。"
+    },
+    {
+      "id": "statue_v_me_50",
+      "content": "市中心广场有一座李疯狂的雕像，底座喷漆写着'V我50'，被命名为'疯狂的星期四'。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角/宿主",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

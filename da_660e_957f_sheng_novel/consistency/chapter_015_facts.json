@@ -1,0 +1,92 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "",
+      "role": "长生卫首领（伪装成小太监）",
+      "description": "身穿太监服，腰挂腰牌，身上有檀香味，心跳每分钟四十下",
+      "status": "active"
+    },
+    {
+      "name": "番子头目",
+      "age": "",
+      "role": "东厂番子",
+      "description": "身穿飞鱼服，三角眼，满眼血丝",
+      "status": "active"
+    },
+    {
+      "name": "李答应",
+      "age": "年轻",
+      "role": "低级妃嫔（信王侧妃远房表妹）",
+      "description": "发髻散乱，衣衫不整",
+      "status": "deceased"
+    },
+    {
+      "name": "青儿",
+      "age": "15-16岁",
+      "role": "长生卫下属",
+      "description": "瘦小，声音沙哑，干练",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "李答应",
+    "青儿"
+  ],
+  "character_exits": [
+    {
+      "name": "李答应",
+      "reason": "被东厂番子勒死灭口"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "chens_infiltration",
+      "description": "陈默伪装成小太监成功潜入紫禁城西六宫区域",
+      "time": "天启七年秋"
+    },
+    {
+      "id": "witness_murder",
+      "description": "陈默在长乐宫目睹东厂番子勒死李答应并伪造成自杀",
+      "time": "天启七年秋"
+    },
+    {
+      "id": "tianqi_death",
+      "description": "天启帝驾崩，宫中敲响丧钟",
+      "time": "天启七年秋"
+    },
+    {
+      "id": "strategic_shift",
+      "description": "因魏忠贤杀机已现，陈默决定放弃原计划，准备全力干预信王继位",
+      "time": "天启七年秋"
+    }
+  ],
+  "time_period": "天启七年（1627年）秋，从黄昏至夜晚",
+  "locations": [
+    "紫禁城",
+    "西六宫区域深巷",
+    "长乐宫（废弃偏殿）",
+    "神武门",
+    "京城死胡同",
+    "天津卫（提及）"
+  ],
+  "key_facts": [
+    {
+      "id": "chens_heart_rate",
+      "content": "陈默通过训练可将心跳控制在每分钟四十下以保持极度安静"
+    },
+    {
+      "id": "chens_emotional_suppression",
+      "content": "陈默服用朱砂药丸来压制体内的痛苦和情感波动"
+    },
+    {
+      "id": "weis_assassination_plan",
+      "content": "魏忠贤计划趁信王入宫奔丧时将其杀害，并不打算让信王顺利继位"
+    },
+    {
+      "id": "tianjin_official_status",
+      "content": "天津卫某千总受贿五千两并不安分，陈默下令清理其关系网"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

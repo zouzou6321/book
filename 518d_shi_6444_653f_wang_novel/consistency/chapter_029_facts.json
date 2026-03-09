@@ -1,0 +1,88 @@
+{
+  "characters_present": [
+    {
+      "name": "李瑾",
+      "age": "未知",
+      "role": "长公主",
+      "description": "容色清冷绝艳，身着月白色素锦长裙，发间簪玉兰步摇，气质清贵难掩，眉宇间有愁绪。",
+      "status": "active"
+    },
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "定北侯",
+      "description": "身着月白色暗纹锦袍，头戴玉冠，手摇折扇，未着铠甲，眼眸深邃，手有常年握剑留下的薄茧。",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "未知",
+      "role": "贴身宫女",
+      "description": "随身携带藏有短刃的暗袋，对公主忠心耿耿，警惕性高。",
+      "status": "active"
+    },
+    {
+      "name": "掌柜",
+      "age": "未知",
+      "role": "灯谜楼阁主持人",
+      "description": "身穿长衫，摇头晃脑的儒商。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "翠儿"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "princess_incognito_outing",
+      "description": "长公主李瑾换上便装，不顾宫规，坚持在禁军守护薄弱的朱雀大街微服出游，体验市井烟火。",
+      "time": "建安二十三年正月十五入夜"
+    },
+    {
+      "id": "marquis_meeting_princess",
+      "description": "定北侯萧寒未着铠甲，以文人雅士打扮在灯谜楼前与李瑾偶遇，并以此为契机靠近。",
+      "time": "建安二十三年正月十五入夜"
+    },
+    {
+      "id": "autumn_riddle_solution",
+      "description": "萧寒用独特的字形与五行结合的逻辑解开了‘秋’字灯谜，赢得琉璃灯，并买下兔子灯送给李瑾。",
+      "time": "建安二十三年正月十五灯会期间"
+    },
+    {
+      "id": "riverside_intimacy",
+      "description": "二人在秦淮河畔并肩放灯，萧寒表达了对守护具体活人的渴望，李瑾在临走时主动勾住萧寒小指示好。",
+      "time": "二更天"
+    },
+    {
+      "id": "shared_carriage_departure",
+      "description": "李瑾打破禁忌，决定乘坐萧寒的马车回宫。",
+      "time": "二更天"
+    }
+  ],
+  "time_period": "建安二十三年，正月十五，上元节，入夜至二更天",
+  "locations": [
+    "京城",
+    "朱雀大街",
+    "灯谜楼阁",
+    "秦淮河畔"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_han_modern_soul",
+      "content": "萧寒拥有现代灵魂，文中明确提及‘现代灵魂’及他懂得前世今生的道理，思维方式异于古人。"
+    },
+    {
+      "id": "jin_xiao_disguise",
+      "content": "长公主李瑾对宫墙之外的生活极度渴望，且已具备在非皇家护卫下短时出行（并接受非皇室男性接触）的行动力。"
+    },
+    {
+      "id": "relationship_progression",
+      "content": "萧寒与李瑾关系突破君臣界限，李瑾在河边主动肢体接触（勾小指），并接受共乘马车，互生情愫。"
+    },
+    {
+      "id": "security_context",
+      "content": "上元节当夜禁军主力在宫中守卫皇帝，皇城外市井街道治安相对空虚，适合微服私访但也存在安全隐患。"
+    }
+  ]
+}

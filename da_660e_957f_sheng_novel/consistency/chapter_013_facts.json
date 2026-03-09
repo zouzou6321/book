@@ -1,0 +1,99 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "未知",
+      "role": "长生卫首领、策划者",
+      "description": "因长期服用朱砂导致重金属中毒而脸色惨白，身穿深灰色油布斗篷，持有黑铁“猛虎”令牌。",
+      "status": "active"
+    },
+    {
+      "name": "青儿",
+      "age": "14岁",
+      "role": "陈默的贴身侍卫/下属",
+      "description": "身形瘦小，裹在宽大的水手衣裤里，眼神透着戾气，声音沙哑粗糙。",
+      "status": "active"
+    },
+    {
+      "name": "明军百户",
+      "age": "未知",
+      "role": "明朝水师巡逻船指挥官",
+      "description": "身穿号衣，收受贿赂，身手不错。",
+      "status": "deceased"
+    },
+    {
+      "name": "明军把总",
+      "age": "未知",
+      "role": "明朝水师巡逻船军官",
+      "description": "警惕性高，察觉到了船只吃水和硫磺味的异常。",
+      "status": "deceased"
+    },
+    {
+      "name": "长生卫成员",
+      "age": "未知",
+      "role": "死士士兵",
+      "description": "二十名精选死士，经过残酷训练，行动无声，负责搬运和操作火器。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "青儿"
+  ],
+  "character_exits": [
+    {
+      "name": "明军百户",
+      "reason": "死亡"
+    },
+    {
+      "name": "明军把总",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "encounter_patrol_boat",
+      "description": "陈默带领的走私船遭遇明朝水师巡逻船（福船），试图通过谎称回春堂送药和行贿蒙混过关。",
+      "time": "天启七年春深夜"
+    },
+    {
+      "id": "ambush_with_daqiang",
+      "description": "因把总识破破绽（吃水深、有硫磺味），陈默下令伏击，使用二十支“大抬枪”近距离齐射，瞬间全灭巡逻船官兵。",
+      "time": "天启七年春深夜"
+    },
+    {
+      "id": "cleanup_and_disguise",
+      "description": "长生卫进行装填补射摧毁船体，随后冲刷甲板血迹，伪造海难现场，继续前往辽东。",
+      "time": "天启七年春深夜"
+    }
+  ],
+  "time_period": "天启七年（1627年）春（深夜）",
+  "locations": [
+    "渤海湾",
+    "天津卫外海",
+    "伪装商船甲板",
+    "辽东沿海（目的地）"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_mo_poisoning",
+      "content": "陈默因长期服用朱砂导致重金属中毒，典型症状是脸色惨白如纸，且需服用猩红药丸压制“长生”副作用（如饥饿感和伤口愈合导致的虫噬感）。"
+    },
+    {
+      "id": "weapon_daqiang",
+      "content": "陈默研发了一种名为“大抬枪”的新型火器，使用王恭厂钢材锻造，填充颗粒火药和铁砂弹丸，百步内可击穿重甲，具备强大的近距离杀伤力。"
+    },
+    {
+      "id": "changsheng_wei",
+      "content": "陈默建立了一支名为“长生卫”的死士队伍，成员经过残酷训练，行动隐蔽且绝对服从。"
+    },
+    {
+      "id": "smuggling_plan",
+      "content": "陈默利用王恭厂大爆炸劫掠的物资和倒卖药材的利润，组织了一次向辽东走私的行动，携带精瓷、生丝和大抬枪，目的是与祖大寿交换战马和精铁。"
+    },
+    {
+      "id": "tiger_token",
+      "content": "陈默持有一枚黑铁材质的“猛虎”令牌，象征着某种权力或身份。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

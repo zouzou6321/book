@@ -1,0 +1,124 @@
+{
+  "characters_present": [
+    {
+      "name": "林野",
+      "age": null,
+      "role": "主角",
+      "description": "身穿洗得发白的牛仔外套，汗流浃背，肌肉线条分明",
+      "status": "active"
+    },
+    {
+      "name": "神秘黑衣人",
+      "age": null,
+      "role": "监视者",
+      "description": "身穿黑色冲锋衣，持有长焦相机",
+      "status": "active"
+    },
+    {
+      "name": "年轻夫妇",
+      "age": null,
+      "role": "平民",
+      "description": null,
+      "status": "active"
+    },
+    {
+      "name": "小女孩",
+      "age": "五六岁",
+      "role": "平民",
+      "description": "手里攥着断了半截的泰迪熊玩偶",
+      "status": "active"
+    },
+    {
+      "name": "铁甲暴熊",
+      "age": null,
+      "role": "二阶异兽",
+      "description": "身披漆黑刚毛，双臂过膝，指尖有长达半米的钛合金利爪",
+      "status": "deceased"
+    },
+    {
+      "name": "李阳",
+      "age": null,
+      "role": "龙组东海三分队队长",
+      "description": "年轻，穿着便衣，手臂上有龙形徽章",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "李阳",
+    "苏清鸢",
+    "神秘黑衣人",
+    "铁甲暴熊"
+  ],
+  "character_exits": [
+    {
+      "name": "铁甲暴熊",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "lin_ye_jogs",
+      "description": "林野离开家前往江滩公园夜跑",
+      "time": "第2天 晚7:30左右"
+    },
+    {
+      "id": "beast_attack",
+      "description": "二阶异兽铁甲暴熊袭击江滩公园露营区的一家三口",
+      "time": "第2天 晚"
+    },
+    {
+      "id": "lin_ye_kills_beast",
+      "description": "林野出手单凭肉身力量瞬间击杀二阶铁甲暴熊",
+      "time": "第2天 晚"
+    },
+    {
+      "id": "bounty_payment",
+      "description": "龙组队长李阳确认击杀，并向林野发放三十万元悬赏金",
+      "time": "第2天 晚"
+    },
+    {
+      "id": "tracker_implanted",
+      "description": "神秘黑衣人趁林野不留意，在其衣领处放置了黑色追踪器",
+      "time": "第2天 晚"
+    },
+    {
+      "id": "message_from_su",
+      "description": "苏清鸢发微信给林野，感谢其救命之恩并提及自制蛋糕",
+      "time": "第2天 晚"
+    }
+  ],
+  "time_period": "第2天 晚7:00起",
+  "locations": [
+    "老城区幸福里小区",
+    "东海市江滩公园",
+    "公园深处露营区",
+    "江边长椅"
+  ],
+  "key_facts": [
+    {
+      "id": "lin_ye_status",
+      "content": "林野蚩尤血脉解锁进度15.8%，综合战力E级巅峰（注：全盛状态可短暂抗衡D级初期）"
+    },
+    {
+      "id": "bounty_rule",
+      "content": "击杀二阶异兽的官方悬赏金为三十万元"
+    },
+    {
+      "id": "lin_ye_alias",
+      "content": "林野被路人称为“手撕哥”"
+    },
+    {
+      "id": "tracker_status",
+      "content": "林野被神秘黑衣人成功植入了微型黑色追踪器"
+    },
+    {
+      "id": "beast_defense",
+      "content": "二阶异兽铁甲暴熊防御力极高，寻常枪械无法穿透其皮毛"
+    },
+    {
+      "id": "su_qingyuan_info",
+      "content": "苏清鸢称呼林野为“林野哥哥”，并尝试制作蛋糕报恩"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

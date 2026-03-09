@@ -1,0 +1,90 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "未知",
+      "role": "主角，序列001",
+      "description": "晋升至Sequence 001，左手手背有眼睑状变异，目前通过物理手段压制",
+      "status": "active"
+    },
+    {
+      "name": "苏糖",
+      "age": "未知",
+      "role": "402室邻居",
+      "description": "神经有些衰弱的小姑娘，性格胆小",
+      "status": "active"
+    },
+    {
+      "name": "咪咪",
+      "age": "未知",
+      "role": "苏糖的猫",
+      "description": "橘色胖猫，被灰雾污染，能直立行走、说话，拥有多个瞳孔",
+      "status": "active"
+    },
+    {
+      "name": "真理会成员",
+      "age": "未知",
+      "role": "入侵者，伪装成异常管理局人员",
+      "description": "三人，身穿黑衣，身上有薄荷与腐烂尸体的味道",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "苏糖",
+    "咪咪",
+    "真理会"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "broadcast_announcement",
+      "description": "国家异常管理局广播宣布‘灰雾’抵达C9区，启动‘周二修正案’，周三不再属于人类，市民须在18点前居家",
+      "time": "新纪元元年，周二 10:00"
+    },
+    {
+      "id": "calendar_glitch",
+      "description": "电视日历画面出现异常，周二格子像巧克力一样融化并露出无数尖叫的人脸，显示出物理规则正在剥落",
+      "time": "新纪元元年，周二 10:00后"
+    },
+    {
+      "id": "hand_mutation_incident",
+      "description": "顾长歌左手手背出现眼睑状变异试图睁开，被他用物理手段强行按回",
+      "time": "新纪元元年，周二 约10:15"
+    },
+    {
+      "id": "cat_disturbance",
+      "description": "邻居的猫被污染直立行走并喝啤酒说话，顾长歌使用声带共振指令将其强制顺从",
+      "time": "新纪元元年，周二 约10:20"
+    },
+    {
+      "id": "intruder_prank",
+      "description": "三名真理会成员在门外蹲守，顾长歌使用[定义：恶作剧时间]权能融化猫眼并软化楼道，同时唱童谣进行精神震慑",
+      "time": "新纪元元年，周二 10:30"
+    }
+  ],
+  "time_period": "新纪元元年，周二 10:00 - 10:30",
+  "locations": [
+    "幸福家园小区404室",
+    "幸福家园小区402室",
+    "城市广播大厅"
+  ],
+  "key_facts": [
+    {
+      "id": "tuesday_amendment_act",
+      "content": "当前时间线处于‘周二修正案’期间，灰雾已抵达，周三属于高危期不再属于人类"
+    },
+    {
+      "id": "gu_sequence_001_status",
+      "content": "顾长歌晋升Sequence 001，维持人形代价高昂，左手有潜伏的变异（眼睑），拥有[燃烧]和[定义：恶作剧时间]等权能"
+    },
+    {
+      "id": "truth_society_特征",
+      "content": "敌对势力‘真理会’成员身上带有混合薄荷与腐烂尸体的独特甜腥味"
+    },
+    {
+      "id": "concept_food",
+      "content": "顾长歌目前食用的‘泡面’实为高维污染概念产物，主要成分包含人类指骨和绝望情绪"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

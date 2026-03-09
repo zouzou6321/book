@@ -1,0 +1,97 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "弑神者/前理智化怪物",
+      "description": "皮肤苍白如纸，左眼有倒V符号伴金色裂纹，胸口有苏浅牢笼图腾",
+      "status": "active"
+    },
+    {
+      "name": "乌鸦",
+      "age": "",
+      "role": "审计员/高维玩家",
+      "description": "身躯庞大，羽毛由黑色代码构成，羽毛上写满宇宙公理",
+      "status": "active"
+    },
+    {
+      "name": "古神残魂",
+      "age": "",
+      "role": "星期四之源",
+      "description": "被困于李疯狂体内，享受被囚禁状态并进行孵化",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "李疯狂",
+      "reason": "自我解体成为数据病毒，注入高维裂痕前往第0号逻辑区"
+    },
+    {
+      "name": "古神残魂",
+      "reason": "宿主李疯狂自我毁灭，古神残骸风化为沙砾"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "thursday_closure",
+      "description": "李疯狂广播系统公告，宣布今日星期四因故停业，理由是老板拉肚子。",
+      "time": "黎明前"
+    },
+    {
+      "id": "coupon_rain",
+      "description": "天空降下印着古神头像的荒诞优惠券，将末日的恐惧解构为庸俗促销。",
+      "time": "系统公告后"
+    },
+    {
+      "id": "crow_warning",
+      "description": "高维乌鸦降临，指出李疯狂体内的星期四正在孵化，即将成为新神。",
+      "time": "降券之后"
+    },
+    {
+      "id": "self_dismemberment",
+      "description": "李疯狂徒手扯出胸口的苏浅图腾，导致生命力急速流逝。",
+      "time": "决绝时刻"
+    },
+    {
+      "id": "logic_explosion",
+      "description": "李疯狂将图腾按入虚空裂痕，执行'退款申请：理由不好吃'，引发逻辑崩塌。",
+      "time": "扯出图腾后"
+    },
+    {
+      "id": "ascension_to_source",
+      "description": "李疯狂分解为数据粒子，通过裂痕进入第0号逻辑区。",
+      "time": "光芒炸裂后"
+    }
+  ],
+  "time_period": "被重启的星期四，黎明前的至暗时刻",
+  "locations": [
+    "南极 · 古神骨架顶端",
+    "平流层·第404号逻辑缺口",
+    "未知坐标 · 第0号逻辑区"
+  ],
+  "key_facts": [
+    {
+      "id": "pain_sensation",
+      "content": "李疯狂用一半的神性权柄换回了痛觉，并将其视为奢侈品。"
+    },
+    {
+      "id": "symbiosis",
+      "content": "李疯狂与古神是共生关系：古神利用李的人性冲破封印，李利用古神的权能维持人性。"
+    },
+    {
+      "id": "memory_fuel",
+      "content": "李疯狂将神威转化为烂梗时，需要燃烧关于苏浅的记忆数据作为燃料。"
+    },
+    {
+      "id": "thursday_concept_bug",
+      "content": "'星期四'概念被修改，不再是末日，变为`V我50`的奇怪习俗逻辑。"
+    },
+    {
+      "id": "core_logic_code",
+      "content": "李疯狂的核心逻辑代码被修改为：`If (Time == Thursday) { V_Me(50); } else { Keep_Living(); }; Return Su_Qian;`"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

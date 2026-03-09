@@ -1,0 +1,90 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "26",
+      "role": "编外特勤人员/代号“导演”",
+      "description": "顶着两个巨大的黑眼圈",
+      "status": "active"
+    },
+    {
+      "name": "林鹿",
+      "age": "未知",
+      "role": "纯净体/档案身份“导盲犬”",
+      "description": "穿着不合身的蓝白条纹病号服，赤着脚，眼神空洞",
+      "status": "active"
+    },
+    {
+      "name": "马面",
+      "age": "未知",
+      "role": "收容小组队长",
+      "description": "脸长得像马，穿着廉价西装",
+      "status": "active"
+    },
+    {
+      "name": "鱼姐",
+      "age": "未知",
+      "role": "接待员",
+      "description": "身材火爆，头是一个巨大的装有长牙金鱼的鱼缸",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "马面",
+    "鱼姐"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "gu_recruitment",
+      "description": "顾长歌通过入职测试，加入极乐心理咨询中心，获得代号“导演”",
+      "time": "周日上午 10:00"
+    },
+    {
+      "id": "lin_identity_reveal",
+      "description": "马面揭示林鹿是“纯净体”，在档案中被登记为顾长歌的“导盲犬”",
+      "time": "周日上午 10:00"
+    },
+    {
+      "id": "receive_welcome_package",
+      "description": "顾长歌领取入职大礼包（书、墨水、狗链子）并预支了500元工资",
+      "time": "周日上午 10:00"
+    },
+    {
+      "id": "wang_identity_warning",
+      "description": "马面警告顾长歌注意邻居老王（王大锤），揭露其是“特殊食材处理专家”",
+      "time": "周日上午 10:00"
+    }
+  ],
+  "time_period": "周日，上午 10:00",
+  "locations": [
+    "极乐心理咨询中心"
+  ],
+  "key_facts": [
+    {
+      "id": "gu_sequence",
+      "content": "顾长歌是序列0-01“旁观者”"
+    },
+    {
+      "id": "spicy_strips_preservative",
+      "content": "马面声称辣条里的防腐剂能延缓大脑被侵蚀的速度"
+    },
+    {
+      "id": "lin_pure_body",
+      "content": "林鹿被称为“纯净体”，是对异常世界诱饵最强也是解毒剂的存在"
+    },
+    {
+      "id": "organization_nature",
+      "content": "极乐心理咨询中心实际上是负责处理异常的官方认证机构（收容小组）"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "特殊食材处理专家/顾长歌的邻居",
+      "names": [
+        "老王",
+        "王大锤"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角/篡改者",
+      "description": "脸色苍白，挂着黑眼圈，左眼深处有倒“V”字符号，能通过消耗精神力篡改现实",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "战士/同伴",
+      "description": "手持黑色手枪，左臂袖管破碎，皮肤上有青色电路板状纹路（变异污染）",
+      "status": "active"
+    },
+    {
+      "name": "“上校”",
+      "age": "",
+      "role": "黑市掌舵者",
+      "description": "身材极度臃肿的怪物，像发酵面团，穿着布满油渍的条纹西装，胸口别着鸡骨头“上校”徽章，浑浊独眼，流油脂冷汗",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "“上校”"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "coin_to_banana",
+      "description": "李疯狂在“上校”面前消耗5点精神力，将一枚一元硬币篡改为一根成熟的香蕉，展示了其“篡改现实”的能力",
+      "time": "疯狂星期日"
+    },
+    {
+      "id": "intel_on_third_wish",
+      "description": "“上校”透露“第三个愿望”（编号003）位于收容局地下深层冷冻库，且收容局局长正输送能量试图加速“疯狂星期日”",
+      "time": "疯狂星期日"
+    },
+    {
+      "id": "healing_pickles",
+      "description": "“上校”赠送“老坛酸菜酱”讨好李疯狂，苏浅服下后，原本蔓延的青色变异纹路开始消退",
+      "time": "疯狂星期日"
+    },
+    {
+      "id": "reality_tear",
+      "description": "收到红色传单预示时间提前，地面街道撕裂露出沸腾的油锅，疯狂星期日的规则强行介入现实",
+      "time": "疯狂星期日"
+    }
+  ],
+  "time_period": "疯狂星期日（顺延爆发日，正在加速）",
+  "locations": [
+    "地下黑市·废弃星光影城",
+    "星光小卖部",
+    "地面废墟"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_power_cost",
+      "content": "李疯狂使用“篡改”能力需要消耗精神力，例如将面值1元改为100（或变成香蕉）消耗5点"
+    },
+    {
+      "id": "su_qian_status",
+      "content": "苏浅身上的青色电路板纹路是污染/变异症状，具有传染性或危险性，可用特定物品（如老坛酸菜酱）压制"
+    },
+    {
+      "id": "object_003",
+      "content": "物品“第三个愿望”编号为“003”，位于收容局地下深层冷冻库，可以付出代价实现任何愿望"
+    },
+    {
+      "id": "director_plan",
+      "content": "收容局局长正在利用“许愿机”和收集的“疯狂能量”试图人为引爆规则，让疯狂星期日提前降临或永恒化"
+    },
+    {
+      "id": "world_breach",
+      "content": "随着规则加速，世界边界模糊，现实中出现直接连接油炸食物维度的裂缝"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "李 crazy",
+        "李老板"
+      ]
+    }
+  ]
+}

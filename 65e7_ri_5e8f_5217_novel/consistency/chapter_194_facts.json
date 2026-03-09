@@ -1,0 +1,83 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "“老爹炸鸡”全球总部总裁",
+      "description": "穿着剪裁得体的高级西装，左眼深处有倒“V”字符号，脸色苍白，咳嗽时排出黑色焦糊烟雾",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "总裁助理/【序列·调律者】",
+      "description": "气质沉稳，左眼瞳孔深处偶尔闪过淡蓝色光晕",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "苏浅",
+      "reason": "前往西区分店执行任务"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "debt_warning",
+      "description": "李疯狂查看报表日志，收到S级因果债务利息结算警告，当前以“理智上限”为抵押进行延期支付。",
+      "time": "周五正午"
+    },
+    {
+      "id": "city_defense_reveal",
+      "description": "李疯狂向苏浅揭示了“全城皆兵”的战略构想：将所有分店作为封印点，员工作为守夜人，通过食用特制炸鸡让人类产生【食欲抗性】的良性变异。",
+      "time": "周五正午"
+    },
+    {
+      "id": "mission_assignment",
+      "description": "李疯狂将改装成概念武器的油枪交给苏浅，指派她前往西区分店处理一块会尖叫的鸡胸肉。",
+      "time": "周五正午"
+    },
+    {
+      "id": "crow_encounter",
+      "description": "一只作为催收信使的乌鸦撞击办公室窗户，李疯狂使用概念覆写（玻璃擦得太干净鸟看不见）将其击退。",
+      "time": "周五正午"
+    }
+  ],
+  "time_period": "新纪元·第三个周期（周五正午）",
+  "locations": [
+    "“老爹炸鸡”全球总部顶层办公室"
+  ],
+  "key_facts": [
+    {
+      "id": "debt_interest_status",
+      "content": "S级因果债务利息当前正在以“理智上限”为抵押进行延期支付。"
+    },
+    {
+      "id": "suqian_risk",
+      "content": "苏浅因【序列·调律者】活性上升，因果律纠缠度达99%，若李疯狂无法偿还债务，她将作为替代品被收缴。"
+    },
+    {
+      "id": "human_evolution",
+      "content": "长期接触经过篡改的神性物质（特制炸鸡）会让人类获得名为【食欲抗性】的新参数及良性变异（微弱光晕）。"
+    },
+    {
+      "id": "concept_weapon",
+      "content": "李疯狂拥有一种外表像喷油壶的大型概念武器，扳机上刻满符文。"
+    },
+    {
+      "id": "li_fengkuang_symptom",
+      "content": "李疯狂压制S级债务侵蚀时，咳嗽会排出黑色焦糊味的烟雾，被称为高维废料。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "“老爹炸鸡”总裁/老板",
+      "names": [
+        "李疯狂",
+        "李经理",
+        "Mr. Li"
+      ]
+    }
+  ]
+}

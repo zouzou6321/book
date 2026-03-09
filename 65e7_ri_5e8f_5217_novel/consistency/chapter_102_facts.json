@@ -1,0 +1,78 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "真理之胃宿主 / 前程序员",
+      "description": "左眼有鲜红色的正“V”字符号（震动模糊），背部金属化，右手掌心有淡红色“人”字印记，左手呈现金色光泽与半透明能量态",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "Type-K型精密机械 / 仿生人",
+      "description": "仿生皮肤布满裂纹（修复后转为黑曜石质感），左肩曾贴有“最佳员工”便利贴，胸口动力炉凹陷，眼角有微型指示灯",
+      "status": "active"
+    },
+    {
+      "name": "催收员",
+      "age": "未知",
+      "role": "餐厅追债怪物",
+      "description": "黑色、像蟑螂又像剥皮老鼠，面部是带倒刺牙齿的圆形吸盘",
+      "status": "deceased"
+    },
+    {
+      "name": "清洁工",
+      "age": "未知",
+      "role": "S级高危目标 / 吞噬者",
+      "description": "巨大的旋转漩涡，中心是黑洞一样的嘴，挂着'罚款五万倍，概不赊账'的牌子",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "催收员",
+    "清洁工"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "fall_into_waste",
+      "description": "李疯狂和苏浅坠入旧日餐厅地下三层的数据废料堆，遭遇霸王餐诅咒警告",
+      "time": "周四晚间 23:59:59 附近"
+    },
+    {
+      "id": "repair_suqian",
+      "description": "李疯狂使用体内的神性残渣强制执行'协议层强制覆盖：兼容模式'修复苏浅",
+      "time": "坠落后不久"
+    },
+    {
+      "id": "collector_battle",
+      "description": "三万四千五百二十只催收员发动围攻，李疯狂利用'真理之胃'吞噬怪物并将尸体转化为数据流",
+      "time": "战斗开始"
+    },
+    {
+      "id": "janitor_encounter",
+      "description": "遭遇S级怪物'清洁工'，李疯狂融合新序列'无信用的饕餮'并冲入清洁工口中",
+      "time": "战斗尾声"
+    }
+  ],
+  "time_period": "疯狂星期四·循环间隙（周四晚间 23:59:59 至 周五 00:00:01）",
+  "locations": [
+    "旧日餐厅·地下三层·数据废料堆（后厨回收区）"
+  ],
+  "key_facts": [
+    {
+      "id": "lego_stone",
+      "content": "李疯狂拥有一枚在'神之喉咙'里留下的红色乐高积木（结石），作为对抗规则崩坏的底牌，但在本章未对苏浅使用"
+    },
+    {
+      "id": "love_surcharge",
+      "content": "苏浅的视觉传感器看到了只有她能见的淡红色小字，显示利息源为人类情感模块——'爱'"
+    },
+    {
+      "id": "new_sequence",
+      "content": "李疯狂融合了新序列：无信用的饕餮"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

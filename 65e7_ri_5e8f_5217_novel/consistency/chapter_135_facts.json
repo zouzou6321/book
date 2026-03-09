@@ -1,0 +1,105 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角、前程序员",
+      "description": "异化的银灰色左眼，手持骨勺",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "序列核心、意识体",
+      "description": "栖身于李疯狂左眼中的高维数据流",
+      "status": "active"
+    },
+    {
+      "name": "影子",
+      "age": "未知",
+      "role": "李疯狂的影子/疯狂自我具象",
+      "description": "裂开倒V字形猩红眼瞳，拥有自我意识",
+      "status": "active"
+    },
+    {
+      "name": "神明",
+      "age": "未知",
+      "role": "食客",
+      "description": "光和影的组合体，无数张嘴，不固定形态",
+      "status": "active"
+    },
+    {
+      "name": "主厨",
+      "age": "未知",
+      "role": "神之餐厅最高管理者",
+      "description": "巨大的金色瞳孔，隐藏在虚空深处",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "影子",
+    "主厨"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "enter_kitchen_revelation",
+      "description": "李疯狂进入后厨，发现地球及人类文明仅是“疯狂星期四”的食材（订单：人类文明全餐）。",
+      "time": "进入门后"
+    },
+    {
+      "id": "shadow_ordering",
+      "description": "李疯狂的影子觉醒并试图点单“现杀的理智”，引来神明注意。",
+      "time": "驻足工作台时"
+    },
+    {
+      "id": "failed_resistance",
+      "description": "李疯狂试图用骨勺攻击神明，但因对方层级（自然法则/时间）过高而无效；身体开始被数据化剥离。",
+      "time": "被神明捕食时"
+    },
+    {
+      "id": "found_return_policy",
+      "description": "骨勺撞击神明带回回响，李疯狂发现菜单背面的“变质食品退货条款”。",
+      "time": "身体崩解之际"
+    },
+    {
+      "id": "self_contamination",
+      "description": "李疯狂利用【篡改】能力将红色乐高积木（结石）按入影子，将自己定义为“过期变质食品”，利用食品安全逻辑引发神明呕吐反应。",
+      "time": "生死关头"
+    },
+    {
+      "id": "chef_awakens",
+      "description": "真正的“主厨”在虚空中睁眼，注意到了李疯狂的异常行为。",
+      "time": "章节结尾"
+    }
+  ],
+  "time_period": "时空奇点 · 没有日期的饭点",
+  "locations": [
+    "神之餐厅",
+    "古神孵化场（主厅）",
+    "后厨工作台"
+  ],
+  "key_facts": [
+    {
+      "id": "earth_cooking_process",
+      "content": "地球正在被处理，七天侵蚀法则实为烹饪流程（周一解冻、周二腌制、周三焯水、周四大火猛炒）。"
+    },
+    {
+      "id": "weapon_origin",
+      "content": "李疯狂的武器是【李小鱼的肋骨（骨勺）】，其妹妹李小鱼已故（肋骨化为骨勺）。"
+    },
+    {
+      "id": "red_lego_stone",
+      "content": "李疯狂体内有一颗“红色乐高积木（结石）”，利用其作为概念的载体进行自我定义篡改。"
+    },
+    {
+      "id": "shadow_characteristics",
+      "content": "影子具有独立意识，能开口说话点单，且包含病毒或疯狂自我的意志。"
+    },
+    {
+      "id": "logic_override",
+      "content": "利用“变质食品不能上桌”的食品安全逻辑可以对抗/否定“食客享用食物”的神级逻辑。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

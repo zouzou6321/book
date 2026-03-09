@@ -1,0 +1,103 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "",
+      "role": "国师/先生",
+      "description": "脸色惨白，忍受剧痛，指甲极速生长断裂，外表始终年轻",
+      "status": "active"
+    },
+    {
+      "name": "长生卫下属",
+      "age": "",
+      "role": "长生卫",
+      "description": "在暗巷候命",
+      "status": "active"
+    },
+    {
+      "name": "王承恩",
+      "age": "老太监",
+      "role": "太监",
+      "description": "披头散发，鞋跑掉一只，脚上满是血污，神情绝望哀戚",
+      "status": "active"
+    },
+    {
+      "name": "朱由检",
+      "age": "三十三岁",
+      "role": "大明皇帝/崇祯帝",
+      "description": "头发白了大半，身穿蓝色旧袍（袖口破），一只脚光着，一只穿破鞋，眼窝深陷，颧骨高耸",
+      "status": "deceased"
+    },
+    {
+      "name": "长生卫统领",
+      "age": "",
+      "role": "长生卫统领",
+      "description": "青儿的继任者，沉默寡言",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "朱由检",
+      "reason": "自杀（上吊）"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "chen_mo_summoned",
+      "description": "王承恩找到陈默，传达崇祯帝在煤山等待见最后一面的旨意",
+      "time": "三月十八日夜"
+    },
+    {
+      "id": "meeting_at_coal_hill",
+      "description": "陈默登上煤山寿皇亭旁，与朱由检进行最后的对话",
+      "time": "三月十八日夜"
+    },
+    {
+      "id": "confrontation",
+      "description": "朱由检质问陈默为何不逼他南迁，并试图用短剑刺杀陈默以泄愤或掩盖长生秘密，最终崩溃放弃",
+      "time": "三月十八日夜"
+    },
+    {
+      "id": "permission_to_leave",
+      "description": "朱由准许陈默带走工匠和书籍，让他代替自己活下去见证历史",
+      "time": "三月十八日夜"
+    },
+    {
+      "id": "chen_mo_departure",
+      "description": "陈默拜别朱由检，带领长生卫和工匠向南撤离",
+      "time": "黎明前"
+    },
+    {
+      "id": "emperor_suicide",
+      "description": "朱由检在煤山自缢身亡（文中暗示白绫摩擦木头的声音）",
+      "time": "三月十八日夜/黎明前"
+    }
+  ],
+  "time_period": "崇祯十七年三月十八日夜",
+  "locations": [
+    "北京城西南角",
+    "神武门外暗巷",
+    "煤山（万岁山）寿皇亭侧"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_pain_source",
+      "content": "陈默在阜成门混战中丢失了装有朱砂金丹的黑色瓷瓶，失去了抑制体内再生力量剧毒的药物"
+    },
+    {
+      "id": "qingr_successor",
+      "content": "现任长生卫统领是青儿的继任者，性格沉默寡言"
+    },
+    {
+      "id": "emperor_appearance_age",
+      "content": "朱由检年仅三十三岁但头发已白了大半"
+    },
+    {
+      "id": "departure_mission",
+      "content": "陈默奉旨在北京城破前转移工匠和书籍文献"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,115 @@
+{
+  "characters_present": [
+    {
+      "name": "李瑾",
+      "age": "未知",
+      "role": "长公主",
+      "description": "容颜冷艳如霜，容貌酷似林清雪，身着赤金滚边玄色长裙，只插金步摇",
+      "status": "active"
+    },
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "定北侯",
+      "description": "伪装成落魄农夫，身穿发白青布直裰，脚踩粗布鞋，头发随意挽着，假装傻气",
+      "status": "active"
+    },
+    {
+      "name": "王崇（王编修）",
+      "age": "未知",
+      "role": "翰林院编修",
+      "description": "看不起武夫，阴阳怪气，体型偏胖，有胡子",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "未知",
+      "role": "萧寒心腹",
+      "description": "称呼萧寒为大将军，身着便装，对萧寒的演技表示佩服",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "未知",
+      "role": "贴身宫女",
+      "description": "服侍长公主，关心主子脸色",
+      "status": "active"
+    },
+    {
+      "name": "众诰命夫人",
+      "age": "未知",
+      "role": "贵族眷属",
+      "description": "其中包括一位身着紫裙的夫人，对萧寒的诗表示赞赏",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "王崇",
+    "沈锋",
+    "翠儿"
+  ],
+  "character_exits": [
+    {
+      "name": "王崇",
+      "reason": "因被诰命夫人反驳且对萧寒无可奈何，气得拂袖而去"
+    },
+    {
+      "name": "李瑾",
+      "reason": "结束交谈，离开大相国寺回府"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "mockery_encounter",
+      "description": "萧寒遭遇王编修等文人嘲笑衣着，巧妙反讽对方利欲熏心",
+      "time": "午后"
+    },
+    {
+      "id": "calligraphy_incident",
+      "description": "萧寒在留墨阁写下‘若无闲事挂心头，便是人间好时节’，虽字潦草但被诰命夫人认为有禅意",
+      "time": "午后"
+    },
+    {
+      "id": "staged_stumble",
+      "description": "萧寒在后花园水榭旁通过完美的‘假摔’演技接近李瑾，制造偶遇",
+      "time": "午后"
+    },
+    {
+      "id": "eye_contact_moment",
+      "description": "萧寒与李瑾对视，声称见到了‘故人’，其眼神引发李瑾内心的波动与好奇",
+      "time": "午后"
+    },
+    {
+      "id": "investigation_order",
+      "description": "李瑾回府后下令翠儿调查萧寒在边关的经历以及那个‘老和尚’的身份",
+      "time": "午后回程途中"
+    }
+  ],
+  "time_period": "建安二十三年秋，午后",
+  "locations": [
+    "大相国寺",
+    "竹林精舍",
+    "留墨阁",
+    "后花园",
+    "水榭",
+    "长公主府马车"
+  ],
+  "key_facts": [
+    {
+      "id": "jin_resemblance",
+      "content": "长公主李瑾的外貌与萧寒记忆中的林清雪有着九分相似"
+    },
+    {
+      "id": "xiao_han_disguise",
+      "content": "萧寒刻意伪装成落魄、愚钝的形象，并利用‘演技’在京城权谋周旋"
+    },
+    {
+      "id": "past_lives_fate",
+      "content": "揭示前世萧寒是定北侯，李瑾是长公主，两人皆站在权力巅峰但最终身死"
+    },
+    {
+      "id": "poem_meaning",
+      "content": "‘若无闲事挂心头，便是人间好时节’被萧寒用来展示一种通透、不世俗的心境"
+    }
+  ]
+}

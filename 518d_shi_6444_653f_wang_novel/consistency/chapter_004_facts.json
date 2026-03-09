@@ -1,0 +1,90 @@
+{
+  "characters_present": [
+    {
+      "name": "张伟",
+      "age": "",
+      "role": "导演",
+      "description": "中年男人，脸色铁青，以性格火爆、要求苛刻著称",
+      "status": "active"
+    },
+    {
+      "name": "萧严/萧寒",
+      "age": "",
+      "role": "演员（饰演魏忠）",
+      "description": "身穿暗紫色太监官服，眼神幽深如寒潭，背负定北侯灵魂",
+      "status": "active"
+    },
+    {
+      "name": "王胖子",
+      "age": "",
+      "role": "经纪人",
+      "description": "满脸横肉，穿着廉价西装，满头油汗",
+      "status": "active"
+    },
+    {
+      "name": "皇帝替身",
+      "age": "",
+      "role": "替身演员",
+      "description": "曾在试镜时出现，饰演剧中皇帝",
+      "status": "active"
+    },
+    {
+      "name": "陈宇",
+      "age": "",
+      "role": "演员（流量小鲜肉）",
+      "description": "梳着古装长发，化着精致妆容，饰演忠良之子",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "影后",
+      "description": "在远处保姆车内观察",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "张伟",
+    "陈宇"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "seventeenth_ng",
+      "description": "因萧严无法摆脱前世将军的戾气，演不出太监魏忠的奴性，导致第十七次NG",
+      "time": "2024年秋，下午三点"
+    },
+    {
+      "id": "epiphany",
+      "description": "萧严领悟到演戏即是做官，决定放下定北侯的傲骨，在片场重修帝王心术",
+      "time": "2024年秋，下午三点"
+    },
+    {
+      "id": "improvised_act",
+      "description": "萧严在拍摄中即兴掌掴陈宇，完美诠释了魏忠的阴狠与多变，震撼全场",
+      "time": "2024年秋，下午三点"
+    }
+  ],
+  "time_period": "2024年秋，下午三点",
+  "locations": [
+    "横店影视城，《大梁谍影》皇宫大殿片场"
+  ],
+  "key_facts": [
+    {
+      "id": "protagonist_identity",
+      "content": "萧严的肉体内拥有定北侯萧寒的灵魂，前世在菜市口被斩首"
+    },
+    {
+      "id": "role_characteristic",
+      "content": "魏忠是大梁朝最阴毒、最会察言观色的权阉，需要表现出皮笑肉不笑和极度的奴性"
+    },
+    {
+      "id": "contract_constraint",
+      "content": "萧严与王胖子签了高额违约金的卖身契，被剧组开除将面临巨额赔偿"
+    },
+    {
+      "id": "past_connection",
+      "content": "林清雪长着一张和萧寒前世李瑾一样的面孔，曾指导萧严演戏"
+    }
+  ]
+}

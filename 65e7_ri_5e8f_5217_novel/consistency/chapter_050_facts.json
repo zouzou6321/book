@@ -1,0 +1,97 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/篡改者",
+      "description": "左眼瞳孔深处有白色倒“V”字符号，冷酷，嘴角溢血",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "收容局特工",
+      "description": "左臂已完全晶体化，虚弱，手持枪械",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "小雅（小女孩）",
+    "创始人肯"
+  ],
+  "character_exits": [
+    {
+      "name": "小雅（小女孩）",
+      "reason": "死亡（被李疯狂捏碎并格式化）"
+    },
+    {
+      "name": "怪诞乐园的怪物群（被废弃的快乐样本）",
+      "reason": "死亡（被定义修正为高压电击摧毁）"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "enter_grotesque_playground",
+      "description": "李疯狂和苏浅进入理智之塔中层“怪诞乐园”，遭遇被废弃的快乐样本",
+      "time": "星期四中午"
+    },
+    {
+      "id": "pain_is_reward_logic",
+      "description": "李疯狂发现怪物的逻辑中将“伤害”定义为“奖赏/快乐”，导致物理攻击无效",
+      "time": "星期四中午"
+    },
+    {
+      "id": "logic_rewrite_execution",
+      "description": "李疯狂发动【篡改 · 定义修正】，将区域内的“快乐”定义为“高压电击”，清除了所有怪物",
+      "time": "星期四中午"
+    },
+    {
+      "id": "ascension_to_time_chamber",
+      "description": "两人前往更高层，环境变为倒转的钟表阵，窗外出现紫色海洋和肯的雕像",
+      "time": "星期四中午"
+    },
+    {
+      "id": "tower_top_gateway_opens",
+      "description": "理智之塔塔顶大门打开，李疯狂准备进入最终决战",
+      "time": "星期四中午"
+    }
+  ],
+  "time_period": "星期四 · 中午（停滞的时间线）",
+  "locations": [
+    "理智之塔 · 中层——“怪诞乐园”",
+    "通往更高层的螺旋阶梯",
+    "理智之塔高层（时间钟表阵景）",
+    "塔外视野（紫色海洋/炸鸡块群岛）"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_status",
+      "content": "李疯狂已删除“恐惧”模块，左眼具备数据解析、篡改和定义修正能力"
+    },
+    {
+      "id": "su_qian_status",
+      "content": "苏浅左臂完全晶体化，状态虚弱"
+    },
+    {
+      "id": "playground_logic",
+      "content": "怪诞乐园的怪物将伤害定义为快乐，物理攻击会使其兴奋"
+    },
+    {
+      "id": "rewrite_side_effect",
+      "content": "李疯狂使用大范围概念覆写后出现副作用，逻辑修正存在“排异反应”，San值上限下降"
+    },
+    {
+      "id": "world_setting",
+      "content": "理智之塔外的时间正在倒转（神明咀嚼时间），存在名为“肯”的创始人巨型雕像"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "递眼球的小女孩（被废弃的快乐样本）",
+      "names": [
+        "小女孩",
+        "小雅"
+      ]
+    }
+  ]
+}

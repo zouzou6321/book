@@ -1,0 +1,87 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未提及",
+      "role": "【记录者】/变异幸存者",
+      "description": "皮肤苍白且带有金属质感，满脸胡茬，神色颓废",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未提及",
+      "role": "收容局特别调查员",
+      "description": "黑色战术风衣，短发，戴战术护目镜，眼神锐利如鹰隼，眼含红血丝",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "苏浅"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "entry_jinyuan_mall",
+      "description": "李疯狂进入废弃的金源百货大楼",
+      "time": "第一周期·周六 15:00"
+    },
+    {
+      "id": "mannequin_analysis",
+      "description": "李疯狂解析出伪装成塑料模特的【仿生拟态·塑料怨灵】",
+      "time": "第一周期·周六 15:00"
+    },
+    {
+      "id": "first_encounter",
+      "description": "苏浅开枪击碎试图偷袭李疯狂的塑料模特，并从二楼跃下质问李疯狂",
+      "time": "第一周期·周六 15:00"
+    },
+    {
+      "id": "taotie_connection",
+      "description": "苏浅指出李疯狂身上有神职者级怪物“饕餮”的气味，李疯狂解释那是“烹饪事故”（食用残留物）",
+      "time": "第一周期·周六 15:00"
+    },
+    {
+      "id": "alliance_formed",
+      "description": "面对苏醒的塑料怨灵群，李疯狂与苏浅达成临时同盟，答应带路寻找“饕餮”",
+      "time": "第一周期·周六 15:00"
+    }
+  ],
+  "time_period": "第一周期·周六 15:00",
+  "locations": [
+    "城市西区·废弃的金源百货大楼",
+    "二楼栏杆",
+    "左侧女装店门口",
+    "中庭"
+  ],
+  "key_facts": [
+    {
+      "id": "li_fukuang_abilities",
+      "content": "李疯狂拥有【记录者】视界（解析属性）、【真理之胃】（强化消化），嗅觉灵敏，皮肤具金属质感"
+    },
+    {
+      "id": "su_qian_identity",
+      "content": "苏浅是收容局特别调查员，擅长使用热武器，性格冷酷"
+    },
+    {
+      "id": "team_7_disappearance",
+      "content": "收容局第7分队于上周四晚在烂尾楼工地失联，现场有神职者级怪物“饕餮”的痕迹"
+    },
+    {
+      "id": "li_fukuangs_smell",
+      "content": "李疯狂身上沾染的高纯度硫磺味源自他在烂尾楼工地食用了收容局无法处理的高能辐射残渣"
+    },
+    {
+      "id": "enemy_type",
+      "content": "金源百货大楼内存在大量【仿生拟态·塑料怨灵】，具有静止伪装和群体恐吓特性"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

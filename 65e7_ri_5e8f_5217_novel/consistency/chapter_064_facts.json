@@ -1,0 +1,126 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "导航员/逻辑之主",
+      "description": "左眼有倒V字符号（随理智变色），手持管钳和【骨勺】，受伤吐黑血",
+      "status": "active"
+    },
+    {
+      "name": "星期三·回溯核心",
+      "age": "外表为小女孩",
+      "role": "诺亚方舟动力源/伪·李小鱼",
+      "description": "穿着旧校服，无五官只有巨嘴，嘴内有黑色漩涡",
+      "status": "deceased"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "医护人员/乘客",
+      "description": "左臂晶体纹路蔓延至脖颈，手腕有淤青",
+      "status": "active"
+    },
+    {
+      "name": "主厨",
+      "age": "未知",
+      "role": "神秘声音/高维存在",
+      "description": "存在于李疯狂脑海中的声音",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "星期三·回溯核心",
+    "副主厨(苏浅倒影)"
+  ],
+  "character_exits": [
+    {
+      "name": "星期三·回溯核心",
+      "reason": "被李疯狂的「反刍」能力击杀/消散"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "enter_power_room",
+      "description": "李疯狂进入底层动力舱，发现方舟正在通过吃“乘客的后悔”作为动力进行倒车",
+      "time": "距离发炎期爆发前2分钟内"
+    },
+    {
+      "id": "encounter_pseudo_xiaoyu",
+      "description": "李疯狂遭遇伪装成李小鱼的星期三回溯核心，对方试图将方舟“退款”回过去",
+      "time": "入夜"
+    },
+    {
+      "id": "time_reverse_phenomenon",
+      "description": "因果律逆转，物体飞回原位，第7车厢伤员退化为婴儿，方舟倒退",
+      "time": "入夜"
+    },
+    {
+      "id": "su_qian_distress",
+      "description": "苏浅求救，第7车厢发生异变，该情感刺激导致李疯狂理智跌破并激活能力",
+      "time": "入夜"
+    },
+    {
+      "id": "rumination_ability",
+      "description": "李疯狂获得序列「逆流而上的暴食者」，发动「反刍」强制修改消化方向，阻止时间倒流并炸毁核心",
+      "time": "入夜"
+    },
+    {
+      "id": "enter_deep_water",
+      "description": "方舟冲向名为“星期三”的深水区，窗外出现巨大发光水母状物体和废弃日历铺成的路",
+      "time": "入夜后"
+    }
+  ],
+  "time_period": "第三个沦陷周 · 星期三入夜（疯狂前夕/发炎期爆发前后）",
+  "locations": [
+    "诺亚方舟01号车厢连接处",
+    "楼梯间",
+    "底层动力舱",
+    "第7车厢医疗区（通讯提及）",
+    "世界背面/星期三深水区"
+  ],
+  "key_facts": [
+    {
+      "id": "ark_fuel_source",
+      "content": "诺亚方舟的动力源并非燃烧燃料，而是吞噬“乘客的后悔”"
+    },
+    {
+      "id": "wednesday_nature",
+      "content": "“星期三”的力量本质是“后悔与炎症”，能导致时间回溯和物体退行"
+    },
+    {
+      "id": "su_qian_condition",
+      "content": "苏浅手臂上的晶体纹路已经蔓延到了颈部"
+    },
+    {
+      "id": "su_qian_reflection",
+      "content": "苏浅的倒影显示出她是“副主厨”，且穿着黑色礼服鞠躬"
+    },
+    {
+      "id": "li_eye_state",
+      "content": "李疯狂左眼的倒V字符号会随理智和情感状态在惨白色（绝对理性）与猩红色（暴食）之间转换"
+    },
+    {
+      "id": "coordinate_morph",
+      "content": "雷达上的生存坐标（红色墓碑）旁多了一个如逗号般的坏笑脸符号"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "诺亚方舟动力源核心",
+      "names": [
+        "李小鱼（伪）",
+        "小女孩",
+        "星期三·回溯核心"
+      ]
+    },
+    {
+      "role_or_identity": "李疯狂",
+      "names": [
+        "李疯狂",
+        "李 crazy",
+        "导航员"
+      ]
+    }
+  ]
+}

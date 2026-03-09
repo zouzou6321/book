@@ -1,0 +1,84 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "Unknown",
+      "role": "半神（伪）/ 高熵有序者",
+      "description": "骨骼为半透明灰白色晶体状，骨髓流淌金色液体；皮肤呈金属陶瓷质感，有几何美感；面部完美无表情；双眼为灰白色无瞳孔的旋涡；身穿印有'V我50'的破烂T恤",
+      "status": "active"
+    },
+    {
+      "name": "影子李疯狂",
+      "age": "Unknown",
+      "role": "逻辑废料 / 李疯狂的影子",
+      "description": "外貌与李疯狂相同但脸部满是狂热笑容，身体边缘如接触不良的全息投影般闪烁，皮肤下有代码重组，口中吐出黑色气泡",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "影子李疯狂",
+    "陈队长"
+  ],
+  "character_exits": [
+    {
+      "name": "影子李疯狂",
+      "reason": "死亡/被吞噬"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "defeat_shadow",
+      "description": "李疯狂使用金色火焰和高维管理员权限击败并吞噬了影子李疯狂",
+      "time": "本章开始"
+    },
+    {
+      "id": "ascension_to_demigod",
+      "description": "吞噬影子后，李疯狂身体重构，骨骼晶体化，系统状态更新为'半神（伪）'，情感模块缺失",
+      "time": "吞噬影子后"
+    },
+    {
+      "id": "discovery_of_bug",
+      "description": "李疯狂发现右手掌心存在一个无法解析的Bug，呈现出'人'字一半的痕迹，且带有苏浅相关的概念和灼烧感",
+      "time": "身体重构后"
+    },
+    {
+      "id": "encounter_survivors",
+      "description": "李疯狂来到补天计划指挥部旧址，遭遇幸存者，用念力悬停并分解了射来的子弹",
+      "time": "身体重构后"
+    },
+    {
+      "id": "recorder_restoration",
+      "description": "李疯狂收听陈队长的遗言录音，右手Bug导致录音笔被修复并刻上'Sq'，李疯狂决定保留Su_Qian.exe并尝试兼容",
+      "time": "遭遇幸存者时"
+    }
+  ],
+  "time_period": "时间开始修复的瞬间",
+  "locations": [
+    "南极冰原 · 废墟中心",
+    "南极科考站“补天计划”指挥部",
+    "中央控制室"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_status",
+      "content": "李疯狂当前等级为半神（伪），身体完整性100%，情感模块缺失（0%），逻辑冗余度提升300%"
+    },
+    {
+      "id": "su_qian_bug",
+      "content": "苏浅（Su_Qian）虽不在记忆库，但作为数据碎片/Bug存在于李疯狂右手掌心，能引发痛觉和干涉物理现实（修复录音笔）"
+    },
+    {
+      "id": "fire_color_change",
+      "content": "李疯狂的火焰在接触特定情绪或苏浅相关事物时会呈现莹蓝色"
+    },
+    {
+      "id": "recorder_message",
+      "content": "幸存者（陈队长）在录音中警告别去'理智之塔'，别信穿白衣服的人，并提到苏浅临终前念叨李疯狂的名字"
+    },
+    {
+      "id": "bone_structure",
+      "content": "李疯狂的新骨骼呈现半透明灰白色晶体状，骨髓流淌金色发光液体"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

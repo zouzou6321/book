@@ -1,0 +1,66 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "篡改者",
+      "description": "左眼深处有白色倒'V'字符号，略显消瘦",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "收容局特工",
+      "description": "左臂上有青色手铐状花纹",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "fast_food_visit",
+      "description": "李疯狂和苏浅进入一家诡异的快餐店并点餐",
+      "time": "伪·周三中午"
+    },
+    {
+      "id": "suqian_illusion_attack",
+      "description": "苏浅吃下'妈妈的味道'汉堡，陷入虚假幸福记忆并被格式化",
+      "time": "伪·周三中午"
+    },
+    {
+      "id": "modifier_intervention",
+      "description": "李疯狂使用能力'篡改者·逻辑覆写'强制修改苏浅感官，打破幻象",
+      "time": "伪·周三中午"
+    },
+    {
+      "id": "physical_backup",
+      "description": "李疯狂写下包含债务和生存意志的纸条并吞下作为物理备份",
+      "time": "伪·周三中午"
+    },
+    {
+      "id": "departure_to_throat",
+      "description": "两人离开快餐店，决定前往世界的'喉咙'给予神明刺激",
+      "time": "伪·周三中午"
+    }
+  ],
+  "time_period": "伪·周三中午（紫色天象笼罩期）",
+  "locations": [
+    "城市废墟 · 看起来相对正常的“疯狂星期四”快餐连锁店"
+  ],
+  "key_facts": [
+    {
+      "id": "world_mechanism",
+      "content": "伪·周三时神明卡住喉咙，世界会自我修正，将痛苦记忆替换为虚假温情作为止痛药"
+    },
+    {
+      "id": "suqian_background",
+      "content": "苏浅是孤儿，三岁丧亲，在隔离区长大，十七岁第一次杀人"
+    },
+    {
+      "id": "li_debts",
+      "content": "李疯狂欠柯基50块钱，欠苏浅一条命"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,90 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "救世主/觉醒者/高熵有序者",
+      "description": "皮肤苍白布满裂纹，左眼有金色符文，现自名为'理智'，失去味觉",
+      "status": "active"
+    },
+    {
+      "name": "乌鸦",
+      "age": "未知",
+      "role": "因果局审计员",
+      "description": "黑色翅膀，猩红眼睛，曾以新闻播报腔调说话，后惊恐逃离",
+      "status": "departed"
+    },
+    {
+      "name": "年轻调查员",
+      "age": "青年",
+      "role": "收容分局调查员",
+      "description": "怯生生的，手持电子写字板，对李疯狂感到恐惧",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "乌鸦",
+      "reason": "因恐惧且生意亏损而逃离"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "swallow_causal_bill",
+      "description": "李疯狂使用篡改权能将因果局的巨额账单概念修改为'至尊套餐'并吞噬，获得了'信条豁免权（伪）'",
+      "time": "新纪元·第一天·清晨"
+    },
+    {
+      "id": "identity_redefinition",
+      "description": "李疯狂在幸存人员登记表中将名字改为'理智'，宣告旧身份'李疯狂'已死",
+      "time": "新纪元·第一天·清晨"
+    },
+    {
+      "id": "memory_preservation",
+      "description": "李疯狂通过播放苏浅的录音笔（关键词'V我50'），触发生命系统的逻辑冲突，成功阻止了系统自动删除苏浅记忆的进程",
+      "time": "新纪元·第一天·清晨"
+    }
+  ],
+  "time_period": "新纪元·第一天·清晨",
+  "locations": [
+    "南极废墟",
+    "临时收容指挥部"
+  ],
+  "key_facts": [
+    {
+      "id": "protagonist_new_name",
+      "content": "李疯狂现已更名为'理智'"
+    },
+    {
+      "id": "protagonist_sensory_loss",
+      "content": "李疯狂失去了味觉，进食时只能感知分子结构和热量等数据"
+    },
+    {
+      "id": "ancient_god_status",
+      "content": "古神残魂被囚禁在李疯狂胃中，未被完全消化，偶尔会表现出活跃或挑衅"
+    },
+    {
+      "id": "system_behavior",
+      "content": "系统倾向于将情感和记忆判定为低效冗余并予以删除，以提升运算效率"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "理",
+        "智",
+        "理智"
+      ]
+    },
+    {
+      "role_or_identity": "因果局审计员",
+      "names": [
+        "乌鸦",
+        "审计员"
+      ]
+    }
+  ]
+}

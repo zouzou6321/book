@@ -1,0 +1,107 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/容器意识",
+      "description": "目前占据阿傻的身体，左眼闪烁暗金代码流，拥有【篡改】能力",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "女主角",
+      "description": "手握【逻辑缓冲剂】，指尖能浮现粉色光芒（爱/Bug）",
+      "status": "active"
+    },
+    {
+      "name": "税务官",
+      "age": "未知",
+      "role": "初级税务官/精英怪",
+      "description": "巨大的老式收银机头部，身穿未兑现支票缝制的西装，手指是印章",
+      "status": "deceased"
+    },
+    {
+      "name": "护士",
+      "age": "未知",
+      "role": "精神卫生中心护士",
+      "description": "动作僵硬，眼睛里是转动的齿轮",
+      "status": "active"
+    },
+    {
+      "name": "原版逻辑 · 暴食之主",
+      "age": "未知",
+      "role": "S级高危入侵者/Li疯狂的阴影",
+      "description": "浑身缠绕黑色触手，戴着破碎面具，手持生锈勺子",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "税务官",
+    "原版逻辑 · 暴食之主"
+  ],
+  "character_exits": [
+    {
+      "name": "税务官",
+      "reason": "被击败"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "tax_broadcast",
+      "description": "旧日税务局广播通告李疯狂存在严重的逻辑赤字，要求22小时内补足痛苦储备。",
+      "time": "高维清算倒计时 21小时45分"
+    },
+    {
+      "id": "flyer_weapon_active",
+      "description": "李疯狂利用【篡改】能力和【审计镜头碎片】，激活男科医院传单将其转化为具备吞噬能力的武器。",
+      "time": "本章内"
+    },
+    {
+      "id": "hallway_infiltration",
+      "description": "李疯狂利用传单中的‘VIP特权’逻辑漏洞欺骗护士和走廊规则，通过货梯直达税务官大厅。",
+      "time": "本章内"
+    },
+    {
+      "id": "tax_officer_defeat",
+      "description": "李疯狂发动【逻辑暴食】攻击，苏浅注入情感病毒（爱），导致初级税务官逻辑短路并炸裂。",
+      "time": "本章内"
+    },
+    {
+      "id": "shadow_appearance",
+      "description": "苏浅的活跃触发‘杀毒’方案，S级入侵者‘原版逻辑 · 暴食之主’（李疯狂的阴影）出现。",
+      "time": "本章内"
+    }
+  ],
+  "time_period": "高维清算倒计时 · 21小时45分",
+  "locations": [
+    "市立精神卫生中心",
+    "38号特殊隔离病区",
+    "走廊",
+    "电梯",
+    "税务官大厅/财务室"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_abilities",
+      "content": "李疯狂拥有【篡改】能力，左眼具备数据解析能力，目前身体为阿傻。"
+    },
+    {
+      "id": "flyer_capability",
+      "content": "男科医院传单已被转化为能够吞噬‘高维债务’的武器，并能执行‘疯狂星期四’相关的概念攻击。"
+    },
+    {
+      "id": "su_qian_status",
+      "content": "苏浅被高维系统定义为‘无法核销的坏账’或‘Bug’，其力量（粉色光芒/爱）能破坏高维逻辑。"
+    },
+    {
+      "id": "shadow_identity",
+      "content": "新出现的S级入侵者为李疯狂过去时间线的‘自我’阴影，被称为‘暴食之主’，手持生锈勺子。"
+    },
+    {
+      "id": "loot",
+      "content": "击败初级税务官获得‘无限透支额（临时版）’。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,72 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "幸存者/理智之主（伪）",
+      "description": "左眼经历白色化（数据流）后恢复为带裂痕的暗红色图腾，左半身曾被灰色晶体覆盖（战斗中破碎），浑身是血。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "高维锚点/同伴",
+      "description": "手掌曾被刺穿流血（后被治愈），衣着沾染血迹。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "swallow_fragment",
+      "description": "李疯狂吞下'星期碎片（周二的忧郁）'，加载'鱼刺逻辑'，通过将自己定义为规则的异物（鱼刺）在神明的'删除指令'中存活。",
+      "time": "星期二终结前夜"
+    },
+    {
+      "id": "rationalization",
+      "description": "幸存后李疯狂身体异化，左眼变为数据流，左半身覆盖晶体，理智值100%，删除了所有情感模块，成为绝对理性的机器。",
+      "time": "星期二终结前夜"
+    },
+    {
+      "id": "heal_su_qian",
+      "description": "李疯狂使用'篡改 · 属性修正：凝血因子'瞬间治好了苏浅手上的伤口。",
+      "time": "星期二终结前夜"
+    },
+    {
+      "id": "tactical_conflict",
+      "description": "面对袭来的触手群，李疯狂计算出以苏浅为诱饵的胜率最高解，但在苏浅走向触手时，核心逻辑出现悖论导致系统报错。",
+      "time": "星期二终结前夜"
+    },
+    {
+      "id": "save_su_qian",
+      "description": "李疯狂强行突破逻辑限制，冲向悬崖救下苏浅，身上的晶体外壳崩碎，理智崩溃，情感回归，左眼图腾出现裂痕。",
+      "time": "星期二终结前夜"
+    }
+  ],
+  "time_period": "星期二终结前夜（崩坏值 99.9%）",
+  "locations": [
+    "南极冰裂谷",
+    "灰脓海域边缘",
+    "逻辑死寂区"
+  ],
+  "key_facts": [
+    {
+      "id": "li_fishbone_logic",
+      "content": "李疯狂通过吞下碎片获得了'鱼刺逻辑'能力，将自己转化为卡住神明喉咙的'鱼刺'以免疫高维删除指令。"
+    },
+    {
+      "id": "li_emotion_loss",
+      "content": "李疯狂在承受攻击后大脑删除了悲伤、恐惧、同情等情感模块，变成了一台绝对理性的超级计算机，直到救苏浅时逻辑崩溃才找回人性。"
+    },
+    {
+      "id": "li_eye_crack",
+      "content": "李疯狂理智崩溃重新找回人性后，左眼（原本的暗红色图腾眼）多了一道贯穿瞳孔的裂痕。"
+    },
+    {
+      "id": "bone_spoon_cracked",
+      "content": "李疯狂的武器'骨勺'在感应到主人状态变化后表面浮现出了裂纹。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

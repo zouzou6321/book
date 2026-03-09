@@ -1,0 +1,87 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "前管理员/未注册用户",
+      "description": "苍白，指甲缝有污垢，左眼浑浊近视且带旧疤，T恤印着'V我50'",
+      "status": "active"
+    },
+    {
+      "name": "路人女子",
+      "age": "未知",
+      "role": "上班族",
+      "description": "穿着米色风衣，短发利落，眼神疲惫麻木，黑色眼睛，无竖瞳",
+      "status": "departed"
+    },
+    {
+      "name": "李小鱼（数据体）",
+      "age": "约16岁（外表）",
+      "role": "被删除的文件备份",
+      "description": "宽大校服，凌乱双马尾，抱破旧泰迪熊（腹中有纸条），脚跟悬空，眼中无高光",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "路人女子",
+    "李小鱼（数据体）"
+  ],
+  "character_exits": [
+    {
+      "name": "路人女子",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "wake_up_reality",
+      "description": "李疯狂在修正后的现实醒来，失去神性和管理员权限，身体变为普通且虚弱",
+      "time": "07:03"
+    },
+    {
+      "id": "glitch_vision",
+      "description": "李疯狂目睹公交广告出现像素化和尖牙裂变的短暂卡顿，察觉世界异常",
+      "time": "星期五早晨"
+    },
+    {
+      "id": "meet_xiaoyu_backup",
+      "description": "李疯狂遇到数据体李小鱼，得知世界是被补丁缝合的尸体，神明（厨师）正在旁观",
+      "time": "星期五早晨"
+    },
+    {
+      "id": "swallow_lego_core",
+      "description": "李疯狂从数据李小鱼处拿回红色乐高积木并吞下，准备对抗世界清理",
+      "time": "星期五早晨"
+    }
+  ],
+  "time_period": "新纪元元年，星期五，清晨 07:00-上午",
+  "locations": [
+    "第73区",
+    "廉价出租屋",
+    "公寓楼道/大厅",
+    "街道"
+  ],
+  "key_facts": [
+    {
+      "id": "li_status_powerless",
+      "content": "李疯狂已卸载所有'外挂'，失去【篡改】能力和管理员权限，左眼为原装浑浊近视眼但残留观测真相的能力"
+    },
+    {
+      "id": "suqian_location",
+      "content": "苏浅作为版本回滚的'代价'，并未完全消失，而是存在于李疯狂的记忆和左眼（真相之眼）中"
+    },
+    {
+      "id": "world_state_patched",
+      "content": "当前世界是用'人性碎片'修补后的假象，真实景象为紫色天空愈合伤口和由骨头堆砌的建筑，神明处于'中场休息'状态"
+    },
+    {
+      "id": "xiaoyu_identity",
+      "content": "李小鱼呈现为'被删除的文件备份'形态，脚悬空，持有并归还了红色乐高积木"
+    },
+    {
+      "id": "reality_glitch_trigger",
+      "content": "李疯狂作为'未注册用户'是当前版本最大的BUG，其寻找苏浅的行为加速了世界伪装的破裂"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

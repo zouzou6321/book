@@ -1,0 +1,96 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "定北侯",
+      "description": "身姿挺拔，深青色锦袍，布满老茧的手，深邃如渊的眸子，儒雅与憨厚伪装并存",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "未知",
+      "role": "长公主",
+      "description": "随云髻，插玉兰白玉簪，凤眸，疲惫慵懒，眼神威严",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "未知",
+      "role": "侍女",
+      "description": "未见具体外貌描写",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "未知",
+      "role": "萧寒的心腹",
+      "description": "未见具体外貌描写，黑影中出现",
+      "status": "active"
+    },
+    {
+      "name": "赵宏",
+      "age": "未知",
+      "role": "观察者（敌对势力）",
+      "description": "阴鸷的眼睛，隐没在黑暗中",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "沈锋",
+    "赵宏"
+  ],
+  "character_exits": [
+    {
+      "name": "萧寒",
+      "reason": "离开长公主府，回侯府"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "business_agreement_signed",
+      "description": "萧寒与李瑾达成商业合作协议，李瑾出资入股萧寒北境商队，定下旱涝保收四成利息及超额分红比例，并签署契约",
+      "time": "亥时三刻"
+    },
+    {
+      "id": "accidental_touch",
+      "description": "萧寒准备告退时意外触碰李瑾的手，随后顺势扶住茶盏，两人产生微妙的情感波动",
+      "time": "亥时三刻"
+    },
+    {
+      "id": "strategic_leakage_order",
+      "description": "萧寒指示沈锋向户部王崇透露定北侯缺钱的“真账”，并故意与长公主绑定，制造贪财假象以此麻痹皇帝",
+      "time": "亥时三刻之后"
+    },
+    {
+      "id": "surveillance_detected",
+      "description": "赵宏在暗处高楼通过夜视筒监视长公主府内萧寒与李瑾的动向",
+      "time": "亥时三刻之后"
+    }
+  ],
+  "time_period": "大梁 · 建安二十三年 · 秋 · 亥时三刻",
+  "locations": [
+    "长公主府",
+    "听雨榭密室",
+    "长公主府回廊",
+    "京城某处高耸楼阁"
+  ],
+  "key_facts": [
+    {
+      "id": "princess_financial_status",
+      "content": "李瑾内帑空虚，母族林家生意受损，在宫中用度受制于皇帝与户部，急需独立财源"
+    },
+    {
+      "id": "deal_terms",
+      "content": "契约规定：无论盈亏年息四成；超额利润按殿下七、萧寒三分红；若事发萧寒独自担责，李瑾可大义灭亲"
+    },
+    {
+      "id": "xiao_han_disguise_strategy",
+      "content": "萧寒伪装成爱财如命、大字不识的草包将军，实则精明，利用贪财表象降低皇帝戒心"
+    },
+    {
+      "id": "alliance_nature",
+      "content": "萧寒与李瑾结盟实为利益捆绑，萧寒需李瑾权势庇护，李瑾需萧寒赚钱能力，对外伪装成狼狈为奸的财迷关系"
+    }
+  ]
+}

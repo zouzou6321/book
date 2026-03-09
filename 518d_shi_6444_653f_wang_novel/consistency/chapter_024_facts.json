@@ -1,0 +1,124 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "",
+      "role": "定北侯",
+      "description": "身穿极俗艳的紫红色锦缎，领口微敞，中衣松垮，举止懒散无仪态，露口白牙",
+      "status": "active"
+    },
+    {
+      "name": "王崇远",
+      "age": "",
+      "role": "翰林院编修",
+      "description": "月白色儒衫，手持折扇，似笑非笑，眼底阴毒",
+      "status": "active"
+    },
+    {
+      "name": "红袖",
+      "age": "",
+      "role": "京城楚馆头牌",
+      "description": "绯红色薄纱舞衣，肌肤胜雪，眉眼含春",
+      "status": "active"
+    },
+    {
+      "name": "王郎中",
+      "age": "",
+      "role": "兵部郎中",
+      "description": "惧内，出汗",
+      "status": "active"
+    },
+    {
+      "name": "王夫人",
+      "age": "",
+      "role": "兵部郎中正妻",
+      "description": "悍妒，满脸不屑",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "",
+      "role": "长公主",
+      "description": "神色晦暗不明，把玩琉璃盏",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "",
+      "role": "长公主贴身宫女",
+      "description": "",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "",
+      "role": "萧寒下属",
+      "description": "藏身于阴影处",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "王崇远",
+    "红袖",
+    "王郎中",
+    "王夫人",
+    "翠儿",
+    "沈锋"
+  ],
+  "character_exits": [
+    {
+      "name": "红袖",
+      "reason": "被送给兵部郎中做粗使丫头"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "banquet_trap",
+      "description": "王崇远安排歌姬红袖设局陷害萧寒，意图让其当众出丑",
+      "time": "建安二十三年秋戌时三刻"
+    },
+    {
+      "id": "xiaohan_counter",
+      "description": "萧寒巧妙化解红袖的投怀送抱，利用兵部郎中妻子的悍妒，将红袖做媒给王郎中做粗使丫头，以此反击王崇远并博取贵妇圈好感",
+      "time": "建安二十三年秋戌时三刻"
+    },
+    {
+      "id": "princess_analysis",
+      "description": "长公主李瑾在回府途中分析萧寒的举动，认为他实则在借机进行形象公关",
+      "time": "深夜"
+    },
+    {
+      "id": "visit_plan",
+      "description": "萧寒决定次日携带‘旧账’拜访户部",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "建安二十三年，秋，戌时三刻至深夜",
+  "locations": [
+    "京城西市礼部侍郎王大人别业（临水暖阁）",
+    "长公主府马车内",
+    "定北侯府高楼"
+  ],
+  "key_facts": [
+    {
+      "id": "xiaohan_disguise",
+      "content": "萧寒正在刻意扮演‘没文化的土包子军阀’，衣饰俗艳，举止粗鲁"
+    },
+    {
+      "id": "red_sleeve_fate",
+      "content": "红袖被判定为只能做粗使丫头，进入了兵部郎中王大人的府邸"
+    },
+    {
+      "id": "princess_suspicion",
+      "content": "长公主李瑾对萧寒的印象改观，认为其心机深沉，手段类似‘公关’"
+    },
+    {
+      "id": "household_image",
+      "content": "萧寒通过此事在京中权贵女眷圈（特别是主母们）中留下了‘懂尊重人’、‘知道尊卑’的好名声"
+    },
+    {
+      "id": "next_move",
+      "content": "萧寒计划第二天利用‘旧账’去拜访户部的财神爷"
+    }
+  ]
+}

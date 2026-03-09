@@ -1,0 +1,76 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知（已进化）",
+      "role": "高熵有序者/半神",
+      "description": "由超高密度代码凝聚而成的棱柱，脸部是变幻的云雾，左手手背有‘高熵有序’同心圆图腾，胸腔内燃烧着苏浅残渣的淡红色微光",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "爱之Bug/记忆体",
+      "description": "燃烧在李疯狂心脏位置的淡红色微光，无法被系统删除、无法被逻辑解析",
+      "status": "active"
+    },
+    {
+      "name": "李疯狂（v1.0）",
+      "age": "26",
+      "role": "过去的自己/觉醒者",
+      "description": "黑眼圈深重，穿着廉价大裤衩，手持生锈勺子，正处于极度恐慌状态",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "李疯狂（v1.0）"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "call_from_history",
+      "description": "李疯狂接到来自第404号历史节点（过去）由年轻的自己拨打的电话",
+      "time": "新历元年 · 逻辑重构后的第一个星期一 · 上午 09:41"
+    },
+    {
+      "id": "injection_v50",
+      "description": "李疯狂向过去的自己传递‘V我50’作为闭合因果的逻辑密钥和坐标",
+      "time": "新历元年 · 逻辑重构后的第一个星期一 · 上午 09:41"
+    },
+    {
+      "id": "causality_loop_closed",
+      "description": "因果律闭环完成，世界稳定性修正至99.9%",
+      "time": "新历元年 · 逻辑重构后的第一个星期一 · 上午 09:41"
+    },
+    {
+      "id": "new_threat_detected",
+      "description": "李疯狂在古神残骸深处发现因数据丢失而产生的‘逻辑空洞’威胁",
+      "time": "新历元年 · 逻辑重构后的第一个星期一 · 上午 09:41"
+    }
+  ],
+  "time_period": "新历元年 · 逻辑重构后的第一个星期一 · 上午 09:41",
+  "locations": [
+    "南极冰原",
+    "“补天计划”废墟上方",
+    "悬浮的数据流节点"
+  ],
+  "key_facts": [
+    {
+      "id": "li_current_form",
+      "content": "现在的李疯狂已不再是人类，而是由超高密度代码构成的半神实体，肺部变成了散热排风扇"
+    },
+    {
+      "id": "suqian_bug_form",
+      "content": "苏浅已死亡，但化作无法删除的Bug（淡红色微光）寄生在李疯狂的核心代码中，是其唯一的‘人性温度’"
+    },
+    {
+      "id": "v50_key_meaning",
+      "content": "‘V我50’不仅是梗，更是连接理智与疯狂、过去与未来的唯一逻辑契约，被埋入了历史源头"
+    },
+    {
+      "id": "world_status",
+      "content": "旧世界已被格式化，新世界逻辑重组完成，但存在因数据丢失产生的‘逻辑空洞’"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

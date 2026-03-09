@@ -1,0 +1,74 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "",
+      "role": "守秘人/调查员",
+      "description": "脸色苍白像A4纸，重黑眼圈，身穿廉价风衣",
+      "status": "active"
+    },
+    {
+      "name": "苏青",
+      "age": "",
+      "role": "调查员",
+      "description": "昏迷中，呼吸急促，额头滚烫",
+      "status": "active"
+    },
+    {
+      "name": "真理会使者",
+      "age": "",
+      "role": "真理会成员",
+      "description": "身穿破旧黑袍，佩戴三重叠墨镜，身体有烧焦电路板味，手持指骨核桃或文字笔",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "真理会使者"
+  ],
+  "character_exits": [
+    {
+      "name": "真理会使者",
+      "reason": "被逻辑删除/存在抹除"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "ambush_by_truth_society",
+      "description": "真理会使者利用文字立方体困住顾长歌，企图将其作为通过‘防火墙’的补丁/钥匙，以获取地下旧日投影的管理员权限",
+      "time": "04:00后"
+    },
+    {
+      "id": "gu_counterattack",
+      "description": "顾长歌使用金色手骨（黄金会计师遗物）驳回使者指令，通过规则层面的攻击瓦解文字立方体，并徒手折断使者的笔",
+      "time": "04:00后"
+    },
+    {
+      "id": "boss_awakening",
+      "description": "前方黑暗漩涡炸开，红光喷涌，巨大的旧日投影/管理员苏醒",
+      "time": "04:00后"
+    }
+  ],
+  "time_period": "新纪元元年，周四 04:00",
+  "locations": [
+    "城市中心 · 神之肠道末端 · 熵增祭坛"
+  ],
+  "key_facts": [
+    {
+      "id": "world_as_program",
+      "content": "世界的底层逻辑被表现为代码、防火墙、Bug等计算机概念，真理会通过这种方式修仙或行使权能"
+    },
+    {
+      "id": "gu_secretary_ability",
+      "content": "顾长歌拥有‘守秘人’权能，能够解析世界规则为数据流，并使用‘指令’进行反击或驳回"
+    },
+    {
+      "id": "golden_hand_bone_usage",
+      "content": "顾长歌手中的‘金色手骨’是高序列规则遗物，可用于对抗规则层面的攻击"
+    },
+    {
+      "id": "gu_high_defense",
+      "content": "顾长歌肉体强度极高，能无视规则之笔的穿刺伤害"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

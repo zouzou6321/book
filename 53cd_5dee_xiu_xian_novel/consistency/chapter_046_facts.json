@@ -1,0 +1,106 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "",
+      "role": "主角/大师兄",
+      "description": "身穿黑红色的内门弟子服，手持工业级液压剪，满身血污",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "",
+      "role": "内门弟子",
+      "description": "手持大铁锤，双眼放光",
+      "status": "active"
+    },
+    {
+      "name": "苏软软",
+      "age": "",
+      "role": "内门弟子",
+      "description": "缩在断壁瑟瑟发抖",
+      "status": "active"
+    },
+    {
+      "name": "王虎",
+      "age": "",
+      "role": "内门弟子",
+      "description": "手持通天棍（马桶搋子），眼眶通红",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "内门弟子",
+      "description": "身受重伤，视线模糊",
+      "status": "active"
+    },
+    {
+      "name": "掌门",
+      "age": "",
+      "role": "太玄宗掌门/反派",
+      "description": "百丈高的血色巨人",
+      "status": "deceased"
+    },
+    {
+      "name": "黑袍老者",
+      "age": "",
+      "role": "窥视者",
+      "description": "在远处窥视",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "黑袍老者"
+  ],
+  "character_exits": [
+    {
+      "name": "掌门",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "giant_leg_broken",
+      "description": "江越用液压剪折断血色巨人小腿和膝盖",
+      "time": "黎明前夕"
+    },
+    {
+      "id": "magic_failure",
+      "description": "掌门释放的金丹术法对江越无效（绝对凡人规则）",
+      "time": "黎明前夕"
+    },
+    {
+      "id": "homework_punch",
+      "description": "江越打出名为“补作业”的一拳，粉碎了掌门的身体",
+      "time": "黎明破晓"
+    },
+    {
+      "id": "core_rejected",
+      "description": "江越击飞了掌门死后掉落的金丹",
+      "time": "天光大亮"
+    }
+  ],
+  "time_period": "黎明前夕至天光大亮",
+  "locations": [
+    "太玄宗废墟"
+  ],
+  "key_facts": [
+    {
+      "id": "absolute_mortal_rule",
+      "content": "江越拥有“绝对凡人”规则，法术攻击会直接穿透他，无法造成伤害"
+    },
+    {
+      "id": "jiangyue_weapon",
+      "content": "江越的主要武器是“工业级液压剪（加强版）”"
+    },
+    {
+      "id": "sect_master_status",
+      "content": "太玄宗掌门已死亡"
+    },
+    {
+      "id": "wanghu_weapon_details",
+      "content": "王虎的武器被称为“通天棍”，实际上是马桶搋子"
+    }
+  ]
+}

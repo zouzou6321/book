@@ -1,0 +1,96 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "",
+      "role": "S级污染源/住户",
+      "description": "皮肤苍白，身穿粉色爱心围裙",
+      "status": "active"
+    },
+    {
+      "name": "苏糖",
+      "age": "",
+      "role": "邻居",
+      "description": "穿着睡衣，手持锅铲",
+      "status": "departed"
+    },
+    {
+      "name": "智能书柜",
+      "age": "",
+      "role": "家具(原裂兽刑讯官装甲)",
+      "description": "重型工业风，带电子眼和激光束",
+      "status": "active"
+    },
+    {
+      "name": "老板椅",
+      "age": "",
+      "role": "家具(原真理会B组首领)",
+      "description": "有宽大的椅背",
+      "status": "active"
+    },
+    {
+      "name": "地毯小水",
+      "age": "",
+      "role": "家具(地毯)",
+      "description": "软绵绵，可蠕动",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "苏糖",
+      "reason": "离开回房"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "cleaning_pulse_attack",
+      "description": "真理会对404室发射“清扫脉冲”，试图抹除现实。",
+      "time": "08:46"
+    },
+    {
+      "id": "pulse_to_bathtub",
+      "description": "顾长歌利用定义权能将攻击性的“清扫脉冲”改造成了豪华按摩浴缸。",
+      "time": "08:46"
+    },
+    {
+      "id": "su_tang_interrogation",
+      "description": "苏糖因爆炸声敲门询问，顾长歌用胶带门和“修管道”的谎言掩饰。",
+      "time": "本章中段"
+    },
+    {
+      "id": "eyeball_tree_repelled",
+      "description": "顾长歌通过定义将试图攀爬进食的眼球树变成了“有机肥料”。",
+      "time": "本章末尾"
+    }
+  ],
+  "time_period": "周三，清晨 08:46",
+  "locations": [
+    "幸福家园小区4号楼404室",
+    "4号楼走廊"
+  ],
+  "key_facts": [
+    {
+      "id": "gu_defense_ability",
+      "content": "顾长歌可以通过“定义”概念来修改现实的物理和逻辑属性，例如将毁灭光束定义为蒸汽和浴缸。"
+    },
+    {
+      "id": "furniture_sentience",
+      "content": "顾长歌屋内的家具（书柜、老板椅、地毯）均由怪物或异能装置改造，具备自我意识并对他忠诚。"
+    },
+    {
+      "id": "tape_door_concept",
+      "content": "404室的门本质上是透明胶带，通过权能被定义为隔音防盗门，欺骗了常人视觉。"
+    },
+    {
+      "id": "su_tang_condition",
+      "content": "苏糖之前食用了顾长歌制作的红烧肉，获得了正向反馈（如咬合力增强），且对顾长歌有认知修正。"
+    },
+    {
+      "id": "system_reward",
+      "content": "顾长歌通过利用“清扫脉冲”获得了逻辑核心碎片和San值上限提升。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

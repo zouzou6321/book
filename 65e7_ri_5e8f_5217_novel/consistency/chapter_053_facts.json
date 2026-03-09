@@ -1,0 +1,93 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "主角",
+      "description": "左眼为暗紫色且充满数据流，腹部有一道类似缝合蜈蚣的丑陋疤痕，手掌有“人”字印记。",
+      "status": "active"
+    },
+    {
+      "name": "领班·催吐者",
+      "age": null,
+      "role": "怪物/收银员",
+      "description": "穿着红色燕尾服，画着夸张油彩和八字胡，下半身是生锈的粗壮弹簧，手持半人高的剔骨刀。",
+      "status": "deceased"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "同伴",
+      "description": "脸色苍白如纸，左臂袖管空荡荡（断臂）。",
+      "status": "active"
+    },
+    {
+      "name": "巨大的紫色眼球/神",
+      "age": null,
+      "role": "高维生物/观察者",
+      "description": "天空中巨大的紫色眼球，带有滑稽腔调的声音。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "领班·催吐者",
+    "巨大的紫色眼球"
+  ],
+  "character_exits": [
+    {
+      "name": "领班·催吐者",
+      "reason": "被李疯狂吞噬"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "fight_waiter_monster",
+      "description": "李疯狂在理智之塔顶层与“领班·催吐者”交战，对方发动能力强制李疯狂呕吐记忆碎片。",
+      "time": "黄昏"
+    },
+    {
+      "id": "self_impale_stomach",
+      "description": "李疯狂将钢筋刺入自己的腹部，物理破坏胃部以抵抗“催吐”能力，导致记忆永久丢失。",
+      "time": "黄昏"
+    },
+    {
+      "id": "devour_waiter",
+      "description": "李疯狂发动【篡改】将对方的剔骨刀变为吸管，咬住并吞噬了领班·催吐者。",
+      "time": "黄昏"
+    },
+    {
+      "id": "jump_to_gods_throat",
+      "description": "李疯狂抱着苏浅跳入塔顶连接的紫色空间“神的喉咙”。",
+      "time": "黄昏末尾"
+    }
+  ],
+  "time_period": "黄昏（逢魔之时）",
+  "locations": [
+    "理智之塔顶层废墟",
+    "神的喉咙（紫色深渊）",
+    "理智之塔脚下"
+  ],
+  "key_facts": [
+    {
+      "id": "concept_forced_devour",
+      "content": "李疯狂因吞噬了“催吐”概念，变异为“记忆的饕餮”，永久失去了呕吐能力，无论吃下什么都必须强制消化。"
+    },
+    {
+      "id": "li_memory_loss",
+      "content": "李疯狂海马体受损，丢失了部分记忆数据（如小学暑假、撸猫的感觉），人性依靠手掌上的“人”字印记锚定。"
+    },
+    {
+      "id": "scar_on_abdomen",
+      "content": "李疯狂腹部留下了一道类似缝合蜈蚣的丑陋疤痕，源于自残行为。"
+    },
+    {
+      "id": "su_condition",
+      "content": "苏浅左臂断裂，晶体化暂缓，极度虚弱。"
+    },
+    {
+      "id": "gods_voice",
+      "content": "空中存在一个自称“神”的意志，关注到了李疯狂吞噬收银台的行为。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

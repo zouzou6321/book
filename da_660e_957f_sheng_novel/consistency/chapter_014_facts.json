@@ -1,0 +1,74 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "二十五六岁",
+      "role": "主子/炼药师",
+      "description": "面容清秀，皮肤常年不见阳光的苍白，赤裸上身，后披青色长衫",
+      "status": "active"
+    },
+    {
+      "name": "青儿",
+      "age": "十四岁",
+      "role": "奴才/侍女",
+      "description": "身形像个没长开的孩子，干瘦、黝黑，穿着不合身的灰布短打",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "withdrawal_symptoms",
+      "description": "陈默因三天未服药，遭受毒瘾戒断和再生能力反扑的双重折磨",
+      "time": "章节开始"
+    },
+    {
+      "id": "qinger_assault",
+      "description": "陈默因嗜血欲望差点掐死青儿，后被荷包上的刺绣唤醒理智",
+      "time": "章节中段"
+    },
+    {
+      "id": "self_imprisonment",
+      "description": "陈默用精铁锁链将自己锁在密室铁柱上，防止失控伤人",
+      "time": "章节中段"
+    },
+    {
+      "id": "administering_antidote",
+      "description": "青儿返回密室，给陈默喂了解药和药渣，缓解其痛苦",
+      "time": "章节后半段"
+    },
+    {
+      "id": "secret_orders",
+      "description": "陈默下令去回春堂，并要求调查天津卫千总关于海难的把柄以灭口",
+      "time": "章节结尾"
+    }
+  ],
+  "time_period": "天启七年（1627年）夏，大暑",
+  "locations": [
+    "北京城南百草园庄园地下密室"
+  ],
+  "key_facts": [
+    {
+      "id": "immortality_curse",
+      "content": "陈默拥有不死之身和快速再生能力，源自萨尔浒尸堆中的神秘存在，需毒药压制副作用"
+    },
+    {
+      "id": "drug_composition",
+      "content": "陈默服用的药丸主要成分为朱砂、铅粉、曼陀罗和断肠草提取物"
+    },
+    {
+      "id": "tiger_token",
+      "content": "陈默持有用于联络辽东及信王朱由检的“猛虎”令牌"
+    },
+    {
+      "id": "navy_massacre",
+      "content": "陈默此前灭了一船水师官兵（制造海难）以获取资本，目前对此事保密"
+    },
+    {
+      "id": "qinger_background",
+      "content": "青儿是陈默从乱葬岗捡回来的孤儿，对陈默有绝对服从和献身精神"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

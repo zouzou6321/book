@@ -1,0 +1,110 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未提及",
+      "role": "定北侯",
+      "description": "外表粗鄙好色，实则冷静深沉，足智多谋",
+      "status": "active"
+    },
+    {
+      "name": "老皇帝",
+      "age": "老者",
+      "role": "大梁皇帝",
+      "description": "多疑阴鸷，试图通过美色试探萧寒",
+      "status": "active"
+    },
+    {
+      "name": "春桃",
+      "age": "未提及",
+      "role": "御赐美人/琴师",
+      "description": "江南女子，精通琵琶，叛党亲眷",
+      "status": "active"
+    },
+    {
+      "name": "柳玉",
+      "age": "未提及",
+      "role": "御赐美人/昆曲教习",
+      "description": "江南女子，精通昆曲，叛党亲眷",
+      "status": "active"
+    },
+    {
+      "name": "刘全",
+      "age": "未提及",
+      "role": "定北侯府管家",
+      "description": "皇帝安插在侯府的眼线",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "未提及",
+      "role": "长公主",
+      "description": "身穿素衣，对萧寒行为感到气愤又关注",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "未提及",
+      "role": "侍女",
+      "description": "长公主府侍女",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "春桃",
+    "柳玉"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "emperor_test_with_beauties",
+      "description": "皇帝在御书房试探萧寒并赏赐两名背景复杂的江南美女春桃和柳玉",
+      "time": "建安二十三年春，辰时一刻"
+    },
+    {
+      "id": "xiao_han_accepts_acting",
+      "description": "萧寒装作贪婪好色接下美人，回府后却让她们住杂物房充当'艺术指导'培训仆人",
+      "time": "同日"
+    },
+    {
+      "id": "night_training_fiasco",
+      "description": "定北侯府开展'全员文艺建设'，让家丁杂役跟着美人学唱昆曲和身段，场面混乱",
+      "time": "同日夜"
+    },
+    {
+      "id": "emperor_relaxes_vigilance",
+      "description": "刘全向皇帝汇报萧寒的荒唐行径，皇帝大笑确认萧寒是个废物，放松了警惕",
+      "time": "翌日清晨"
+    },
+    {
+      "id": "princess_hears_news",
+      "description": "长公主李瑾得知萧寒暴殄天物，感到气愤和困惑，对萧寒的关注度未减",
+      "time": "翌日清晨"
+    }
+  ],
+  "time_period": "建安二十三年，春，辰时一刻",
+  "locations": [
+    "大梁皇宫",
+    "御书房",
+    "定北侯府",
+    "长公主府"
+  ],
+  "key_facts": [
+    {
+      "id": "beauties_secret_identity",
+      "content": "春桃和柳玉不仅精通才艺，家中还是被定北军平定的叛党亲眷，皇帝用此计策两头堵"
+    },
+    {
+      "id": "liu_quan_is_spy",
+      "content": "定北侯府管家刘全是皇帝安插的眼线，负责监视萧寒"
+    },
+    {
+      "id": "emperor_final_judgment",
+      "content": "皇帝目前认定萧寒是真的傻、不解风情、只知蛮力搞形式主义，解除了对其造反的疑心"
+    },
+    {
+      "id": "xiao_han_acting_strategy",
+      "content": "萧寒利用'艺术指导'的幌子坐怀不乱，既遵守了圣旨又化解了美色诱惑和政治陷阱"
+    }
+  ]
+}

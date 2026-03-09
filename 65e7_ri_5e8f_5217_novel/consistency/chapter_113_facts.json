@@ -1,0 +1,89 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "副主厨/差评师",
+      "description": "左眼流淌黑色废料，牙齿变尖锐，双眼后来变成漆黑漩涡，胸口形成黑洞",
+      "status": "active"
+    },
+    {
+      "name": "黑衣人",
+      "age": "",
+      "role": "李疯狂的理智/完美自我",
+      "description": "身穿燕尾服，拥有与李疯狂一模一样的完美面孔，金色瞳孔，手指苍白修长",
+      "status": "departed"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "导航员",
+      "description": "身穿风衣，异变左眼，手持像素荆棘（后化为数字匕首），流下金色眼泪",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "黑衣人"
+  ],
+  "character_exits": [
+    {
+      "name": "黑衣人",
+      "reason": "被李疯狂吞噬/卷入厨房整改的崩塌"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "spoon_attack_blocked",
+      "description": "李疯狂用骨勺攻击黑衣人，被对方轻松接住，系统报错显示同源高维干扰",
+      "time": "18:15"
+    },
+    {
+      "id": "failure_archives_revealed",
+      "description": "黑衣人向李疯狂展示了众多失败结局的苏浅培养皿，对其进行心理攻势",
+      "time": "18:15"
+    },
+    {
+      "id": "gluttony_override",
+      "description": "李疯狂的食欲本能覆盖了逻辑自检，启动“暴食”协议，咬住黑衣人将其定义为前菜",
+      "time": "18:15"
+    },
+    {
+      "id": "humanity_injection",
+      "description": "苏浅将失败的苏浅数据化作“人性”注入李疯狂脊椎，作为佐料平衡疯狂",
+      "time": "18:15"
+    },
+    {
+      "id": "kitchen_reform",
+      "description": "李疯狂融合疯狂与人，自我认知转变为“差评师”，发动“厨房整改”吞噬了整个VIP包厢",
+      "time": "18:15"
+    }
+  ],
+  "time_period": "第1.5个周期 · 周五黄昏（伪） 18:15",
+  "locations": [
+    "“旧日餐厅”后厨",
+    "核心层VIP包厢"
+  ],
+  "key_facts": [
+    {
+      "id": "bone_spoon_origin",
+      "content": "李疯狂的骨勺由李小鱼的肋骨制成，上面刻有“致最挑剔的食客”，曾用于抵押以留住特定时间线的人"
+    },
+    {
+      "id": "su_qian_role",
+      "content": "苏浅的身份是“导航员”，是作为“清醒”的调味剂存在的"
+    },
+    {
+      "id": "black_man_identity",
+      "content": "黑衣人是李疯狂的“理智”或“完美自我”，是从李疯狂身上剥离的、主厨眼中的合格成品"
+    },
+    {
+      "id": "failure_archives",
+      "content": "场景中存在大量“副主厨养成计划”的失败品档案，即各种不同死法或结局的苏浅"
+    },
+    {
+      "id": "li_new_title",
+      "content": "李疯狂在融合力量后，将自我名号定义为“差评师”，并发动了强制执行的“厨房整改”"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

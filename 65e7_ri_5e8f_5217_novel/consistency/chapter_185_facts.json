@@ -1,0 +1,82 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "疯人院院长/厨师",
+      "description": "穿着印有“V我50”的廉价T恤，左眼瞳孔深处浮现倒“V”字符号",
+      "status": "active"
+    },
+    {
+      "name": "陈建国",
+      "age": "",
+      "role": "地下黑市保安（新入职外卖员）",
+      "description": "穿着不合身的保安制服，身上有干燥的旧式枪油铁锈气",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "未来视界科技园员工",
+      "description": "深夜加班，感到心神不宁",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "陈建国"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "recruit_chen",
+      "description": "李疯狂在废弃地铁站“未结账站”招募陈建国，成立“疯狂星期四”配送有限公司",
+      "time": "重置后第一周星期四前夕（23:45左右）"
+    },
+    {
+      "id": "battle_testers",
+      "description": "第一批“试吃员”贪食软泥怪袭来，李疯狂使用概念覆写封锁怪物嘴巴，陈建国物理击溃怪物",
+      "time": "重置后第一周星期四前夕（23:55左右）"
+    },
+    {
+      "id": "rescue_suvian",
+      "description": "李疯狂感知到苏浅遇险，使用【逻辑跳跃】瞬移至未来视界科技园，销毁二维码腐化并保护苏浅",
+      "time": "午夜（00:00）"
+    }
+  ],
+  "time_period": "重置后第一周星期四前夕（23:45）至午夜",
+  "locations": [
+    "城市地下黑市·废弃地铁站“未结账站”",
+    "未来视界科技园40层运营部"
+  ],
+  "key_facts": [
+    {
+      "id": "company_name",
+      "content": "新成立的外卖组织名为“疯狂星期四”配送有限公司（或疯人院）"
+    },
+    {
+      "id": "chen_identity",
+      "content": "陈建国实为前世收容局王牌执行官的灵魂切片，拥有“执行官”权能"
+    },
+    {
+      "id": "li_ability_rewrite",
+      "content": "李疯狂拥有【篡改 · 概念覆写】能力，可制定规则（如“禁止随地吐痰”）来限制敌人"
+    },
+    {
+      "id": "li_ability_teleport",
+      "content": "李疯狂拥有【逻辑跳跃】能力，身体边缘像素化抖动后可进行远距离瞬移"
+    },
+    {
+      "id": "currency",
+      "content": "在该设定中，兑换券/欠条被视为硬通货"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角/院长/厨师",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

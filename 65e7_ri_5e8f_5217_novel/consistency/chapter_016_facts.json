@@ -1,0 +1,89 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未提及",
+      "role": "主角/容器",
+      "description": "皮肤有瓷器般的裂纹，左臂内侧有新刻印的黑色倒置“¥”符号烧痕，衣衫褴褛",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未提及",
+      "role": "收容局特工",
+      "description": "脸色苍白，身穿黑色战术风衣，左眼黑雾已褪去恢复清冷",
+      "status": "active"
+    },
+    {
+      "name": "李小鱼",
+      "age": "未提及",
+      "role": "幸存者",
+      "description": "缩在角落，怀抱只有半只耳朵的泰迪熊",
+      "status": "active"
+    },
+    {
+      "name": "三头柯基",
+      "age": "未提及",
+      "role": "变异生物/同伴",
+      "description": "身穿红色变小号西装，长着三颗脑袋",
+      "status": "active"
+    },
+    {
+      "name": "白衣厨师",
+      "age": "未提及",
+      "role": "S级实体/敌人",
+      "description": "身穿洁白厨师服戴高帽，戴着只有嘴巴的京剧面具，拖着滴液麻袋",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "白衣厨师"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "sanity_anchoring",
+      "description": "李疯狂进行自我手术，刻印逻辑锚点以强制锁定理智值，压制“真理之胃”",
+      "time": "第一周期·周二 14:00左右"
+    },
+    {
+      "id": "bureau_secret_reveal",
+      "description": "苏浅透露收容局意图将人类进化为古神，诺亚方舟实为孵化器",
+      "time": "第一周期·周二 14:00左右"
+    },
+    {
+      "id": "chef_arrival",
+      "description": "高危实体白衣厨师现身隧道深处，触发S级事件“最后的晚餐”前置版",
+      "time": "第一周期·周二 14:00左右"
+    }
+  ],
+  "time_period": "第一周期·周二 14:00",
+  "locations": [
+    "城市地铁站废墟",
+    "地下B2层站台",
+    "地铁隧道深处"
+  ],
+  "key_facts": [
+    {
+      "id": "madness_spread",
+      "content": "“疯狂”正在加速侵蚀现实坐标，不仅限于“疯狂星期四”，正向周三、周二等邻近时间节点蔓延"
+    },
+    {
+      "id": "half_mad_state",
+      "content": "李疯狂自述处于“半疯”状态，即在理智与疯狂并存以求生存"
+    },
+    {
+      "id": "logic_anchor",
+      "content": "李疯狂手臂上新刻印的逻辑锚点图案为一个类似倒置的“¥”符号，中间贯穿断裂竖线"
+    },
+    {
+      "id": "ark_truth",
+      "content": "收容局的“诺亚方舟”实际上是一个巨大的孵化器，人类将被作为营养液"
+    },
+    {
+      "id": "chef_power",
+      "content": "白衣厨师能引发S级事件，能闻到“怯懦”并将其作为烹饪的佐料"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

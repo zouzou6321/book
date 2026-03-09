@@ -1,0 +1,91 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "未知",
+      "role": "住户/管理员",
+      "description": "眼神从懒散死鱼眼变为捕食者，拥有修改定义的权能",
+      "status": "active"
+    },
+    {
+      "name": "小水",
+      "age": "未知",
+      "role": "前真理会特工/现役地垫",
+      "description": "铺在门口的干尸皮囊，脸上保持诡异的微笑",
+      "status": "active"
+    },
+    {
+      "name": "真理会执剑人",
+      "age": "未知",
+      "role": "真理会清理部队领头者",
+      "description": "脸上无五官只有三颗红色光点，手持脊椎镰刀，身着黑色长风衣",
+      "status": "deceased"
+    },
+    {
+      "name": "真理会清理部队成员",
+      "age": "未知",
+      "role": "杀手",
+      "description": "脸上无五官只有三颗红色光点，手臂可化作风骨刺，身着黑色长风衣",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "真理会执剑人",
+    "真理会清理部队成员"
+  ],
+  "character_exits": [
+    {
+      "name": "真理会执剑人",
+      "reason": "被改造成人体工学椅"
+    },
+    {
+      "name": "真理会清理部队成员",
+      "reason": "被改造成椅子"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "killers_break_in",
+      "description": "真理会三名杀手以查水表为名破门而入，试图执行逻辑抹除",
+      "time": "周三凌晨 02:15"
+    },
+    {
+      "id": "weapon_redefinition",
+      "description": "顾长歌使用权能将脊椎镰刀重新定义为柔性卷尺",
+      "time": "周三凌晨 02:15"
+    },
+    {
+      "id": "killers_transformed",
+      "description": "顾长歌发动局部生物体格式化，将三名杀手改造成不同风格的椅子",
+      "time": "周三凌晨 02:15"
+    },
+    {
+      "id": "sitting_on_chair",
+      "description": "顾长歌坐在由执剑人改造成的老板椅上吃薯片看电视",
+      "time": "周三凌晨 02:15"
+    }
+  ],
+  "time_period": "周三凌晨 02:15",
+  "locations": [
+    "幸福家园小区4号楼404室"
+  ],
+  "key_facts": [
+    {
+      "id": "xiaoshui_identity",
+      "content": "小水是被改造成真皮地垫的前真理会特工"
+    },
+    {
+      "id": "trash_can_modification",
+      "content": "室内的垃圾桶是由食人花被定义为可回收垃圾箱后改造而来"
+    },
+    {
+      "id": "gu_changge_ability",
+      "content": "顾长歌拥有[定义]权能，可修改物质属性与规则（如[禁止违章搭建]）"
+    },
+    {
+      "id": "new_furniture",
+      "content": "客厅内新增了三把由真理会杀手尸体改造的椅子"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,72 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "程序员/变异者",
+      "description": "身穿印有“V me 50”的破T恤，腹部覆盖着一层薄薄的、如同水银般流动的金属光泽，左臂有粉色疤痕",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "特工",
+      "description": "身穿黑色战术风衣，衣服显得有些空荡荡，左臂缠着厚厚的渗血绷带，短发乱糟糟，眼睛布满红血丝",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "waking_up_spoon",
+      "description": "李疯狂从昏迷中醒来，吐出了半把此前吞下的勺子，并发现左臂的变异特征已消退，留下疤痕",
+      "time": "早晨"
+    },
+    {
+      "id": "discovery_metal_eating",
+      "description": "李疯狂发现自己获得了进食金属（硬币、螺丝钉等）并转化为能量和理智值的能力",
+      "time": "早晨"
+    },
+    {
+      "id": "su_qian_visit",
+      "description": "苏浅敲门进入房间，带来了从楼下王大妈黑市换来的变异老鼠后腿肉（D级食材）",
+      "time": "早晨"
+    },
+    {
+      "id": "eating_rat_meat",
+      "description": "李疯狂吃下了变异老鼠肉，系统提示获得特性【硬皮（微弱）】，理智值回升",
+      "time": "早晨"
+    }
+  ],
+  "time_period": "第二个疯狂周期后的首个周五早晨",
+  "locations": [
+    "李疯狂的家中",
+    "门外走廊",
+    "广场（回忆中）",
+    "第4区（提及）"
+  ],
+  "key_facts": [
+    {
+      "id": "li_arm_status",
+      "content": "李疯狂的左臂变异（黑色金属角质层、幽蓝裂纹）已消失，转变为一道淡淡的粉色疤痕"
+    },
+    {
+      "id": "li_stomach_ability",
+      "content": "李疯狂觉醒了新的消化能力（可能名为真理之胃），能通过食用金属或工业废料恢复理智值和补充能量"
+    },
+    {
+      "id": "su_arm_injury",
+      "content": "苏浅左臂缠着厚厚的绷带并有血迹透出，虽然她自嘲是在下水道搏斗，但实际伤情较重"
+    },
+    {
+      "id": "area4_status",
+      "content": "第4区已几乎沦陷，收容局频段充斥求救信号，'星期四'的余波仍在扩散"
+    },
+    {
+      "id": "clothing_detail",
+      "content": "李疯狂身穿印有“V me 50”字样的破T恤"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

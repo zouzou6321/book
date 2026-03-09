@@ -1,0 +1,114 @@
+{
+  "characters_present": [
+    {
+      "name": "苏青",
+      "age": "",
+      "role": "异常管理局特工",
+      "description": "干练的短发，左脚踝曾被扭伤但已被治愈",
+      "status": "departed"
+    },
+    {
+      "name": "顾长歌",
+      "age": "",
+      "role": "普通市民 / 序列001",
+      "description": "脸色苍白如A4纸，浓重黑眼圈，眼神像一潭死水",
+      "status": "active"
+    },
+    {
+      "name": "王大妈",
+      "age": "",
+      "role": "402室住户 / 邻居",
+      "description": "松弛的皮肤，浑浊的眼球，左手掌心隐约藏着未退化的细小鳞片",
+      "status": "departed"
+    },
+    {
+      "name": "长官",
+      "age": "",
+      "role": "异常管理局上司",
+      "description": "声音冷硬，位于单向玻璃后",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "王大妈"
+  ],
+  "character_exits": [
+    {
+      "name": "苏青",
+      "reason": "离开"
+    },
+    {
+      "name": "王大妈",
+      "reason": "离开"
+    },
+    {
+      "name": "长官",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "report_submission",
+      "description": "苏青提交C9区事件报告，将顾长歌的手段标注为“嘴遁”",
+      "time": "10:30"
+    },
+    {
+      "id": "subsidy_transfer",
+      "description": "顾长歌收到300元特殊协助补贴",
+      "time": "10:30"
+    },
+    {
+      "id": "gu_return_home",
+      "description": "顾长歌回到幸福家园小区404室",
+      "time": "周五 10:30"
+    },
+    {
+      "id": "system_bill_received",
+      "description": "顾长歌收到“疯狂序列”系统的生存账单短信",
+      "time": "周五 10:30"
+    },
+    {
+      "id": "editing_system_message",
+      "description": "顾长歌使用[编辑]技能修改了系统回复的短信内容",
+      "time": "周五 10:30"
+    }
+  ],
+  "time_period": "新纪元元年，周五 10:30",
+  "locations": [
+    "异常管理局第三分局审讯室",
+    "幸福家园小区",
+    "电梯",
+    "404室"
+  ],
+  "key_facts": [
+    {
+      "id": "gu_method_reported",
+      "content": "苏青在官方报告中将顾长歌的能力记录为“精神干涉”和“忽悠大师”（嘴遁）"
+    },
+    {
+      "id": "suqing_injury",
+      "content": "苏青昨晚扭伤的左脚踝已被某种力量修正，未留淤青"
+    },
+    {
+      "id": "gu_vision_ability",
+      "content": "顾长歌拥有序列001的视野，能看到世界的源代码和物品的数据流标签"
+    },
+    {
+      "id": "auntie_wang_residue",
+      "content": "王大妈灵魂周围有理智过滤器的废料（灰黑色丝线），手掌有未退化鳞片"
+    },
+    {
+      "id": "system_bill_details",
+      "content": "系统账单包括：存在感维护费-5%、现实修正税-200点San值（预支）、旧日注视已激活"
+    },
+    {
+      "id": "wednesday_event",
+      "content": "下个周三是会员日，全场怪物打八折"
+    },
+    {
+      "id": "current_sanity",
+      "content": "顾长歌当前San值为45/100"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

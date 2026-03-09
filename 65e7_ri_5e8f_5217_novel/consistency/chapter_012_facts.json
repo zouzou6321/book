@@ -1,0 +1,121 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/拥有特殊能力的人类",
+      "description": "黑白分明的眼睛，右手可异化为布满倒刺的口器，持有生锈铁管",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "同盟者（疑似收容局相关）",
+      "description": "黑衣，手持发射幽蓝色弹丸的手枪，身手矫健如鬼魅",
+      "status": "active"
+    },
+    {
+      "name": "王站长",
+      "age": "未知",
+      "role": "第4区安全区站长/变异体",
+      "description": "极度肥胖，腹部裂开长满尖齿和触手，体内充满粉色果冻状半凝固物质",
+      "status": "deceased"
+    },
+    {
+      "name": "肃清者",
+      "age": "未知",
+      "role": "王站长的下属/杂兵",
+      "description": "全身包裹厚重装甲，手持改装电锯与动力锤",
+      "status": "deceased"
+    },
+    {
+      "name": "李小鱼",
+      "age": "儿童",
+      "role": "李疯狂的妹妹",
+      "description": "抱着脏兮兮的泰迪熊，瑟瑟发抖但未尖叫",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "王站长",
+    "苏浅",
+    "肃清者",
+    "李小鱼"
+  ],
+  "character_exits": [
+    {
+      "name": "王站长",
+      "reason": "被李疯狂吞噬"
+    },
+    {
+      "name": "肃清者",
+      "reason": "被苏浅击杀"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "corridor_battle",
+      "description": "李疯狂与苏浅在回廊遭遇王站长及肃清者，双方爆发战斗",
+      "time": "第一周期·周日 20:00"
+    },
+    {
+      "id": "logic_rewrite",
+      "description": "李疯狂消耗理智使用【逻辑重构】，将脚下摩擦系数归零以躲避酸液",
+      "time": "第一周期·周日 20:00"
+    },
+    {
+      "id": "regurgitate_note",
+      "description": "李疯狂【真理之胃】强制反刍，咳出一个黑色蜡丸，内含来自未来的纸条",
+      "time": "第一周期·周日 20:00"
+    },
+    {
+      "id": "read_future_note",
+      "description": "李疯狂阅读纸条，得知不要相信收容局，并在星期四变成怪物才能存活",
+      "time": "第一周期·周日 20:00"
+    },
+    {
+      "id": "devour_wang",
+      "description": "李疯狂右手异化为口器，撕碎并吞噬了王站长，获得‘脂肪液化’特性",
+      "time": "第一周期·周日 20:00"
+    }
+  ],
+  "time_period": "第一周期·周日 20:00",
+  "locations": [
+    "第4区安全区·内部回廊"
+  ],
+  "key_facts": [
+    {
+      "id": "protagonist_names",
+      "content": "主角被称为李疯狂，文中也曾短暂以‘李 crazy’指代"
+    },
+    {
+      "id": "stomach_ability",
+      "content": "李疯狂拥有【真理之胃】，能够反刍藏匿的物品（如蜡丸），并能将身体部位异化用于吞噬变异体"
+    },
+    {
+      "id": "recorder_vision",
+      "content": "李疯狂拥有【记录者】视野，能以数据流形式查看目标弱点、可食性及获得特性"
+    },
+    {
+      "id": "note_warning",
+      "content": "胃里取出的纸条警告：不要相信收容局和诺亚方舟，在星期四变成怪物是人性的伪装"
+    },
+    {
+      "id": "wang_identity",
+      "content": "王站长是‘守望者’级别的节点，生前长期食用变异体饲料，体液具有强腐蚀性"
+    },
+    {
+      "id": "countdown",
+      "content": "距离下一次“疯狂周期”开启剩余3天04小时11分"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

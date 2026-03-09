@@ -1,0 +1,113 @@
+{
+  "characters_present": [
+    {
+      "name": "林野",
+      "age": "22岁",
+      "role": "刚毕业半年的上班族、蚩尤血脉持有者、返祖系统宿主",
+      "description": "眼底有常年加班熬出的厚重乌青，身穿洗得发白的牛仔外套",
+      "status": "active"
+    },
+    {
+      "name": "苏清鸢",
+      "age": "十六七岁",
+      "role": "刚高考完的学生",
+      "description": "高马尾，发梢有几缕浅棕色头发，身穿白色连帽卫衣",
+      "status": "active"
+    },
+    {
+      "name": "张磊",
+      "age": "三十岁上下",
+      "role": "龙组东海分队小队长",
+      "description": "满脸横肉，脖颈处有两指宽刀疤",
+      "status": "active"
+    },
+    {
+      "name": "龙徽特勤群体",
+      "age": "",
+      "role": "龙组下属执法人员",
+      "description": "",
+      "status": "active"
+    },
+    {
+      "name": "围观路人群体",
+      "age": "",
+      "role": "现场围观群众",
+      "description": "",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "林野",
+    "苏清鸢",
+    "张磊"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "zhanglei_frame_linye",
+      "description": "张磊污蔑林野私藏上古遗珍、勾结异兽，指挥龙徽特勤向林野发射麻醉弹，被林野的霸体神通全部弹开",
+      "time": "第1天晚8:30"
+    },
+    {
+      "id": "linye_injure_zhanglei",
+      "description": "林野捏脱臼张磊手腕将其甩飞，系统曝光张磊收500万抢遗珍、走私异兽材料致12名平民死亡的罪证",
+      "time": "第1天晚8:30"
+    },
+    {
+      "id": "suqingyuan_call_help",
+      "description": "苏清鸢录制张磊的威胁言论，拨通父亲电话求助",
+      "time": "第1天晚8:30"
+    },
+    {
+      "id": "zhanglei_sneak_attack",
+      "description": "张磊趁林野查看空间裂缝时掏枪偷袭，子弹被霸体弹开，同时一头一阶骨刺虎冲出裂缝扑向张磊",
+      "time": "第1天晚8:30"
+    },
+    {
+      "id": "linye_kill_spinetiger",
+      "description": "林野手撕扑向张磊的一阶骨刺虎，救下张磊并表明事后会清算其罪责",
+      "time": "第1天晚8:30"
+    },
+    {
+      "id": "zhanglei_contact_accomplice",
+      "description": "张磊偷偷联系同伙，要求带重武器击杀林野抢夺蚩尤指骨，承诺卖遗珍的钱对半分",
+      "time": "第1天晚8:30"
+    },
+    {
+      "id": "linye_prepare_battle",
+      "description": "系统提示二阶骨刺虎2分钟后降临，击杀可得3%血脉进度和30万现金，林野激活神通冲向空间裂缝准备迎战",
+      "time": "第1天晚8:30"
+    }
+  ],
+  "time_period": "第1天晚8:30",
+  "locations": [
+    "东海市郊区16号线地铁口施工路段"
+  ],
+  "key_facts": [
+    {
+      "id": "linye_base_info",
+      "content": "林野22岁，毕业半年，母亲需透析治疗，家庭经济困难，拥有蚩尤血脉和返祖系统，可激活霸体、狂血神通，当前血脉解锁进度11.2%"
+    },
+    {
+      "id": "suqingyuan_base_info",
+      "content": "苏清鸢刚高考完，坐十余个小时火车来东海投奔父亲，曾被林野从异兽口中救下"
+    },
+    {
+      "id": "zhanglei_crime_record",
+      "content": "张磊靠钻营当上龙组东海分队小队长，近3个月走私异兽材料17次获利230万，导致3起异兽漏入市区致12名平民死亡"
+    },
+    {
+      "id": "chiyou_finger_bone_feature",
+      "content": "林野持有的蚩尤指骨可吸收异兽血能量，与蚩尤血脉共振，是价值极高的上古遗珍"
+    },
+    {
+      "id": "spatial_rift_status",
+      "content": "施工路段上空存在空间裂缝，2分钟后将降临携带蚩尤牙碎片的二阶骨刺虎"
+    },
+    {
+      "id": "linye_public_title",
+      "content": "林野曾手撕7头一阶骨刺虎救下在场群众，被路人称为“手撕哥”"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

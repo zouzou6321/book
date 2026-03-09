@@ -1,0 +1,102 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "主角/半神",
+      "description": "脸由黑曜石质地和数据云雾构成，左眼瞳孔为倒V符号，手持巨型逻辑构造光叉",
+      "status": "active"
+    },
+    {
+      "name": "星期四创始人",
+      "age": null,
+      "role": "被囚禁者",
+      "description": "囚禁在李疯狂的胃里，声音像杀猪般的嚎叫",
+      "status": "active"
+    },
+    {
+      "name": "古神残魂",
+      "age": null,
+      "role": "被囚禁的古神",
+      "description": "囚禁在李疯狂的胃里，声音低沉傲慢，贪婪",
+      "status": "active"
+    },
+    {
+      "name": "收银员",
+      "age": null,
+      "role": "维度收费站/旧日餐厅员工",
+      "description": "穿着小两号廉价西装，领带是红色蠕虫，面部无五官只有拉链式嘴巴，胸口有发蓝光的二维码",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "病毒/关键人物",
+      "description": "以Bug形式存在于李疯狂体内，胸口有锁芯状图腾，会发出声音",
+      "status": "active"
+    },
+    {
+      "name": "食客",
+      "age": null,
+      "role": "高维生物/古神",
+      "description": "巨大且无固定形状的阴影，握着如山岳般巨大的刀叉，正在食用星系或文明",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "收银员",
+    "食客"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "toll_booth_confrontation",
+      "description": "李疯狂在维度收费站遭遇收银员，对方试图索要过路费（古神残魂或苏浅），被李疯狂拒绝并威胁",
+      "time": "02:15"
+    },
+    {
+      "id": "v_me_50_activation",
+      "description": "李疯狂使用写着'V我50'的纸条作为因果律武器，利用乞讨逻辑将神明置于'债务人'位置，导致收银员系统崩溃并放行",
+      "time": "02:15"
+    },
+    {
+      "id": "entering_old_days_restaurant",
+      "description": "李疯狂通过收费站进入旧日餐厅，目睹巨大的盛放着星系/文明的盘子和食用的古神们",
+      "time": "02:16"
+    },
+    {
+      "id": "declaration_of_hunt",
+      "description": "李疯狂向餐厅内的众食客宣战，宣告今天的厨师可能会把他们炸了，狩猎开始",
+      "time": "02:16"
+    }
+  ],
+  "time_period": "最后的星期日，02:15",
+  "locations": [
+    "通往高维的扭曲高速路",
+    "维度收费站",
+    "旧日餐厅"
+  ],
+  "key_facts": [
+    {
+      "id": "v_me_50_paper",
+      "content": "写着'V我50'的纸条被系统识别为超级因果律武器，基于逻辑层面的'赖账'规则，能让神明成为债务人"
+    },
+    {
+      "id": "dimension_highway_structure",
+      "content": "扭曲高速路基于断裂的时间线、发霉的平行宇宙和巨兽脊骨建造"
+    },
+    {
+      "id": "li_crazy_appearance",
+      "content": "李疯狂目前的面具由黑曜石和数据云雾构成，左眼具有倒V符号"
+    },
+    {
+      "id": "su_qian_status",
+      "content": "苏浅以Bug形式存在于李疯狂体内，表现为发热的声音和图腾"
+    },
+    {
+      "id": "old_days_restaurant_scene",
+      "content": "旧日餐厅内，微缩的星系或文明被当作食物放在巨大的盘子上"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

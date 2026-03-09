@@ -1,0 +1,83 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角/暴食者",
+      "description": "浑身散发着酸臭味，指甲缝里塞着碎肉和机油，牙齿参差不齐但能咬碎合金，使用【真理之胃】能力",
+      "status": "active"
+    },
+    {
+      "name": "镜中幻影",
+      "age": "",
+      "role": "李疯狂的完美复制品/被选中的主厨",
+      "description": "穿着完美黑色燕尾服，佩戴红康乃馨，干净得像塑料模特，内部由数据链构成",
+      "status": "deceased"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "特工",
+      "description": "手臂上有电路板状的青色纹路，手持黑色战术手枪，世界观受到冲击",
+      "status": "active"
+    },
+    {
+      "name": "星期四账单核心",
+      "age": "",
+      "role": "城市沦陷源头/概念聚合体",
+      "description": "由无数二维码、支付密码、转账记录形成的跳动心脏，油面中央呈现由人脸拼凑的大脸",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "镜中幻影",
+    "星期四账单核心"
+  ],
+  "character_exits": [
+    {
+      "name": "镜中幻影",
+      "reason": "被李疯狂吞噬/死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "banquet_confrontation",
+      "description": "李疯狂与镜中幻影在宴会厅对峙，镜中幻影试图修正李疯狂，苏浅开枪打破镜中幻影的逻辑护盾。",
+      "time": "周六凌晨"
+    },
+    {
+      "id": "mirror_devoured",
+      "description": "李疯狂利用【真理之胃】的最高权限【概念掠夺】吃掉并粉碎了镜中幻影，获得系统碎片【无理之面（残缺）】。",
+      "time": "周六凌晨"
+    },
+    {
+      "id": "encounter_thursday_core",
+      "description": "两人跳入通往塔底的洞口，在被称为城市“胃袋”的巨型油锅上方发现“星期四账单核心”，李疯狂准备发起“霸王餐”攻击。",
+      "time": "周六凌晨"
+    }
+  ],
+  "time_period": "周六凌晨",
+  "locations": [
+    "电视塔顶层·最终宴会厅",
+    "电视塔底层（城市胃袋）"
+  ],
+  "key_facts": [
+    {
+      "id": "liber_face_fragment",
+      "content": "李疯狂通过吞噬镜中幻影获得【无理之面（残缺）】碎片，能将“不合理”转化为“合理”（如把屎变成巧克力）。"
+    },
+    {
+      "id": "thursday_core_nature",
+      "content": "城市沦陷源头是“星期四账单核心”，位于一口直径五百米的巨型油锅中央，由金融数据（二维码、密码、账单）构成，具有狂热求被吞噬的特性。"
+    },
+    {
+      "id": "su_qiangs_inhibitor",
+      "content": "苏浅左臂有青色电路板纹路，且体内的抑制剂快失效了，需要消化吃下的鳞片。"
+    },
+    {
+      "id": "chapter_001_note",
+      "content": "李疯狂口袋里装着一张始于Chapter 001嘴里的、写着嘲讽文字的皱巴巴纸条，最后贴在额头上用于对抗账单核心。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

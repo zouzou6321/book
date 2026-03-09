@@ -1,0 +1,89 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "Unknown",
+      "role": "主厨候选人/收容物",
+      "description": "双眼流淌绿色数据流，战斗中皮肤呈金属光泽，手持生锈勺子",
+      "status": "departed"
+    },
+    {
+      "name": "苏浅",
+      "age": "Unknown",
+      "role": "收容局调查员",
+      "description": "穿着战术风衣，持有黑色战术手枪，怀里抱着李小鱼",
+      "status": "active"
+    },
+    {
+      "name": "李小鱼",
+      "age": "Unknown",
+      "role": "李疯狂的妹妹",
+      "description": "抱着破旧的泰迪熊",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "李疯狂",
+      "reason": "失去意识并坠落深渊"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "encounter_crab_disaster",
+      "description": "在概念祭坛遭遇D+级清道夫型天灾“深海油炸蟹皇”",
+      "time": "第一周期·周四 06:00"
+    },
+    {
+      "id": "defeat_crab",
+      "description": "李疯狂使用解析能力和勺子将螃蟹强制解构并吞噬吸收",
+      "time": "第一周期·周四 06:00"
+    },
+    {
+      "id": "divine_correction",
+      "description": "因偏离剧本，遭到S级以上干涉源（主厨/修正程序）的抹杀攻击",
+      "time": "第一周期·周四 06:00"
+    },
+    {
+      "id": "severing_logic_paradox",
+      "description": "李疯狂濒临失控，命令苏浅射击其左臂逻辑悖论符文以阻断失控",
+      "time": "第一周期·周四 06:00"
+    },
+    {
+      "id": "fall_into_abyss",
+      "description": "阶梯崩塌，三人坠入地下深渊",
+      "time": "第一周期·周四 06:00"
+    }
+  ],
+  "time_period": "第一周期·周四 06:00",
+  "locations": [
+    "城市上空",
+    "概念祭坛",
+    "油脂阶梯",
+    "地下深渊"
+  ],
+  "key_facts": [
+    {
+      "id": "li_left_arm_rune",
+      "content": "李疯狂的左臂刻有“逻辑悖论”符文，物理切断可强制使其系统死机，阻止失控"
+    },
+    {
+      "id": "read_only_status",
+      "content": "苏浅和李小鱼被李疯狂标记为“只读文件”，意味着不能被修改、删除或消化"
+    },
+    {
+      "id": "spoon_weapon",
+      "content": "李疯狂使用一把生锈的勺子作为武器，具有撕裂空间和强制解构的能力"
+    },
+    {
+      "id": "after_sales_manual",
+      "content": "苏浅持有李疯狂之前给出的“售后说明书”，上面记载了第三条关于切断逻辑悖论回路的指令"
+    },
+    {
+      "id": "divine_chef_script",
+      "content": "存在名为“主厨”的高维意志，会启动强制修正程序清除偏离剧本的主厨候选人"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

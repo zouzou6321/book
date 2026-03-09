@@ -1,0 +1,95 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "赌徒/程序员/流浪者",
+      "description": "左眼有死机灰白色的倒“V”符号，牙齿参差不齐，左眼带有猩红光芒",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "抵押物/同伴",
+      "description": "手指闪烁半透明光效，右手心有像素蔷薇，异化左眼为黑洞，右眼有像素风暴，后期瞳孔变为灰色代码流",
+      "status": "active"
+    },
+    {
+      "name": "巨型肯德基上校玩偶",
+      "age": "未知",
+      "role": "裁判/系统执行者",
+      "description": "悬浮，独眼以每秒三千转旋转，五官粗糙，嘴唇被黑线缝合",
+      "status": "active"
+    },
+    {
+      "name": "龙虾头神明",
+      "age": "未知",
+      "role": "讨债联盟大佬",
+      "description": "拥有足以剪断空间的巨大钳子",
+      "status": "active"
+    },
+    {
+      "name": "雾霾神",
+      "age": "未知",
+      "role": "讨债联盟大佬",
+      "description": "发出震耳欲聋咆哮的存在",
+      "status": "active"
+    },
+    {
+      "name": "眼球怪",
+      "age": "未知",
+      "role": "讨债联盟大佬/观众",
+      "description": "不可名状的存在",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "truth_reveal",
+      "description": "李疯狂在真心话环节坦白，其引入“疯狂”概念的动机仅仅是为了逃避写周报",
+      "time": "18:05"
+    },
+    {
+      "id": "infinite_monday_activation",
+      "description": "李疯狂发动协议层强制覆盖，将竞技场环境改写为“无限周一”概念领域（大型互联网公司周一早晨），削弱神明",
+      "time": "18:06左右"
+    },
+    {
+      "id": "outsourcing_mutation",
+      "description": "苏浅因吸收“逃避工作”概念，触发“永久外包协议”，身体开始玻璃化并试图出售李疯狂灵魂",
+      "time": "18:06左右"
+    },
+    {
+      "id": "eating_calculus",
+      "description": "李疯狂咬碎并吞下红色乐高积木（结石），具象化出“暴食者/KPI怪兽”，准备强行突破",
+      "time": "18:07左右"
+    }
+  ],
+  "time_period": "第1.5个周期 · 周五黄昏（伪） 18:05",
+  "locations": [
+    "“旧日餐厅”后厨入口",
+    "悬浮餐具竞技场",
+    "“无限周一”概念领域（大型互联网公司周一早晨）"
+  ],
+  "key_facts": [
+    {
+      "id": "origin_of_madness",
+      "content": "李疯狂引入“疯狂”导致世界崩坏的初衷是为了逃避写周报和KPI考核，这是系统无法解析的低优先级动机"
+    },
+    {
+      "id": "su_qian_status",
+      "content": "苏浅的灵魂所有权被作为抵押物，当前正因概念融合而面临“永久外包协议”的转化，身体呈现玻璃/代码特征"
+    },
+    {
+      "id": "red_lego_function",
+      "content": "红色乐高积木（结石）代表“顽固”与“不可消化”，被吞食后能引发“暴食者”力量对抗由于“外包”产生的吞噬效果"
+    },
+    {
+      "id": "field_effect",
+      "content": "“无限周一”领域内，任何表现出活力、激情或攻击性的行为会被视为“内卷”并遭到系统强制降速"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

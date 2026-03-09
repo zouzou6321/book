@@ -1,0 +1,89 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "太玄宗内门首席",
+      "description": "身穿破旧锦袍，手持半包辣条，外表慵懒实则心思缜密",
+      "status": "active"
+    },
+    {
+      "name": "掌门",
+      "age": "须发皆白",
+      "role": "太玄宗掌门",
+      "description": "身穿黑色金丝道袍，绣着玄鹤吞云，金丹期修为，面容伪善",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "江越的狂热崇拜者，对物理深信不疑",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "太玄宗第一天骄/记名侍女",
+      "description": "面色苍白，手持半根辣条，对江越死心塌地",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "formation_deception",
+      "description": "掌门启动‘万仙护体大阵’，实则是献祭弟子的‘万仙噬血大阵’",
+      "time": "戌时三刻"
+    },
+    {
+      "id": "exhaust_sabotage",
+      "description": "江越利用物理借口，将精血滴入大阵排气孔，导致大阵故障喷出恶臭气体",
+      "time": "戌时三刻"
+    },
+    {
+      "id": "qingxue_rescue",
+      "description": "江越阻止林清雪献血，并用热力学伪科学将其劝退",
+      "time": "戌时三刻"
+    },
+    {
+      "id": "enemy_attack",
+      "description": "血影宗发动大规模攻击，数十道血色流火砸向护宗大阵",
+      "time": "戌时三刻后"
+    },
+    {
+      "id": "laxive_deployment",
+      "description": "江越接受破坏任务，将强力泻药弹入阵眼核心",
+      "time": "敌袭混乱时"
+    }
+  ],
+  "time_period": "夜晚，戌时三刻",
+  "locations": [
+    "太玄宗主峰",
+    "聚灵广场",
+    "护宗大阵核心祭坛"
+  ],
+  "key_facts": [
+    {
+      "id": "true_formation_type",
+      "content": "‘万仙护体大阵’实为‘万仙噬血大阵’，核心逻辑是以生灵精血为引，献祭供血者转化为使用者的修为"
+    },
+    {
+      "id": "array_weakness",
+      "content": "大阵存在名为‘排气孔’的结构缺陷（排放多余废气的死角），若攻击此处可导致大阵故障反噬"
+    },
+    {
+      "id": "disciples_delusion",
+      "content": "宗门弟子将江越随口胡诌的物理名词（受力分析、刚体、流体力学等）奉为修仙至理并加以练习"
+    },
+    {
+      "id": "sect_leader_intent",
+      "content": "掌门欲献祭全宗弟子以换取自身修为提升或保命，对江越怀有杀意"
+    },
+    {
+      "id": "jiangyue_task_item",
+      "content": "系统发布紧急任务破坏大阵，江越使用了道具‘强力泻药·浓缩版’（消耗500反差值）"
+    }
+  ]
+}

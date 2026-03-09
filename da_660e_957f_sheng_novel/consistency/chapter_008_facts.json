@@ -1,0 +1,116 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "二十五六岁",
+      "role": "江湖郎中（表面）/ 拥有现代灵魂的不死人（真实）",
+      "description": "身穿灰布棉袍，深不见底的眼睛，冻红的手",
+      "status": "active"
+    },
+    {
+      "name": "李永贞",
+      "age": "中年",
+      "role": "司礼监秉笔太监",
+      "description": "面白无须，身穿蟒袍，细长的丹凤眼，指甲套着金护甲，戴翡翠戒指，声音尖细掺沙砾，身上有脂粉味",
+      "status": "active"
+    },
+    {
+      "name": "魏忠贤",
+      "age": "未知",
+      "role": "九千岁/东厂提督/权阉",
+      "description": "满脸横肉（结尾场景描述）",
+      "status": "active"
+    },
+    {
+      "name": "瞎子",
+      "age": "未知",
+      "role": "陈默的眼线",
+      "description": "卖糖葫芦的瞎子",
+      "status": "active"
+    },
+    {
+      "name": "黑影/少年",
+      "age": "推测未成年",
+      "role": "神秘潜入者",
+      "description": "身形瘦小，脚印三寸长短（疑似少年），身上有血腥味",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "李永贞",
+    "魏忠贤",
+    "瞎子",
+    "黑影/少年"
+  ],
+  "character_exits": [
+    {
+      "name": "李永贞",
+      "reason": "离开醉云楼"
+    },
+    {
+      "name": "黑影/少年",
+      "reason": "因东厂夜巡信号而撤离"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "spy_warning",
+      "description": "陈默通过卖糖葫芦瞎子的信号（敲竹板节奏变化）得知有东厂番子（缝衣）监视",
+      "time": "白天"
+    },
+    {
+      "id": "meeting_li_yongzhen",
+      "description": "陈默在醉云楼与李永贞会面，李永贞代表魏忠贤敲打并试探陈默，索要给皇帝治病的仙丹方子",
+      "time": "晚上"
+    },
+    {
+      "id": "presenting_poison_recipe",
+      "description": "陈默利用现代化学知识编写并呈上名为'五行升阳散'的方子，实为重金属毒药，用于讨好魏忠贤和进贡皇帝",
+      "time": "晚上"
+    },
+    {
+      "id": "intruder_encounter",
+      "description": "陈默回家后在屋顶发现神秘黑影，东厂夜巡信号发出后黑影离开，现场留下带血的脚印",
+      "time": "深夜"
+    },
+    {
+      "id": "creating_guard_plan",
+      "description": "陈默在药效带来的亢奋中写下计划，决定组建名为'长生卫'的秘密武装，招募三十名死士",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "天启四年（1624年）冬 / 腊月",
+  "locations": [
+    "北京城",
+    "崇文门外陈默私宅",
+    "东华门外醉云楼",
+    "东厂大狱"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_m_identity",
+      "content": "陈默表面身份是二十五六岁的江湖郎中，实为拥有现代灵魂和'不死之身'的人"
+    },
+    {
+      "id": "immortality_sideeffects",
+      "content": "陈默为了压制'不死之身'带来的副作用（虫噬/细胞再生痛），需要定期服用含朱砂（重金属）的剧毒药丸"
+    },
+    {
+      "id": "spy_code_fengyi",
+      "content": "'缝衣'是东厂番子的暗称"
+    },
+    {
+      "id": "recipe_poison_details",
+      "content": "陈默献上的'五行升阳散'主要成分为朱砂（硫化汞）、红铅（氧化铅）等，短期让人精神亢奋，长期导致肾衰竭和脑损伤"
+    },
+    {
+      "id": "immortal_guard_plan",
+      "content": "陈默计划建立'长生卫'，首批招募三十名'孤家寡人、死心塌地'的死士"
+    },
+    {
+      "id": "wangs_fund_plan",
+      "content": "尽管火药方子被拒，陈默仍计划进行'购地建庄'的事务（通过给管家回信暗示）"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

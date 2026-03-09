@@ -1,0 +1,64 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未提及",
+      "role": "理智之主（伪）",
+      "description": "皮肤呈现半透明质感，血管流淌泛着银色微光的液体（高浓度逻辑），左眼有深邃纯黑的倒‘V’字符号和柔光防火墙",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "logic_transformation",
+      "description": "李疯狂身体彻底被‘逻辑’改造，肌肉密度提升300%，神经传导速度突破人类极限",
+      "time": "最后的星期日 · 黄昏"
+    },
+    {
+      "id": "attack_line_shortest",
+      "description": "李疯狂使用‘两点之间，直线最短’的物理规则强制修正，导致132只面团怪逻辑坏死崩解",
+      "time": "最后的星期日 · 黄昏"
+    },
+    {
+      "id": "defeat_disc_warrior",
+      "description": "李疯狂利用‘定义修正：摩擦力系数归零’和‘逻辑爆破’消灭圆盘战士并粉碎半座冰山",
+      "time": "最后的星期日 · 黄昏"
+    },
+    {
+      "id": "announcement_start",
+      "description": "‘中央厨房’发出【最后晚餐即将开始】的公告，怪物开始结阵并遵循战术逻辑进攻",
+      "time": "最后的星期日 · 黄昏"
+    },
+    {
+      "id": "counter_charge_start",
+      "description": "李疯狂加载战术模块‘众神之差评’，主动冲向怪物大军掀翻‘桌子’",
+      "time": "最后的星期日 · 黄昏"
+    }
+  ],
+  "time_period": "最后的星期日 · 黄昏",
+  "locations": [
+    "南极冰盖边缘",
+    "时空裂缝前"
+  ],
+  "key_facts": [
+    {
+      "id": "sequence_name",
+      "content": "李疯狂当前序列为自创的【理智之主（伪）】，体内流淌高浓度‘逻辑’"
+    },
+    {
+      "id": "weapon_evolution",
+      "content": "武器【李小鱼的肋骨（骨勺）】勺柄布满电路纹路，具备高科技芯片特征，与李疯狂左眼共鸣"
+    },
+    {
+      "id": "emotional_anchor",
+      "content": "苏浅留下的‘爱’之防火墙是李疯狂保持人性的锚点，位于左眼及逻辑回路深处，当前San值稳定在15%"
+    },
+    {
+      "id": "enemy_structure",
+      "content": "敌方大本营名为‘中央厨房’，已刺破大气层，由穿着燕尾服戴白面具的‘主厨’操控"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

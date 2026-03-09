@@ -1,0 +1,123 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "未知",
+      "role": "游医（伪装）、长生卫首领、秘密顾问",
+      "description": "脸色惨白如纸，嘴角泛着病态潮红，眼神深邃",
+      "status": "active"
+    },
+    {
+      "name": "青儿",
+      "age": "稚嫩（幼童/少年）",
+      "role": "长生卫成员",
+      "description": "瘦小身影像狸猫，穿着不合身的黑色劲装，眼睛幽幽发亮",
+      "status": "active"
+    },
+    {
+      "name": "王征",
+      "age": "四十多岁",
+      "role": "儒商、盐商",
+      "description": "面容清癯，颧骨高耸，身穿洗得发白的儒衫，手微微发抖",
+      "status": "departed"
+    },
+    {
+      "name": "沈炼",
+      "age": "未知",
+      "role": "锦衣卫指挥使",
+      "description": "披着蓑衣，手持绣春刀",
+      "status": "departed"
+    },
+    {
+      "name": "朱由检（崇祯帝）",
+      "age": "未知",
+      "role": "皇帝",
+      "description": "（仅在结尾提及及回忆中出现）",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "青儿",
+    "王征"
+  ],
+  "character_exits": [
+    {
+      "name": "王征",
+      "reason": "告退去歇息，准备次日办事"
+    },
+    {
+      "name": "沈炼",
+      "reason": "收网撤退，转而监视王征"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "curse_suppression",
+      "description": "陈默服用特制药丸（曼陀罗与朱砂混合物）压制体内因接触皇权而引动的“长生”诅咒带来的饥饿感。",
+      "time": "深夜回宅后"
+    },
+    {
+      "id": "meeting_wang_zheng",
+      "description": "陈默在百草园会见王征，展示朱由检批阅的宗室藩王名单及田产记录，并提出建立“大明帝国银行”的计划。",
+      "time": "丑时"
+    },
+    {
+      "id": "task_assignment",
+      "description": "陈默交给王征一份魏忠贤余孽在江南的皇店名单，要求其查账追缴资金，并安排利润分配比例。",
+      "time": "丑时"
+    },
+    {
+      "id": "standoff_in_rain",
+      "description": "沈炼在百草园外监视，险遭屋顶上的青儿袭击，最终沈炼选择撤退，下令重点监视王征。",
+      "time": "雨夜"
+    },
+    {
+      "id": "emperors_vigil",
+      "description": "崇祯皇帝深夜站在乾清宫露台遥望城南百草园方向。",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "崇祯元年（1628年）春 · 雨后深夜（丑时）",
+  "locations": [
+    "京城长街",
+    "乾清宫",
+    "百草园（陈默私宅）",
+    "百草园外狭窄巷弄",
+    "紫禁城"
+  ],
+  "key_facts": [
+    {
+      "id": "immortality_curse",
+      "content": "陈默患有“长生”诅咒，会对权力和血腥产生饥饿感，需长期服用毒药压制。"
+    },
+    {
+      "id": "changsheng_wei",
+      "content": "陈默拥有一支名为“长生卫”的秘密护卫队，隐藏在百草园高墙内。"
+    },
+    {
+      "id": "code_dogtail_flower",
+      "content": "青儿与陈默的暗号中，“狗尾巴花”指锦衣卫，“尾巴”指跟随的数量。"
+    },
+    {
+      "id": "bank_plan",
+      "content": "陈默策划建立“大明帝国银行”，以纸币代宝钞，以宗室田产做抵押，旨在抄没天下宗室、勋贵、胥吏的家产以充盈国库。"
+    },
+    {
+      "id": "profit_sharing",
+      "content": "追缴资金的分配方案：三成归国库，三成归银行（运营），四成作为特别经费直送大内（皇室）。"
+    },
+    {
+      "id": "wang_zheng_background",
+      "content": "王征本是江南盐商，因朝廷加征辽饷、盐引被收回而破产，被朝廷定性为“奸商”。"
+    },
+    {
+      "id": "shenlian_connection",
+      "content": "沈炼曾见过陈默处理伤口，知晓其医术，此前只当他是江湖郎中，现已察觉其异常。"
+    },
+    {
+      "id": "chen_mo_jade",
+      "content": "陈默有一块残缺玉佩，刻着猛虎，是从萨尔浒战场死去的千户身上摸来的，与其身世秘密有关。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

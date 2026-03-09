@@ -1,0 +1,97 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "记名师父/玄天真人(伪装)",
+      "description": "倒挂树枝，脑门充血，脸上因锅底灰看起来漆黑如墨",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "太玄宗内门第一天骄/记名侍女",
+      "description": "白衣胜雪，容颜绝美，清冷中带着阴郁，后双颊绯红",
+      "status": "active"
+    },
+    {
+      "name": "黑袍老者",
+      "age": "老者",
+      "role": "潜伏的监视者",
+      "description": "黑袍，手段高明",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "黑袍老者",
+    "黄金蛐蛐"
+  ],
+  "character_exits": [
+    {
+      "name": "江越",
+      "reason": "逃离现场，回听雨阁"
+    },
+    {
+      "name": "黑袍老者",
+      "reason": "监视结束，离去谋划"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "jiang_yue_inverted_search",
+      "description": "江越为抓逃跑的系统宠物“黄金蛐蛐”，倒挂在千年古槐上，脸蹭锅底灰变黑",
+      "time": "穿越第十九天，辰时"
+    },
+    {
+      "id": "misunderstanding_chaos_face",
+      "description": "林清雪偶遇江越，将其倒挂及黑脸误读为“逆转乾坤”与“混沌法相”",
+      "time": "穿越第十九天，辰时"
+    },
+    {
+      "id": "hotpot_dharma_teaching",
+      "description": "江越为圆谎，将对火锅的渴望描述为“洪炉炼心大法”，忽悠林清雪吃掉杂念",
+      "time": "穿越第十九天，辰时"
+    },
+    {
+      "id": "lin_breakthrough_fire",
+      "description": "林清雪听信忽悠，突破瓶颈至炼气九层巅峰，剑气融合了火系真意",
+      "time": "穿越第十九天，辰时"
+    },
+    {
+      "id": "elder_surveillance recording",
+      "description": "黑袍老者用留影石记录过程，将“火锅心法”误解为残忍的吃人魔功，决定在秘境格杀江越",
+      "time": "穿越第十九天，辰时"
+    }
+  ],
+  "time_period": "穿越第十九天，辰时（上午 07:00 - 09:00）",
+  "locations": [
+    "太玄宗·后山小树林",
+    "听雨阁对面的一处隐山峰顶"
+  ],
+  "key_facts": [
+    {
+      "id": "golden_cricket_escape",
+      "content": "系统产出的“黄金蛐蛐”贪吃且越狱，成为了江越倒挂行为的导火索"
+    },
+    {
+      "id": "face_soot_misconception",
+      "content": "江越脸上的锅底灰被林清雪误认为是阴阳碰撞产生的“道痕”"
+    },
+    {
+      "id": "hotpot_mind_method",
+      "content": "林清雪将江越瞎编的“吃火锅”理论领悟为名为“洪炉炼心大法”的绝世功法，核心口诀为“越辣越通透”"
+    },
+    {
+      "id": "lin_qingxue_cultivation_state",
+      "content": "林清雪功法发生质变，原本冰冷的“太玄冰心诀”融合了火系真意，当前境界为炼气九层巅峰"
+    },
+    {
+      "id": "elder_assassination_plan",
+      "content": "黑袍老者认为江越修炼上古魔功，危险等级提升，计划在即将到来的秘境中将其格杀"
+    },
+    {
+      "id": "jiang_yue_reputation_status",
+      "content": "在林清雪和黑袍老者眼中，江越的行为被过度解读为高深莫测的修仙手段"
+    }
+  ]
+}

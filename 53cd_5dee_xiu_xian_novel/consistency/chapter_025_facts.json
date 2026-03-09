@@ -1,0 +1,111 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "太玄宗内门首席/玄天真人",
+      "description": "身姿挺拔，手持生姜，表面高深莫测实则内心慌张",
+      "status": "active"
+    },
+    {
+      "name": "血枯长老",
+      "age": "老年",
+      "role": "血影宗金丹期长老",
+      "description": "枯瘦如柴，施展万魂血煞，被辣瞎流涕，狼狈不堪",
+      "status": "departed"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "热泪盈眶，紧握长剑，对江越极度崇拜",
+      "status": "active"
+    },
+    {
+      "name": "啃瓜师弟",
+      "age": "未知",
+      "role": "太玄宗守门弟子",
+      "description": "震惊于“科学大道”，灵瓜掉落",
+      "status": "active"
+    },
+    {
+      "name": "老张",
+      "age": "未知",
+      "role": "太玄宗守门弟子",
+      "description": "目光呆滞，感叹“物理化学”修仙",
+      "status": "active"
+    },
+    {
+      "name": "画师(百晓生)",
+      "age": "未知",
+      "role": "神秘记录者",
+      "description": "灰色身影，手持画笔，记录《天英录》",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "蹲在后山乱石岗盯着石头看",
+      "status": "active"
+    },
+    {
+      "name": "内门执事二人",
+      "age": "未知",
+      "role": "太玄宗内门执事",
+      "description": "将江越的呼噜声解读为“涅槃之音”",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "血枯长老",
+    "画师(百晓生)"
+  ],
+  "character_exits": [
+    {
+      "name": "血枯长老",
+      "reason": "被姜味击溃神识，道心受损，认为是邪术而遁逃"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "ginger_defeat_gold_core",
+      "description": "江越利用系统强化的生姜和一本正经的胡说八道，通过辛辣味击退了金丹期大能血枯长老。",
+      "time": "未时二刻"
+    },
+    {
+      "id": "sect_worship_confusion",
+      "description": "太玄宗众弟子将江越的行为解读为“物理化学”修仙，导致大批弟子在后山盯着石头悟道，引发食堂抢购鲜姜热潮。",
+      "time": "未时二刻之后"
+    },
+    {
+      "id": "recording_by_artist",
+      "description": "神秘画师百晓生目睹江越“以凡人之躯比肩神明”，决定将其记录在《天英录》第一页。",
+      "time": "未时二刻之后"
+    }
+  ],
+  "time_period": "穿越第十八天，未时二刻（下午 1:30 - 2:30）",
+  "locations": [
+    "太玄宗·山门前广场",
+    "听雨阁后花园",
+    "太玄宗后山乱石岗"
+  ],
+  "key_facts": [
+    {
+      "id": "jiang_science_reputation",
+      "content": "太玄宗上下普遍认为江越掌握“物理化学”等上古言灵，修的是“科学大道”或“姜神道”。"
+    },
+    {
+      "id": "ginger_myth",
+      "content": "江越谎称生姜是后山“混沌古井”旁采摘的“纯阳疆土”，此说法被太玄宗弟子信奉为真理。"
+    },
+    {
+      "id": "sleeping_interpretation",
+      "content": "江越的睡觉和打呼噜被弟子们误读为“天人五衰后的涅槃之音”和“斩断因果”。"
+    },
+    {
+      "id": "xueku_fear",
+      "content": "血枯长老将江越视为擅长“以理入道”的怪物，对他产生了极大的心理阴影。"
+    }
+  ]
+}

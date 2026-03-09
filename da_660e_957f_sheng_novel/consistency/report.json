@@ -1,0 +1,498 @@
+{
+  "ok": false,
+  "issues": [
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "陈默",
+      "detail": "角色「陈默」年龄不一致：chapter_003中为未知（青年）; chapter_004中为二十五六岁; chapter_007中为二十五六岁（外貌）; chapter_008中为二十五六岁; chapter_009中为未提及; chapter_011中为二十五六岁; chapter_012中为未知; chapter_013中为未知; chapter_014中为二十五六岁; chapter_017中为未知; chapter_018中为未知; chapter_020中为二十五六岁; chapter_021中为二十五六岁（外貌）; chapter_022中为未知; chapter_023中为长生者（外表年轻）; chapter_025中为25-26岁（外表）; chapter_026中为外表年轻（实际三百岁）; chapter_031中为未知; chapter_034中为外表二十五六岁 / 伪装六十岁; chapter_038中为25岁（外表），实际穿越26年; chapter_040中为未知; chapter_041中为二十五六岁; chapter_042中为外表25-26岁; chapter_043中为二十五六岁（外貌）; chapter_045中为二十五六岁; chapter_047中为外表约25岁（长生者）",
+      "chapters": [
+        "chapter_003",
+        "chapter_004",
+        "chapter_007",
+        "chapter_008",
+        "chapter_009",
+        "chapter_011",
+        "chapter_012",
+        "chapter_013",
+        "chapter_014",
+        "chapter_017",
+        "chapter_018",
+        "chapter_020",
+        "chapter_021",
+        "chapter_022",
+        "chapter_023",
+        "chapter_025",
+        "chapter_026",
+        "chapter_031",
+        "chapter_034",
+        "chapter_038",
+        "chapter_040",
+        "chapter_041",
+        "chapter_042",
+        "chapter_043",
+        "chapter_045",
+        "chapter_047"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "沈炼",
+      "detail": "角色「沈炼」年龄不一致：chapter_004中为未知; chapter_009中为未提及; chapter_017中为未知; chapter_018中为未知; chapter_021中为未知（鬓角染上风霜）; chapter_025中为未说明（比十几年前显老）",
+      "chapters": [
+        "chapter_004",
+        "chapter_009",
+        "chapter_017",
+        "chapter_018",
+        "chapter_021",
+        "chapter_025"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "青儿",
+      "detail": "角色「青儿」年龄不一致：chapter_009中为未提及（约七八岁至十五六岁之间，瘦小）; chapter_011中为十四五岁; chapter_012中为未知; chapter_013中为14岁; chapter_014中为十四岁; chapter_015中为15-16岁; chapter_017中为十五六岁; chapter_018中为稚嫩（幼童/少年）; chapter_020中为未知; chapter_021中为20; chapter_022中为20; chapter_023中为23",
+      "chapters": [
+        "chapter_009",
+        "chapter_011",
+        "chapter_012",
+        "chapter_013",
+        "chapter_014",
+        "chapter_015",
+        "chapter_017",
+        "chapter_018",
+        "chapter_020",
+        "chapter_021",
+        "chapter_022",
+        "chapter_023"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "朱由检",
+      "detail": "角色「朱由检」年龄不一致：chapter_012中为青年; chapter_017中为年轻; chapter_020中为三十岁; chapter_025中为30出头; chapter_028中为三十三岁",
+      "chapters": [
+        "chapter_012",
+        "chapter_017",
+        "chapter_020",
+        "chapter_025",
+        "chapter_028"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "王征",
+      "detail": "角色「王征」年龄不一致：chapter_018中为四十多岁; chapter_031中为老者",
+      "chapters": [
+        "chapter_018",
+        "chapter_031"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "蓝眼西班牙人",
+      "detail": "角色「蓝眼西班牙人」年龄不一致：chapter_025中为未说明; chapter_034中为未知",
+      "chapters": [
+        "chapter_025",
+        "chapter_034"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "长生卫统领",
+      "detail": "角色「长生卫统领」年龄不一致：chapter_026中为未提及; chapter_038中为不详; chapter_040中为未知; chapter_041中为未提及; chapter_042中为未知",
+      "chapters": [
+        "chapter_026",
+        "chapter_038",
+        "chapter_040",
+        "chapter_041",
+        "chapter_042"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "王承恩",
+      "detail": "角色「王承恩」年龄不一致：chapter_026中为老年; chapter_028中为老太监",
+      "chapters": [
+        "chapter_026",
+        "chapter_028"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "老刘头",
+      "detail": "角色「老刘头」年龄不一致：chapter_031中为未知; chapter_034中为老年",
+      "chapters": [
+        "chapter_031",
+        "chapter_034"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "陈默",
+      "detail": "角色「陈默」在chapter_017中已离开乾清宫去安排事务，但在chapter_018中再次活跃出场",
+      "chapters": [
+        "chapter_017",
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "沈炼",
+      "detail": "角色「沈炼」在chapter_009中已离开陈家庄子，但在chapter_017中再次活跃出场",
+      "chapters": [
+        "chapter_009",
+        "chapter_017"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "青儿",
+      "detail": "角色「青儿」在chapter_017中已刺杀任务完成后离开暗巷，但在chapter_018中再次活跃出场",
+      "chapters": [
+        "chapter_017",
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "朱由检",
+      "detail": "角色「朱由检」在chapter_012中已会面结束，乘马车离开，但在chapter_017中再次活跃出场",
+      "chapters": [
+        "chapter_012",
+        "chapter_017"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "王征",
+      "detail": "角色「王征」在chapter_018中已告退去歇息，准备次日办事，但在chapter_031中再次活跃出场",
+      "chapters": [
+        "chapter_018",
+        "chapter_031"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "王承恩",
+      "detail": "角色「王承恩」在chapter_026中已求救被拒，绝望离开回宫复命，但在chapter_028中再次活跃出场",
+      "chapters": [
+        "chapter_026",
+        "chapter_028"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "沈炼",
+      "detail": "角色「沈炼」在多个章节被作为新角色引入：chapter_004, chapter_009, chapter_017, chapter_021",
+      "chapters": [
+        "chapter_004",
+        "chapter_009",
+        "chapter_017",
+        "chapter_021"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "青儿",
+      "detail": "角色「青儿」在多个章节被作为新角色引入：chapter_009, chapter_012, chapter_013, chapter_015, chapter_017, chapter_018, chapter_020",
+      "chapters": [
+        "chapter_009",
+        "chapter_012",
+        "chapter_013",
+        "chapter_015",
+        "chapter_017",
+        "chapter_018",
+        "chapter_020"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "朱由检",
+      "detail": "角色「朱由检」在多个章节被作为新角色引入：chapter_012, chapter_020",
+      "chapters": [
+        "chapter_012",
+        "chapter_020"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "王征",
+      "detail": "角色「王征」在多个章节被作为新角色引入：chapter_018, chapter_031",
+      "chapters": [
+        "chapter_018",
+        "chapter_031"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "陈默",
+      "detail": "角色「陈默」在多个章节被作为新角色引入：chapter_020, chapter_043",
+      "chapters": [
+        "chapter_020",
+        "chapter_043"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "蓝眼西班牙人",
+      "detail": "角色「蓝眼西班牙人」在多个章节被作为新角色引入：chapter_025, chapter_034",
+      "chapters": [
+        "chapter_025",
+        "chapter_034"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "长生卫统领",
+      "detail": "角色「长生卫统领」在多个章节被作为新角色引入：chapter_026, chapter_029, chapter_038, chapter_040, chapter_041, chapter_042",
+      "chapters": [
+        "chapter_026",
+        "chapter_029",
+        "chapter_038",
+        "chapter_040",
+        "chapter_041",
+        "chapter_042"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "沈炼、沈大人",
+      "detail": "本章内「锦衣卫千户」先后被指代为不同人名：沈炼、沈大人，需统一为同一人。",
+      "chapters": [
+        "chapter_009"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "陈默、陈大夫",
+      "detail": "本章内「庄主/医者」先后被指代为不同人名：陈默、陈大夫，需统一为同一人。",
+      "chapters": [
+        "chapter_009"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "孩子们、长工",
+      "detail": "本章内「受试孩子们」先后被指代为不同人名：孩子们、长工，需统一为同一人。",
+      "chapters": [
+        "chapter_009"
+      ]
+    },
+    {
+      "type": "within_chapter_name_conflict",
+      "severity": "high",
+      "character": "郑成功、大木",
+      "detail": "本章内「国姓爷」先后被指代为不同人名：郑成功、大木，需统一为同一人。",
+      "chapters": [
+        "chapter_040"
+      ]
+    },
+    {
+      "type": "event_time_conflict",
+      "severity": "high",
+      "detail": "事件「meeting_wang_zheng」的时间在不同章节不一致：chapter_018中为「丑时」; chapter_031中为「弘光元年（1644年）五月」",
+      "chapters": [
+        "chapter_018",
+        "chapter_031"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "陈默",
+      "detail": "角色「陈默」身份描述出现3种以上变体：chapter_003中为「穿越者/江湖郎中」; chapter_004中为「回春堂坐堂郎中」; chapter_007中为「郎中（伪装成杀猪匠）」; chapter_008中为「江湖郎中（表面）/ 拥有现代灵魂的不死人（真实）」; chapter_009中为「死士营首领/怪医」; chapter_011中为「百草园庄主」; chapter_012中为「坐堂郎中/百草园主人」; chapter_013中为「长生卫首领、策划者」; chapter_014中为「主子/炼药师」; chapter_015中为「长生卫首领（伪装成小太监）」; chapter_017中为「谋士/郎中」; chapter_018中为「游医（伪装）、长生卫首领、秘密顾问」; chapter_020中为「神机营创造者/长生者」; chapter_021中为「百草园主人、神机营统领」; chapter_022中为「神机营统领/官员」; chapter_023中为「神机营左营指挥官、一品武官」; chapter_025中为「神机营督师」; chapter_026中为「前朝隐形国师/长生卫首领」; chapter_028中为「国师/先生」; chapter_029中为「前神机营督师」; chapter_031中为「前神机营督师/江湖郎中」; chapter_034中为「长生者 / 前神机营督师」; chapter_038中为「穿越者/长生卫之主」; chapter_040中为「前神机营督师/隐形国师」; chapter_041中为「长生卫首领/前朝神机营督师」; chapter_042中为「前神机营督师」; chapter_043中为「长生谷谷主、前神机营督师」; chapter_045中为「前明国师/神机营统帅（伪装成富商/皇商）」; chapter_047中为「藏书楼守护者」",
+      "chapters": [
+        "chapter_003",
+        "chapter_004",
+        "chapter_007",
+        "chapter_008",
+        "chapter_009",
+        "chapter_011",
+        "chapter_012",
+        "chapter_013",
+        "chapter_014",
+        "chapter_015",
+        "chapter_017",
+        "chapter_018",
+        "chapter_020",
+        "chapter_021",
+        "chapter_022",
+        "chapter_023",
+        "chapter_025",
+        "chapter_026",
+        "chapter_028",
+        "chapter_029",
+        "chapter_031",
+        "chapter_034",
+        "chapter_038",
+        "chapter_040",
+        "chapter_041",
+        "chapter_042",
+        "chapter_043",
+        "chapter_045",
+        "chapter_047"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "沈炼",
+      "detail": "角色「沈炼」身份描述出现3种以上变体：chapter_004中为「锦衣卫北镇抚司千户」; chapter_009中为「锦衣卫千户」; chapter_017中为「北镇抚司千户」; chapter_018中为「锦衣卫指挥使」; chapter_021中为「锦衣卫北镇抚司掌印千户」; chapter_025中为「锦衣卫掌印千户」",
+      "chapters": [
+        "chapter_004",
+        "chapter_009",
+        "chapter_017",
+        "chapter_018",
+        "chapter_021",
+        "chapter_025"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "青儿",
+      "detail": "角色「青儿」身份描述出现3种以上变体：chapter_009中为「陈默的下属」; chapter_011中为「长生卫教头」; chapter_012中为「陈默的下属/护卫」; chapter_013中为「陈默的贴身侍卫/下属」; chapter_014中为「奴才/侍女」; chapter_015中为「长生卫下属」; chapter_017中为「杀手/陈默下属」; chapter_018中为「长生卫成员」; chapter_020中为「陈默的护卫/下属」; chapter_021中为「陈默的护卫/下属」; chapter_022中为「护卫/神机营成员」; chapter_023中为「陈默的贴身护卫、敢死队统领」",
+      "chapters": [
+        "chapter_009",
+        "chapter_011",
+        "chapter_012",
+        "chapter_013",
+        "chapter_014",
+        "chapter_015",
+        "chapter_017",
+        "chapter_018",
+        "chapter_020",
+        "chapter_021",
+        "chapter_022",
+        "chapter_023"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "朱由检",
+      "detail": "角色「朱由检」身份描述出现3种以上变体：chapter_012中为「信王」; chapter_017中为「崇祯皇帝」; chapter_020中为「崇祯帝」; chapter_025中为「崇祯皇帝」; chapter_028中为「大明皇帝/崇祯帝」",
+      "chapters": [
+        "chapter_012",
+        "chapter_017",
+        "chapter_020",
+        "chapter_025",
+        "chapter_028"
+      ]
+    },
+    {
+      "type": "event_description_conflict",
+      "severity": "medium",
+      "detail": "事件「meeting_wang_zheng」的描述在不同章节不一致：\nchapter_018: 「陈默在百草园会见王征，展示朱由检批阅的宗室藩王名单及田产记录，并提出建立“大明帝国银行”的计划。」\nchapter_031: 「陈默利用旧时暗号在王征私宅与其重逢，并被安置歇息」",
+      "chapters": [
+        "chapter_018",
+        "chapter_031"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_011:「陈默拥有不死之身，伤口（如左臂割伤）可在十几秒内愈合」; chapter_025:「陈默具有不老及快速愈合伤口（再生）的能力」",
+      "chapters": [
+        "chapter_011",
+        "chapter_025"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_013:「陈默建立了一支名为“长生卫”的死士队伍，成员经过残酷训练，行动隐蔽且绝对服从。」; chapter_018:「陈默拥有一支名为“长生卫”的秘密护卫队，隐藏在百草园高墙内。」",
+      "chapters": [
+        "chapter_013",
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_013:「陈默持有一枚黑铁材质的“猛虎”令牌，象征着某种权力或身份。」; chapter_014:「陈默持有用于联络辽东及信王朱由检的“猛虎”令牌」",
+      "chapters": [
+        "chapter_013",
+        "chapter_014"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_014:「陈默拥有不死之身和快速再生能力，源自萨尔浒尸堆中的神秘存在，需毒药压制副作用」; chapter_018:「陈默患有“长生”诅咒，会对权力和血腥产生饥饿感，需长期服用毒药压制。」",
+      "chapters": [
+        "chapter_014",
+        "chapter_018"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_014:「青儿是陈默从乱葬岗捡回来的孤儿，对陈默有绝对服从和献身精神」; chapter_020:「青儿曾是乱葬岗的瘦弱女孩，现为陈默的护卫，眉宇间有伤疤」; chapter_023:「青儿是陈默在乱葬岗捡到的孤儿，左脸刀疤源于对抗西班牙间谍，对陈默极度忠诚」",
+      "chapters": [
+        "chapter_014",
+        "chapter_020",
+        "chapter_023"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_020:「研制的枪械名为‘神机一式’，有效射程二百步，可击穿重甲，无需火绳，雨雪天可发射」; chapter_021:「陈默研发的燧发枪造价三千两银子一支，使用燧石撞击发火，配备线膛和高能火药，可全天候作战」",
+      "chapters": [
+        "chapter_020",
+        "chapter_021"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_022:「陈默是长生者，体内有狂暴的再生力量，需服用剧毒丹药压制。」; chapter_023:「陈默依靠朱砂药丸续命，剧痛频发，且拥有长生体质和极度敏锐的夜视能力」; chapter_029:「陈默失去朱砂压制，体内再生能力反噬，引发腹部剧痛、高热和肌肉颤抖，但同时也使伤口愈合速度惊人」; chapter_038:「陈默自万历四十七年穿越，至今26年，身体停止衰老，面容依旧定格在25岁。」; chapter_042:「陈默服用朱砂蜡丸压制体内生机躁动的剧痛，是不死之身」; chapter_043:「陈默拥有长生不老的肉身，需依靠剧毒草药（寒水石等）和朱砂压制体内狂暴热流。」",
+      "chapters": [
+        "chapter_022",
+        "chapter_023",
+        "chapter_029",
+        "chapter_038",
+        "chapter_042",
+        "chapter_043"
+      ]
+    },
+    {
+      "type": "fact_conflict",
+      "severity": "medium",
+      "detail": "关键事实冲突：chapter_023:「青儿在野猪林执行必死任务，引爆火药阵亡」; chapter_026:「青儿（前长生卫统领）死于崇祯十五年的开封围城，心脏中箭，被埋在陈默府邸后院老槐树下」",
+      "chapters": [
+        "chapter_023",
+        "chapter_026"
+      ]
+    }
+  ],
+  "checked_chapters": 29,
+  "high_count": 27,
+  "medium_count": 13
+}

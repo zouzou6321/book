@@ -1,0 +1,86 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "外表二十五六岁 / 伪装六十岁",
+      "role": "长生者 / 前神机营督师",
+      "description": "五官轮廓分明，皮肤苍白透明，肢体僵硬麻木；后期染白发贴假须，戴厚黑眼镜",
+      "status": "active"
+    },
+    {
+      "name": "老刘头",
+      "age": "老年",
+      "role": "大明顶尖工匠",
+      "description": "瘦骨嶙峋，满手老茧和伤疤",
+      "status": "deceased"
+    },
+    {
+      "name": "蓝眼西班牙人",
+      "age": "未知",
+      "role": "猎人",
+      "description": "高大的西洋人，碧蓝眼眸，身穿黑色紧身长风衣",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "蓝眼西班牙人"
+  ],
+  "character_exits": [
+    {
+      "name": "老刘头",
+      "reason": "死亡"
+    },
+    {
+      "name": "蓝眼西班牙人",
+      "reason": "重伤濒死"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "cinnabar_metabolised",
+      "description": "陈默体内的朱砂毒性彻底代谢，身体变得极度僵硬、麻木且呈现死白，失去痛感，进入“活尸”状态。",
+      "time": "清顺治三年"
+    },
+    {
+      "id": "old_liu_death",
+      "description": "老刘头在山神庙去世，陈默因手指僵硬无法使用工具，徒手刨土将其安葬。",
+      "time": "清顺治三年梅雨季"
+    },
+    {
+      "id": "spaniard_conflict",
+      "description": "蓝眼西班牙人为了“完美样本”找到陈默，剑刺陈默心脏无效，反被陈默重创胸骨，被留下来等死。",
+      "time": "清顺治三年"
+    },
+    {
+      "id": "isolation_recording",
+      "description": "陈默隐居孤岛，将《天工开物》补遗、燧发枪图纸、微积分与物理定律记录在竹简石缝中。",
+      "time": "清顺治七年"
+    },
+    {
+      "id": "hangzhou_encounter",
+      "description": "康熙元年春，陈默伪装成老儒生在杭州御街遭遇八旗子弟冲撞，被鞭打无伤，被称为“老僵尸”。",
+      "time": "清康熙元年春"
+    }
+  ],
+  "time_period": "清顺治三年 —— 康熙元年（1646-1662）",
+  "locations": [
+    "闽北深山",
+    "孤岛",
+    "杭州府"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_body_state",
+      "content": "陈默不再依靠药物压制“长生”代价，身体处于僵硬、苍白、无泪的“活尸”状态，再生能力减弱但依然存在，且失去痛觉。"
+    },
+    {
+      "id": "knowledge_preservation",
+      "content": "陈默在孤岛期间记录了《天工开物》补遗、燧发枪图纸以及三百年前的微积分、物理定律等知识。"
+    },
+    {
+      "id": "disguise_details",
+      "content": "陈默在杭州期间，通过戴厚黑平光眼镜、药粉染白发、贴假胡子伪装成六十多岁的落魄老儒生。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

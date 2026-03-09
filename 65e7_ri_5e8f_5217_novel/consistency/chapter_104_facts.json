@@ -1,0 +1,93 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/差评师",
+      "description": "身穿破烂沾满黑色粘液的燕尾服，左眼有倒'V'符号，眼角因过载流血",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "冒牌导航员",
+      "description": "外貌与真苏浅一致，左眼为紫色螺旋状Debug眼，左臂异化为机械结构，笑容僵硬，发光变为血红色",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "KFC-404",
+    "冒牌苏浅",
+    "(冒牌货)李小鱼"
+  ],
+  "character_exits": [
+    {
+      "name": "(冒牌货)李小鱼",
+      "reason": "被李疯狂粉碎"
+    },
+    {
+      "name": "苏浅",
+      "reason": "消失/被吞没"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "excretion_escape",
+      "description": "李疯狂和苏浅从高维生物的“十二指肠”被排泄到第4区像素化废墟",
+      "time": "星期五凌晨 03:14"
+    },
+    {
+      "id": "encounter_trap_building",
+      "description": "两人发现原99号楼，内部呈现温馨的旧日景象，实则是伪装成现实的高维空间锚点/诱饵",
+      "time": "星期五凌晨 03:14"
+    },
+    {
+      "id": "pseudo_li_xiaoyu_event",
+      "description": "李疯狂遭遇伪造女儿李小鱼的怪物，拒绝情感诱导并将其定义为“过期发霉的厨余垃圾”消灭",
+      "time": "星期五凌晨 03:14"
+    },
+    {
+      "id": "logic_lord_warning",
+      "description": "死亡怪物传出“逻辑之主”的声音，留下小票警告李疯狂不要相信导航员（苏浅）",
+      "time": "星期五凌晨 03:14"
+    },
+    {
+      "id": "su_qian_replacement",
+      "description": "系统提示苏浅状态为“丢失”，李疯狂发现身边的苏浅已被高维冒牌货替换",
+      "time": "星期五凌晨 03:14"
+    }
+  ],
+  "time_period": "疯狂周期结束后 · 星期五凌晨 03:14",
+  "locations": [
+    "第4区",
+    "像素化废墟",
+    "原99号楼（活体胃囊/记忆回收站）"
+  ],
+  "key_facts": [
+    {
+      "id": "kfc_404_key",
+      "content": "袖口中的红色像素小鸡KFC-404吐出了一把通往后厨的生锈骨头钥匙"
+    },
+    {
+      "id": "fake_navigator_alert",
+      "content": "真正的苏浅已经失踪（被吞没），目前伴随主角的“苏浅”是一个逻辑层级与主角相同的高维冒牌货"
+    },
+    {
+      "id": "logic_lord_hint",
+      "content": "“逻辑之主”（黑西装李疯狂）通过怪物留下了关于导航员改写坐标的警告信息"
+    },
+    {
+      "id": "weapon_state",
+      "content": "李疯狂手中的武器是【李小鱼的肋骨（骨勺）】，具有【篡改 · 定义修正】的能力"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "高维生物/掌权者",
+      "names": [
+        "主厨",
+        "厨师长"
+      ]
+    }
+  ]
+}

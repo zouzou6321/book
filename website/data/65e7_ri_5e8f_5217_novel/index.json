@@ -1,0 +1,1681 @@
+{
+  "id": "65e7_ri_5e8f_5217_novel",
+  "title": "疯狂星期四",
+  "subtitle": "Eldritch Sequence",
+  "author": "屠夫",
+  "description": "克苏鲁降临，每个周四全人类都会陷入疯狂（其实是现实正在被入侵，每次入侵一周中的一天，周四是第一个被入侵的，再有6次入侵，人类就会彻底陷入疯狂），主角也不能幸免。这时因为入侵，有一些人类获得了序列能力，虽然在周四（后续会更多）会陷入疯狂（这会导致每个人在疯狂之后发现一些离奇的状况，因为疯狂的时候是没有意识的），但是大家终于获得了在没有疯狂的清醒日子提升的机会，不断提升，打败其他人，然后超越克苏鲁，最终主角实现拯救人类的故事，开局的部分一定要惊艳，人物的行为应该对应他的性格，性格又要对应他的经历。还有就是世界背景的变化也要跟上，随着疯狂入侵越来越严重，世界也会越来越混乱无序。",
+  "tags": [
+    "克苏鲁",
+    "末世",
+    "进化",
+    "序列",
+    "悬疑"
+  ],
+  "cover_hue": 156,
+  "cover_image": true,
+  "total_chapters": 200,
+  "total_chars": 977720,
+  "volumes": [
+    {
+      "id": "volume_1",
+      "name": "第一卷：谁动了我的脑子",
+      "chapters": [
+        {
+          "id": "chapter_001",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_001.md",
+          "title": "第001章：早安，含在嘴里的半截手指",
+          "time": "第一个疯狂周期后的周五，上午 07:00",
+          "location": "主角李疯狂的单身公寓",
+          "char_count": 4535
+        },
+        {
+          "id": "chapter_002",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_002.md",
+          "title": "第002章：监控录像里的那条狗",
+          "time": "第一周期·周五，上午 08:30",
+          "location": "李疯狂的公寓客厅 → 楼道",
+          "char_count": 4156
+        },
+        {
+          "id": "chapter_003",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_003.md",
+          "title": "第003章：理智也是一种货币",
+          "time": "第一周期·周五 10:00",
+          "location": "公寓楼道 → 一楼大厅黑市",
+          "char_count": 5375
+        },
+        {
+          "id": "chapter_004",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_004.md",
+          "title": "第004章：胃里的东西在动",
+          "time": "第一周期·周五 14:00",
+          "location": "幸福社区·老张诊所",
+          "char_count": 4528
+        },
+        {
+          "id": "chapter_005",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_005.md",
+          "title": "第005章：关于哥哥的正确食用方法",
+          "time": "第一周期·周五 16:00",
+          "location": "幸福社区街道 · 向城市中心延伸的主干道",
+          "char_count": 4113
+        },
+        {
+          "id": "chapter_006",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_006.md",
+          "title": "第006章：序列觉醒：记录者",
+          "time": "第一周期·周五 20:00",
+          "location": "幸福社区边缘·废弃地铁站入口",
+          "char_count": 4153
+        },
+        {
+          "id": "chapter_007",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_007.md",
+          "title": "第007章：谁是猎物，谁是诱饵？",
+          "time": "第一周期·周六 09:00",
+          "location": "前往安全区的必经之路——烂尾楼工地",
+          "char_count": 4428
+        },
+        {
+          "id": "chapter_008",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_008.md",
+          "title": "第008章：不要给陌生人开门",
+          "time": "第一周期·周六 15:00",
+          "location": "城市西区·废弃的金源百货大楼",
+          "char_count": 4186
+        },
+        {
+          "id": "chapter_009",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_009.md",
+          "title": "第009章：记忆碎片与油炸锅的哲学",
+          "time": "第一周期·周六 21:00",
+          "location": "金源百货大楼 · 四楼“居家用品区”临时营地",
+          "char_count": 4125
+        },
+        {
+          "id": "chapter_010",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_010.md",
+          "title": "第010章：疯狂的预习课",
+          "time": "第一周期·周日 10:00",
+          "location": "城市边缘·第4区入口检查站",
+          "char_count": 4557
+        },
+        {
+          "id": "chapter_011",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_011.md",
+          "title": "第011章：这哪里是避难所，分明是冷库",
+          "time": "第一周期·周日 14:00",
+          "location": "第4区安全区·内部（临时收容所）",
+          "char_count": 6909
+        },
+        {
+          "id": "chapter_012",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_012.md",
+          "title": "第012章：胃里的第二张纸条",
+          "time": "第一周期·周日 20:00",
+          "location": "第4区安全区·废弃通风管道深处",
+          "char_count": 5856
+        },
+        {
+          "id": "chapter_013",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_013.md",
+          "title": "第013章：谁在偷窥？",
+          "time": "第一周期·周一 00:15",
+          "location": "第4区地下排水系统 · B3层管网通道",
+          "char_count": 6429
+        },
+        {
+          "id": "chapter_014",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_014.md",
+          "title": "第014章：炸鸡皮经济学与坏账处理方案",
+          "time": "第一周期·周一 01:15",
+          "location": "地下管网迷宫 · B3层（财务总监密室）→ 通风井",
+          "char_count": 5245
+        },
+        {
+          "id": "chapter_015",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_015.md",
+          "title": "第015章：下水道里的旧日低语",
+          "time": "第一周期·周一 03:15",
+          "location": "地下B4层 · “诺亚方舟”排污口（旧世界服务器机房遗址）",
+          "char_count": 5943
+        },
+        {
+          "id": "chapter_016",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_016.md",
+          "title": "第016章：倒计时：还有三天",
+          "time": "第一周期·周二 10:00",
+          "location": "地下B4层 · 旧世界地铁站废遗址",
+          "char_count": 5415
+        },
+        {
+          "id": "chapter_017",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_017.md",
+          "title": "第017章：那个叫“创始人”的男人",
+          "time": "第一周期·周三 14:30",
+          "location": "地下B4层·旧日神庙基座（中心广场遗址地下）",
+          "char_count": 5292
+        },
+        {
+          "id": "chapter_018",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_018.md",
+          "title": "第018章：最后的晚餐",
+          "time": "第一周期·周三 23:00",
+          "location": "地下B4层·前中央银行地下金库遗址",
+          "char_count": 4182
+        },
+        {
+          "id": "chapter_019",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_019.md",
+          "title": "第019章：今日特价：理智，买一送一",
+          "time": "疯人历·第一周期·周四 00:01",
+          "location": "地下B4层·中央银行金库遗址（已异化）",
+          "char_count": 4783
+        },
+        {
+          "id": "chapter_020",
+          "file": "65e7_ri_5e8f_5217_novel/volume_1/chapter_020.md",
+          "title": "第020章：V我50，或者死",
+          "time": "第一周期·周四 06:00",
+          "location": "地表废墟 · 第4区中央广场（露天餐厅/祭坛）",
+          "char_count": 4637
+        }
+      ]
+    },
+    {
+      "id": "volume_2",
+      "name": "第二卷：请勿在星期四食用",
+      "chapters": [
+        {
+          "id": "chapter_021",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_021.md",
+          "title": "第021章：这勺子口感有点柴",
+          "time": "第一周期·周四 09:15",
+          "location": "地下B2层 · 废弃排水泵房（临时避难所）",
+          "char_count": 4707
+        },
+        {
+          "id": "chapter_022",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_022.md",
+          "title": "第022章：顾客请注意",
+          "time": "第一周期·周四 09:30",
+          "location": "地下B2层 · “快乐时光”维护通道 → B3层降板口",
+          "char_count": 6317
+        },
+        {
+          "id": "chapter_023",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_023.md",
+          "title": "第023章：数据坟场与垃圾邮件",
+          "time": "第一周期·周四 10:00",
+          "location": "地下B4层 · 旧世界服务器机房遗址（入口区域）",
+          "char_count": 4856
+        },
+        {
+          "id": "chapter_024",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_024.md",
+          "title": "第024章：食材的自我修养",
+          "time": "第一周期·周四 10:30",
+          "location": "地下B4层·核心后厨（旧世界服务器机房遗址深处）",
+          "char_count": 4803
+        },
+        {
+          "id": "chapter_025",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_025.md",
+          "title": "第025章：今日特供是绝望",
+          "time": "第一周期·周四 10:45",
+          "location": "地下B4层·核心后厨·无限餐桌大道",
+          "char_count": 6069
+        },
+        {
+          "id": "chapter_026",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_026.md",
+          "title": "第026章：特价套餐，概不退换",
+          "time": "第一周期·周四 10:45",
+          "location": "地下B4层 · 核心厨房 · 炸制区",
+          "char_count": 4470
+        },
+        {
+          "id": "chapter_027",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_027.md",
+          "title": "第027章：自助餐厅不许打包",
+          "time": "第一周期·周一 02:00（深层感知时间停滞）",
+          "location": "核心后厨·数据汤锅边缘",
+          "char_count": 4898
+        },
+        {
+          "id": "chapter_028",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_028.md",
+          "title": "第028章：关于过期回锅烹饪技巧的若干修正",
+          "time": "第一周期·疯狂星期四（时间在此刻已失去意义，唯有“饭点”永恒）",
+          "location": "核心厨房·直径10公里的星体齿轮汤锅中央",
+          "char_count": 6003
+        },
+        {
+          "id": "chapter_029",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_029.md",
+          "title": "第029章：通缉令：李疯狂",
+          "time": "第一周期·周五 07:30",
+          "location": "城市第4区·废弃圣玛利亚大教堂钟楼顶层",
+          "char_count": 3775
+        },
+        {
+          "id": "chapter_030",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_030.md",
+          "title": "第030章：逃亡：硬吞子弹",
+          "time": "第一周期·周五 12:15",
+          "location": "废弃教堂钟楼下方 · 高架桥引桥段",
+          "char_count": 5357
+        },
+        {
+          "id": "chapter_031",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_031.md",
+          "title": "第031章：电视塔下的油锅",
+          "time": "第一周期·周五 16:30",
+          "location": "市中心·电视塔广场废墟",
+          "char_count": 3912
+        },
+        {
+          "id": "chapter_032",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_032.md",
+          "title": "第032章：星期四的食谱",
+          "time": "周五傍晚",
+          "location": "电视塔内部",
+          "char_count": 6295
+        },
+        {
+          "id": "chapter_033",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_033.md",
+          "title": "第033章：坏账回收计划",
+          "time": "周五深夜",
+          "location": "电视塔顶层·第200级平台",
+          "char_count": 5767
+        },
+        {
+          "id": "chapter_034",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_034.md",
+          "title": "第034章：暴食者的对决",
+          "time": "周六凌晨",
+          "location": "电视塔顶层·最终宴会厅",
+          "char_count": 4780
+        },
+        {
+          "id": "chapter_035",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_035.md",
+          "title": "第035章：我也想 V 你 50",
+          "time": "星期六黎明前",
+          "location": "电视塔底层 · 城市胃袋 / 核心祭坛",
+          "char_count": 5549
+        },
+        {
+          "id": "chapter_036",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_036.md",
+          "title": "第036章：请把这面墙壁吃掉",
+          "time": "周六上午",
+          "location": "城市废墟·某露天咖啡馆遗址",
+          "char_count": 4113
+        },
+        {
+          "id": "chapter_037",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_037.md",
+          "title": "第037章：收容局的清算日",
+          "time": "周六正午，烈阳高悬",
+          "location": "废墟城市·第4区边缘·废弃广告牌阴影下",
+          "char_count": 4528
+        },
+        {
+          "id": "chapter_038",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_038.md",
+          "title": "第038章：黑市的新货",
+          "time": "周日，临近黄昏",
+          "location": "地下黑市（原“星光”大剧院遗址）",
+          "char_count": 4980
+        },
+        {
+          "id": "chapter_039",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_039.md",
+          "title": "第039章：消失的星期三",
+          "time": "周二深夜，23:50",
+          "location": "城市北区·废弃通讯大厦顶层天台",
+          "char_count": 3007
+        },
+        {
+          "id": "chapter_040",
+          "file": "65e7_ri_5e8f_5217_novel/volume_2/chapter_040.md",
+          "title": "第040章：请用你的肉身支付",
+          "time": "周二 23:59 -> “第二个星期四” 00:00",
+          "location": "城市北区·废弃通讯大厦顶层天台",
+          "char_count": 3989
+        }
+      ]
+    },
+    {
+      "id": "volume_3",
+      "name": "第三卷：第三个愿望是理智",
+      "chapters": [
+        {
+          "id": "chapter_041",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_041.md",
+          "title": "第041章：无薪加班",
+          "time": "“第二个疯狂星期四” 00:15",
+          "location": "通讯大厦废墟上空 -> “天庭”走廊",
+          "char_count": 6783
+        },
+        {
+          "id": "chapter_042",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_042.md",
+          "title": "第042章：周三是紫色的（下）",
+          "time": "被篡改的“第二个星期四”凌晨，却呈现出诡异的周三上午气象",
+          "location": "城市中心·理智交易所（原中央证券交易所遗址）",
+          "char_count": 4819
+        },
+        {
+          "id": "chapter_043",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_043.md",
+          "title": "第043章：记忆删除键",
+          "time": "伪·周三中午（紫色天象笼罩期）",
+          "location": "城市废墟 · 看起来相对正常的“疯狂星期四”快餐连锁店",
+          "char_count": 4046
+        },
+        {
+          "id": "chapter_044",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_044.md",
+          "title": "第044章：谁杀了星期三？",
+          "time": "伪·星期三 下午 14:30",
+          "location": "城市图书馆废墟 → 深处档案室",
+          "char_count": 5758
+        },
+        {
+          "id": "chapter_045",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_045.md",
+          "title": "第045章：理性消化不良",
+          "time": "被删除的星期三 · 黄昏（大约）",
+          "location": "地下水道迷宫 / “神的喉咙”入口区域",
+          "char_count": 5219
+        },
+        {
+          "id": "chapter_046",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_046.md",
+          "title": "第046章：名为“爱”的san值锚点",
+          "time": "夜晚（第一个沦陷的星期三，紫色天空笼罩下）",
+          "location": "废弃安全屋（靠近“神的喉咙”入口）",
+          "char_count": 4738
+        },
+        {
+          "id": "chapter_047",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_047.md",
+          "title": "第047章：镜像迷宫初现",
+          "time": "伪·周三深夜（潜意识层）",
+          "location": "梦境底层 · 无限回廊",
+          "char_count": 5596
+        },
+        {
+          "id": "chapter_048",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_048.md",
+          "title": "第048章：第二个星期三",
+          "time": "黎明（或者是本该到来的黎明）",
+          "location": "安全屋外 / 凝固的城市边缘",
+          "char_count": 6024
+        },
+        {
+          "id": "chapter_049",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_049.md",
+          "title": "第049章：理智的汇率",
+          "time": "星期三（崩塌期）· 上午",
+          "location": "城市中心 · “理智之塔”外围废墟",
+          "char_count": 4976
+        },
+        {
+          "id": "chapter_050",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_050.md",
+          "title": "第050章：如果快乐有罪",
+          "time": "星期四 · 中午（停滞的时间线）",
+          "location": "理智之塔 · 中层——“怪诞乐园”",
+          "char_count": 4584
+        },
+        {
+          "id": "chapter_051",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_051.md",
+          "title": "第051章：镜像杀局",
+          "time": "星期四下午（具体时间已停止流动）",
+          "location": "理智之塔顶层 · 无尽镜厅",
+          "char_count": 4381
+        },
+        {
+          "id": "chapter_052",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_052.md",
+          "title": "第052章：消化不良的盛宴",
+          "time": "午后（镜像空间内无意义）",
+          "location": "理智之塔顶层 · 镜像世界",
+          "char_count": 5256
+        },
+        {
+          "id": "chapter_053",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_053.md",
+          "title": "第053章：强制退款的恶客",
+          "time": "黄昏·时间流速畸变区",
+          "location": "理智之塔顶层（现实侧·无尽镜厅废墟）",
+          "char_count": 5667
+        },
+        {
+          "id": "chapter_054",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_054.md",
+          "title": "第054章：疯子的逻辑",
+          "time": "虚无坐标 00:00（时间概念失效）",
+          "location": "理智之塔崩塌废墟下方的无尽虚空 / “神之喉咙”",
+          "char_count": 5007
+        },
+        {
+          "id": "chapter_055",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_055.md",
+          "title": "第055章：把灵魂烤五分熟",
+          "time": "时间无意义区域（坠落后约十分钟）",
+          "location": "后厨·下水道（废弃订单处理区）",
+          "char_count": 5876
+        },
+        {
+          "id": "chapter_056",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_056.md",
+          "title": "第056章：第三个愿望",
+          "time": "黄昏（不知具体日期的下水道永恒昏暗）",
+          "location": "后厨·下水道（废弃订单处理区） -> 泔水汇聚处",
+          "char_count": 4670
+        },
+        {
+          "id": "chapter_057",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_057.md",
+          "title": "第057章：差评师的用餐礼仪",
+          "time": "不可名状的用餐时间（静止）",
+          "location": "空中血色餐厅 · 虚空夹层",
+          "char_count": 4702
+        },
+        {
+          "id": "chapter_058",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_058.md",
+          "title": "第058章：没有眼泪的告别",
+          "time": "疯狂星期四后的黎明前最黑暗时刻",
+          "location": "第4区 · 满目疮痍的街道 -> 废弃的长椅",
+          "char_count": 4482
+        },
+        {
+          "id": "chapter_059",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_059.md",
+          "title": "第059章：被篡改的星期二",
+          "time": "疯狂周期结束后的清晨（现实扭曲中）",
+          "location": "第4区·李疯狂的公寓",
+          "char_count": 4913
+        },
+        {
+          "id": "chapter_060",
+          "file": "65e7_ri_5e8f_5217_novel/volume_3/chapter_060.md",
+          "title": "第060章：在深渊前吃炸鸡",
+          "time": "星期四零点（疯狂回潮）",
+          "location": "第4区·幸福公寓楼道 -> 天台",
+          "char_count": 3964
+        }
+      ]
+    },
+    {
+      "id": "volume_4",
+      "name": "第四卷：星期三的逃亡者",
+      "chapters": [
+        {
+          "id": "chapter_061",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_061.md",
+          "title": "第061章：原来周三是红色的",
+          "time": "第三个沦陷周 · 周三清晨",
+          "location": "主角李疯狂的公寓",
+          "char_count": 4531
+        },
+        {
+          "id": "chapter_062",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_062.md",
+          "title": "第062章：诺亚方舟与拼车难",
+          "time": "第三个沦陷周 · 星期三上午 09:30",
+          "location": "第4区中央广场 -> “方舟01号”登船口",
+          "char_count": 3697
+        },
+        {
+          "id": "chapter_063",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_063.md",
+          "title": "第063章：我的副驾驶是触手怪",
+          "time": "第三个沦陷周 · 周三下午（疯狂前夕）",
+          "location": "诺亚方舟01号车 · 驾驶舱/导航室",
+          "char_count": 5302
+        },
+        {
+          "id": "chapter_064",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_064.md",
+          "title": "第064章：倒着开的火车",
+          "time": "第三个沦陷周 · 星期三入夜（疯狂前夕）",
+          "location": "诺亚方舟01号 · 车厢连接处 -> 底层动力舱",
+          "char_count": 5071
+        },
+        {
+          "id": "chapter_065",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_065.md",
+          "title": "第065章：周三信徒的拦路费",
+          "time": "疯狂周期 · 星期三 · 深水区时刻",
+          "location": "诺亚方舟01号 · 动力舱底层 -> 驾驶舱 -> 外部甲板",
+          "char_count": 4569
+        },
+        {
+          "id": "chapter_066",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_066.md",
+          "title": "第066章：排泄物与新燃料",
+          "time": "疯狂日 · 星期三上午（视时间轴为准）",
+          "location": "诺亚方舟01号 · 动力甲板 / “消化不良废墟”（垃圾山）",
+          "char_count": 4727
+        },
+        {
+          "id": "chapter_067",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_067.md",
+          "title": "第067章：那个蛋壳在震动",
+          "time": "疯狂日 · 周三下午（加速逃逸中）",
+          "location": "诺亚方舟01号 · “消化不良”废墟 -> 地壳裂谷（世界背面）",
+          "char_count": 4792
+        },
+        {
+          "id": "chapter_068",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_068.md",
+          "title": "第068章：来自过去的快递",
+          "time": "清醒日 · 星期四清晨（孵化日余波）",
+          "location": "世界背面 · 地壳裂谷 · 诺亚方舟01号临时营地",
+          "char_count": 5487
+        },
+        {
+          "id": "chapter_069",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_069.md",
+          "title": "第069章：方舟内的黑市交易",
+          "time": "清醒日 · 星期四 10:35",
+          "location": "诺亚方舟01号 · 下层货舱（黑市）",
+          "char_count": 5201
+        },
+        {
+          "id": "chapter_070",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_070.md",
+          "title": "第070章：叛徒就在我们中间",
+          "time": "清醒日 · 星期四晚上",
+          "location": "诺亚方舟01号 · 战术会议室（舰桥下方）",
+          "char_count": 4357
+        },
+        {
+          "id": "chapter_071",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_071.md",
+          "title": "第071章：静止的灰雾之城",
+          "time": "第三个沦陷周 · 星期五（清醒日） / 上午 09:42",
+          "location": "诺亚方舟01号 · 舰桥甲板 -> 方舟前方 · 灰雾弥漫区",
+          "char_count": 5661
+        },
+        {
+          "id": "chapter_072",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_072.md",
+          "title": "第072章：局长赠予的必死任务",
+          "time": "清醒日 · 周五（时间流速异常区）",
+          "location": "灰雾之城边缘 -> 诺亚方舟01号 · 舰桥",
+          "char_count": 4545
+        },
+        {
+          "id": "chapter_073",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_073.md",
+          "title": "第073章：疯狂日历上的红圈",
+          "time": "清醒日 · 星期六 14:30",
+          "location": "诺亚方舟01号 · 方舟底层图书馆",
+          "char_count": 4388
+        },
+        {
+          "id": "chapter_074",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_074.md",
+          "title": "第074章：掀桌与最后一份回执",
+          "time": "清醒日 · 星期日 10:45",
+          "location": "诺亚方舟01号 · 舰桥甲板",
+          "char_count": 5549
+        },
+        {
+          "id": "chapter_075",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_075.md",
+          "title": "第075章：馊了的盛宴",
+          "time": "第三个沦陷周 · 星期日黄昏（时间流速异常）",
+          "location": "诺亚方舟01号 · 舰桥 -> 外部甲板",
+          "char_count": 4027
+        },
+        {
+          "id": "chapter_076",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_076.md",
+          "title": "第076章：万神朝拜",
+          "time": "疯狂周期 · 星期一（沦陷日） / 红色黄昏",
+          "location": "诺亚方舟01号甲板 · 外围战场",
+          "char_count": 5257
+        },
+        {
+          "id": "chapter_077",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_077.md",
+          "title": "第077章：关于炸鸡的哲学辩论",
+          "time": "疯狂周期 · 星期一（沦陷日） / 黄昏（血月升起）",
+          "location": "诺亚方舟01号 · 舰桥顶端甲板 -> 虚空",
+          "char_count": 4206
+        },
+        {
+          "id": "chapter_078",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_078.md",
+          "title": "第078章：理智崩坏边缘",
+          "time": "疯狂日 · 周一深夜",
+          "location": "诺亚方舟01号 · 核心动力室",
+          "char_count": 3906
+        },
+        {
+          "id": "chapter_079",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_079.md",
+          "title": "第079章：绝对死寂领域",
+          "time": "疯狂周期 · 星期二凌晨",
+          "location": "诺亚方舟01号 · 核心动力室 -> 视界灰度",
+          "char_count": 3661
+        },
+        {
+          "id": "chapter_080",
+          "file": "65e7_ri_5e8f_5217_novel/volume_4/chapter_080.md",
+          "title": "第080章：烧焦的羽毛与幸存者",
+          "time": "星期二 清晨 06:30",
+          "location": "焦黑废墟 · 诺亚方舟残骸",
+          "char_count": 4839
+        }
+      ]
+    },
+    {
+      "id": "volume_5",
+      "name": "第五卷：旧日支配者的下午茶",
+      "chapters": [
+        {
+          "id": "chapter_081",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_081.md",
+          "title": "第081章：周二账单已送达",
+          "time": "周五（清醒日） 上午 09:00",
+          "location": "第4区 · 李疯狂的“安全屋” -> 城市废墟街头",
+          "char_count": 4709
+        },
+        {
+          "id": "chapter_082",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_082.md",
+          "title": "第082章：篡改者的第一单生意",
+          "time": "周五上午 10:30",
+          "location": "黑市“地下兑换所”（原地铁4号线永安里站遗址）",
+          "char_count": 4899
+        },
+        {
+          "id": "chapter_083",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_083.md",
+          "title": "第083章：请勿在非用餐时间交谈",
+          "time": "周五下午 14:55",
+          "location": "城西游乐园废墟 · 旋转木马区",
+          "char_count": 4935
+        },
+        {
+          "id": "chapter_084",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_084.md",
+          "title": "第084章：那该死的优雅",
+          "time": "周五黄昏（逻辑层面的“茶会”时间，现实世界的灰暗时刻）",
+          "location": "城西游乐园废墟 · 旋转木马区 -> 半空中的“查单”领域",
+          "char_count": 5583
+        },
+        {
+          "id": "chapter_085",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_085.md",
+          "title": "第085章：疯狂的待客之道",
+          "time": "周六（混沌过渡期） -> 周二（回溯重叠点）",
+          "location": "游乐园废墟 -> 概念边界 · 无限餐厅大门",
+          "char_count": 3923
+        },
+        {
+          "id": "chapter_086",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_086.md",
+          "title": "第086章：餐桌上的薛定谔",
+          "time": "疯狂日·概念上的周二（下午茶时刻）",
+          "location": "无限餐厅·主宴席区",
+          "char_count": 4263
+        },
+        {
+          "id": "chapter_087",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_087.md",
+          "title": "第087章：关于这锅汤的投诉",
+          "time": "疯狂日（概念重叠的永恒下午三点）",
+          "location": "无限餐厅 · 核心后厨区",
+          "char_count": 4701
+        },
+        {
+          "id": "chapter_088",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_088.md",
+          "title": "第088章：主菜是理智",
+          "time": "疯狂日（概念上的周二/无限餐厅时间轴）",
+          "location": "后厨边界 -> 无限餐厅主宴席区",
+          "char_count": 6175
+        },
+        {
+          "id": "chapter_089",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_089.md",
+          "title": "第089章：别吃那个苹果",
+          "time": "疯狂日（周期终末 · 甜点时间）",
+          "location": "无限餐厅（废弃区与主宴会厅夹层）",
+          "char_count": 4739
+        },
+        {
+          "id": "chapter_090",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_090.md",
+          "title": "第090章：宿醉与一件不合身的燕尾服",
+          "time": "星期三（清醒日回溯），清晨 06:30",
+          "location": "第4区 · 李疯狂的“安全屋”公寓",
+          "char_count": 4740
+        },
+        {
+          "id": "chapter_091",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_091.md",
+          "title": "第091章：谁偷了我的周二？",
+          "time": "星期三，清晨 07:15",
+          "location": "第4区 · 废土街道 -> “英雄”广场（原市中心广场）",
+          "char_count": 5589
+        },
+        {
+          "id": "chapter_092",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_092.md",
+          "title": "第092章：名为“下棋”的毁灭",
+          "time": "星期三，下午 16:45",
+          "location": "下水道 · 废弃订单处理区 -> Z区：地下档案馆中转站",
+          "char_count": 5371
+        },
+        {
+          "id": "chapter_093",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_093.md",
+          "title": "第093章：非存在的食客与机械的余温",
+          "time": "星期三，14:42（日历正在剥落）",
+          "location": "第4区 · 下水道档案馆 · “棋盘”战术室",
+          "char_count": 4565
+        },
+        {
+          "id": "chapter_094",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_094.md",
+          "title": "第094章：买单时刻",
+          "time": "星期三 14:60（逻辑崩坏中）",
+          "location": "第4区档案馆出口 -> 倾斜的街道",
+          "char_count": 5610
+        },
+        {
+          "id": "chapter_095",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_095.md",
+          "title": "第095章：这单我记在神头上",
+          "time": "星期四 16:13",
+          "location": "万米高空 · 神之收款台",
+          "char_count": 4462
+        },
+        {
+          "id": "chapter_096",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_096.md",
+          "title": "第096章：重返下午茶",
+          "time": "星期四 16:45",
+          "location": "第4区废墟 · 诺亚方舟残骸内 -> 意识深处（旧日餐厅）",
+          "char_count": 4884
+        },
+        {
+          "id": "chapter_097",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_097.md",
+          "title": "第097章：规则也是可以篡改的",
+          "time": "周五，14:30（逻辑漏洞时间）",
+          "location": "诺亚方舟残骸 · C区废弃食堂 -> 动力舱外部接口",
+          "char_count": 4946
+        },
+        {
+          "id": "chapter_098",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_098.md",
+          "title": "第098章：周一综合征提前发作",
+          "time": "周五（被扭曲的“清醒日”，实际处于时间流速异常区）",
+          "location": "诺亚方舟 · 动力舱前段通道（代号：退餐口）",
+          "char_count": 5396
+        },
+        {
+          "id": "chapter_099",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_099.md",
+          "title": "第099章：通往深渊的门票",
+          "time": "周日（最后的宁静 / 疯狂期前的短暂间歇）",
+          "location": "老城区 · 李疯狂的安全屋（此时已被概念层伪装成“不存在”）",
+          "char_count": 4175
+        },
+        {
+          "id": "chapter_100",
+          "file": "65e7_ri_5e8f_5217_novel/volume_5/chapter_100.md",
+          "title": "第100章：旧日支配者的下午茶",
+          "time": "疯狂周期·周一与周二的重叠日 / 下午三点整",
+          "location": "现实边界·第4区安全屋（已坍塌） -> 深渊餐厅·主餐桌",
+          "char_count": 3908
+        }
+      ]
+    },
+    {
+      "id": "volume_6",
+      "name": "第六卷：群星的倒影",
+      "chapters": [
+        {
+          "id": "chapter_101",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_101.md",
+          "title": "第101章：掀桌子运动",
+          "time": "疯狂星期四·无限循环体的崩坏间隙 / 主观时间 23:59:59 → 00:00:01",
+          "location": "旧日餐厅·主宴会厅 → 餐桌底层的“数据废料堆”",
+          "char_count": 6357
+        },
+        {
+          "id": "chapter_102",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_102.md",
+          "title": "第102章：关于如何正确地“逃单”这一社会学讨论",
+          "time": "疯狂周期·星期五 00:00",
+          "location": "数据废料堆底端 · 系统缓存区（Loading Sector）",
+          "char_count": 5179
+        },
+        {
+          "id": "chapter_103",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_103.md",
+          "title": "第103章：二维世界的销号申请",
+          "time": "疯狂周期·周五 01:14（局部时间流速已脱节）",
+          "location": "第404号缓冲区 · 二维伪装街口（现实图层：废弃广告牌背面）",
+          "char_count": 4795
+        },
+        {
+          "id": "chapter_104",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_104.md",
+          "title": "第104章：排泄区的幸存者",
+          "time": "疯狂周期 · 星期四 · 23:59",
+          "location": "旧日餐厅 · 下水道出口（数据焚化炉）",
+          "char_count": 3762
+        },
+        {
+          "id": "chapter_105",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_105.md",
+          "title": "第105章：退货地址：第4区99号",
+          "time": "疯狂周期重置后的第4日（时间流速紊乱）",
+          "location": "第4区（镜像层）· 99号烂尾楼群",
+          "char_count": 4909
+        },
+        {
+          "id": "chapter_106",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_106.md",
+          "title": "第106章：父亲的味道",
+          "time": "第4区镜像层 · 崩塌倒计时 00:03:12",
+          "location": "99号楼顶层 · 拟态儿童房（崩溃中）",
+          "char_count": 4621
+        },
+        {
+          "id": "chapter_107",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_107.md",
+          "title": "第107章：周五的提前终结",
+          "time": "周五下午 17:00",
+          "location": "城市中心·时钟塔（以及被格式化的白色荒原）",
+          "char_count": 5731
+        },
+        {
+          "id": "chapter_108",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_108.md",
+          "title": "第108章：绝望的“V me 50”",
+          "time": "定格的时间流中 · 崩坏倒计时 00:00:01",
+          "location": "白色荒原（格式化空间） -> 数据废料堆（世界背面）",
+          "char_count": 3827
+        },
+        {
+          "id": "chapter_109",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_109.md",
+          "title": "第109章：向神明乞讨的亿万富翁",
+          "time": "系统时间：Error_404（相对于现实停滞的第X秒）",
+          "location": "世界背面 · 第404号缓冲区（数据焚化炉入口）",
+          "char_count": 4793
+        },
+        {
+          "id": "chapter_110",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_110.md",
+          "title": "第110章：众神的讨债联盟",
+          "time": "第1.5个周期 · 周五黄昏（伪） 17:45",
+          "location": "数据废料回收站 · 第404号扇区边界 -> “旧日餐厅”后厨入口",
+          "char_count": 4276
+        },
+        {
+          "id": "chapter_111",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_111.md",
+          "title": "第111章：赌局是真心话大冒险",
+          "time": "第1.5个周期 · 周五黄昏（伪） 18:00",
+          "location": "旧日餐厅 · 后厨餐具竞技场",
+          "char_count": 4244
+        },
+        {
+          "id": "chapter_112",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_112.md",
+          "title": "第112章：暴食差评师与退回的诸神",
+          "time": "第1.5个周期 · 周五黄昏（伪） 18:06",
+          "location": "“旧日餐厅”后厨入口 · 崩塌的餐具竞技场",
+          "char_count": 4981
+        },
+        {
+          "id": "chapter_113",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_113.md",
+          "title": "第113章：关于食用自我的九十三种方法",
+          "time": "第1.5个周期 · 周五黄昏（伪） 18:07",
+          "location": "“旧日餐厅”后厨 · VIP包厢",
+          "char_count": 5615
+        },
+        {
+          "id": "chapter_114",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_114.md",
+          "title": "第114章：洗碗区的骨头渣子",
+          "time": "第1.5个疯狂周期 · 星期五凌晨 00:18",
+          "location": "“旧日餐厅”底部 · 餐具回收站（废弃订单处理区）",
+          "char_count": 5273
+        },
+        {
+          "id": "chapter_115",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_115.md",
+          "title": "第115章：驳回：强制销毁指令",
+          "time": "星期五 · 循环重置前的第00:01秒（伪）",
+          "location": "“旧日餐厅”底部 · 餐具回收站 · 失物招领处",
+          "char_count": 4067
+        },
+        {
+          "id": "chapter_116",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_116.md",
+          "title": "第116章：后厨的卫生突击检查",
+          "time": "疯狂星期四（时间回溯/静止/崩坏中） · 深夜 23:59",
+          "location": "“旧日餐厅”后厨 · 备料预处理区 -> 服务器机房入口",
+          "char_count": 4798
+        },
+        {
+          "id": "chapter_117",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_117.md",
+          "title": "第117章：批量生产的悲伤与出厂设置",
+          "time": "新纪元第1.5年，星期四（循环重置前夕） 23:58",
+          "location": "“旧日餐厅”底部 · 旧日服务器机房（废弃）",
+          "char_count": 4546
+        },
+        {
+          "id": "chapter_118",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_118.md",
+          "title": "第118章：拒收死件与带刺的差评",
+          "time": "疯狂回潮倒计时 -00:00:01（版本重置前夕）",
+          "location": "旧日服务器机房废墟上方 · 主厨的餐盘边缘",
+          "char_count": 5341
+        },
+        {
+          "id": "chapter_119",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_119.md",
+          "title": "第119章：来自陌生人的转账",
+          "time": "新纪元第1个月，周四 19:42",
+          "location": "新世界·第73区商业街街角",
+          "char_count": 4047
+        },
+        {
+          "id": "chapter_120",
+          "file": "65e7_ri_5e8f_5217_novel/volume_6/chapter_120.md",
+          "title": "第120章：差评理由：服务太差，甚至不想给五星好评",
+          "time": "新纪元第1个月，周四 23:59 -> 周五 00:01",
+          "location": "第73区中心广场 · 虚幻的云端之上",
+          "char_count": 3959
+        }
+      ]
+    },
+    {
+      "id": "volume_7",
+      "name": "第七卷：周一综合症",
+      "chapters": [
+        {
+          "id": "chapter_121",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_121.md",
+          "title": "第121章：该死的打卡声",
+          "time": "周一清晨，06:00 AM（新周首个“疯狂日”入侵）",
+          "location": "临时避难所（原市中心写字楼地下三层）",
+          "char_count": 4059
+        },
+        {
+          "id": "chapter_122",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_122.md",
+          "title": "第122章：早高峰的进食艺术",
+          "time": "周一上午，08:30 AM",
+          "location": "第4区 · 扭曲地下铁 · 996号线",
+          "char_count": 6268
+        },
+        {
+          "id": "chapter_123",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_123.md",
+          "title": "第123章：无限循环的例会",
+          "time": "周一上午，10:00 AM",
+          "location": "十字路口中央的巨型会议室（异化空间）",
+          "char_count": 5979
+        },
+        {
+          "id": "chapter_124",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_124.md",
+          "title": "第124章：午休时间的垃圾场（与消化酶）",
+          "time": "周一中午，12:05 PM",
+          "location": "城市废墟 · 中央公园（现已被逻辑重命名为“午间消化池”）",
+          "char_count": 4368
+        },
+        {
+          "id": "chapter_125",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_125.md",
+          "title": "第125章：周二不会来了",
+          "time": "周一晚间，18:00 PM",
+          "location": "最后的幸存者基地“诺亚方舟”外围",
+          "char_count": 5013
+        },
+        {
+          "id": "chapter_126",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_126.md",
+          "title": "第126章：补天计划的拼图",
+          "time": "周一深夜，23:00 PM（主观时间）；客观时间仍死锁在18:00",
+          "location": "诺亚方舟内部·战略指挥室",
+          "char_count": 4347
+        },
+        {
+          "id": "chapter_127",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_127.md",
+          "title": "第127章：搭乘死亡航班",
+          "time": "周二凌晨，01:00 AM（系统显示：加载失败，重试中...）",
+          "location": "废弃国际机场（代号：候鸟墓地）",
+          "char_count": 5453
+        },
+        {
+          "id": "chapter_128",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_128.md",
+          "title": "第128章：万米高空的茶话会",
+          "time": "飞行途中，时间模糊",
+          "location": "波音747客舱（旧日回廊内）",
+          "char_count": 15522
+        },
+        {
+          "id": "chapter_129",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_129.md",
+          "title": "第129章：南极冰盖的白噪音",
+          "time": "周二（时间轴已剥离状态）/ 南极极夜周期",
+          "location": "南极边缘·“静默”科考站旧址 / 废弃波音747机舱",
+          "char_count": 4911
+        },
+        {
+          "id": "chapter_130",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_130.md",
+          "title": "第130章：冰面之下的东西",
+          "time": "周三前夜（时区紊乱），23:45",
+          "location": "南极“静默”科考站旧址 · 下方冰裂谷 · 灰脓海域",
+          "char_count": 4698
+        },
+        {
+          "id": "chapter_131",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_131.md",
+          "title": "第131章：理智的代价",
+          "time": "星期二终结前夜（具体时间刻度：崩坏值 99.9%）",
+          "location": "南极冰裂谷 · 灰脓海域边缘 · 逻辑死寂区",
+          "char_count": 5022
+        },
+        {
+          "id": "chapter_132",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_132.md",
+          "title": "第132章：平行世界的尸体",
+          "time": "极夜期间（时空流速异常）",
+          "location": "时空乱流·镜像南极",
+          "char_count": 4724
+        },
+        {
+          "id": "chapter_133",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_133.md",
+          "title": "第133章：最后的冲刺",
+          "time": "周日倒计时（概念崩塌期） / 凌晨 03:33",
+          "location": "【神之餐厅 · 后厨走廊】（逻辑奇点边缘）",
+          "char_count": 5475
+        },
+        {
+          "id": "chapter_134",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_134.md",
+          "title": "第134章：名为“周一”的绝望",
+          "time": "周日倒计时 02:58",
+          "location": "神之餐厅 · 后厨走廊（莫比乌斯环结构）",
+          "char_count": 4485
+        },
+        {
+          "id": "chapter_135",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_135.md",
+          "title": "第135章：门后的风景",
+          "time": "时空奇点 · 没有日期的饭点",
+          "location": "神之餐厅 · 古神孵化场（主厅）",
+          "char_count": 5059
+        },
+        {
+          "id": "chapter_136",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_136.md",
+          "title": "第136章：所有失败者的注视",
+          "time": "神之餐厅 · 呕吐进行时（时间流速：错误/undefined）",
+          "location": "维度夹缝 · 废弃订单回收站（俗称：失败者的坟场）",
+          "char_count": 5354
+        },
+        {
+          "id": "chapter_137",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_137.md",
+          "title": "第137章：补天计划·强制执行",
+          "time": "最终时刻 / 疯狂周期崩溃边缘",
+          "location": "神之餐厅 · 核心祭坛（原地球轨道）",
+          "char_count": 4743
+        },
+        {
+          "id": "chapter_138",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_138.md",
+          "title": "第138章：疯狂剥离手术",
+          "time": "神域崩塌后的第0.0001秒 / 新纪元第1个月的某个清晨",
+          "location": "意识深层手术室 -> 第73区廉租公寓",
+          "char_count": 5882
+        },
+        {
+          "id": "chapter_139",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_139.md",
+          "title": "第139章：凡人的呐喊",
+          "time": "新纪元第1个月，星期五清晨（逻辑修正值：+0.01秒）",
+          "location": "第73区廉租公寓天台 · 伪装层剥离后的“绝对零度”观测点",
+          "char_count": 4612
+        },
+        {
+          "id": "chapter_140",
+          "file": "65e7_ri_5e8f_5217_novel/volume_7/chapter_140.md",
+          "title": "第140章：清蒸地球与好评返现",
+          "time": "新纪元第1月 · 星期四 · 正午 12:00",
+          "location": "第73区 · 隐蔽饲养场 · 街道",
+          "char_count": 5898
+        }
+      ]
+    },
+    {
+      "id": "volume_8",
+      "name": "第八卷：时间尽头的怪物",
+      "chapters": [
+        {
+          "id": "chapter_141",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_141.md",
+          "title": "第141章：消失的闹钟与周一的尸体",
+          "time": "周一沦陷后的第一个“概念性早晨”",
+          "location": "南极冰盖 · “补天计划”废墟指挥部",
+          "char_count": 5970
+        },
+        {
+          "id": "chapter_142",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_142.md",
+          "title": "第142章：消化不良的星期日",
+          "time": "最后的星期日（安息日）上午 09:30",
+          "location": "南极冰原 · 混乱的“周日集市”",
+          "char_count": 4496
+        },
+        {
+          "id": "chapter_143",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_143.md",
+          "title": "第143章：最后的晚餐（含会员价）",
+          "time": "最后的星期日（安息日）中午 12:00",
+          "location": "南极冰原 · 「周日集市」边缘 · A-01号战术集装箱",
+          "char_count": 5506
+        },
+        {
+          "id": "chapter_144",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_144.md",
+          "title": "第144章：自助餐开始",
+          "time": "最后的星期日下午 · 正午时分",
+          "location": "精神世界 · 李疯狂的内在迷宫 & 现实·南极冰原",
+          "char_count": 5065
+        },
+        {
+          "id": "chapter_145",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_145.md",
+          "title": "第145章：逻辑过载：请按基本法进食",
+          "time": "最后的星期日 · 黄昏（距“最终星期四”降临约4小时）",
+          "location": "南极冰盖边缘 · “中央厨房”防御圈外围",
+          "char_count": 4794
+        },
+        {
+          "id": "chapter_146",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_146.md",
+          "title": "第146章：欢迎来到没有星期五的世界",
+          "time": "“永恒的现在” · 星期四零点前夕（无时间概念）",
+          "location": "中央厨房 · 巨型消化道回廊 · “没有星期五”的世界切片",
+          "char_count": 4861
+        },
+        {
+          "id": "chapter_147",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_147.md",
+          "title": "第147章：油炸锅里的真理",
+          "time": "零点已过，无时间概念",
+          "location": "古神降临点 · 巨型油炸祭坛",
+          "char_count": 3237
+        },
+        {
+          "id": "chapter_148",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_148.md",
+          "title": "第148章：薛定谔的胃袋",
+          "time": "古神体内·概念性午后",
+          "location": "扭曲的消化道走廊",
+          "char_count": 5222
+        },
+        {
+          "id": "chapter_149",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_149.md",
+          "title": "第149章：谁在观测谁？",
+          "time": "无时间概念（系统后台显示为“周五之前”的永恒卡顿）",
+          "location": "古神体内 · 中枢神经节点（第404号逻辑分区）",
+          "char_count": 5250
+        },
+        {
+          "id": "chapter_150",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_150.md",
+          "title": "第150章：疯狂逻辑学",
+          "time": "周五之前的永恒卡顿（深层意识领域概念时间）",
+          "location": "古神体内 · 中枢神经节点 · 深层意识领域",
+          "char_count": 5569
+        },
+        {
+          "id": "chapter_151",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_151.md",
+          "title": "第151章：反刍",
+          "time": "古神生理性反刍时刻 / 外部世界仅剩的几秒",
+          "location": "古神体内 · 反刍通道 -> 南极冰原 · 祭坛废墟",
+          "char_count": 4882
+        },
+        {
+          "id": "chapter_152",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_152.md",
+          "title": "第152章：半神的诞生",
+          "time": "时间回溯的第0秒",
+          "location": "南极冰原 · “补天计划”废墟中心",
+          "char_count": 4677
+        },
+        {
+          "id": "chapter_153",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_153.md",
+          "title": "第153章：来自过去的电话",
+          "time": "时间回溯的第零日 · 伪星期一上午",
+          "location": "南极冰原 · 正在坍塌的现实缝隙 / 记忆回廊",
+          "char_count": 3874
+        },
+        {
+          "id": "chapter_154",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_154.md",
+          "title": "第154章：古神的最后一搏",
+          "time": "星期一正午（伪）",
+          "location": "南极冰原 · 崩塌的天幕之下 / 平流层",
+          "char_count": 4203
+        },
+        {
+          "id": "chapter_155",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_155.md",
+          "title": "第155章：我也想当一次食客",
+          "time": "星期一正午（伪），时间回滚后的第3小时",
+          "location": "南极平流层 · 万米高空 · 崩塌的逻辑节点",
+          "char_count": 4804
+        },
+        {
+          "id": "chapter_156",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_156.md",
+          "title": "第156章：理智的暴食",
+          "time": "战后 · 星期四概念被抹除后的第一分钟（由于逻辑覆写，当前时间判定异常）",
+          "location": "南极 · “补天计划”废墟中心 · 深度积雪下的撞击坑",
+          "char_count": 3810
+        },
+        {
+          "id": "chapter_157",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_157.md",
+          "title": "第157章：这顿真的没打折",
+          "time": "黄昏（日轮即将没入冰原的瞬间）",
+          "location": "南极陨石坑 · 古神坠落点旧址",
+          "char_count": 4026
+        },
+        {
+          "id": "chapter_158",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_158.md",
+          "title": "第158章：神在人间需要身份证",
+          "time": "新纪元·第一天·清晨（曾被抹除的“星期二”）",
+          "location": "南极废墟·临时收容指挥部",
+          "char_count": 5028
+        },
+        {
+          "id": "chapter_159",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_159.md",
+          "title": "第159章：记忆清仓大甩卖",
+          "time": "新时间线 · 星期三 · 黄昏",
+          "location": "南极废墟地下三层 · “星期三”黑市记忆交易所",
+          "char_count": 4120
+        },
+        {
+          "id": "chapter_160",
+          "file": "65e7_ri_5e8f_5217_novel/volume_8/chapter_160.md",
+          "title": "第160章：通往源头的大门",
+          "time": "星期四，黄昏（预言中的毁灭时刻）",
+          "location": "南极 · 平流层 · 古神骨架之上",
+          "char_count": 4050
+        }
+      ]
+    },
+    {
+      "id": "volume_9",
+      "name": "第九卷：最后的星期日",
+      "chapters": [
+        {
+          "id": "chapter_161",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_161.md",
+          "title": "第161章：名为“星期日”的废墟",
+          "time": "最后的星期日，00:00",
+          "location": "时间尽头的概念空间（曾经的城市中心）",
+          "char_count": 5233
+        },
+        {
+          "id": "chapter_162",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_162.md",
+          "title": "第162章：肯德基兑换券的终极形态",
+          "time": "最后的星期日，02:15",
+          "location": "通往高维的扭曲高速路 · 维度收费站",
+          "char_count": 4368
+        },
+        {
+          "id": "chapter_163",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_163.md",
+          "title": "第163章：旧日支配者的自助餐厅",
+          "time": "最后的星期日，05:30",
+          "location": "高维空间·旧日餐厅·自助取餐区",
+          "char_count": 4841
+        },
+        {
+          "id": "chapter_164",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_164.md",
+          "title": "第164章：关于通货膨胀与因果赊账",
+          "time": "最后的星期日，08:00",
+          "location": "旧日餐厅 · 后厨账房（因果律中枢）",
+          "char_count": 3899
+        },
+        {
+          "id": "chapter_165",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_165.md",
+          "title": "第165章：疯狂与理智的换皮游戏",
+          "time": "最后的星期日，10:00",
+          "location": "旧日餐厅·概念博弈场（后厨核心）",
+          "char_count": 4029
+        },
+        {
+          "id": "chapter_166",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_166.md",
+          "title": "第166章：我在昨天等你",
+          "time": "一切开始的那个夜晚（重置点） · 雷雨夜",
+          "location": "那个充满廉价霉味的出租屋（李疯狂的旧居）",
+          "char_count": 4108
+        },
+        {
+          "id": "chapter_167",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_167.md",
+          "title": "第167章：观测者效应",
+          "time": "新世界·第一个星期四，09:30",
+          "location": "市立精神卫生中心 / 虚空观测台",
+          "char_count": 4837
+        },
+        {
+          "id": "chapter_168",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_168.md",
+          "title": "第168章：新世界的Bug",
+          "time": "新时间线·首个“疯狂星期四”前夕，18:45",
+          "location": "新世界·原本的城市（已恢复秩序）",
+          "char_count": 5057
+        },
+        {
+          "id": "chapter_169",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_169.md",
+          "title": "第169章：寻找容器",
+          "time": "新时间线·星期三，16:45",
+          "location": "市立第三精神卫生中心，重症监护区，38号病房",
+          "char_count": 4741
+        },
+        {
+          "id": "chapter_170",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_170.md",
+          "title": "第170章：疯狂的预演",
+          "time": "新时间线·星期三，17:15",
+          "location": "市立第三精神卫生中心重症区 -> 中央城市广场",
+          "char_count": 5412
+        },
+        {
+          "id": "chapter_171",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_171.md",
+          "title": "第171章：镜中博弈",
+          "time": "新时间线·星期三，20:42",
+          "location": "旧城区·“快乐星球”网咖前的废弃街道",
+          "char_count": 5212
+        },
+        {
+          "id": "chapter_172",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_172.md",
+          "title": "第172章：全场五折",
+          "time": "新时间线 · 星期四 00:00",
+          "location": "虚拟网络与现实交汇处 · “快乐星球”网咖",
+          "char_count": 4667
+        },
+        {
+          "id": "chapter_173",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_173.md",
+          "title": "第173章：由于不可抗力导致的失语症与摩斯密码",
+          "time": "新世界 · 星期六 · 上午 09:00",
+          "location": "市立精神卫生中心 · 重症监护室 03号病房",
+          "char_count": 5547
+        },
+        {
+          "id": "chapter_174",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_174.md",
+          "title": "第174章：讨债狗与欠条猎人",
+          "time": "新时间线 · 星期六 09:05",
+          "location": "市立精神卫生中心 · 三楼重症监护区走廊至402病房",
+          "char_count": 5284
+        },
+        {
+          "id": "chapter_175",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_175.md",
+          "title": "第175章：通往地狱的税单",
+          "time": "新世界时间线，清算倒计时22小时45分",
+          "location": "市立精神卫生中心，重症监护区，38号病房",
+          "char_count": 4879
+        },
+        {
+          "id": "chapter_176",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_176.md",
+          "title": "第176章：巨额账单与免费的自助餐",
+          "time": "高维清算倒计时 · 21小时45分",
+          "location": "市立精神卫生中心 · 38号特殊隔离病区",
+          "char_count": 5454
+        },
+        {
+          "id": "chapter_177",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_177.md",
+          "title": "第177章：自助餐里的伪食客",
+          "time": "被重置世界线的崩溃前夜 · 23:59",
+          "location": "市立精神卫生中心 · 地下财务核心区废墟",
+          "char_count": 5193
+        },
+        {
+          "id": "chapter_178",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_178.md",
+          "title": "第178章：当世界开始清空回收站",
+          "time": "距离“旧日餐厅”开业倒计时：23小时58分",
+          "location": "倒悬的市立精神卫生中心废墟 / 崩坏的现实夹缝",
+          "char_count": 4716
+        },
+        {
+          "id": "chapter_179",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_179.md",
+          "title": "第179章：闭环",
+          "time": "距离“旧日餐厅”开业还有23小时50分 / 数据流：静默态",
+          "location": "维度夹缝（废墟之下） / 现实世界：苏浅雕像基座旁",
+          "char_count": 3628
+        },
+        {
+          "id": "chapter_180",
+          "file": "65e7_ri_5e8f_5217_novel/volume_9/chapter_180.md",
+          "title": "第180章：新的早餐",
+          "time": "逻辑重构后的第一个清晨，08:30",
+          "location": "第7号街区，肯德基门店，靠窗位置",
+          "char_count": 4108
+        }
+      ]
+    },
+    {
+      "id": "volume_10",
+      "name": "第十卷：新纪元的早餐",
+      "chapters": [
+        {
+          "id": "chapter_181",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_181.md",
+          "title": "第181章：没买单的账单",
+          "time": "世界重置后的第一天（原初时间线的某个周三清晨）",
+          "location": "主角李疯狂的出租屋 -> 城市街道",
+          "char_count": 3623
+        },
+        {
+          "id": "chapter_182",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_182.md",
+          "title": "第182章：熟悉的陌生人",
+          "time": "重置后第一天·上午08:30",
+          "location": "地铁4号线车厢 -> “未来视界”科技园B座 -> 18层茶水间",
+          "char_count": 3511
+        },
+        {
+          "id": "chapter_183",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_183.md",
+          "title": "第183章：饥饿营销",
+          "time": "2024年10月23日（星期三） 14:35",
+          "location": "未来视界科技园周边商业区 -> “老爹炸鸡”后厨",
+          "char_count": 4725
+        },
+        {
+          "id": "chapter_184",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_184.md",
+          "title": "第184章：第一张兑换券",
+          "time": "2024年10月23日 15:20",
+          "location": "旧城区，废弃纺织厂仓库",
+          "char_count": 6073
+        },
+        {
+          "id": "chapter_185",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_185.md",
+          "title": "第185章：创立疯人院",
+          "time": "重置后第一周星期四前夕（23:45）",
+          "location": "城市地下黑市·废弃地铁站“未结账站”",
+          "char_count": 5311
+        },
+        {
+          "id": "chapter_186",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_186.md",
+          "title": "第186章：请勿在星期四独处",
+          "time": "重置后的第一个星期四，凌晨 00:05",
+          "location": "未来视界科技园大楼 -> 城市街道",
+          "char_count": 4274
+        },
+        {
+          "id": "chapter_187",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_187.md",
+          "title": "第187章：胃里的神明",
+          "time": "新纪元第一个疯狂星期四，凌晨 02:15",
+          "location": "已覆写的市中心大堂 -> 伪装成“老爹炸鸡”的后厨禁地",
+          "char_count": 4854
+        },
+        {
+          "id": "chapter_188",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_188.md",
+          "title": "第188章：星期五的失忆症与无法退货的“赠品”",
+          "time": "新纪元第一个星期五，上午 09:30",
+          "location": "中央商业区，“老爹炸鸡”旗舰店",
+          "char_count": 4804
+        },
+        {
+          "id": "chapter_189",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_189.md",
+          "title": "第189章：不速之客与变质的蘸料",
+          "time": "新纪元·第二周·星期六 10:15",
+          "location": "中央商业区“老爹炸鸡”旗舰店 · 经理办公室",
+          "char_count": 4338
+        },
+        {
+          "id": "chapter_190",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_190.md",
+          "title": "第190章：油炸真理与全屋智能",
+          "time": "新纪元第二个星期四前夜（周三 23:45）",
+          "location": "“老爹炸鸡”后厨 → 苏浅的公寓",
+          "char_count": 5913
+        },
+        {
+          "id": "chapter_191",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_191.md",
+          "title": "第191章：绝命双拼",
+          "time": "第二个星期四，深夜 23:42",
+          "location": "苏浅公寓楼层走廊 -> 异化的“收银台”空间",
+          "char_count": 4011
+        },
+        {
+          "id": "chapter_192",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_192.md",
+          "title": "第192章：理性的味道",
+          "time": "第二个疯狂星期四，深夜 23:42",
+          "location": "苏浅的公寓 -> 高维重叠区（概念上的“塔顶”）",
+          "char_count": 5271
+        },
+        {
+          "id": "chapter_193",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_193.md",
+          "title": "第193章：收容失败？",
+          "time": "第二个疯狂星期四的深夜，临近周五的临界点",
+          "location": "城市上空 · “老爹炸鸡”总部顶层",
+          "char_count": 4505
+        },
+        {
+          "id": "chapter_194",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_194.md",
+          "title": "第194章：全城皆兵",
+          "time": "第三个周期 · 周三 15:33",
+          "location": "“老爹炸鸡”全球总部顶层办公室 / 第109号直营分店",
+          "char_count": 4477
+        },
+        {
+          "id": "chapter_195",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_195.md",
+          "title": "第195章：旧日的账单",
+          "time": "第三个疯狂周期后的数月，南极极夜，气温零下六十五度",
+          "location": "南极冰盖，地下三千三百米处的“旧日坐标”",
+          "char_count": 4989
+        },
+        {
+          "id": "chapter_196",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_196.md",
+          "title": "第196章：V我50的终极含义",
+          "time": "南极极夜，地下三千三百米旧日坐标",
+          "location": "旧日餐厅核心收银区（世界底层逻辑中枢）",
+          "char_count": 4368
+        },
+        {
+          "id": "chapter_197",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_197.md",
+          "title": "第197章：最后的晚餐",
+          "time": "世界重置前夕（逻辑层面的星期三深夜 23:59:59）",
+          "location": "李疯狂的深层意识核心（崩溃数据流中）",
+          "char_count": 3427
+        },
+        {
+          "id": "chapter_198",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_198.md",
+          "title": "第198章：没有你的星期五",
+          "time": "新纪元第三年，周五，上午 09:00",
+          "location": "中央都市，“老爹炸鸡”全球总部顶层办公室",
+          "char_count": 3914
+        },
+        {
+          "id": "chapter_199",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_199.md",
+          "title": "第199章：似曾相识的来客",
+          "time": "新纪元第N年，10月26日，星期四，黄昏 17:42",
+          "location": "旧城区，“快乐星球”主题公园 -> 隔壁的“疯狂特价”快餐店",
+          "char_count": 4241
+        },
+        {
+          "id": "chapter_200",
+          "file": "65e7_ri_5e8f_5217_novel/volume_10/chapter_200.md",
+          "title": "第200章：疯狂星期四（大结局）",
+          "time": "新纪元第N个10月26日，星期四，黄昏",
+          "location": "“老爹炸鸡”旗舰店，靠窗第4号桌",
+          "char_count": 5612
+        }
+      ]
+    }
+  ],
+  "channel": ""
+}

@@ -1,0 +1,118 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "太师/定北侯（前世）",
+      "description": "身穿绯色官袍，腰间玉带松动，外表懒散颓唐，眼神清明冷静，表现出市侩贪财的样子。",
+      "status": "active"
+    },
+    {
+      "name": "老皇帝",
+      "age": "老年",
+      "role": "大梁皇帝",
+      "description": "身穿明黄色中衣，盖着厚锦被，面容如风干橘皮，皱纹深陷，眼神偶带鹰隼精光，声音嘶哑。",
+      "status": "active"
+    },
+    {
+      "name": "太子",
+      "age": "未知",
+      "role": "皇储",
+      "description": "跪在御阶左侧，背脊笔直，目光如炬，对局势感到紧张。",
+      "status": "active"
+    },
+    {
+      "name": "三皇子",
+      "age": "未知",
+      "role": "皇子",
+      "description": "跪在御阶右侧，背脊笔直，手攥衣袖。",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "未知",
+      "role": "暗卫/下属",
+      "description": "凭空浮现的黑影，身着黑衣，行动隐秘。",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "未知",
+      "role": "长公主",
+      "description": "高楼眺望，衣袂如黑色蝴蝶，眼神温柔坚定，掌握京畿卫布防图。",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "未知",
+      "role": "侍女",
+      "description": "李瑾的贴身侍女，负责传达消息。",
+      "status": "active"
+    },
+    {
+      "name": "太子大太监",
+      "age": "未知",
+      "role": "太监",
+      "description": "穿着锦衣，皮笑肉不笑，替太子送银票和口信。",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "沈锋",
+    "李瑾",
+    "太子大太监"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "five_year_plan_submitted",
+      "description": "萧寒向老皇帝呈交《大梁水利修缮及边防粮道整治五年规划》，以贪财庸碌之态自保，不涉皇位之争。",
+      "time": "巳时二刻"
+    },
+    {
+      "id": "corruption_authorized",
+      "description": "老皇帝批准萧寒提取工程款三成作为辛苦费，将其视为贪财好用的工具人。",
+      "time": "巳时二刻"
+    },
+    {
+      "id": "prince_gift_and_permission",
+      "description": "太子派人送去五十万两银票，并暗示萧寒可借整顿军务之名清洗军中任何阻碍他的‘钉子’。",
+      "time": "巳时二刻后"
+    },
+    {
+      "id": "military_purge_order",
+      "description": "萧寒命令沈锋利用太子的授权，清洗军中真正忠于太子的死硬派，以此将军队私军化。",
+      "time": "白天"
+    },
+    {
+      "id": "defense_map_given",
+      "description": "长公主李瑾通过密道将京畿卫九大营布防图及换防口令放入萧寒书房，以此表达信任与支持。",
+      "time": "夜晚"
+    }
+  ],
+  "time_period": "建安二十三年，秋，巳时二刻",
+  "locations": [
+    "太和殿",
+    "养心殿寝宫",
+    "太师府",
+    "长公主府"
+  ],
+  "key_facts": [
+    {
+      "id": "corruption_coefficient",
+      "content": "朝廷默许的贪腐系数为三成，这是萧寒与皇帝及太子建立信任的纽带。"
+    },
+    {
+      "id": "xiaohan_strategy",
+      "content": "萧寒表面扮演只认钱的“职业经理人”，实则利用太子授权铲除异己，将军队转变为只认军饷和长官的萧家私军。"
+    },
+    {
+      "id": "lijin_support",
+      "content": "长公主李瑾将京畿卫九大营布防图（京城核心机密）交给了萧寒，代表她将半个大梁兵权托付。"
+    },
+    {
+      "id": "prev_life_context",
+      "content": "萧寒前世是定北侯，因功高震主且不懂帝王心术被赐毒酒自杀；这一世李瑾与萧寒在半个多月前的御花园曾有关于做“小人”的约定。"
+    }
+  ]
+}

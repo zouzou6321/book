@@ -1,0 +1,108 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "内门首席大弟子 / 玄天真人",
+      "description": "身穿流云飞鹤锦袍，内穿双色莲花裤衩，外表高冷内心崩溃",
+      "status": "active"
+    },
+    {
+      "name": "太玄真人",
+      "age": "未知",
+      "role": "掌门",
+      "description": "端坐高台，眼神中流露出诡异的精光，将江越视为肥羊",
+      "status": "departed"
+    },
+    {
+      "name": "赵德柱",
+      "age": "未知",
+      "role": "内门大长老座下执事",
+      "description": "白须老者，极度脑补，对江越恭敬有加",
+      "status": "departed"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "师妹/侍女",
+      "description": "一袭白衣，绝美，眼神狂热，对江越有偏执的崇拜",
+      "status": "active"
+    },
+    {
+      "name": "黑袍老者",
+      "age": "未知",
+      "role": "神秘反派",
+      "description": "身披黑袍，猩红双眼，手持人皮面具，潜伏在阴影中",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "赵德柱",
+    "黑袍老者"
+  ],
+  "character_exits": [
+    {
+      "name": "赵德柱",
+      "reason": "离开"
+    },
+    {
+      "name": "林清雪",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "assumed_chief_role",
+      "description": "江越在系统逼迫下接受任命，成为内门首席大弟子",
+      "time": "外门大比结束当晚"
+    },
+    {
+      "id": "walking_to_inner_gate",
+      "description": "江越拒绝轿辇，步行前往听雨阁以维持苦行僧人设",
+      "time": "外门大比结束当晚"
+    },
+    {
+      "id": "toilet_misunderstanding",
+      "description": "江越询问厕所在哪被系统翻译为问询“生命之流”，引发众人跪地求道",
+      "time": "外门大比结束当晚"
+    },
+    {
+      "id": "eating_fruit_lecture",
+      "description": "江越狼吞虎咽吃灵果被误解为演示“食之大道”，众人模仿",
+      "time": "外门大比结束当晚"
+    },
+    {
+      "id": "underwear_protection",
+      "description": "林清雪试图手洗江越的底裤，江越装睡将其逼退",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "外门大比结束当日晚",
+  "locations": [
+    "太玄宗·主峰大殿",
+    "内门·听雨阁",
+    "听雨阁后山"
+  ],
+  "key_facts": [
+    {
+      "id": "identity_xuantian",
+      "content": "江越获得的道号为“玄天真人”"
+    },
+    {
+      "id": "holy_underwear",
+      "content": "江越的红黑双色莲花裤衩被众人误认为是至宝“赤霞巾”，沾染道韵"
+    },
+    {
+      "id": "sect_leader_suspicion",
+      "content": "掌门对江越表现出异常的关注，似乎将其视为某种献祭或培养对象"
+    },
+    {
+      "id": "lin_qingxue_fanaticism",
+      "content": "林清雪对江越的一切行为（包括上厕所、吃相、裤衩）都有疯狂的崇拜滤镜"
+    },
+    {
+      "id": "antagonist_watch",
+      "content": "神秘黑袍老者已在听雨阁后山埋下“种子”，并持有一张人皮面具"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": null,
+      "role": "定北侯/送亲使",
+      "description": "身穿麒麟甲、外披猩红大氅，冷峻沧桑，眉睫浓黑，眼神深沉",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": null,
+      "role": "长公主",
+      "description": "凤辇中，泪流满面，眼神决绝，冷艳高贵",
+      "status": "active"
+    },
+    {
+      "name": "监礼太监",
+      "age": null,
+      "role": "内廷太监",
+      "description": "皮笑肉不笑的老脸，太子的人",
+      "status": "departed"
+    },
+    {
+      "name": "赵铁柱",
+      "age": null,
+      "role": "禁军副将",
+      "description": "眼眶通红",
+      "status": "active"
+    },
+    {
+      "name": "太子",
+      "age": null,
+      "role": "皇太子",
+      "description": "脸色铁青，神情恐惧",
+      "status": "active"
+    },
+    {
+      "name": "王猛",
+      "age": null,
+      "role": "兵部尚书",
+      "description": "面色惨白，身体颤抖",
+      "status": "active"
+    },
+    {
+      "name": "宣旨太监",
+      "age": null,
+      "role": "内廷官员",
+      "description": "手拿圣旨，冷汗直流",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "赵铁柱",
+    "王猛"
+  ],
+  "character_exits": [
+    {
+      "name": "萧寒",
+      "reason": "护送长公主远嫁"
+    },
+    {
+      "name": "李瑾",
+      "reason": "远嫁北蛮"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "xiao_han_speech",
+      "description": "萧寒在朱雀门发表演说，利用现代煽动术历数长公主功绩，激起百姓对朝廷和亲政策的不满，并誓言若北蛮敢欺辱定将长公主抢回",
+      "time": "建安二十三年腊月清晨"
+    },
+    {
+      "id": "procession_departure",
+      "description": "送亲队伍在群情激奋的氛围中启程，百姓含泪目送，送亲性质从屈辱求和转变为悲壮英雄行",
+      "time": "建安二十三年腊月清晨"
+    }
+  ],
+  "time_period": "建安二十三年，腊月，清晨，大雪",
+  "locations": [
+    "朱雀门",
+    "皇城广场",
+    "凤辇",
+    "隐秘阁楼"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_han_background",
+      "content": "萧寒拥有两世记忆，具备现代娱乐圈的情绪引导和煽动之术"
+    },
+    {
+      "id": "princess_reputation",
+      "content": "长公主李瑾在民间被称为“活菩萨”，曾在大旱时开仓放粮、变卖首饰凑军资、瘟疫时亲自煎药救孤"
+    },
+    {
+      "id": "zhao_tiezhu_loyalty",
+      "content": "禁军副将赵铁柱忠于萧寒/被萧寒话语打动，阻止手下士兵对百姓拔刀"
+    },
+    {
+      "id": "prince_concern",
+      "content": "太子因担心激起民变，不敢在萧寒煽动民意后强行推进送亲仪式"
+    },
+    {
+      "id": "li_jin_mindset_change",
+      "content": "李瑾深受萧寒演讲触动，决定放弃自尽的念头，转而要做萧寒的“共犯”，共同对抗旧秩序"
+    }
+  ]
+}

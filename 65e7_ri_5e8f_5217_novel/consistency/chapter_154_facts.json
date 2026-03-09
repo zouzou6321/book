@@ -1,0 +1,79 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "半神/高熵有序者",
+      "description": "手指由黑曜石般的高维几何体构成，双眼无瞳孔只有数据云雾旋转，嘴角有岩石裂缝，极度用力时浮现人类面孔",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "古神",
+      "reason": "被李疯狂封印并吸入体内"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "glacier_melting_oil",
+      "description": "南极冰川开始融化并分泌散发炸鸡香气的金黄色油脂",
+      "time": "周一正午"
+    },
+    {
+      "id": "thursday_source_manifestation",
+      "description": "平流层天空裂开，出现由汉字“星期四”堆叠而成的黑洞巨嘴（古神残魂）",
+      "time": "周一正午"
+    },
+    {
+      "id": "mind_control_outbreak",
+      "description": "古神精神控制降临，所有幸存者眼神翻白并齐声呼喊“V我50”",
+      "time": "周一正午"
+    },
+    {
+      "id": "creation_of_sanity_prison",
+      "description": "李疯狂以苏浅（爱之概念）为能源和钥匙，在体内构建“理智监狱”",
+      "time": "周一正午"
+    },
+    {
+      "id": "sealing_of_the_god",
+      "description": "李疯狂将“星期四之源”强行压缩吸入体内胸口光点中",
+      "time": "周一正午"
+    },
+    {
+      "id": "arrival_of_tuesday",
+      "description": "地平线出现微弱晨光，时间推进至周二",
+      "time": "周二晨光"
+    }
+  ],
+  "time_period": "星期一正午（伪）至周二晨光",
+  "locations": [
+    "南极冰原",
+    "平流层",
+    "崩塌的天幕之下"
+  ],
+  "key_facts": [
+    {
+      "id": "prison_name",
+      "content": "李疯狂体内封印古神的监狱被命名为“苏浅”"
+    },
+    {
+      "id": "prison_lock_mechanism",
+      "content": "锁住古神监狱的唯一钥匙是“苏浅”（由爱之概念构成）"
+    },
+    {
+      "id": "li_body_composition",
+      "content": "李疯狂的身体目前由黑曜石般的高维几何体构成，血液呈金色"
+    },
+    {
+      "id": "thursday_source_nature",
+      "content": "“星期四之源”本质是古神残留的“贪婪”剥离形成的独立模因病毒"
+    },
+    {
+      "id": "world_timeline",
+      "content": "当前世界时间已从星期一推进至星期二"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

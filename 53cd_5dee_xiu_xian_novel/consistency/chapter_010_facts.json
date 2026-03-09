@@ -1,0 +1,83 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "太玄宗外门杂役/伪装绝世高人",
+      "description": "身穿麻袋破布，神情装作深沉，脸上因擦汗或抹灰而有些脏，手持生锈破菜刀",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "太玄宗内门长老",
+      "description": "白衣胜雪，面容绝美，肌肤胜雪，气质清冷高傲，此刻表现出对高人的崇拜与感动",
+      "status": "departed"
+    },
+    {
+      "name": "王虎",
+      "age": "未知",
+      "role": "外门杂役弟子",
+      "description": "大脸，脸上贴着膏药，对江越极为忠诚",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "林清雪",
+    "王虎"
+  ],
+  "character_exits": [
+    {
+      "name": "林清雪",
+      "reason": "离去"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "system_task_rusty_knife",
+      "description": "系统发布任务，要求江越使用生锈的破菜刀作为主武器，以“切菜”的方式击败体修对手",
+      "time": "未时"
+    },
+    {
+      "id": "jiangyue_test_knife",
+      "description": "江越测试生锈菜刀威力，切断厚实木头，被林清雪目睹并误认为是“返璞归真”的高深剑意",
+      "time": "未时"
+    },
+    {
+      "id": "refuse_sword_gift",
+      "description": "林清雪赠送千年寒髓剑，江越因系统警告不能接受贵重礼物，强行胡扯理由拒绝",
+      "time": "未时"
+    },
+    {
+      "id": "order_for_radish",
+      "description": "江越命令王虎等人寻找坚硬的老萝卜，用于练习切菜手感",
+      "time": "未时"
+    }
+  ],
+  "time_period": "穿越第十五天，未时（下午 1:00 - 3:00）",
+  "locations": [
+    "太玄宗外门 - 杂役院废品回收站"
+  ],
+  "key_facts": [
+    {
+      "id": "task_failure_penalty",
+      "content": "系统任务失败惩罚为强制广播宿主穿越前小学二年级穿开裆裤的照片至宗门禁地大阵"
+    },
+    {
+      "id": "jiangyue_persona",
+      "content": "江越当前系统人设标签为“不滞于物”、“绝世高人”，接受贵重赠礼将导致人设崩塌、反差值暴跌及修为倒退至炼气一层"
+    },
+    {
+      "id": "next_opponent_info",
+      "content": "下一场外门大比对手是内门大比的种子选手，一名肉身练得铜头铁臂的体修"
+    },
+    {
+      "id": "lin_qingxue_misunderstanding",
+      "content": "林清雪深度误读江越的行为，认为他是突破剑道瓶颈的绝世前辈，并坚信那把破菜刀是他的“道”与“魂”"
+    },
+    {
+      "id": "rusty_knife_property",
+      "content": "那把生锈的破菜刀虽然外表破烂且带着酸腐味，但削铁如泥（切断了厚实木头且未损伤）"
+    }
+  ]
+}

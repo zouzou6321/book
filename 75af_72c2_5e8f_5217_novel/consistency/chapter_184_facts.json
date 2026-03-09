@@ -1,0 +1,82 @@
+{
+  "characters_present": [
+    {
+      "name": "顾长歌",
+      "age": "Unspecified",
+      "role": "GM/管理员/404室业主",
+      "description": "脸色苍白，手指修长，眼神深邃可怕",
+      "status": "active"
+    },
+    {
+      "name": "苏糖",
+      "age": "Unspecified",
+      "role": "锚点保管员/邻居/402室租户",
+      "description": "表现得像个不知所措的服务生，容易受惊，像受惊的小鹌鹑",
+      "status": "active"
+    },
+    {
+      "name": "火锅",
+      "age": "Unspecified",
+      "role": "黑猫/变异生物",
+      "description": "异色瞳，尾巴像砂纸打磨骨头，影子灵活如手",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "顾长歌",
+      "reason": "离开402室回到404室"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "magic_cooking_pork",
+      "description": "顾长歌使用权限[定义：切块]处理五花肉，使用[追加修正：热力学]炒糖色，制作红烧肉",
+      "time": "17:45 - 18:00"
+    },
+    {
+      "id": "tuesday_curfew_effect",
+      "description": "18:00政府公告“回家令”生效，物理法则扭曲，抽油烟机发出吞咽声，地面街道融化变形",
+      "time": "18:00"
+    },
+    {
+      "id": "feeding_cat",
+      "description": "黑猫“火锅”通过影子吃下红烧肉，顾长歌收到任务进度1/7的通知",
+      "time": "18:00后"
+    },
+    {
+      "id": "huogui_encounter_threat",
+      "description": "顾长歌回到404室发现“查水表”纸条，确认为真理会恐吓，开启防御模式",
+      "time": "周二夜晚"
+    }
+  ],
+  "time_period": "新纪元元年，周二 17:45 至 周二夜晚（周三降临前夕）",
+  "locations": [
+    "幸福家园小区402室厨房",
+    "幸福家园小区404室玄关"
+  ],
+  "key_facts": [
+    {
+      "id": "huogui_gm_abilities",
+      "content": "顾长歌拥有管理员权限，可使用[格式化：局部生物体]、[定义：切块]、[追加修正：热力学]等技能修改现实"
+    },
+    {
+      "id": "braised_pork_effects",
+      "content": "经超自然手段烹饪的红烧肉具有精神安抚效果，且附带“食者对顾长歌好感度微量上升”的副作用"
+    },
+    {
+      "id": "cat_eats_code",
+      "content": "黑猫“火锅”吃掉了世界的源代码，是真理会的目标，能通过影子进食"
+    },
+    {
+      "id": "wednesday_phenomenon",
+      "content": "“周三”会带来严重的物理法则扭曲和灰雾入侵，恐惧是怪物的饲料，18:00后“回家令”启动"
+    },
+    {
+      "id": "truth_society_trail",
+      "content": "真理会正在追踪，使用“查水表”等纸条进行恐吓和试探"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

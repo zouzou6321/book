@@ -1,0 +1,98 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "主角",
+      "description": "理智濒临红线（33/100），极度饥饿，右手皮肤下隐约泛起金属光泽，具备【真理之胃】能力",
+      "status": "active"
+    },
+    {
+      "name": "李小鱼",
+      "age": null,
+      "role": "李疯狂的妹妹",
+      "description": "熟睡，怀抱着缺眼珠的泰迪熊，呼吸微弱",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "队友",
+      "description": "冷静，配备战术夜视仪和枪械",
+      "status": "active"
+    },
+    {
+      "name": "第4区检查站队长",
+      "age": null,
+      "role": "原安全区检查站队长",
+      "description": "被剥皮并制成天花板上的装饰，体内塞满肉瘤，眼眶无眼球流黑水",
+      "status": "deceased"
+    },
+    {
+      "name": "【监工】",
+      "age": null,
+      "role": "嵌合体怪物",
+      "description": "代号【监工】，侏儒状、脑袋畸大、四肢细短如蜘蛛，寄居在队长人皮体内，操控安全区系统",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "第4区检查站队长",
+    "【监工】"
+  ],
+  "character_exits": [
+    {
+      "name": "第4区检查站队长",
+      "reason": "死亡（被制成活体异怪装置）"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "monday_arrival",
+      "description": "时间进入第一周期周一 00:00，安全区环境发生异变，监控灯光转为深红，逻辑系数下降，出现“星期一综合症”",
+      "time": "周一 00:00"
+    },
+    {
+      "id": "foreman_encounter",
+      "description": "李疯狂与苏浅在天花板发现被做成灯的队长及体内的【监工】，【监工】察觉到“旧日”味道但未攻击",
+      "time": "周一 约 00:05"
+    },
+    {
+      "id": "sewer_infiltration",
+      "description": "众人抵达被“星期四”规则侵蚀的废弃排污口，李疯狂使用“逻辑重构”打破重力限制，带队跳入地下排污系统",
+      "time": "周一 00:15"
+    }
+  ],
+  "time_period": "第一周期·周一 00:00 - 00:15",
+  "locations": [
+    "第4区安全区·上层走廊通风管道",
+    "地下排污系统·未知层级"
+  ],
+  "key_facts": [
+    {
+      "id": "zone_4_truth",
+      "content": "第4区安全区实际上是圈养牲畜的屠宰场，管理者已非人类，而是怪物【监工】"
+    },
+    {
+      "id": "captain_fate",
+      "content": "第4区检查站队长失踪两天后已被转化为人皮装置，由代号C+的【监工】驱动并连接防御系统"
+    },
+    {
+      "id": "thursday_erosion",
+      "content": "地下排污系统入口存在“逻辑断层”，已被“星期四”规则前置侵蚀，表现为重力随机化、高酸度腐蚀、声音追踪"
+    },
+    {
+      "id": "logic_rewrite_ability",
+      "content": "李疯狂具备利用【真理之胃】进行“逻辑重构”的能力，可暂时覆盖区域规则，但会消耗理智值"
+    },
+    {
+      "id": "old_one_scent",
+      "content": "李疯狂身上带有“旧日”的味道（源自携带的高维消化器官），被高维生物【监工】识别"
+    },
+    {
+      "id": "wang_reference",
+      "content": "王胖子（王站长）曾提供关于废弃排污口的建筑图纸信息"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

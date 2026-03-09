@@ -1,0 +1,107 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "十八",
+      "role": "太玄宗弟子（现为伪装/凡人状态）",
+      "description": "原本皮肤有金属光泽，后恢复为苍白且布满伤痕的凡人肌肤，衣衫褴褛，手持液压剪。",
+      "status": "active"
+    },
+    {
+      "name": "掌门（魔化）",
+      "age": "未知",
+      "role": "太玄宗掌门/反派（血色巨人）",
+      "description": "百丈高的血色巨人，由怨魂和岩浆状液体构成，正在进行金丹期大圆满的自爆。",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "脸色惨白，靠在破碎墙壁边，眼神充满担忧。",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "满头大汗，手持装修大铁锤攻击承重柱。",
+      "status": "active"
+    },
+    {
+      "name": "王虎",
+      "age": "未知",
+      "role": "太玄宗弟子",
+      "description": "双腿颤抖，手持马桶搋子挡在林清雪身前。",
+      "status": "active"
+    },
+    {
+      "name": "百晓生",
+      "age": "未知",
+      "role": "神秘画师",
+      "description": "身穿灰袍，出现在断裂的高墙上，处于极度震惊和癫狂状态。",
+      "status": "active"
+    },
+    {
+      "name": "黑袍老者",
+      "age": "未知",
+      "role": "观战者",
+      "description": "躲在废墟阴影中，捂着胸口，充满惊骇。",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "百晓生",
+    "黑袍老者"
+  ],
+  "character_exits": [
+    {
+      "name": "黑袍老者",
+      "reason": "因恐惧江越的能力（误解为斩断因果）而撤离"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "blood_sacrifice_attack",
+      "description": "掌门（魔化）施展金丹期大圆满绝命一击‘血祭·灭世劫’，形成深红色光球。",
+      "time": "午夜"
+    },
+    {
+      "id": "system_factory_reset",
+      "description": "江越同意系统建议，消耗所有反差值和备用能源启动‘最终反差’序列，重置为原始凡人模式，卸载所有修仙模块和灵力。",
+      "time": "午夜"
+    },
+    {
+      "id": "nullification_of_attack",
+      "description": "掌门的灭世劫光柱爆发，但因江越变为‘虚无/凡人’状态，修仙法则攻击对其无效，光柱在接触时产生诡异折射并消失。",
+      "time": "午夜"
+    },
+    {
+      "id": "physical_counterattack",
+      "description": "江越以凡人之躯手持液压剪，跃起攻击血色巨人，液压剪卡在巨人护体魔气屏障上。",
+      "time": "午夜"
+    }
+  ],
+  "time_period": "午夜",
+  "locations": [
+    "太玄宗主殿废墟上空"
+  ],
+  "key_facts": [
+    {
+      "id": "jiangyue_mortal_status",
+      "content": "江越消耗系统所有资源重置为‘原始凡人’，无灵力，无修仙技能（如钢筋铁骨），被视为‘天道之外’的存在，免疫修仙界的法则/能量攻击。"
+    },
+    {
+      "id": "system_reset_cost",
+      "content": "‘最终反差’序列操作不可逆，系统执行‘还原出厂设置’，卸载所有修仙相关模块。"
+    },
+    {
+      "id": "sect_leader_power_level",
+      "content": "掌门（魔化）处于金丹期大圆满，能施展‘血祭·灭世劫’。"
+    },
+    {
+      "id": "public_perception",
+      "content": "旁观者（如林清雪、百晓生、其他弟子、黑袍老者）误以为江越的凡人状态是‘返璞归真’或‘无道’的大恐怖境界。"
+    }
+  ]
+}

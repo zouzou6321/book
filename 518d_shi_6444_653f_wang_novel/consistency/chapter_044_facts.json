@@ -1,0 +1,110 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "摄政王",
+      "description": "一身紫蟒袍，腰悬玉带，神情随意且淡漠，杀伐果断",
+      "status": "active"
+    },
+    {
+      "name": "废太子",
+      "age": "未知",
+      "role": "废太子/前皇长子",
+      "description": "被单独押解，面色惨白，最终气绝",
+      "status": "deceased"
+    },
+    {
+      "name": "刘统领",
+      "age": "未知",
+      "role": "前御林军统领/太子党",
+      "description": "第一个倒戈的将领，当众痛哭磕头",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "未知",
+      "role": "长公主",
+      "description": "一身素衣，随手挽发，绝世风华",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "未知",
+      "role": "信使/黑甲汉子",
+      "description": "满身风尘，日夜兼程赶路",
+      "status": "active"
+    },
+    {
+      "name": "翠儿",
+      "age": "未知",
+      "role": "宫女",
+      "description": "贴身侍奉李瑾",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "刘统领",
+    "沈锋"
+  ],
+  "character_exits": [
+    {
+      "name": "废太子",
+      "reason": "气急攻心/被言语刺激气绝身亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "psychological_warfare",
+      "description": "萧寒安排叛军家属送饭送衣，利用亲情瓦解众人的心理防线",
+      "time": "次日清晨"
+    },
+    {
+      "id": "public_pledge",
+      "description": "数百名官员武将向萧寒跪拜效忠，表示愿为摄政王驱策",
+      "time": "次日清晨"
+    },
+    {
+      "id": "prince_death",
+      "description": "萧寒以人性职场论羞辱废太子，致其喷血而亡",
+      "time": "次日清晨"
+    },
+    {
+      "id": "victory_relay",
+      "description": "沈锋抵达江南大营，向李瑾呈送萧寒的捷报与密信",
+      "time": "次日清晨"
+    },
+    {
+      "id": "march_order",
+      "description": "李瑾决定接受萧寒的安排，命令整军回京",
+      "time": "次日清晨"
+    }
+  ],
+  "time_period": "建安二十三年，腊月，次日清晨",
+  "locations": [
+    "京城，午门广场",
+    "江南大营"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_hans_strategy",
+      "content": "萧寒认为对付深受儒家思想影响的古人，诛心（讲民生、谈妻儿）比讲道理有效"
+    },
+    {
+      "id": "regime_metaphor",
+      "content": "萧寒将新的统治局面比作新公司上市，承诺既往不咎且升职加薪"
+    },
+    {
+      "id": "princes_end",
+      "content": "废太子在午门前亲眼目睹众叛亲离，被萧寒的话刺激至死"
+    },
+    {
+      "id": "secret_letter_content",
+      "content": "萧寒在给李瑾的密信中写了“待我归来，万民共娶”八个字"
+    },
+    {
+      "id": "li_jins_location",
+      "content": "长公主李瑾目前流亡/驻扎在江南大营，并掌握部分兵权"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "未知",
+      "role": "前神机营督师/江湖郎中",
+      "description": "满身污血、面容惨白、气质清冷、身体剧痛颤抖",
+      "status": "active"
+    },
+    {
+      "name": "王征",
+      "age": "老者",
+      "role": "盐商/皇商",
+      "description": "须发皆白、身穿暗紫色绸缎长袍、手持佛珠、富态",
+      "status": "active"
+    },
+    {
+      "name": "长生卫新任统领",
+      "age": "未知",
+      "role": "长生卫统领",
+      "description": "声音低沉、警惕、手持卷刃的雁翎刀",
+      "status": "active"
+    },
+    {
+      "name": "老刘头",
+      "age": "未知",
+      "role": "工匠",
+      "description": "面黄肌瘦、满身油污",
+      "status": "active"
+    },
+    {
+      "name": "神秘间谍（旧友）",
+      "age": "未知",
+      "role": "间谍/旧友",
+      "description": "身穿异样服饰、持有长单筒望远镜、疑似蓝眼睛、说话带洋腔",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "王征",
+    "长生卫新任统领",
+    "老刘头",
+    "神秘间谍（旧友）"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "arrival_nanjing",
+      "description": "陈默带领幸存工匠和长生卫统领历经艰险，避开清军与大顺军，抵达南京桃叶渡",
+      "time": "弘光元年（1644年）五月"
+    },
+    {
+      "id": "meeting_wang_zheng",
+      "description": "陈默利用旧时暗号在王征私宅与其重逢，并被安置歇息",
+      "time": "弘光元年（1644年）五月"
+    },
+    {
+      "id": "requests_made",
+      "description": "陈默请求王征在城外旧庄子藏匿工匠，并购买大量朱砂和水银以控制身体异常",
+      "time": "弘光元年（1644年）五月"
+    },
+    {
+      "id": "spy_contact",
+      "description": "陈默收到署名“旧友”的神秘纸条，发现蓝眼睛间谍在秦淮河画舫上用望远镜窥视",
+      "time": "夜晚"
+    }
+  ],
+  "time_period": "弘光元年（1644年）五月，某日傍晚至夜晚",
+  "locations": [
+    "应天府（南京）",
+    "秦淮河畔",
+    "桃叶渡",
+    "王征私宅"
+  ],
+  "key_facts": [
+    {
+      "id": "f_chen_condition",
+      "content": "陈默身体因失去朱砂压制导致细胞疯狂再生破坏组织，剧痛如蚁噬，急需朱砂和水银"
+    },
+    {
+      "id": "f_situation_north",
+      "content": "崇祯皇帝已在煤山自缢（亡），北方局势崩坏"
+    },
+    {
+      "id": "f_situation_nanjing",
+      "content": "南京正忙于拥立福王朱由崧（沉迷酒色）监国登基，依然醉生梦死"
+    },
+    {
+      "id": "f_artisans_status",
+      "content": "老刘头等匠人被陈默视为重要的“火种”，需绝对保密藏匿"
+    },
+    {
+      "id": "f_spy_presence",
+      "content": "曾策划崇文门外炸膛阴谋的“蓝眼睛”间谍已潜伏至南京，并已发现陈默踪迹"
+    },
+    {
+      "id": "f_weapon_status",
+      "content": "陈默在突围途中丢失了沈炼赠送的绣春刀，目前使用一把捡来的破铁片"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

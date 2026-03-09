@@ -1,0 +1,76 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "青年（约十八岁以上）",
+      "role": "定北侯、大将军",
+      "description": "身穿洗得发白的灰色布袍，铁甲沾满泥点和陈旧血渍，骑瘦削老骥马，面色蜡黄，眼窝深陷，佝偻咳嗽（伪装）",
+      "status": "active"
+    },
+    {
+      "name": "沈锋",
+      "age": "未知",
+      "role": "亲卫长、下官",
+      "description": "身穿修补痕迹明显、沾土的甲胄，面带焦急与委屈（配合伪装），对萧寒忠心",
+      "status": "active"
+    },
+    {
+      "name": "刘全",
+      "age": "老者",
+      "role": "侯府管家、皇帝眼线",
+      "description": "身穿青灰色长衫，留着山羊胡，满脸堆笑但眼神贼亮",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "沈锋",
+    "刘全",
+    "林清雪"
+  ],
+  "character_exits": [
+    {
+      "name": "刘全",
+      "reason": "前往皇宫向皇帝通报萧寒入京情况"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "disguised_entry",
+      "description": "萧寒率领三千亲随伪装成残兵叫花子低调进城，成功让皇城司暗探和百姓误以为其兵败势弱。",
+      "time": "清晨"
+    },
+    {
+      "id": "confront_liu_quan",
+      "description": "萧寒在府中通过示弱、哭穷和赠送劣质鹿肉干，成功消除了管家刘全（皇帝眼线）的警惕。",
+      "time": "清晨"
+    },
+    {
+      "id": "strategy_reveal",
+      "description": "萧寒向沈锋表明真实意图：对外示弱以自保，对内磨砺实力，并打算介入长公主之事。",
+      "time": "清晨"
+    }
+  ],
+  "time_period": "建安二十三年，秋，清晨",
+  "locations": [
+    "京城朱雀大街",
+    "定北侯府"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_han_secret",
+      "content": "萧寒拥有现代人的记忆（娱乐圈经验、影帝演技、职场厚黑学），懂得示弱自保。"
+    },
+    {
+      "id": "disguise_strategy",
+      "content": "萧寒当前采取“示弱”策略，故意表现得穷酸、懦弱、病弱，以应对皇上“功高震主”的猜忌。"
+    },
+    {
+      "id": "liu_quan_spy",
+      "content": "刘全是老皇帝安插在定北侯府多年的眼线，负责监视侯府一举一动。"
+    },
+    {
+      "id": "lin_qingxue_status",
+      "content": "长公主林清雪（萧寒前世关注/恋人）最近心情不好，在御花园发脾气摔了御赐琉璃盏。"
+    }
+  ]
+}

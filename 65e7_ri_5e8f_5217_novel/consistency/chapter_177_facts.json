@@ -1,0 +1,97 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角/诈骗师/高熵有序者",
+      "description": "面部神经受损，左臂被蒸发，断臂处流淌乱码，胸口插有电缆作为起搏器，身体焦黑",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "核心角色/Bug",
+      "description": "掌心有粉色同心图腾，能定义温暖/烫",
+      "status": "active"
+    },
+    {
+      "name": "面具人",
+      "age": "",
+      "role": "反派/古神试用补丁",
+      "description": "戴着破碎面具，面具孔洞中只有深不见底的旋涡，手持生锈勺子",
+      "status": "deceased"
+    },
+    {
+      "name": "系统",
+      "age": "",
+      "role": "辅助AI",
+      "description": "存在于宿主意识中，协助执行逻辑覆写",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "面具人"
+  ],
+  "character_exits": [
+    {
+      "name": "面具人",
+      "reason": "死亡/被电流和爱之病毒炸成二维码"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "fake_lord_encounter",
+      "description": "面具人出现，试图通过‘绝对吞噬’格式化苏浅，李疯狂为保护苏浅失去左臂",
+      "time": "23:59"
+    },
+    {
+      "id": "crazy_thursday_protocol",
+      "description": "李疯狂启动‘肯德基疯狂星期四’逻辑补丁，将废墟环境覆写为充满炸鸡的自助餐厅",
+      "time": "23:59"
+    },
+    {
+      "id": "toxic_buffet_activation",
+      "description": "苏浅引爆‘炸鸡’中的‘烫’概念，配合李疯狂将电缆捅入心脏转化的电流，击杀面具人",
+      "time": "23:59"
+    },
+    {
+      "id": "old_ones_reveal",
+      "description": "巨眼显现，揭示面具人是古神的‘试用补丁’，因失败而废弃，古神准备开启‘世界重置’",
+      "time": "23:59"
+    }
+  ],
+  "time_period": "被重置世界线的崩溃前夜 · 23:59",
+  "locations": [
+    "市立精神卫生中心",
+    "地下财务核心区废墟"
+  ],
+  "key_facts": [
+    {
+      "id": "licrazy_current_status",
+      "content": "李疯狂目前占据阿傻的身体，肉体完整度低于40%，依赖胸口的高压电缆作为‘起搏器’维持机能"
+    },
+    {
+      "id": "fake_identity_truth",
+      "content": "自称‘暴食之主’的面具人实为古神投放的‘试用补丁’，试图用绝对理性取代疯狂逻辑"
+    },
+    {
+      "id": "global_menu",
+      "content": "古神（旧日餐厅）的菜单第一道菜名为‘世界重置’，距离正式开业还有23小时59分"
+    },
+    {
+      "id": "concept_abilities",
+      "content": "李疯狂可通过‘理智暴食’和‘通货膨胀协议’覆写物理定律；苏浅可赋予‘爱’或‘温暖’概念以物理伤害（如烫伤逻辑生物）"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "反派/自称暴食之主的存在",
+      "names": [
+        "面具人",
+        "暴食之主",
+        "冒牌货",
+        "高熵有序者"
+      ]
+    }
+  ]
+}

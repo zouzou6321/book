@@ -1,0 +1,98 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": null,
+      "role": "前神机营督师",
+      "description": "身穿洗得发白的青衣，面色因毒副作用而过分惨白，后满身尘土与血污，晨曦中眼神亮得吓人",
+      "status": "active"
+    },
+    {
+      "name": "长生卫统领",
+      "age": null,
+      "role": "长生卫新任统领",
+      "description": "沉默寡言的汉子，脸上带着一道血痕，眼神近乎麻木的冷静，具备死士的执行本能",
+      "status": "active"
+    },
+    {
+      "name": "小旗官",
+      "age": null,
+      "role": "神机营小旗官",
+      "description": "眯着眼，眼神中贪婪与恐惧交织",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "长生卫统领",
+    "小旗官"
+  ],
+  "character_exits": [
+    {
+      "name": "崇祯皇帝",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "death_knell_rings",
+      "description": "景山（煤山）方向传来沉重的丧钟，报知崇祯帝自缢",
+      "time": "崇祯十七年三月十九日凌晨"
+    },
+    {
+      "id": "escape_initiation",
+      "description": "陈默忍受再生能力反噬的剧痛，带领五十名长生卫和二十辆马车（载有工匠与图纸）向崇文门撤离",
+      "time": "凌晨"
+    },
+    {
+      "id": "confrontation_at_shenjiying",
+      "description": "陈默在神机营驻地遭遇投靠大顺军的小旗官，小旗官索要火药配方，陈默拒绝并嘲讽",
+      "time": "凌晨"
+    },
+    {
+      "id": "cannon_explosion",
+      "description": "西班牙间谍成功引爆城头红夷大炮，造成巨大破坏和混乱",
+      "time": "凌晨"
+    },
+    {
+      "id": "breakout_chongwenmen",
+      "description": "陈默趁爆炸混乱指挥长生卫杀人突围，成功冲出崇文门",
+      "time": "凌晨至黎明前"
+    },
+    {
+      "id": "identity_renunciation",
+      "description": "陈默在十八里店抛弃大明信王铁牌，命令烧毁大明官制旗帜，自称赶路的读书人",
+      "time": "晨曦破晓"
+    }
+  ],
+  "time_period": "崇祯十七年（1644年）三月十九日凌晨至晨曦破晓",
+  "locations": [
+    "景山东街拐角",
+    "煤山",
+    "崇文门",
+    "神机营驻地",
+    "十八里店"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_mo_condition",
+      "content": "陈默失去朱砂压制，体内再生能力反噬，引发腹部剧痛、高热和肌肉颤抖，但同时也使伤口愈合速度惊人"
+    },
+    {
+      "id": "cargo_details",
+      "content": "车队载有十几名工匠以及记载冶铁、火药、算术的孤本图纸"
+    },
+    {
+      "id": "spy_sabotage",
+      "content": "一名蓝眼睛的西班牙间谍引爆了城头的红夷大炮"
+    },
+    {
+      "id": "changsheng_guard_status",
+      "content": "现有五十名长生卫，由新任统领带领"
+    },
+    {
+      "id": "new_identity_claim",
+      "content": "陈默对外宣称身份为'赶路的读书人'，并抛弃了象征大明官员身份的铁牌"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

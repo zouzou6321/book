@@ -1,0 +1,90 @@
+{
+  "characters_present": [
+    {
+      "name": "李恪",
+      "age": "十岁",
+      "role": "皇帝",
+      "description": "身材瘦小，穿着不合身的明黄龙袍，眼神惊惶，稚嫩",
+      "status": "active"
+    },
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "摄政王",
+      "description": "身穿紫色蟒袍，腰束玉带，身姿挺拔，桃花眼，眼神深邃戏谑",
+      "status": "active"
+    },
+    {
+      "name": "张博",
+      "age": "老者",
+      "role": "御史台少卿",
+      "description": "身着绯色官袍，手持象牙笏板，须发皆张",
+      "status": "active"
+    },
+    {
+      "name": "刘大人",
+      "age": "未知",
+      "role": "工部侍郎",
+      "description": "萧寒的得力干将",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "未知",
+      "role": "长公主",
+      "description": "身穿淡青色如意云纹衫，慵懒却带有煞气",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "张博",
+    "刘大人"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "court_impeachment",
+      "description": "御史台少卿张博在早朝上弹劾摄政王萧寒与长公主李瑾过从甚密，有违伦理。",
+      "time": "辰时"
+    },
+    {
+      "id": "resignation_gambit",
+      "description": "萧寒以退为进，上交黑云骑虎符，请求辞去摄政王一职，并以此要挟皇帝赐婚长公主。",
+      "time": "辰时"
+    },
+    {
+      "id": "imperial_marriage_decree",
+      "description": "小皇帝李恪在惊慌中准奏，下旨赐婚萧寒与长公主李瑾，并未接受其辞呈。",
+      "time": "辰时"
+    },
+    {
+      "id": "manor_confrontation",
+      "description": "萧寒回到长公主府，向李瑾解释早朝的“辞职”是为了扫清两人在一起的舆论障碍。",
+      "time": "午后"
+    }
+  ],
+  "time_period": "建安二十四年，夏，辰时至午后",
+  "locations": [
+    "太极殿",
+    "长公主府",
+    "长公主府后花园凉亭"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_han_background",
+      "content": "萧寒拥有现代娱乐圈/职场经历，懂得利用舆论和人心，掌握SWOT分析等现代概念。"
+    },
+    {
+      "id": "imperial_family_relations",
+      "content": "萧寒是小皇帝李恪的舅舅；李瑾是小皇帝李恪的姐姐（长公主）。"
+    },
+    {
+      "id": "military_power",
+      "content": "萧寒掌管定北侯府世代传承的黑云骑虎符，持有京畿大半兵权。"
+    },
+    {
+      "id": "li_jin_role",
+      "content": "长公主李瑾负责抵御北蛮，为萧寒争取政治资本（‘嫁妆’）。"
+    }
+  ]
+}

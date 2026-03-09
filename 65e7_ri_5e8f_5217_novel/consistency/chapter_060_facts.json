@@ -1,0 +1,94 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/逻辑之主",
+      "description": "身穿破旧风衣，左眼漆黑且有倒'V'符号，持有由李小鱼肋骨制成的骨勺。最终通过自我超频转化为由黑色代码、破碎镜面和扭曲餐具组成的怪物形态。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "同伴人类",
+      "description": "左臂有金色纹路，在李疯狂战斗时守护着剩余的炸鸡。",
+      "status": "active"
+    },
+    {
+      "name": "创始人/主厨",
+      "age": "未知",
+      "role": "反派实体/世界主宰",
+      "description": "形象为不可名状的巨大雕像和由黑色酱汁覆盖的巨爪，毛发为人类脊椎，伴随紫色'V我50'闪电。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "创始人/主厨"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "definition_amendment_ends",
+      "description": "[定义修正]时效结束，世界逻辑开始修正，未署名存在被标记为'食材'。",
+      "time": "星期四零点"
+    },
+    {
+      "id": "stairs_transformation",
+      "description": "公寓大楼楼梯变为消化道，水泥台阶变成张大的流着褐色唾液的巨口。",
+      "time": "星期四零点"
+    },
+    {
+      "id": "madness_thursday_began",
+      "description": "天空被炸鸡块状的金色乌云撕裂，下起热油雨，文字'V我50'、'疯狂优惠'出现。",
+      "time": "星期四零点"
+    },
+    {
+      "id": "gravity_hack_escape",
+      "description": "李疯狂使用[篡改 · 定义修正：墙壁即地板]，拉着苏浅沿墙壁跑向天台。",
+      "time": "星期四零点后"
+    },
+    {
+      "id": "ritual_feast",
+      "description": "李疯狂在天台食用在旧世界购买的炸鸡，以此作为抵抗疯狂和保留人性的仪式。",
+      "time": "天台"
+    },
+    {
+      "id": "entity_arrival",
+      "description": "空间被撕裂，巨大的鸡爪（主厨/创始人）探出，发出'查单'宣告并试图抹杀二人。",
+      "time": "天台"
+    },
+    {
+      "id": "li_crazie_transformation",
+      "description": "李疯狂将骨勺插入胸口，发动[篡改 · 自我超频：逻辑之主 · 暴食模式]，化身怪物对抗巨爪。",
+      "time": "天台"
+    }
+  ],
+  "time_period": "星期四零点（疯狂回潮）",
+  "locations": [
+    "第4区·幸福公寓楼道",
+    "幸福公寓天台"
+  ],
+  "key_facts": [
+    {
+      "id": "world_rule_unnamed_game",
+      "content": "在世界底层代码中，未注册/未署名的存在都被视为'野味'。"
+    },
+    {
+      "id": "bone_spoon_origin_li_xiaoyu",
+      "content": "李疯狂持有的[骨勺]是由李小鱼的肋骨转化而成的。"
+    },
+    {
+      "id": "li_crazie_weakness_eye",
+      "content": "李疯狂声称如果他变成怪物，唯一的弱点是他的眼睛。"
+    },
+    {
+      "id": "madness_thursday_phenomenon",
+      "content": "星期四零点期间，世界充斥着炸鸡、热油、'V我50'梗以及与'进食'相关的恐怖转化。"
+    },
+    {
+      "id": "li_crazie_monster_form",
+      "content": "李疯狂激活'逻辑之主 · 暴食模式'后，形态变为黑色数据流、无数眼睛和餐具组成的聚合体。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

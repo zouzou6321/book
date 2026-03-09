@@ -1,0 +1,137 @@
+{
+  "ok": false,
+  "issues": [
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "林野",
+      "detail": "角色「林野」年龄不一致：chapter_002中为22; chapter_003中为22岁; chapter_004中为22岁; chapter_005中为22岁; chapter_013中为22",
+      "chapters": [
+        "chapter_002",
+        "chapter_003",
+        "chapter_004",
+        "chapter_005",
+        "chapter_013"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "苏清鸢",
+      "detail": "角色「苏清鸢」年龄不一致：chapter_001中为十六七; chapter_002中为十六七岁; chapter_003中为十六七岁; chapter_004中为十六七岁; chapter_005中为十六七岁; chapter_013中为16-17岁",
+      "chapters": [
+        "chapter_001",
+        "chapter_002",
+        "chapter_003",
+        "chapter_004",
+        "chapter_005",
+        "chapter_013"
+      ]
+    },
+    {
+      "type": "character_age",
+      "severity": "high",
+      "character": "张磊",
+      "detail": "角色「张磊」年龄不一致：chapter_003中为三十岁上下; chapter_004中为三十岁上下; chapter_005中为30岁上下",
+      "chapters": [
+        "chapter_003",
+        "chapter_004",
+        "chapter_005"
+      ]
+    },
+    {
+      "type": "ghost_character",
+      "severity": "high",
+      "character": "林野",
+      "detail": "角色「林野」在chapter_009中已辞职，但在chapter_012中再次活跃出场",
+      "chapters": [
+        "chapter_009",
+        "chapter_012"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "林野",
+      "detail": "角色「林野」在多个章节被作为新角色引入：chapter_001, chapter_002, chapter_003, chapter_004",
+      "chapters": [
+        "chapter_001",
+        "chapter_002",
+        "chapter_003",
+        "chapter_004"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "苏清鸢",
+      "detail": "角色「苏清鸢」在多个章节被作为新角色引入：chapter_001, chapter_002, chapter_003, chapter_004, chapter_005, chapter_007, chapter_013",
+      "chapters": [
+        "chapter_001",
+        "chapter_002",
+        "chapter_003",
+        "chapter_004",
+        "chapter_005",
+        "chapter_007",
+        "chapter_013"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "张磊",
+      "detail": "角色「张磊」在多个章节被作为新角色引入：chapter_003, chapter_004, chapter_005",
+      "chapters": [
+        "chapter_003",
+        "chapter_004",
+        "chapter_005"
+      ]
+    },
+    {
+      "type": "duplicate_intro",
+      "severity": "high",
+      "character": "收割者",
+      "detail": "角色「收割者」在多个章节被作为新角色引入：chapter_012, chapter_013",
+      "chapters": [
+        "chapter_012",
+        "chapter_013"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "林野",
+      "detail": "角色「林野」身份描述出现3种以上变体：chapter_001中为「公司职员」; chapter_002中为「上古返祖系统宿主，底层社畜」; chapter_003中为「底层社畜、上古返祖系统宿主、蚩尤血脉持有者」; chapter_004中为「刚毕业半年的上班族、蚩尤血脉持有者、返祖系统宿主」; chapter_005中为「E级巅峰觉醒者、蚩尤血脉持有者」; chapter_006中为「主角/觉醒者」; chapter_007中为「主角」; chapter_009中为「腾飞科技前员工」; chapter_012中为「主角/幸存者」; chapter_013中为「主角」",
+      "chapters": [
+        "chapter_001",
+        "chapter_002",
+        "chapter_003",
+        "chapter_004",
+        "chapter_005",
+        "chapter_006",
+        "chapter_007",
+        "chapter_009",
+        "chapter_012",
+        "chapter_013"
+      ]
+    },
+    {
+      "type": "character_role",
+      "severity": "medium",
+      "character": "苏清鸢",
+      "detail": "角色「苏清鸢」身份描述出现3种以上变体：chapter_001中为「刚高考完的学生」; chapter_002中为「刚考完高考的学生」; chapter_003中为「刚考完高考的未成年少女」; chapter_004中为「刚高考完的学生」; chapter_005中为「刚高考完的学生」; chapter_006中为「少女/龙组相关人员」; chapter_013中为「学生」",
+      "chapters": [
+        "chapter_001",
+        "chapter_002",
+        "chapter_003",
+        "chapter_004",
+        "chapter_005",
+        "chapter_006",
+        "chapter_013"
+      ]
+    }
+  ],
+  "checked_chapters": 10,
+  "high_count": 8,
+  "medium_count": 2
+}

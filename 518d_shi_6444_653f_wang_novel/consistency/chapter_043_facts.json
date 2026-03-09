@@ -1,0 +1,100 @@
+{
+  "characters_present": [
+    {
+      "name": "李恪",
+      "age": "14岁",
+      "role": "新皇",
+      "description": "稚嫩胆小，缩在龙椅上浑身颤抖，脸色惨白",
+      "status": "active"
+    },
+    {
+      "name": "萧寒",
+      "age": "未知（成年）",
+      "role": "摄政王",
+      "description": "一身素衣，佩戴李瑾赠送的玉佩，未佩剑，眼神深邃，冷静从容",
+      "status": "active"
+    },
+    {
+      "name": "太子",
+      "age": "未知（成年）",
+      "role": "废太子/叛军首领",
+      "description": "一身戎装，披头散发，满脸煞气，骑在高头大马上",
+      "status": "departed"
+    },
+    {
+      "name": "沈锋",
+      "age": "未知",
+      "role": "黑云骑统领",
+      "description": "率领黑云骑五百人列阵",
+      "status": "active"
+    },
+    {
+      "name": "刘统领",
+      "age": "未知",
+      "role": "御林军统领",
+      "description": "原本是太子死忠，家中有八十岁老母，房子漏雨",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "太子",
+    "沈锋",
+    "刘统领"
+  ],
+  "character_exits": [
+    {
+      "name": "太子",
+      "reason": "被黑云骑和御林军联手逮捕押走"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "princes_rebellion",
+      "description": "太子率领三千御林军攻打玄武门，宣称先帝遗诏为伪诏，欲清君侧",
+      "time": "子时三刻"
+    },
+    {
+      "id": "audit_strategy",
+      "description": "萧寒未动用武力，而是抛出审计账册，揭露太子贪墨御林军冬衣军饷，成功策反御林军",
+      "time": "子时三刻后"
+    },
+    {
+      "id": "prince_arrest",
+      "description": "御林军倒戈，太子及死党被沈锋率黑云骑拿下，兵变和平平息",
+      "time": "黎明前夕"
+    },
+    {
+      "id": "new_era_proclaimed",
+      "description": "新皇李恪即位，改元“永安”，大赦天下并减赋，宣布迎回护国长公主共同监国",
+      "time": "黎明"
+    }
+  ],
+  "time_period": "建安二十三年腊月子时三刻至次日黎明",
+  "locations": [
+    "太极殿",
+    "玄武门",
+    "玄武门广场"
+  ],
+  "key_facts": [
+    {
+      "id": "emperor_li_ke",
+      "content": "新皇李恪年仅十四岁，性格怯懦，此时即位"
+    },
+    {
+      "id": "regent_xiao_han",
+      "content": "萧寒为摄政王，实际上掌控朝政及军权，行事风格透着现代职场思维"
+    },
+    {
+      "id": "era_yongan",
+      "content": "新朝年号定为“永安”"
+    },
+    {
+      "id": "jin_memory",
+      "content": "萧寒佩戴李瑾送的玉佩，其行动动机是为了接回护国长公主李瑾与其共同监国"
+    },
+    {
+      "id": "corruption_case",
+      "content": "太子因贪墨军饷（如冬衣差价）导致军心涣散，成为被推翻的直接导火索"
+    }
+  ]
+}

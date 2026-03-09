@@ -1,0 +1,95 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "26",
+      "role": "主角/平衡者",
+      "description": "穿风衣，眼中布满红血丝，看似苦逼程序员，能看到特殊数据流",
+      "status": "active"
+    },
+    {
+      "name": "店长",
+      "age": "未知",
+      "role": "老爹炸鸡店主",
+      "description": "秃顶，脸充满油光和疲惫，穿着西装",
+      "status": "active"
+    },
+    {
+      "name": "流浪狗",
+      "age": "未知",
+      "role": "生物/怪物",
+      "description": "只有三条腿，白内障，牙齿尖锐如非犬科，能进行心灵感应",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "店长",
+    "流浪狗"
+  ],
+  "character_exits": [
+    {
+      "name": "流浪狗",
+      "reason": "受惊逃离"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "hunger_vision_active",
+      "description": "李疯狂在街头看到行人和动物头顶的‘饥饿度’数值。",
+      "time": "2024-10-23 14:35"
+    },
+    {
+      "id": "talking_dog_encounter",
+      "description": "李疯狂遭遇一只会说话的流浪狗，警告‘祂快醒了’及‘账单要烧起来了’。",
+      "time": "2024-10-23 14:35之后"
+    },
+    {
+      "id": "detect_gluttony",
+      "description": "在‘老爹炸鸡’后厨，李疯狂检测到炸锅内封印的‘暴食之影（削弱版）’，系统警告3小时内若不投喂将发生现实解离。",
+      "time": "2024-10-23 14:55之前"
+    },
+    {
+      "id": "initiate_marketing",
+      "description": "李疯狂向店长提出名为‘疯狂星期四’的饥饿营销计划，意图通过售卖‘疯狂’来平衡古神食欲与人类空虚。",
+      "time": "2024-10-23 14:55"
+    }
+  ],
+  "time_period": "2024年10月23日 14:35 - 14:55",
+  "locations": [
+    "未来视界科技园周边商业区",
+    "“老爹炸鸡”小店",
+    "“老爹炸鸡”后厨"
+  ],
+  "key_facts": [
+    {
+      "id": "hunger_attribute",
+      "content": "人和动物头顶具有‘饥饿度’数值，代表灵魂/精神的空虚程度，数值越高越危险。"
+    },
+    {
+      "id": "eldritch_imprisonment",
+      "content": "古神被压缩封印在日常电器（如炸锅）的‘概念囚笼’中，表现为规则的触手和高维能级。"
+    },
+    {
+      "id": "gluttony_entity",
+      "content": "‘老爹炸鸡’的炸锅内封印着‘暴食之影（削弱版）’，状态极度饥饿，预计3小时内失控。"
+    },
+    {
+      "id": "marketing_solution",
+      "content": "李疯狂的策略是将被驯化的古神作为‘精神垃圾食品’在周四售卖，解决人类压力和古神饥饿的矛盾。"
+    },
+    {
+      "id": "system_return",
+      "content": "李疯狂的脑海中出现了一个类似老旧黑白电视的系统界面，检测到了高维能级反应。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "李 crazy",
+        "李 insane"
+      ]
+    }
+  ]
+}

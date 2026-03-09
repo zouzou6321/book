@@ -1,0 +1,21 @@
+{
+  "title": "铸星者",
+  "subtitle": "The Star Forgers",
+  "author": "AI & Thomas",
+  "description": "从2025年的一次火箭发射事故开始，跨越近千年，讲述了一位万亿富豪如何利用当代科技全力推进太空制造基地的建造，最终带领人类摆脱引力束缚、建立太空工业帝国，并在太阳系毁灭前夕逃离摇篮、成为星际文明的硬科幻史诗。",
+  "tags": [
+    "硬科幻",
+    "太空工业",
+    "星际文明",
+    "长篇史诗"
+  ],
+  "volumes": {
+    "volume_1_gravity_well": "第一卷：引力之井",
+    "volume_2_star_catcher": "第二卷：捕星者",
+    "volume_3_forging_ring": "第三卷：锻造之环",
+    "volume_4_belt_factory": "第四卷：带区工厂",
+    "volume_5_new_world": "第五卷：新世界"
+  },
+  "cover_image": true,
+  "published": true
+}

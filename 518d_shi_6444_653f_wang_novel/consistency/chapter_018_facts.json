@@ -1,0 +1,79 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "年轻 (具体数值未提)",
+      "role": "定北侯 / 将军 / 重生者",
+      "description": "年轻却冷峻的脸庞，双手宽大粗糙布满老茧，虎口有旧伤疤，身穿明光铠",
+      "status": "active"
+    },
+    {
+      "name": "周通",
+      "age": "未提",
+      "role": "副将",
+      "description": "脸庞憨厚，眼神焦急",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "萧寒",
+    "周通"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "rebirth_incident",
+      "description": "萧寒在2024年深秋遭遇车祸后，意识穿越回大梁建安二十三年的身体里",
+      "time": "2024年深秋 / 建安二十三年，深秋"
+    },
+    {
+      "id": "awakening_on_road",
+      "description": "萧寒在回京的马车内醒来，意识到自己重生，并恢复了身体的感官和力量",
+      "time": "建安二十三年，深秋"
+    },
+    {
+      "id": "strategic_order_weakness",
+      "description": "萧寒下令全军在入京前十里卸甲、抹灰、弄乱衣裳，假装被北蛮追杀得狼狈不堪，以消除皇帝戒心",
+      "time": "入京前十里"
+    },
+    {
+      "id": "bribery_instruction",
+      "description": "萧寒安排周通拿玉佩去行贿一直骂他的王御史，以此买平安",
+      "time": "入京前"
+    },
+    {
+      "id": "charge_to_capital",
+      "description": "萧寒夺过缰绳，驾车狂奔冲向迎接仪仗和京城",
+      "time": "接近亭子时"
+    }
+  ],
+  "time_period": "2024年深秋 / 大梁建安二十三年，深秋",
+  "locations": [
+    "现代滨海公路",
+    "大梁回京官道",
+    "马车内",
+    "京畿地界亭子"
+  ],
+  "key_facts": [
+    {
+      "id": "protagonist_background",
+      "content": "主角萧寒拥有双重记忆：前世是定北侯（被处决），今生是2024年的小演员（车祸身亡）。现在的状态是重生回定北侯身上。"
+    },
+    {
+      "id": "previous_tragedy",
+      "content": "在萧寒前世（原定北侯时间线）的经历中，他因功高震主被以'通敌叛国'罪名处决，周通曾为救他而死。"
+    },
+    {
+      "id": "current_military_context",
+      "content": "当下时间为建安二十三年深秋，萧寒率三千定北军大破北蛮王庭后班师回朝。"
+    },
+    {
+      "id": "political_ambition",
+      "content": "萧寒利用现代娱乐圈的演技和权谋知识，决定不再做单纯的忠臣，目标是成为摄政王掌控朝局。"
+    },
+    {
+      "id": "character_relationships",
+      "content": "周通是萧寒忠诚但憨厚的副将；李瑾是长公主，是萧寒两世都在意的女人；林清雪是现代萧寒爱而不得的女人；王御史是骂萧寒的文官。"
+    }
+  ]
+}

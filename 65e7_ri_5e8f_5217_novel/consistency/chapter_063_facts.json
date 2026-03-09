@@ -1,0 +1,85 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未提及",
+      "role": "导航员 / 逻辑之主（伪）v2.0宿主",
+      "description": "左眼有倒“V”字符号，手背隐约浮现黑色经络，坐姿端正。",
+      "status": "active"
+    },
+    {
+      "name": "半机械驾驶员",
+      "age": "未提及",
+      "role": "驾驶员",
+      "description": "下半身彻底消失，被血管电缆金属管线取代，后脑插着十二根黑色数据管，眼眶为高速旋转的玻璃球体。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "半机械驾驶员",
+    "脑海中的声音",
+    "星期三·功德箱变异体"
+  ],
+  "character_exits": [
+    {
+      "name": "李疯狂",
+      "reason": "前往第7车厢医疗区处理骚乱"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "reality_anchor_calibration",
+      "description": "李疯狂校准现实锚点，设定航路点为“生存”。",
+      "time": "第三个沦陷周 · 星期三下午"
+    },
+    {
+      "id": "enter_digestive_tract",
+      "description": "利用【篡改 · 定义修正】将“消化道”悬崖定义为高速公路特急下坡，驾驶方舟冲入深渊。",
+      "time": "第三个沦陷周 · 星期三下午"
+    },
+    {
+      "id": "voice_dialogue",
+      "description": "脑海中的声音试图诱导李疯狂承认苏浅为食材，被其以“观测者”和“锚点”为由驳回。",
+      "time": "第三个沦陷周 · 星期三下午"
+    },
+    {
+      "id": "defeat_merit_box",
+      "description": "遭遇“星期三·功德箱”变异体，使用【李小鱼的肋骨（骨勺）】及【篡改 · 协议层强制覆盖：买单】将其清除。",
+      "time": "第三个沦陷周 · 星期三下午"
+    },
+    {
+      "id": "receive_distress_signal",
+      "description": "接到苏浅从第7车厢医疗区发来的骚乱求救通讯。",
+      "time": "第三个沦陷周 · 星期三下午"
+    }
+  ],
+  "time_period": "第三个沦陷周 · 星期三下午",
+  "locations": [
+    "诺亚方舟01号 · 舰桥（主牵引车头）",
+    "“消化道”深渊",
+    "第7车厢医疗区"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_sanity",
+      "content": "李疯狂当前San值为34%，但因卸载了恐惧、悲伤等情感模块，仍能维持绝对理性的逻辑运作。"
+    },
+    {
+      "id": "su_qian_role",
+      "content": "苏浅被定义为“观测者”和“锚点”，其崩解会导致李疯狂面临逻辑回滚风险。"
+    },
+    {
+      "id": "bone_spoon_item",
+      "content": "李疯狂持有特殊道具【李小鱼的肋骨（骨勺）】，勺背刻有“致最挑剔的食客”。"
+    },
+    {
+      "id": "mind_clearing_tool",
+      "content": "李疯狂通过咬合一块2x4规格红色乐高积木来对抗精神干扰和保持清醒。"
+    },
+    {
+      "id": "pilot_characteristics",
+      "content": "驾驶员为重度改造的半机械生物，依靠数据化感知，无法理解逻辑以外的现象，甚至看不见物理乱码。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

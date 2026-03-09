@@ -1,0 +1,120 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "定北侯",
+      "description": "身着宝蓝色蜀锦长袍，腰系金银丝玉带，把玩核桃，表面扮作纨绔实则清醒。",
+      "status": "active"
+    },
+    {
+      "name": "赵侍郎",
+      "age": "未知",
+      "role": "兵部侍郎",
+      "description": "负责京畿卫换防文书，被萧寒收买。",
+      "status": "departed"
+    },
+    {
+      "name": "魏虎",
+      "age": "未知",
+      "role": "镇国将军",
+      "description": "太子死忠，性格火爆，身穿甲胄，看不起萧寒。",
+      "status": "departed"
+    },
+    {
+      "name": "户部尚书",
+      "age": "未知",
+      "role": "户部尚书",
+      "description": "掌管财政，被萧寒以贪财形象欺骗。",
+      "status": "departed"
+    },
+    {
+      "name": "李瑾",
+      "age": "未知",
+      "role": "殿下（皇室成员）",
+      "description": "身着素净青衣，手持书本和兔子灯，容貌倾城。",
+      "status": "active"
+    },
+    {
+      "name": "小张",
+      "age": "未知",
+      "role": "侍从",
+      "description": "萧寒的贴身随从。",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "赵侍郎",
+    "魏虎",
+    "户部尚书"
+  ],
+  "character_exits": [
+    {
+      "name": "魏虎",
+      "reason": "离开"
+    },
+    {
+      "name": "户部尚书",
+      "reason": "离开"
+    },
+    {
+      "name": "赵侍郎",
+      "reason": "离开"
+    },
+    {
+      "name": "小张",
+      "reason": "被支开备车"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "banquet_hosted",
+      "description": "萧寒在醉仙楼设宴，花费三千两白银宴请兵部、户部及京畿卫武将，意图渗透京畿卫换防事务。",
+      "time": "酉时三刻"
+    },
+    {
+      "id": "wei_hu_confrontation",
+      "description": "镇国将军魏虎在宴席上质问萧寒对太子及京畿卫兵权的立场，试图逼宫。",
+      "time": "酒过三巡"
+    },
+    {
+      "id": "drunken_act_performance",
+      "description": "萧寒通过摔杯、大骂、呕吐、昏睡等一系列表演，成功将自己伪装成只懂打仗、贪财爱国的莽夫，消除魏虎等人的戒心。",
+      "time": "魏虎质问后"
+    },
+    {
+      "id": "secret_meeting_li_jin",
+      "description": "萧寒在隔壁房间与李瑾私会，两人互诉衷肠，萧寒亲吻李瑾并表明真实心意。",
+      "time": "宴席结束后半个时辰"
+    }
+  ],
+  "time_period": "建安二十三年，冬初，酉时三刻（及随后的半个时辰）",
+  "locations": [
+    "京城",
+    "醉仙楼",
+    "松涛厅",
+    "醉仙楼隔壁雅间"
+  ],
+  "key_facts": [
+    {
+      "id": "black_cloud_cavalry",
+      "content": "萧寒手底下的精锐部队名为“黑云骑”，目前装备需要更新。"
+    },
+    {
+      "id": "royal_guard_swap",
+      "content": "朝廷正在筹备“京畿卫”的换防文书，各方势力在此事上有利益博弈。"
+    },
+    {
+      "id": "xiaohan_disguise_strategy",
+      "content": "萧寒对外的伪装策略是：贪财好色、粗鲁无脑、只懂打仗的纨绔/莽夫，以此掩盖政治野心并降低敌人警惕。"
+    },
+    {
+      "id": "rabbit_lamp_significance",
+      "content": "萧寒曾在上元灯会赢了一盏兔子灯送给李瑾，这盏灯是他们定情或重要关系的信物。"
+    },
+    {
+      "id": "wei_hu_assessment_on_xiaohan",
+      "content": "魏虎经过此事后，判定萧寒是一个没有城府、构不成威胁的醉鬼和莽夫。"
+    }
+  ]
+}

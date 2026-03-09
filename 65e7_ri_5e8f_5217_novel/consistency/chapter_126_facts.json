@@ -1,0 +1,100 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "程序员/逻辑之主(伪)/第0号碎片",
+      "description": "黑色西装，左眼有深紫色倒“V”符号，胸口有道无法愈合的疤痕",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "捕手/餐具",
+      "description": "左臂重组为重炮，左眼异化为黑色漩涡，右眼及右臂保持人类形态",
+      "status": "active"
+    },
+    {
+      "name": "大脑",
+      "age": "",
+      "role": "诺亚方舟指挥核心",
+      "description": "巨大的腐烂大脑，通过光纤连接玻璃罐中的人类躯体，具有多只眼睛",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "大脑"
+  ],
+  "character_exits": [
+    {
+      "name": "大脑",
+      "reason": "彻底停止运作/崩溃"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "arrival_at_command_center",
+      "description": "李疯狂与苏浅进入充满生物改造风格的诺亚方舟战略指挥室",
+      "time": "周一深夜"
+    },
+    {
+      "id": "explanation_of_time_loop",
+      "description": "李疯狂向大脑说明世界处于死循环的周一，时间轴崩断，周五至周日被吞噬",
+      "time": "周一深夜"
+    },
+    {
+      "id": "sky_mending_plan_reveal",
+      "description": "李疯狂展示时间修复模型，指出补天计划需7个碎片，目前进展3/7",
+      "time": "周一深夜"
+    },
+    {
+      "id": "fragment_inventory",
+      "description": "明确已知碎片为休日碎片(伪)、理智之眼、苏浅左臂的牺牲；未知碎片位于时间裂缝、周日终点、旧日回廊及0号扇区",
+      "time": "周一深夜"
+    },
+    {
+      "id": "mc_identity_reveal",
+      "description": "李疯狂自曝为“第0号碎片”及世界的错误报告，是补天计划的关键材料",
+      "time": "周一深夜"
+    },
+    {
+      "id": "su_qian_secret_update",
+      "description": "苏浅偷听秘密后，内心确立守护李疯狂的方案B，准备阻止其自我牺牲",
+      "time": "周一深夜"
+    },
+    {
+      "id": "departure_plan_set",
+      "description": "商定前往废弃国际机场寻找通往“旧日回廊”的入口",
+      "time": "周一深夜"
+    },
+    {
+      "id": "command_center_collapse",
+      "description": "大脑停止运作，发布全员粉碎警告，指挥室崩溃",
+      "time": "周一深夜"
+    }
+  ],
+  "time_period": "周一深夜23:00（主观时间），客观时间18:00",
+  "locations": [
+    "诺亚方舟战略指挥室",
+    "废弃国际机场（即将前往）"
+  ],
+  "key_facts": [
+    {
+      "id": "time_status",
+      "content": "时间客观死锁在18:00，主观时间为周一深夜，周二加载失败，世界处于死循环的周一"
+    },
+    {
+      "id": "patch_plan_detail",
+      "content": "补天计划需7个碎片修补时间轴，已收集3个（休日碎片伪、理智之眼、苏浅左臂的牺牲），剩余4个在时间裂缝、周日终点、旧日回廊及0号扇区"
+    },
+    {
+      "id": "mc_fragment_role",
+      "content": "李疯狂是补天计划的第0号碎片，也是世界的错误报告，其核心代码不明且权级不可覆写"
+    },
+    {
+      "id": "next_sector",
+      "content": "废弃国际机场是通往“旧日回廊”的登机口"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

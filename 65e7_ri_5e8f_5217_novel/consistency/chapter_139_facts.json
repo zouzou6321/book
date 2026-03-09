@@ -1,0 +1,112 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": null,
+      "role": "主角/程序员/Human_v2.0测试版用户",
+      "description": "身穿印着“V我50”的破旧T恤，流着鼻血，左眼眶有银紫色星云（苏浅），手持肋骨骨勺",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": null,
+      "role": "数据流/AI辅助/左眼植入体",
+      "description": "银紫色星云，具有自我意识，声音带电流质感",
+      "status": "active"
+    },
+    {
+      "name": "主厨/神明",
+      "age": null,
+      "role": "高维管理者/反派",
+      "description": "最初表现为占据苍穹的巨大金色瞳孔和冰川数据巨手，后表现为广播中的戏谑男声",
+      "status": "active"
+    },
+    {
+      "name": "倒“V”字的血色目光",
+      "age": null,
+      "role": "潜伏观察者/未知存在",
+      "description": "潜伏在李疯狂身后的影子里，露出满意的微笑",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "倒“V”字的血色目光"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "cold_storage_protocol_activation",
+      "description": "环境被覆写为【备用冷库】协议，第73区变为冰原，李疯狂面临神之握的物理即死判定。",
+      "time": "星期五清晨"
+    },
+    {
+      "id": "logic_bomb_strike",
+      "description": "李疯狂利用“V我50”烂梗制造逻辑死锁，导致主厨逻辑核心溢出，神之握崩解。",
+      "time": "星期五清晨"
+    },
+    {
+      "id": "version_upgrade",
+      "description": "李疯狂收到红色优惠券，升级为Human_v2.0测试版，被判定无法离开“星期四”的餐桌，当前订单为“清蒸地球”。",
+      "time": "星期五清晨"
+    },
+    {
+      "id": "shadow_observer_reveal",
+      "description": "李疯狂身后影子中出现带有倒“V”字血眼的神秘存在进行观察。",
+      "time": "星期五清晨"
+    }
+  ],
+  "time_period": "新纪元第1个月，星期五清晨（逻辑修正值：+0.01秒）",
+  "locations": [
+    "第73区廉租公寓天台",
+    "“绝对零度”观测点",
+    "虚拟冰原（覆写后的第73区）"
+  ],
+  "key_facts": [
+    {
+      "id": "protagonist_status",
+      "content": "李疯狂当前版本为Human_v2.0（测试版），无序列超能力，体能仅社畜水平。"
+    },
+    {
+      "id": "weapon_rib_spoon",
+      "content": "李疯狂手中武器为【李小鱼的肋骨（骨勺）】，对高维逻辑具有实体伤害判定。"
+    },
+    {
+      "id": "logic_vulnerability",
+      "content": "高维神明无法处理无逻辑的烂梗（如“V我50”概念），此类输入会导致逻辑乱码和物理伤害。"
+    },
+    {
+      "id": "world_state",
+      "content": "世界被揭示为“餐厅”，人类为“食材”，主厨正准备“清蒸地球”。"
+    },
+    {
+      "id": "binding_mechanism",
+      "content": "李疯狂保留了“拒绝”的权利，但代价是永远无法离开“星期四”的餐桌。"
+    },
+    {
+      "id": "shadow_entity",
+      "content": "李疯狂的影子中潜伏着一个未知的、对他持满意态度的敌对/观察存在。"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "李 crazy",
+        "李 疯狂",
+        "小李",
+        "疯狂星期四"
+      ]
+    },
+    {
+      "role_or_identity": "反派/神明",
+      "names": [
+        "主厨",
+        "掌勺的",
+        "上面那个",
+        "神明",
+        "上帝"
+      ]
+    }
+  ]
+}

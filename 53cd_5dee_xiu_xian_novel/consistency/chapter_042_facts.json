@@ -1,0 +1,90 @@
+{
+  "characters_present": [
+    {
+      "name": "江越",
+      "age": "未知",
+      "role": "主角",
+      "description": "散乱刘海，眼神如枯井般平静但充满愤怒，嘴角有血迹",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "内门弟子/江越同伴",
+      "description": "胸口被毒箭射得千疮百孔，脸色惨白如纸",
+      "status": "incapacitated"
+    },
+    {
+      "name": "魔化宗主",
+      "age": "未知",
+      "role": "反派/太玄宗宗主",
+      "description": "魔气缭绕，持有本命法宝混元金斗",
+      "status": "defeated"
+    },
+    {
+      "name": "王虎",
+      "age": "未知",
+      "role": "杂役弟子",
+      "description": "手持重型破拆锤，赤红双眼",
+      "status": "active"
+    },
+    {
+      "name": "李二牛",
+      "age": "未知",
+      "role": "杂役弟子",
+      "description": "手持多功能金刚锯",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "魔化宗主",
+      "reason": "法宝被毁遭受反噬，重伤跌落"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "system_tool_redemption",
+      "description": "江越消耗所有反差值兑换了‘凡人工业力·狂暴级’支援包（重型破拆锤、多功能金刚锯、液压剪切钳）",
+      "time": "正午"
+    },
+    {
+      "id": "demolition_battle_start",
+      "description": "江越带领杂役弟子手持工业工具对抗血傀儡，将修仙战斗定义为‘拆迁’",
+      "time": "正午"
+    },
+    {
+      "id": "salt_exorcism",
+      "description": "江越使用高浓度工业盐化解了物理攻击无效的血鬼",
+      "time": "正午"
+    },
+    {
+      "id": "golden_cup_destruction",
+      "description": "魔化宗主祭出本命法宝混元金斗，被江越用液压剪切钳（毁灭级）拦腰剪断",
+      "time": "正午"
+    }
+  ],
+  "time_period": "正午",
+  "locations": [
+    "太玄宗大殿广场"
+  ],
+  "key_facts": [
+    {
+      "id": "jiangyue_equipment",
+      "content": "江越目前装备重型工业工具，依赖物理/化学手段而非灵力战斗"
+    },
+    {
+      "id": "artifact_status",
+      "content": "魔化宗主的极品法宝混元金斗已被彻底剪断损毁"
+    },
+    {
+      "id": "linqingxue_condition",
+      "content": "林清雪身中剧毒箭伤，处于昏迷或濒死状态，由江越背负"
+    },
+    {
+      "id": "sect_morale",
+      "content": "太玄宗杂役弟子在江越带领下组成‘拆迁队’，利用蛮力和工业工具压制了敌方血傀儡"
+    }
+  ]
+}

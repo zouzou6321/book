@@ -1,0 +1,94 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "篡改者/程序员",
+      "description": "面部流着两行干涸黑血，左眼瞳孔倒“V”字符号黯淡残缺，极度虚弱无力",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "特工",
+      "description": "左臂青色电路板纹路蔓延至脖颈，手持黑色手枪，穿着沾满污渍的战术风衣",
+      "status": "active"
+    },
+    {
+      "name": "变异鼠首领",
+      "age": "未知",
+      "role": "下水道清道夫/怪物",
+      "description": "比特犬大小，灰白色水泥硬质皮肤，背部长有排列成排的人牙",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "变异鼠首领",
+    "变异鼠食客"
+  ],
+  "character_exits": [
+    {
+      "name": "变异鼠首领",
+      "reason": "死亡"
+    },
+    {
+      "name": "变异鼠群",
+      "reason": "逃跑"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "environment_restoration",
+      "description": "随着“刀片嘴队长”灭亡，图书馆伪装剥落，恢复成神明消化道的肉质迷宫样貌",
+      "time": "黄昏"
+    },
+    {
+      "id": "li_power_failure",
+      "description": "李疯狂因过度使用【篡改 · 概念覆写】导致精神力枯竭，篡改能力失效，体内怪物沉睡",
+      "time": "黄昏"
+    },
+    {
+      "id": "rat_encounter",
+      "description": "李疯狂在遭遇变异鼠首领袭击时因无力反抗险些丧命",
+      "time": "黄昏"
+    },
+    {
+      "id": "su_saves_li",
+      "description": "苏浅开枪射杀变异鼠首领，并背起虚弱的李疯狂继续向“喉咙”前行",
+      "time": "黄昏"
+    },
+    {
+      "id": "paper_digestion",
+      "description": "李疯狂确认胃内的关键纸条已在战斗中彻底分解转化为养分",
+      "time": "黄昏"
+    }
+  ],
+  "time_period": "黄昏（神明腹中无光之时）",
+  "locations": [
+    "食管迷宫",
+    "通往“喉咙”的下水道交界处"
+  ],
+  "key_facts": [
+    {
+      "id": "li_condition",
+      "content": "李疯狂目前丧失了全部战斗能力和数据解析能力，身体状态接近凡人，左眼倒“V”字符号黯淡残缺。"
+    },
+    {
+      "id": "su_condition",
+      "content": "苏浅身上的电路板异变纹路已延伸至脖颈，并且变得更加明亮、繁杂。"
+    },
+    {
+      "id": "monster_rat_features",
+      "content": "下水道变异鼠（食客）具有水泥状皮肤、带刺和吸盘的尾巴，背部生长有一排排人牙，并能简单吐露词汇（如“未付款”）。"
+    },
+    {
+      "id": "throat_destination",
+      "content": "前方红色光晕处是目的地“喉咙”，空气中混合着炸鸡香味和血腥味。"
+    },
+    {
+      "id": "world_philosophy",
+      "content": "苏浅认为在这个疯狂的世界里只有怪物才能活命，人只是食物。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

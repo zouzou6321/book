@@ -1,0 +1,96 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "副主厨/补天者",
+      "description": "左眼为银灰色义眼（双同心圆瞳孔），胸口嵌有红色乐高积木（结石），手中持有【李小鱼的肋骨（骨勺）】，最终身体崩解化为0和1",
+      "status": "deceased"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "AI助手/逻辑核心",
+      "description": "存在于李疯狂左眼内的声音，负责计算和导航",
+      "status": "departed"
+    },
+    {
+      "name": "主厨",
+      "age": "未知",
+      "role": "神之餐厅拥有者/循环缔造者",
+      "description": "呈现在穹顶裂隙中的巨大金色瞳孔，无法直视",
+      "status": "active"
+    },
+    {
+      "name": "食客",
+      "age": "未知",
+      "role": "用餐的高维生物",
+      "description": "形态包括沸腾的紫色沥青、眼球金字塔、深渊概念等",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "李疯狂",
+      "reason": "自我牺牲，将身体和记忆（红色乐高积木）填入时间轴缺口以完成补天"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "entry_gods_restaurant",
+      "description": "李疯狂通过“退货门”进入神之餐厅核心祭坛，目睹被金色锁链贯穿并当做主菜的地球",
+      "time": "最终时刻"
+    },
+    {
+      "id": "chef_confrontation",
+      "description": "主厨现身，因李疯狂产生“变质”反应决定将其做成标本，引发重力反转和排斥反应",
+      "time": "最终时刻"
+    },
+    {
+      "id": "sky_mending_step1",
+      "description": "李疯狂将【星期碎片（周二的忧郁）】注入第一处节点，导致天空变成死灰色，逻辑重载",
+      "time": "疯狂周期崩溃边缘"
+    },
+    {
+      "id": "sky_mending_step2",
+      "description": "李疯狂将“旧日梦境”残渣注入地平线裂缝，引发逻辑混乱和世界稳定性下降",
+      "time": "疯狂周期崩溃边缘"
+    },
+    {
+      "id": "sacrifice_reset",
+      "description": "李疯狂进行“版本回滚”，强行拔出胸口嵌入心脏的红色乐高积木（第0号碎片·记忆之源），将其填入地心时间轴缺失的“人”字凹槽",
+      "time": "最终时刻"
+    },
+    {
+      "id": "cycle_break",
+      "description": "神之餐厅穹顶崩塌，金色锁链粉碎，地球恢复原本颜色，循环被打破，传出星期五早晨的闹钟声",
+      "time": "星期五早晨"
+    }
+  ],
+  "time_period": "最终时刻 / 疯狂周期崩溃边缘",
+  "locations": [
+    "神之餐厅 · 核心祭坛",
+    "地球（主菜餐桌）",
+    "虚空/地核轴心节点"
+  ],
+  "key_facts": [
+    {
+      "id": "earth_status",
+      "content": "地球被数十根金色锁链贯穿，作为神之餐厅的主菜，大气层呈粉橘色（半熟的绝望与信仰）"
+    },
+    {
+      "id": "missing_concept",
+      "content": "地心主锁链上的时间轴缺失了一个汉字“人”，这是世界被定义为食材的根本原因"
+    },
+    {
+      "id": "lego_stone",
+      "content": "镶嵌在李疯狂心脏瓣膜的红色乐高积木是【第0号碎片·记忆之源】，包含他所有的痛苦、遗憾和关于李小鱼的记忆"
+    },
+    {
+      "id": "ending_state",
+      "content": "李疯狂身体彻底崩解，仅剩躯壳坠落地心，补天计划成功，疯狂周期结束"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

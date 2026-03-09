@@ -1,0 +1,81 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "前程序员/记录者",
+      "description": "身穿破烂的皮卡丘睡衣，拥有真理之胃和记录者序列能力，右手可变为口器",
+      "status": "active"
+    },
+    {
+      "name": "D+级高危变异体",
+      "age": "未知",
+      "role": "变异怪物/食尸鬼",
+      "description": "身穿昂贵深灰色西装，光头，面部被占据2/3的垂直裂口取代，像蜘蛛般移动",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "D+级高危变异体"
+  ],
+  "character_exits": [
+    {
+      "name": "D+级高危变异体",
+      "reason": "被吞噬导致死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "enter_subway_station",
+      "description": "李疯狂进入废弃地铁站",
+      "time": "20:00"
+    },
+    {
+      "id": "awaken_recorder_sequence",
+      "description": "在解析D+级变异体攻击时，李疯狂觉醒【记录者】序列",
+      "time": "20:00"
+    },
+    {
+      "id": "defeat_and_devour",
+      "description": "李疯狂利用逻辑解析弱点击碎变异体膝盖，并将其吞噬",
+      "time": "20:00"
+    }
+  ],
+  "time_period": "第一周期·周五 20:00",
+  "locations": [
+    "幸福社区边缘",
+    "废弃地铁站入口",
+    "地铁站大厅"
+  ],
+  "key_facts": [
+    {
+      "id": "recorder_sequence_lv1",
+      "content": "李疯狂觉醒【记录者】序列LV.1（逻辑解析），能解析肉眼不可见的逻辑漏洞和攻击轨迹"
+    },
+    {
+      "id": "stomach_of_truth_upgrade",
+      "content": "李疯狂拥有【真理之胃】，可吞噬高能核心获得特性（如夜视、弱毒抗性）、记忆和能量"
+    },
+    {
+      "id": "hardening_concept",
+      "content": "李疯狂可以使用【硬化】概念覆盖拳锋，增加攻击硬度"
+    },
+    {
+      "id": "sanzhou_mutation_origin",
+      "content": "D+级变异体由“星期三·加班综合征”（社畜诅咒）导致变异"
+    },
+    {
+      "id": "sanity_status",
+      "content": "李疯狂理智值初始为32/100，在吞噬变异体后恢复至37/100"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "主角",
+      "names": [
+        "李疯狂",
+        "李 crazy"
+      ]
+    }
+  ]
+}

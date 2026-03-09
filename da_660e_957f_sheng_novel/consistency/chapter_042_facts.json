@@ -1,0 +1,118 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "外表25-26岁",
+      "role": "前神机营督师",
+      "description": "披洗得发白的灰布长袍，头裹青色方巾，长生不老，眼神沧桑",
+      "status": "active"
+    },
+    {
+      "name": "长生卫统领",
+      "age": "未知",
+      "role": "长生卫统领",
+      "description": "哑巴，孤儿，眼神比刀子冷",
+      "status": "active"
+    },
+    {
+      "name": "年轻人",
+      "age": "20出头",
+      "role": "书铺学徒/读书人",
+      "description": "身穿破旧儒衫，左臂断裂，怀抱雕版",
+      "status": "active"
+    },
+    {
+      "name": "洋鬼子",
+      "age": "未知",
+      "role": "神秘观察者",
+      "description": "碧蓝色眼睛，身后的双桅商船挂着红白蓝三色旗",
+      "status": "active"
+    },
+    {
+      "name": "瞿式耜",
+      "age": "未知",
+      "role": "大明殉道者/前阁部",
+      "description": "已故",
+      "status": "deceased"
+    },
+    {
+      "name": "张同敞",
+      "age": "未知",
+      "role": "总督",
+      "description": "已故",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "年轻人",
+    "长生卫统领",
+    "洋鬼子"
+  ],
+  "character_exits": [
+    {
+      "name": "瞿式耜",
+      "reason": "殉国"
+    },
+    {
+      "name": "张同敞",
+      "reason": "殉国"
+    },
+    {
+      "name": "陈默",
+      "reason": "撤离桂林"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "guilin_fall",
+      "description": "孔有德攻破桂林，瞿式耜与张同敞殉国",
+      "time": "永历四年（1650年）十一月"
+    },
+    {
+      "id": "burning_blueprints",
+      "description": "陈默在文渊刻印铺烧毁改良燧发枪和大炮图纸，决定封刀挂剑",
+      "time": "永历四年（1650年）十一月"
+    },
+    {
+      "id": "persuading_youth",
+      "description": "陈默说服受伤年轻人放弃送死，转而保存文化火种",
+      "time": "永历四年（1650年）十一月"
+    },
+    {
+      "id": "burying_armor",
+      "description": "陈默在漓江边埋葬自己的山文甲，告别过去",
+      "time": "永历四年（1650年）十一月"
+    },
+    {
+      "id": "foreign_ship_sighted",
+      "description": "陈默撤离时发现江对岸有挂着三色旗的外国商船监视",
+      "time": "永历四年（1650年）十一月"
+    }
+  ],
+  "time_period": "永历四年（1650年）十一月",
+  "locations": [
+    "桂林",
+    "独秀峰下",
+    "文渊刻印铺",
+    "漓江边"
+  ],
+  "key_facts": [
+    {
+      "id": "chen_mo_condition",
+      "content": "陈默服用朱砂蜡丸压制体内生机躁动的剧痛，是不死之身"
+    },
+    {
+      "id": "guard_leader_trait",
+      "content": "现任长生卫统领是个哑巴，是陈默从死人堆里救出的孤儿"
+    },
+    {
+      "id": "foreigner_features",
+      "content": "监视陈默的外国人拥有碧蓝色的眼睛，其船只悬挂红白蓝三色旗"
+    },
+    {
+      "id": "abandoning_weaponry",
+      "content": "陈默认为杀戮无法改变世道，决定销毁先进武器图纸，致力于保存书籍"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

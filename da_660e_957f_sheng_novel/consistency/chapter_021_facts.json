@@ -1,0 +1,121 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "二十五六岁（外貌）",
+      "role": "百草园主人、神机营统领",
+      "description": "身着青衣，面容无风霜痕迹，患有朱砂毒性导致的胃痛",
+      "status": "active"
+    },
+    {
+      "name": "青儿",
+      "age": "20",
+      "role": "陈默的护卫/下属",
+      "description": "身着玄色劲装，腰间别两柄短刀，左脸颊有一道延伸至耳际的浅浅刀疤",
+      "status": "active"
+    },
+    {
+      "name": "王主事",
+      "age": "未知",
+      "role": "户部主事",
+      "description": "留着山羊胡，对陈默持怀疑态度",
+      "status": "active"
+    },
+    {
+      "name": "崇祯帝",
+      "age": "未知",
+      "role": "大明皇帝",
+      "description": "双手颤抖，眼中闪烁着癫狂光芒，对能杀人的兵极度渴望",
+      "status": "active"
+    },
+    {
+      "name": "沈炼",
+      "age": "未知（鬓角染上风霜）",
+      "role": "锦衣卫北镇抚司掌印千户",
+      "description": "身着飞鱼服，目光锐利，洞察力强",
+      "status": "active"
+    },
+    {
+      "name": "儒生",
+      "age": "未知",
+      "role": "沈炼在户部的暗线",
+      "description": "身着儒衫，面容清瘦",
+      "status": "active"
+    },
+    {
+      "name": "后金骑骁校",
+      "age": "未知",
+      "role": "后金军队领头官",
+      "description": "挥舞弯刀，狞笑，身穿双重棉甲",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "王主事",
+    "沈炼",
+    "儒生",
+    "后金骑骁校"
+  ],
+  "character_exits": [
+    {
+      "name": "后金骑骁校",
+      "reason": "在战斗中被燧发枪击杀"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "flashback_memory",
+      "description": "陈默在北京城头回忆十年前（己巳之变）袁崇焕被捕及明军溃败的场景",
+      "time": "崇祯十二年（1639年）冬"
+    },
+    {
+      "id": "flintlock_victory",
+      "description": "神机营左营三千人使用燧发枪列阵，以排枪射击全歼偷袭的五百余名后金侦察营骑兵",
+      "time": "崇祯十二年（1639年）冬"
+    },
+    {
+      "id": "political_impeachment",
+      "description": "锦衣卫大捷后，翰林院老学究及户部弹劾陈默奇技淫巧、私吞公款及豢养私兵“长生卫”",
+      "time": "崇祯十二年（1639年）冬（三天后）"
+    },
+    {
+      "id": "chens_defiling_act",
+      "description": "陈默在醉月楼故意搂着美姬招摇过市，通过“自污”来降低朝廷和锦衣卫的戒心",
+      "time": "崇祯十二年（1639年）冬"
+    }
+  ],
+  "time_period": "崇祯十二年（1639年）冬",
+  "locations": [
+    "北京城头",
+    "乾清宫",
+    "茶楼雅间",
+    "醉月楼"
+  ],
+  "key_facts": [
+    {
+      "id": "chens_health_condition",
+      "content": "陈默长期服用含朱砂的丹药，患有严重的胃部绞痛和毒性反噬"
+    },
+    {
+      "id": "weapon_specs",
+      "content": "陈默研发的燧发枪造价三千两银子一支，使用燧石撞击发火，配备线膛和高能火药，可全天候作战"
+    },
+    {
+      "id": "qings_background",
+      "content": "青儿今年二十岁，曾是乱葬岗孤儿，两年前为拦截西班牙间谍在左脸颊留疤"
+    },
+    {
+      "id": "private_army_name",
+      "content": "陈默豢养的私兵被称为“长生卫”"
+    },
+    {
+      "id": "shaanxi_situation",
+      "content": "李自成使用诈降计脱困后势力渐起，陈奇瑜被问责，陕西三边局势糜烂"
+    },
+    {
+      "id": "shenlian_identity",
+      "content": "沈炼目前担任锦衣卫北镇抚司掌印千户"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,100 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "数据意识/防火墙",
+      "description": "最初为虚拟形态，后附身于阿傻体内",
+      "status": "active"
+    },
+    {
+      "name": "阿傻",
+      "age": "二十出头",
+      "role": "38号病人/生物容器",
+      "description": "面相憨厚，眼神呆滞，重度妄想症患者，身体营养不良",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "医生/逻辑锁芯",
+      "description": "穿着白大褂，头发挽在脑后，干练温柔",
+      "status": "departed"
+    },
+    {
+      "name": "镜中恶意实体",
+      "age": "未知",
+      "role": "病毒/旧日残渣",
+      "description": "由扭曲二维码拼凑成的脸",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "阿傻",
+    "镜中恶意实体"
+  ],
+  "character_exits": [
+    {
+      "name": "苏浅",
+      "reason": "离开病房"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "low_balance_warning",
+      "description": "系统提示快乐币余额不足（3.5），防火墙即将降级，李疯狂决定寻找实体容器",
+      "time": "23:15"
+    },
+    {
+      "id": "possession",
+      "description": "李疯狂选定市立第三精神卫生中心404号房间的阿傻作为容器，并成功附身",
+      "time": "23:15"
+    },
+    {
+      "id": "secret_encounter",
+      "description": "苏浅查房时，李疯狂通过关于炸鸡油温和星期四的暗语向其暗示身份",
+      "time": "23:15之后"
+    },
+    {
+      "id": "thursday_arrival",
+      "description": "零点时刻疯狂星期四降临，城市下水道喷发紫红光芒，镜中病毒试图夺舍",
+      "time": "00:00"
+    }
+  ],
+  "time_period": "新时间线第一个疯狂星期四前夕 23:15 至 当日 00:00",
+  "locations": [
+    "虚拟服务器机舱",
+    "市立第三精神卫生中心（重症监护区/404号病房）"
+  ],
+  "key_facts": [
+    {
+      "id": "currency_amount",
+      "content": "快乐币余额为3.5，消耗0.5后剩余3.0"
+    },
+    {
+      "id": "container_selection",
+      "content": "阿傻被称为“生物硬盘”，脑容量小且剩余空间大，适合作为低配防火墙的容器，不易引发排异"
+    },
+    {
+      "id": "world_logic",
+      "content": "世界规则将古神献祭变为“疯狂星期四”，旧日恐惧被压缩在精神病人大脑等“内存溢出区”中"
+    },
+    {
+      "id": "meeting_arrangement",
+      "content": "约定明天疯狂星期四在医院大门西侧第五棵树下的垃圾桶处交换信息"
+    },
+    {
+      "id": "midnight_anomaly",
+      "content": "疯狂星期四零点时，城市路灯熄灭，下水道喷涌出带有油炸香气的紫红光芒"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "38号病人",
+      "names": [
+        "阿傻",
+        "38号病人"
+      ]
+    }
+  ]
+}

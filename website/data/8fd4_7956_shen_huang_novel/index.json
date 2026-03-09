@@ -1,0 +1,2938 @@
+{
+  "id": "8fd4_7956_shen_huang_novel",
+  "title": "返祖神皇",
+  "subtitle": "Archaic Bloodline Supreme",
+  "author": "AI & Thomas",
+  "description": "",
+  "tags": [
+    "系统",
+    "灵气复苏",
+    "热血",
+    "升级流",
+    "杀伐果断",
+    "都市异能"
+  ],
+  "cover_hue": 210,
+  "cover_image": true,
+  "total_chapters": 360,
+  "total_chars": 18654,
+  "volumes": [
+    {
+      "id": "volume_1",
+      "name": "第一卷：异兽袭城，返祖觉醒",
+      "chapters": [
+        {
+          "id": "chapter_001",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_001.md",
+          "title": "第001章：加班夜归，异兽突现",
+          "time": "第1天 晚8:00",
+          "location": "东海市郊区地铁口施工路段",
+          "char_count": 2886
+        },
+        {
+          "id": "chapter_002",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_002.md",
+          "title": "第002章：濒死绑定，返祖系统激活",
+          "time": "第1天 晚8:07",
+          "location": "东海市郊区16号线地铁口施工路段",
+          "char_count": 3285
+        },
+        {
+          "id": "chapter_003",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_003.md",
+          "title": "第003章：手撕异兽，龙组到场",
+          "time": "第1天 晚8:20",
+          "location": "东海市郊区16号线地铁口施工路段",
+          "char_count": 2888
+        },
+        {
+          "id": "chapter_004",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_004.md",
+          "title": "第004章：抢功逼供，你也配？",
+          "time": "第1天 晚8:30",
+          "location": "东海市郊区16号线地铁口施工路段",
+          "char_count": 3580
+        },
+        {
+          "id": "chapter_005",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_005.md",
+          "title": "第005章：黑料投屏，身败名裂",
+          "time": "第1天 晚8:40",
+          "location": "东海市郊区16号线地铁口施工路段",
+          "char_count": 3175
+        },
+        {
+          "id": "chapter_006",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_006.md",
+          "title": "第006章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_007",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_007.md",
+          "title": "第007章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_008",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_008.md",
+          "title": "第008章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_009",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_009.md",
+          "title": "第009章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_010",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_010.md",
+          "title": "第010章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_011",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_011.md",
+          "title": "第011章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_012",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_012.md",
+          "title": "第012章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_013",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_013.md",
+          "title": "第013章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_014",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_014.md",
+          "title": "第014章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_015",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_015.md",
+          "title": "第015章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_016",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_016.md",
+          "title": "第016章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_017",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_017.md",
+          "title": "第017章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_018",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_018.md",
+          "title": "第018章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_019",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_019.md",
+          "title": "第019章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_020",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_020.md",
+          "title": "第020章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_021",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_021.md",
+          "title": "第021章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_022",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_022.md",
+          "title": "第022章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_023",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_023.md",
+          "title": "第023章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_024",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_024.md",
+          "title": "第024章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_025",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_025.md",
+          "title": "第025章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_026",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_026.md",
+          "title": "第026章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_027",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_027.md",
+          "title": "第027章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_028",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_028.md",
+          "title": "第028章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_029",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_029.md",
+          "title": "第029章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_030",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_030.md",
+          "title": "第030章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_031",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_031.md",
+          "title": "第031章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_032",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_032.md",
+          "title": "第032章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_033",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_033.md",
+          "title": "第033章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_034",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_034.md",
+          "title": "第034章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_035",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_035.md",
+          "title": "第035章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_036",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_036.md",
+          "title": "第036章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_037",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_037.md",
+          "title": "第037章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_038",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_038.md",
+          "title": "第038章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_039",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_039.md",
+          "title": "第039章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_040",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_040.md",
+          "title": "第040章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_041",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_041.md",
+          "title": "第041章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_042",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_042.md",
+          "title": "第042章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_043",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_043.md",
+          "title": "第043章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_044",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_044.md",
+          "title": "第044章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_045",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_045.md",
+          "title": "第045章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_046",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_046.md",
+          "title": "第046章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_047",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_047.md",
+          "title": "第047章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_048",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_048.md",
+          "title": "第048章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_049",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_049.md",
+          "title": "第049章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_050",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_050.md",
+          "title": "第050章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_051",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_051.md",
+          "title": "第051章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_052",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_052.md",
+          "title": "第052章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_053",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_053.md",
+          "title": "第053章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_054",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_054.md",
+          "title": "第054章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_055",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_055.md",
+          "title": "第055章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_056",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_056.md",
+          "title": "第056章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_057",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_057.md",
+          "title": "第057章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_058",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_058.md",
+          "title": "第058章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_059",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_059.md",
+          "title": "第059章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_060",
+          "file": "8fd4_7956_shen_huang_novel/volume_1/chapter_060.md",
+          "title": "第060章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        }
+      ]
+    },
+    {
+      "id": "volume_2",
+      "name": "第二卷：遗珍出世，初斩邪修",
+      "chapters": [
+        {
+          "id": "chapter_061",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_061.md",
+          "title": "第061章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_062",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_062.md",
+          "title": "第062章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_063",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_063.md",
+          "title": "第063章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_064",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_064.md",
+          "title": "第064章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_065",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_065.md",
+          "title": "第065章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_066",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_066.md",
+          "title": "第066章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_067",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_067.md",
+          "title": "第067章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_068",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_068.md",
+          "title": "第068章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_069",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_069.md",
+          "title": "第069章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_070",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_070.md",
+          "title": "第070章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_071",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_071.md",
+          "title": "第071章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_072",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_072.md",
+          "title": "第072章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_073",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_073.md",
+          "title": "第073章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_074",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_074.md",
+          "title": "第074章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_075",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_075.md",
+          "title": "第075章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_076",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_076.md",
+          "title": "第076章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_077",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_077.md",
+          "title": "第077章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_078",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_078.md",
+          "title": "第078章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_079",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_079.md",
+          "title": "第079章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_080",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_080.md",
+          "title": "第080章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_081",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_081.md",
+          "title": "第081章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_082",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_082.md",
+          "title": "第082章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_083",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_083.md",
+          "title": "第083章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_084",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_084.md",
+          "title": "第084章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_085",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_085.md",
+          "title": "第085章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_086",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_086.md",
+          "title": "第086章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_087",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_087.md",
+          "title": "第087章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_088",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_088.md",
+          "title": "第088章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_089",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_089.md",
+          "title": "第089章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_090",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_090.md",
+          "title": "第090章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_091",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_091.md",
+          "title": "第091章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_092",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_092.md",
+          "title": "第092章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_093",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_093.md",
+          "title": "第093章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_094",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_094.md",
+          "title": "第094章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_095",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_095.md",
+          "title": "第095章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_096",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_096.md",
+          "title": "第096章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_097",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_097.md",
+          "title": "第097章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_098",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_098.md",
+          "title": "第098章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_099",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_099.md",
+          "title": "第099章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_100",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_100.md",
+          "title": "第100章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_101",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_101.md",
+          "title": "第101章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_102",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_102.md",
+          "title": "第102章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_103",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_103.md",
+          "title": "第103章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_104",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_104.md",
+          "title": "第104章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_105",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_105.md",
+          "title": "第105章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_106",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_106.md",
+          "title": "第106章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_107",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_107.md",
+          "title": "第107章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_108",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_108.md",
+          "title": "第108章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_109",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_109.md",
+          "title": "第109章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_110",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_110.md",
+          "title": "第110章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_111",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_111.md",
+          "title": "第111章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_112",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_112.md",
+          "title": "第112章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_113",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_113.md",
+          "title": "第113章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_114",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_114.md",
+          "title": "第114章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_115",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_115.md",
+          "title": "第115章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_116",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_116.md",
+          "title": "第116章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_117",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_117.md",
+          "title": "第117章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_118",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_118.md",
+          "title": "第118章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_119",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_119.md",
+          "title": "第119章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_120",
+          "file": "8fd4_7956_shen_huang_novel/volume_2/chapter_120.md",
+          "title": "第120章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        }
+      ]
+    },
+    {
+      "id": "volume_3",
+      "name": "第三卷：名震全球，血脉融合",
+      "chapters": [
+        {
+          "id": "chapter_121",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_121.md",
+          "title": "第121章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_122",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_122.md",
+          "title": "第122章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_123",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_123.md",
+          "title": "第123章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_124",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_124.md",
+          "title": "第124章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_125",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_125.md",
+          "title": "第125章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_126",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_126.md",
+          "title": "第126章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_127",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_127.md",
+          "title": "第127章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_128",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_128.md",
+          "title": "第128章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_129",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_129.md",
+          "title": "第129章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_130",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_130.md",
+          "title": "第130章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_131",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_131.md",
+          "title": "第131章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_132",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_132.md",
+          "title": "第132章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_133",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_133.md",
+          "title": "第133章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_134",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_134.md",
+          "title": "第134章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_135",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_135.md",
+          "title": "第135章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_136",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_136.md",
+          "title": "第136章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_137",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_137.md",
+          "title": "第137章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_138",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_138.md",
+          "title": "第138章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_139",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_139.md",
+          "title": "第139章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_140",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_140.md",
+          "title": "第140章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_141",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_141.md",
+          "title": "第141章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_142",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_142.md",
+          "title": "第142章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_143",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_143.md",
+          "title": "第143章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_144",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_144.md",
+          "title": "第144章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_145",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_145.md",
+          "title": "第145章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_146",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_146.md",
+          "title": "第146章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_147",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_147.md",
+          "title": "第147章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_148",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_148.md",
+          "title": "第148章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_149",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_149.md",
+          "title": "第149章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_150",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_150.md",
+          "title": "第150章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_151",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_151.md",
+          "title": "第151章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_152",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_152.md",
+          "title": "第152章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_153",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_153.md",
+          "title": "第153章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_154",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_154.md",
+          "title": "第154章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_155",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_155.md",
+          "title": "第155章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_156",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_156.md",
+          "title": "第156章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_157",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_157.md",
+          "title": "第157章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_158",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_158.md",
+          "title": "第158章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_159",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_159.md",
+          "title": "第159章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_160",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_160.md",
+          "title": "第160章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_161",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_161.md",
+          "title": "第161章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_162",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_162.md",
+          "title": "第162章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_163",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_163.md",
+          "title": "第163章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_164",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_164.md",
+          "title": "第164章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_165",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_165.md",
+          "title": "第165章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_166",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_166.md",
+          "title": "第166章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_167",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_167.md",
+          "title": "第167章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_168",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_168.md",
+          "title": "第168章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_169",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_169.md",
+          "title": "第169章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_170",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_170.md",
+          "title": "第170章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_171",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_171.md",
+          "title": "第171章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_172",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_172.md",
+          "title": "第172章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_173",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_173.md",
+          "title": "第173章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_174",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_174.md",
+          "title": "第174章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_175",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_175.md",
+          "title": "第175章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_176",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_176.md",
+          "title": "第176章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_177",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_177.md",
+          "title": "第177章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_178",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_178.md",
+          "title": "第178章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_179",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_179.md",
+          "title": "第179章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_180",
+          "file": "8fd4_7956_shen_huang_novel/volume_3/chapter_180.md",
+          "title": "第180章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        }
+      ]
+    },
+    {
+      "id": "volume_4",
+      "name": "第四卷：秘辛初现，邪族前兆",
+      "chapters": [
+        {
+          "id": "chapter_181",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_181.md",
+          "title": "第181章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_182",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_182.md",
+          "title": "第182章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_183",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_183.md",
+          "title": "第183章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_184",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_184.md",
+          "title": "第184章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_185",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_185.md",
+          "title": "第185章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_186",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_186.md",
+          "title": "第186章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_187",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_187.md",
+          "title": "第187章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_188",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_188.md",
+          "title": "第188章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_189",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_189.md",
+          "title": "第189章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_190",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_190.md",
+          "title": "第190章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_191",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_191.md",
+          "title": "第191章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_192",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_192.md",
+          "title": "第192章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_193",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_193.md",
+          "title": "第193章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_194",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_194.md",
+          "title": "第194章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_195",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_195.md",
+          "title": "第195章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_196",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_196.md",
+          "title": "第196章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_197",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_197.md",
+          "title": "第197章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_198",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_198.md",
+          "title": "第198章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_199",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_199.md",
+          "title": "第199章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_200",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_200.md",
+          "title": "第200章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_201",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_201.md",
+          "title": "第201章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_202",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_202.md",
+          "title": "第202章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_203",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_203.md",
+          "title": "第203章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_204",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_204.md",
+          "title": "第204章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_205",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_205.md",
+          "title": "第205章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_206",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_206.md",
+          "title": "第206章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_207",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_207.md",
+          "title": "第207章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_208",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_208.md",
+          "title": "第208章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_209",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_209.md",
+          "title": "第209章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_210",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_210.md",
+          "title": "第210章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_211",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_211.md",
+          "title": "第211章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_212",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_212.md",
+          "title": "第212章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_213",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_213.md",
+          "title": "第213章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_214",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_214.md",
+          "title": "第214章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_215",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_215.md",
+          "title": "第215章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_216",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_216.md",
+          "title": "第216章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_217",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_217.md",
+          "title": "第217章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_218",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_218.md",
+          "title": "第218章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_219",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_219.md",
+          "title": "第219章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_220",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_220.md",
+          "title": "第220章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_221",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_221.md",
+          "title": "第221章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_222",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_222.md",
+          "title": "第222章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_223",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_223.md",
+          "title": "第223章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_224",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_224.md",
+          "title": "第224章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_225",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_225.md",
+          "title": "第225章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_226",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_226.md",
+          "title": "第226章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_227",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_227.md",
+          "title": "第227章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_228",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_228.md",
+          "title": "第228章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_229",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_229.md",
+          "title": "第229章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_230",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_230.md",
+          "title": "第230章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_231",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_231.md",
+          "title": "第231章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_232",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_232.md",
+          "title": "第232章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_233",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_233.md",
+          "title": "第233章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_234",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_234.md",
+          "title": "第234章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_235",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_235.md",
+          "title": "第235章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_236",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_236.md",
+          "title": "第236章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_237",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_237.md",
+          "title": "第237章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_238",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_238.md",
+          "title": "第238章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_239",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_239.md",
+          "title": "第239章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_240",
+          "file": "8fd4_7956_shen_huang_novel/volume_4/chapter_240.md",
+          "title": "第240章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        }
+      ]
+    },
+    {
+      "id": "volume_5",
+      "name": "第五卷：诸圣归位，备战封界",
+      "chapters": [
+        {
+          "id": "chapter_241",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_241.md",
+          "title": "第241章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_242",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_242.md",
+          "title": "第242章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_243",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_243.md",
+          "title": "第243章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_244",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_244.md",
+          "title": "第244章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_245",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_245.md",
+          "title": "第245章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_246",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_246.md",
+          "title": "第246章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_247",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_247.md",
+          "title": "第247章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_248",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_248.md",
+          "title": "第248章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_249",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_249.md",
+          "title": "第249章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_250",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_250.md",
+          "title": "第250章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_251",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_251.md",
+          "title": "第251章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_252",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_252.md",
+          "title": "第252章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_253",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_253.md",
+          "title": "第253章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_254",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_254.md",
+          "title": "第254章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_255",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_255.md",
+          "title": "第255章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_256",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_256.md",
+          "title": "第256章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_257",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_257.md",
+          "title": "第257章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_258",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_258.md",
+          "title": "第258章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_259",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_259.md",
+          "title": "第259章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_260",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_260.md",
+          "title": "第260章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_261",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_261.md",
+          "title": "第261章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_262",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_262.md",
+          "title": "第262章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_263",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_263.md",
+          "title": "第263章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_264",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_264.md",
+          "title": "第264章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_265",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_265.md",
+          "title": "第265章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_266",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_266.md",
+          "title": "第266章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_267",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_267.md",
+          "title": "第267章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_268",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_268.md",
+          "title": "第268章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_269",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_269.md",
+          "title": "第269章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_270",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_270.md",
+          "title": "第270章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_271",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_271.md",
+          "title": "第271章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_272",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_272.md",
+          "title": "第272章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_273",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_273.md",
+          "title": "第273章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_274",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_274.md",
+          "title": "第274章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_275",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_275.md",
+          "title": "第275章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_276",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_276.md",
+          "title": "第276章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_277",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_277.md",
+          "title": "第277章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_278",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_278.md",
+          "title": "第278章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_279",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_279.md",
+          "title": "第279章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_280",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_280.md",
+          "title": "第280章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_281",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_281.md",
+          "title": "第281章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_282",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_282.md",
+          "title": "第282章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_283",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_283.md",
+          "title": "第283章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_284",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_284.md",
+          "title": "第284章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_285",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_285.md",
+          "title": "第285章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_286",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_286.md",
+          "title": "第286章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_287",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_287.md",
+          "title": "第287章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_288",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_288.md",
+          "title": "第288章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_289",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_289.md",
+          "title": "第289章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_290",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_290.md",
+          "title": "第290章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_291",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_291.md",
+          "title": "第291章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_292",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_292.md",
+          "title": "第292章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_293",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_293.md",
+          "title": "第293章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_294",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_294.md",
+          "title": "第294章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_295",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_295.md",
+          "title": "第295章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_296",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_296.md",
+          "title": "第296章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_297",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_297.md",
+          "title": "第297章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_298",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_298.md",
+          "title": "第298章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_299",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_299.md",
+          "title": "第299章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_300",
+          "file": "8fd4_7956_shen_huang_novel/volume_5/chapter_300.md",
+          "title": "第300章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        }
+      ]
+    },
+    {
+      "id": "volume_6",
+      "name": "第六卷：神皇临世，万古归一",
+      "chapters": [
+        {
+          "id": "chapter_301",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_301.md",
+          "title": "第301章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_302",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_302.md",
+          "title": "第302章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_303",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_303.md",
+          "title": "第303章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_304",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_304.md",
+          "title": "第304章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_305",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_305.md",
+          "title": "第305章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_306",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_306.md",
+          "title": "第306章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_307",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_307.md",
+          "title": "第307章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_308",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_308.md",
+          "title": "第308章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_309",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_309.md",
+          "title": "第309章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_310",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_310.md",
+          "title": "第310章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_311",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_311.md",
+          "title": "第311章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_312",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_312.md",
+          "title": "第312章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_313",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_313.md",
+          "title": "第313章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_314",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_314.md",
+          "title": "第314章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_315",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_315.md",
+          "title": "第315章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_316",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_316.md",
+          "title": "第316章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_317",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_317.md",
+          "title": "第317章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_318",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_318.md",
+          "title": "第318章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_319",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_319.md",
+          "title": "第319章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_320",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_320.md",
+          "title": "第320章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_321",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_321.md",
+          "title": "第321章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_322",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_322.md",
+          "title": "第322章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_323",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_323.md",
+          "title": "第323章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_324",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_324.md",
+          "title": "第324章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_325",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_325.md",
+          "title": "第325章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_326",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_326.md",
+          "title": "第326章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_327",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_327.md",
+          "title": "第327章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_328",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_328.md",
+          "title": "第328章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_329",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_329.md",
+          "title": "第329章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_330",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_330.md",
+          "title": "第330章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_331",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_331.md",
+          "title": "第331章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_332",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_332.md",
+          "title": "第332章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_333",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_333.md",
+          "title": "第333章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_334",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_334.md",
+          "title": "第334章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_335",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_335.md",
+          "title": "第335章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_336",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_336.md",
+          "title": "第336章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_337",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_337.md",
+          "title": "第337章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_338",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_338.md",
+          "title": "第338章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_339",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_339.md",
+          "title": "第339章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_340",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_340.md",
+          "title": "第340章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_341",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_341.md",
+          "title": "第341章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_342",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_342.md",
+          "title": "第342章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_343",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_343.md",
+          "title": "第343章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_344",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_344.md",
+          "title": "第344章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_345",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_345.md",
+          "title": "第345章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_346",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_346.md",
+          "title": "第346章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_347",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_347.md",
+          "title": "第347章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_348",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_348.md",
+          "title": "第348章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_349",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_349.md",
+          "title": "第349章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_350",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_350.md",
+          "title": "第350章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_351",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_351.md",
+          "title": "第351章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_352",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_352.md",
+          "title": "第352章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_353",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_353.md",
+          "title": "第353章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_354",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_354.md",
+          "title": "第354章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_355",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_355.md",
+          "title": "第355章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_356",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_356.md",
+          "title": "第356章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_357",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_357.md",
+          "title": "第357章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_358",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_358.md",
+          "title": "第358章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_359",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_359.md",
+          "title": "第359章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        },
+        {
+          "id": "chapter_360",
+          "file": "8fd4_7956_shen_huang_novel/volume_6/chapter_360.md",
+          "title": "第360章",
+          "time": "",
+          "location": "",
+          "char_count": 8
+        }
+      ]
+    }
+  ],
+  "channel": "male"
+}

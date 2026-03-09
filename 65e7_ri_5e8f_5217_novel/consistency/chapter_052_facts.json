@@ -1,0 +1,107 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角",
+      "description": "脸上爬满血红色裂纹，左眼漆黑如墨，右眼清澈，背部皮肤呈半透明状，掌心印有红色的'人'字",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "收容局特工/伙伴",
+      "description": "晶体化的左臂纹路蔓延至下巴下侧，短发，眼神冷冽",
+      "status": "active"
+    },
+    {
+      "name": "黑礼服李疯狂",
+      "age": "未知",
+      "role": "李疯狂的暗面/镜像投影",
+      "description": "身穿完美黑色礼服，坐在由苍白人手拼接的高背椅上，举止优雅",
+      "status": "deceased"
+    },
+    {
+      "name": "蜘蛛怪物",
+      "age": "未知",
+      "role": "苏浅的心魔/怪物",
+      "description": "长着苏浅脸孔的巨型蜘蛛，分泌绿色消化液",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "黑礼服李疯狂",
+    "蜘蛛怪物"
+  ],
+  "character_exits": [
+    {
+      "name": "黑礼服李疯狂",
+      "reason": "死亡"
+    },
+    {
+      "name": "蜘蛛怪物",
+      "reason": "死亡"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "rationality_game_start",
+      "description": "李疯狂与黑礼服自我展开关于'定义权'的理智博弈，每走一步需支付记忆作为筹码",
+      "time": "镜像空间内"
+    },
+    {
+      "id": "memory_loss",
+      "description": "黑礼服支付记忆作为代价，李疯狂短暂失去关于'苏浅'名字的记忆",
+      "time": "镜像空间内"
+    },
+    {
+      "id": "sucrystal_spread",
+      "description": "苏浅在镜像空间与模仿自己的蜘蛛怪物战斗，晶体化蔓延至下巴，她通过撕裂晶体感受痛楚来对抗理智同化",
+      "time": "镜像空间内"
+    },
+    {
+      "id": "swallow_darkness",
+      "description": "李疯狂拒绝交出人性，通过'心痛'确认存在，逆转局势并吃掉了黑礼服自我",
+      "time": "镜像空间内"
+    },
+    {
+      "id": "return_to_reality",
+      "description": "李疯狂与苏浅回到理智之塔顶层现实世界，主镜炸裂，李疯狂呕吐黑烟",
+      "time": "回归现实后"
+    }
+  ],
+  "time_period": "镜像空间内（时间无意义）",
+  "locations": [
+    "理智之塔顶层",
+    "无尽镜厅核心",
+    "棋盘状平台",
+    "屏幕废墟"
+  ],
+  "key_facts": [
+    {
+      "id": "sucrystal_status",
+      "content": "苏浅左臂的晶体化纹路已经蔓延到了下巴下侧"
+    },
+    {
+      "id": "licrazy_eyes",
+      "content": "李疯狂目前呈现异色瞳：左眼漆黑如墨，右眼清澈如水"
+    },
+    {
+      "id": "hand_character",
+      "content": "李疯狂右手掌心印有清晰的红色'人'字"
+    },
+    {
+      "id": "copy_info",
+      "content": "通关副本名称为'自我修养'，奖励为'理智-10，饥饿感+100'"
+    }
+  ],
+  "within_chapter_name_conflicts": [
+    {
+      "role_or_identity": "李疯狂的暗面/对手",
+      "names": [
+        "黑礼服李疯狂",
+        "黑礼服"
+      ]
+    }
+  ]
+}

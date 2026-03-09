@@ -1,0 +1,80 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "二十五六岁（外貌）",
+      "role": "郎中（伪装成杀猪匠）",
+      "description": "皮肤纹路清晰，脸色吞毒后泛起诡异的潮红",
+      "status": "active"
+    },
+    {
+      "name": "王管家",
+      "age": null,
+      "role": "信王府管家",
+      "description": "眼中闪过精光，意味深长",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "王管家",
+    "周氏",
+    "孙承宗"
+  ],
+  "character_exits": [
+    {
+      "name": "王管家",
+      "reason": "离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "suppress_parasite",
+      "description": "陈默吞服含毒丹药压制体内的‘虫噬’感以续命",
+      "time": "天启三年春"
+    },
+    {
+      "id": "gunpowder_proposal",
+      "description": "陈默将改良的颗粒化火药配方交给信王府管家",
+      "time": "天启三年春"
+    },
+    {
+      "id": "proposal_rejection",
+      "description": "工部与军器监以不合祖法、耗时费力为由驳回改良火药方案",
+      "time": "六月中旬"
+    },
+    {
+      "id": "chinese_strategy_plan",
+      "description": "陈默决定放弃技术入股朝廷，转而建立私人武装力量（死士）",
+      "time": "六月中旬"
+    }
+  ],
+  "time_period": "天启三年（1623年）春至六月中旬",
+  "locations": [
+    "北京城",
+    "崇文门外陈默私宅",
+    "辽东"
+  ],
+  "key_facts": [
+    {
+      "id": "chenmo_condition",
+      "content": "陈默体内有‘虫噬’感，需长期服用含朱砂、铅粉和硫磺的‘金丹’来维持生命"
+    },
+    {
+      "id": "cover_identity",
+      "content": "陈默向朱由检树立的形象是贪财、手黑、祖传杀猪匠郎中"
+    },
+    {
+      "id": "improved_formula",
+      "content": "陈默提供了优化了硝硫炭比例、去除水分并加入微量‘药引’助燃剂的颗粒化火药配方"
+    },
+    {
+      "id": "bureaucratic_failure",
+      "content": "工部侍郎以‘荒诞不经、不合祖宗成法’为由拒绝新配方，军器监以‘恐误战机’为由拒绝"
+    },
+    {
+      "id": "new_goal",
+      "content": "陈默计划购地建庄收流民，建立名为‘长生卫’雏形的私人死士队伍"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

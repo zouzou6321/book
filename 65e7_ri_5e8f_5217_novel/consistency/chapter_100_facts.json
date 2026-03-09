@@ -1,0 +1,87 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "篡改者/自称管理员",
+      "description": "穿着沾满油污的燕尾服，戴着高耸的礼帽和配套假发套。左眼深处带着惨白色倒“V”字符号的瞳孔（发动能力时变成血红色正“V”）。",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "保镖/最佳员工",
+      "description": "覆满钛合金装甲的机械身躯，左肩贴着“最佳员工”黄色便利贴，拥有独眼（在黑暗中闪烁红光）。",
+      "status": "active"
+    },
+    {
+      "name": "领班",
+      "age": "",
+      "role": "旧日餐厅侍者/领班",
+      "description": "身形高大，穿着笔挺白色制服，无脸（面部为长满利齿的旋涡），脖子上挂有疯狂逆时针转动的金色怀表，手臂由银质餐刀组成。",
+      "status": "departed"
+    }
+  ],
+  "new_characters_introduced": [
+    "领班"
+  ],
+  "character_exits": [
+    {
+      "name": "领班",
+      "reason": "被苏浅抓起甩向虚空引发崩塌"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "leave_safehouse",
+      "description": "李疯狂和苏浅离开第4区安全屋，安全屋随即融化消解。",
+      "time": "下午三点整"
+    },
+    {
+      "id": "arrive_restaurant",
+      "description": "两人抵达旧日餐厅的主宴会厅，位于一辆巨大的餐车（银色托盘）上，下方是无尽深渊和旧日支配者餐桌。",
+      "time": "下午三点整"
+    },
+    {
+      "id": "concept_overwrite",
+      "description": "面对领班的威胁，李疯狂发动【篡改 · 概念覆写 —— “霸王餐”】，利用认知奇点核心碎片将用餐关系篡改为强制消费纠纷。",
+      "time": "下午三点整"
+    },
+    {
+      "id": "collapse_chain",
+      "description": "苏浅启动Type-K · 绝过载模式，将死机的领班甩向餐盘链条，引发物理崩塌。",
+      "time": "下午三点整"
+    },
+    {
+      "id": "flip_the_table",
+      "description": "李疯狂手持骨勺向主厨发起攻击，试图掀起餐桌（破坏用餐礼仪），主厨巨手落下反击。",
+      "time": "下午三点整"
+    }
+  ],
+  "time_period": "疯狂周期·周一与周二的重叠日（疯狂星期四）/ 下午三点整",
+  "locations": [
+    "现实边界·第4区安全屋",
+    "深渊餐厅·主宴会厅",
+    "巨大的餐车（银色托盘）",
+    "悬浮的餐盘链条"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_weapon",
+      "content": "李疯狂的主武器是一把生锈的骨勺，柄部由李小鱼的肋骨制成，勺子凹陷处连接黑色深渊。"
+    },
+    {
+      "id": "li_crazy_eye_symbol",
+      "content": "李疯狂左眼有符号特征，常态为惨白色倒“V”，发动篡改能力时变为血红色正“V”。"
+    },
+    {
+      "id": "alterer_protocol",
+      "content": "李疯狂拥有【篡改者】协议及【序列能力：篡改 · 概念覆写】。"
+    },
+    {
+      "id": "suqian_overload",
+      "content": "苏浅拥有【Type-K · 绝过载模式】机械臂能力，会造成机体损伤。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,439 @@
+{
+  "id": "53cd_5dee_xiu_xian_novel",
+  "title": "反差人生",
+  "subtitle": "Contrast Cultivation",
+  "author": "AI & Thomas",
+  "description": "一个学渣穿越修仙世界，觉醒了反差系统，只能通过不断制造反差来获得提升",
+  "tags": [
+    "系统",
+    "修仙",
+    "穿越",
+    "搞笑",
+    "扮猪吃虎"
+  ],
+  "cover_hue": 351,
+  "cover_image": true,
+  "total_chapters": 50,
+  "total_chars": 252228,
+  "volumes": [
+    {
+      "id": "volume_1",
+      "name": "第一卷：废柴大师兄",
+      "chapters": [
+        {
+          "id": "chapter_001",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_001.md",
+          "title": "第001章：我跪下是因为在参悟蚂蚁",
+          "time": "穿越第一天，辰时（上午 7-9 点）",
+          "location": "太玄宗外门 - 杂役弟子舍院",
+          "char_count": 3624
+        },
+        {
+          "id": "chapter_002",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_002.md",
+          "title": "第002章：扫地僧的传说，从一根树枝开始",
+          "time": "穿越第一天，午时",
+          "location": "太玄宗外门 - 后山竹林",
+          "char_count": 4414
+        },
+        {
+          "id": "chapter_003",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_003.md",
+          "title": "第003章：偷吃灵米是为了炼化天地精华",
+          "time": "穿越第二天，丑时（深夜 01:00 - 03:00）",
+          "location": "太玄宗外门 - 宗门食堂后厨",
+          "char_count": 3808
+        },
+        {
+          "id": "chapter_004",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_004.md",
+          "title": "第004章：高人对凡俗功法不感兴趣",
+          "time": "穿越第四天，巳时（上午 09:00 - 11:00）",
+          "location": "太玄宗外门 - 藏经阁外围",
+          "char_count": 5061
+        },
+        {
+          "id": "chapter_005",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_005.md",
+          "title": "第005章：师妹，你的剑法太僵硬",
+          "time": "穿越第七天，未时（下午 1:00 - 3:00）",
+          "location": "太玄宗外门 - 演武场角落",
+          "char_count": 4802
+        },
+        {
+          "id": "chapter_006",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_006.md",
+          "title": "第006章：这就是传说中的“以逸待劳”？",
+          "time": "穿越第十天，全天",
+          "location": "外门 - 弟子宿舍区大榕树下",
+          "char_count": 5602
+        },
+        {
+          "id": "chapter_007",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_007.md",
+          "title": "第007章：大比抽签，请务必抽到我",
+          "time": "穿越第十五天，大比开幕日，辰时二刻",
+          "location": "外门 - 演武广场",
+          "char_count": 4394
+        },
+        {
+          "id": "chapter_008",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_008.md",
+          "title": "第008章：路边石头皆神兵",
+          "time": "穿越第十五天，辰时三刻（上午 9:45）",
+          "location": "太玄宗外门 - 演武广场中央擂台",
+          "char_count": 4622
+        },
+        {
+          "id": "chapter_009",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_009.md",
+          "title": "第009章：我还没用力，你就倒下了",
+          "time": "穿越第十五天，巳时四刻（上午 10:00）",
+          "location": "太玄宗外门 - 演武广场擂台",
+          "char_count": 4617
+        },
+        {
+          "id": "chapter_010",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_010.md",
+          "title": "第010章：那把生锈的破菜刀哪里来的？",
+          "time": "穿越第十五天，未时（下午 1:00 - 3:00）",
+          "location": "太玄宗外门 - 杂役院废品回收站",
+          "char_count": 5079
+        },
+        {
+          "id": "chapter_011",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_011.md",
+          "title": "第011章：十强之争，硬萝卜当西瓜切",
+          "time": "穿越第十五天，申时（下午 3:00 - 5:00）",
+          "location": "太玄宗外门 - 演武广场",
+          "char_count": 4712
+        },
+        {
+          "id": "chapter_012",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_012.md",
+          "title": "第012章：一根大葱破剑阵",
+          "time": "穿越第十五天，酉时（下午 5:00 - 7:00）",
+          "location": "太玄宗外门 - 演武广场",
+          "char_count": 5206
+        },
+        {
+          "id": "chapter_013",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_013.md",
+          "title": "第013章：深夜访客与炼狱火域烤肉",
+          "time": "穿越第十五天，亥时（21:00 - 23:00）",
+          "location": "太玄宗外门 · 杂役院破茅屋",
+          "char_count": 5956
+        },
+        {
+          "id": "chapter_014",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_014.md",
+          "title": "第014章：半决赛，我在河边烤鱼你却想杀我",
+          "time": "穿越第十六天，午时三刻（上午 11:45）",
+          "location": "太玄宗外门 · 野外模拟战区——青云溪畔",
+          "char_count": 5039
+        },
+        {
+          "id": "chapter_015",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_015.md",
+          "title": "第015章：决战前夜，所有人的恐慌",
+          "time": "大比决赛前一日，戌时",
+          "location": "外门舍院 · 江越的破茅屋 / 闲云轩（李峰居所） / 外门赌坊",
+          "char_count": 6284
+        },
+        {
+          "id": "chapter_016",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_016.md",
+          "title": "第016章：决赛！天才吟诗，我系裤衩",
+          "time": "穿越第十七天，巳时三刻（上午 9:45）",
+          "location": "太玄宗 · 外门中心演武广场",
+          "char_count": 4309
+        },
+        {
+          "id": "chapter_017",
+          "file": "53cd_5dee_xiu_xian_novel/volume_1/chapter_017.md",
+          "title": "第017章：这是何等的高风亮节！",
+          "time": "穿越第十七天，巳时四刻（上午 10:00）",
+          "location": "太玄宗·演武广场 → 太玄宗主大殿",
+          "char_count": 5287
+        }
+      ]
+    },
+    {
+      "id": "volume_2",
+      "name": "第二卷：全宗皆是戏精",
+      "chapters": [
+        {
+          "id": "chapter_018",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_018.md",
+          "title": "第018章：被迫上任的大师兄",
+          "time": "穿越第十七天，戌时（晚上 7:00 - 9:00）",
+          "location": "太玄宗·主峰大殿 -> 内门首席居所“听雨阁”",
+          "char_count": 6458
+        },
+        {
+          "id": "chapter_019",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_019.md",
+          "title": "第019章：瞎扯淡翻译机",
+          "time": "穿越第十八日，辰时二刻（上午 08:30）",
+          "location": "太玄宗·内门演武场",
+          "char_count": 7142
+        },
+        {
+          "id": "chapter_020",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_020.md",
+          "title": "第020章：无为而废大法",
+          "time": "穿越第十八日，巳时三刻（上午 9:45）",
+          "location": "太玄宗·内门讲经堂",
+          "char_count": 5633
+        },
+        {
+          "id": "chapter_021",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_021.md",
+          "title": "第021章：这届徒弟太难带",
+          "time": "穿越第十九天，丑时（凌晨 1:00 - 3:00）",
+          "location": "太玄宗·听雨阁后花园",
+          "char_count": 5262
+        },
+        {
+          "id": "chapter_022",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_022.md",
+          "title": "第022章：倒挂金钩与火锅心法",
+          "time": "穿越第十九天，辰时（上午 07:00 - 09:00）",
+          "location": "太玄宗·后山小树林",
+          "char_count": 4483
+        },
+        {
+          "id": "chapter_023",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_023.md",
+          "title": "第023章：这就是心魔试炼？",
+          "time": "穿越第十九天，巳时二刻（上午 09:30）",
+          "location": "太玄宗 · 内门听雨阁 -> 后山竹林乱石岗",
+          "char_count": 4991
+        },
+        {
+          "id": "chapter_024",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_024.md",
+          "title": "第024章：隔壁宗门来踢馆",
+          "time": "穿越一个月后，午时三刻（烈日当空，却阴风阵阵）",
+          "location": "太玄宗·巍峨山门",
+          "char_count": 4598
+        },
+        {
+          "id": "chapter_025",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_025.md",
+          "title": "第025章：姜还是老的辣，人还是怂的好",
+          "time": "穿越第十八天，未时二刻（下午 1:30 - 2:30）",
+          "location": "太玄宗·山门前广场",
+          "char_count": 4757
+        },
+        {
+          "id": "chapter_026",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_026.md",
+          "title": "第026章：秘境试炼名单",
+          "time": "秘境开启前两日·未时（下午 1:00 - 3:00）",
+          "location": "太玄宗·主峰大殿",
+          "char_count": 4968
+        },
+        {
+          "id": "chapter_027",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_027.md",
+          "title": "第027章：秘境里的野营与生化危机",
+          "time": "秘境试炼第一天，午后",
+          "location": "上古秘境·幽静谷地",
+          "char_count": 6792
+        },
+        {
+          "id": "chapter_028",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_028.md",
+          "title": "第028章：这也能算阵法？",
+          "time": "上古秘境试炼 · 第二天清晨",
+          "location": "秘境 · 迷雾森林",
+          "char_count": 4589
+        },
+        {
+          "id": "chapter_029",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_029.md",
+          "title": "第029章：反套路的夺宝",
+          "time": "秘境开启第三日，未时三刻",
+          "location": "上古秘境·藏经洞遗址",
+          "char_count": 6376
+        },
+        {
+          "id": "chapter_030",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_030.md",
+          "title": "第030章：危机降临",
+          "time": "秘境试炼第四日近黄昏（酉时）",
+          "location": "上古秘境·藏经洞外荒原",
+          "char_count": 4181
+        },
+        {
+          "id": "chapter_031",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_031.md",
+          "title": "第031章：只有魔法才能打败魔法",
+          "time": "秘境试炼第四日酉时三刻",
+          "location": "上古秘境·藏经洞外荒原",
+          "char_count": 5287
+        },
+        {
+          "id": "chapter_032",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_032.md",
+          "title": "第032章：暴力补习",
+          "time": "秘境试炼·夕阳西下",
+          "location": "上古秘境·藏经洞外荒原",
+          "char_count": 5034
+        },
+        {
+          "id": "chapter_033",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_033.md",
+          "title": "第033章：带个金丹当教具",
+          "time": "秘境试炼闭幕日 · 正午",
+          "location": "太玄宗 · 秘境出口广场",
+          "char_count": 5395
+        },
+        {
+          "id": "chapter_034",
+          "file": "53cd_5dee_xiu_xian_novel/volume_2/chapter_034.md",
+          "title": "第034章：全宗首脑的震怖",
+          "time": "秘境试炼结束次日清晨",
+          "location": "太玄宗·内门演武广场 -> 戒律塔水牢",
+          "char_count": 3380
+        }
+      ]
+    },
+    {
+      "id": "volume_3",
+      "name": "第三卷：凡人斩仙魔",
+      "chapters": [
+        {
+          "id": "chapter_035",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_035.md",
+          "title": "第035章：打仗了，能带饭吗？",
+          "time": "午后",
+          "location": "太玄宗大殿前广场",
+          "char_count": 4743
+        },
+        {
+          "id": "chapter_036",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_036.md",
+          "title": "第036章：宗主的“仁义”大阵",
+          "time": "夜晚，戌时三刻",
+          "location": "太玄宗主峰·护宗大阵核心祭坛",
+          "char_count": 6372
+        },
+        {
+          "id": "chapter_037",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_037.md",
+          "title": "第037章：反攻，从挖祖坟开始",
+          "time": "次日清晨，薄雾未散",
+          "location": "太玄宗后山禁地·祖师爷埋骨地",
+          "char_count": 7471
+        },
+        {
+          "id": "chapter_038",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_038.md",
+          "title": "第038章：面具碎裂的一刻",
+          "time": "正午",
+          "location": "太玄宗正殿·后山思过崖",
+          "char_count": 5175
+        },
+        {
+          "id": "chapter_039",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_039.md",
+          "title": "第039章：全网黑，凡人当诛",
+          "time": "三日后的雨夜",
+          "location": "太玄宗境外十里，破败的山神庙",
+          "char_count": 5027
+        },
+        {
+          "id": "chapter_040",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_040.md",
+          "title": "第040章：学霸的愤怒不如抄家伙",
+          "time": "深夜",
+          "location": "太玄宗后山密林（追捕现场）",
+          "char_count": 4425
+        },
+        {
+          "id": "chapter_041",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_041.md",
+          "title": "第041章：重返太玄，带着一群废柴",
+          "time": "一周后，正午",
+          "location": "太玄宗山门外",
+          "char_count": 5367
+        },
+        {
+          "id": "chapter_042",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_042.md",
+          "title": "第042章：这根本不是修仙，是拆迁",
+          "time": "正午",
+          "location": "太玄宗大殿广场",
+          "char_count": 4735
+        },
+        {
+          "id": "chapter_043",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_043.md",
+          "title": "第043章：神仙打架，凡人看戏",
+          "time": "黄昏，残阳如血",
+          "location": "太玄宗主殿内（已成半废墟状态）",
+          "char_count": 4383
+        },
+        {
+          "id": "chapter_044",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_044.md",
+          "title": "第044章：系统，我最后信你一次",
+          "time": "午夜",
+          "location": "太玄宗主殿废墟上空",
+          "char_count": 6017
+        },
+        {
+          "id": "chapter_045",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_045.md",
+          "title": "第045章：最大的反差，是返璞归真",
+          "time": "决战时刻（丑时三刻）",
+          "location": "太玄宗废墟之上",
+          "char_count": 4314
+        },
+        {
+          "id": "chapter_046",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_046.md",
+          "title": "第046章：这一拳，叫补作业",
+          "time": "黎明前夕",
+          "location": "太玄宗废墟之上",
+          "char_count": 3992
+        },
+        {
+          "id": "chapter_047",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_047.md",
+          "title": "第047章：老板，结账",
+          "time": "大战次日清晨",
+          "location": "太玄宗大殿废墟",
+          "char_count": 5369
+        },
+        {
+          "id": "chapter_048",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_048.md",
+          "title": "第048章：新官上任三把火？不，我跑路",
+          "time": "三天后，未时三刻",
+          "location": "太玄宗·重建的主殿广场 / 下山官道",
+          "char_count": 4477
+        },
+        {
+          "id": "chapter_049",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_049.md",
+          "title": "第049章：关于修仙界的传说",
+          "time": "江越下山离去的一年后，未时三刻",
+          "location": "凡间城池，热闹非凡的“四海茶楼”",
+          "char_count": 4380
+        },
+        {
+          "id": "chapter_050",
+          "file": "53cd_5dee_xiu_xian_novel/volume_3/chapter_050.md",
+          "title": "第050章：尾声——补习班的召唤",
+          "time": "黄昏，残阳如血时",
+          "location": "通往江南桃花坞的官道，荒野林地旁",
+          "char_count": 3839
+        }
+      ]
+    }
+  ],
+  "channel": ""
+}

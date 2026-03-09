@@ -1,0 +1,94 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "未知",
+      "role": "主角/进化者",
+      "description": "皮肤表面有青灰色金属角质层，左手掌有深黑色叉子印记，牙齿泛金属光泽",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "未知",
+      "role": "感知者/搭档",
+      "description": "使用黑色手枪和战术护目镜，手臂因污染长出黑色晶体花纹",
+      "status": "active"
+    },
+    {
+      "name": "盒装侍者",
+      "age": "未知",
+      "role": "S级通缉犯/怪物",
+      "description": "巨大的纸桶脑袋，绘有扭曲老爷爷笑脸，手持带有数据流光的红光餐铲",
+      "status": "deceased"
+    },
+    {
+      "name": "垃圾王",
+      "age": "未知",
+      "role": "怪物/怨念集合体",
+      "description": "由快餐包装袋积聚而成，头部是发黑炸鸡桶，眼睛是红光霓虹灯",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [
+    "盒装侍者",
+    "垃圾王",
+    "烧火厨子"
+  ],
+  "character_exits": [
+    {
+      "name": "盒装侍者",
+      "reason": "头部被扯下，身体崩塌成废铁和塑料垃圾"
+    },
+    {
+      "name": "垃圾王",
+      "reason": "被李疯狂的强酸胃液彻底分解"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "plaza_battle",
+      "description": "李疯狂与苏浅在电视塔广场与半成品信徒及盒装侍者战斗，最终击杀盒装侍者",
+      "time": "周五傍晚"
+    },
+    {
+      "id": "enter_tv_tower",
+      "description": "两人逃入电视塔内部，发现此处被改造为诡异的儿童乐园风格",
+      "time": "周五傍晚"
+    },
+    {
+      "id": "garbage_king_defeat",
+      "description": "垃圾山聚合成垃圾王，苏浅物理攻击无效，李疯狂使用概念吞噬强酸将其消灭",
+      "time": "周五傍晚"
+    },
+    {
+      "id": "finding_recipe",
+      "description": "击败垃圾王后发现《周日食谱》，书中记载李疯狂和苏浅被列为主菜和配菜",
+      "time": "周五傍晚"
+    },
+    {
+      "id": "curing_corruption",
+      "description": "苏浅因污染身体崩溃，李疯狂喂食自己脱落的规则结晶鳞片，成功中和污染",
+      "time": "周五傍晚"
+    }
+  ],
+  "time_period": "周五傍晚，暴雨初歇",
+  "locations": [
+    "电视塔广场",
+    "电视塔内部"
+  ],
+  "key_facts": [
+    {
+      "id": "li_crazy_body_features",
+      "content": "李疯狂左手掌有深黑色叉子印记，具备高维技能概念吞噬（强酸分解），身体已进化出金属角质层"
+    },
+    {
+      "id": "sunday_menu",
+      "content": "存在名为《周日食谱》的书籍，其中将李疯狂列为主菜（S级食材），苏浅列为配菜，制作者为烧火厨子"
+    },
+    {
+      "id": "su_qian_condition",
+      "content": "苏浅作为感知者，受高维污染会在皮肤上生长黑色晶体，需食用高密度规则结晶压制"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

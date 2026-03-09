@@ -1,0 +1,67 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "26岁",
+      "role": "主角/前“理智之主”",
+      "description": "黑发如鸡窝般凌乱，眼窝深陷，脸色苍白，左眼无倒V字符号，腹部有赘肉，目前看似普通社畜。",
+      "status": "active"
+    },
+    {
+      "name": "无面外卖员",
+      "age": "未知",
+      "role": "古神代理人/催债者",
+      "description": "穿着绿色制服，脸上无五官，只有裂开到耳根的嘴，叼着香烟，手持滴血保温箱。",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "world_reset_awakening",
+      "description": "李疯狂在世界重置后的第一天醒来，发现自己回到了原初时间线（2024年10月周三），身体完好但变回了普通人。",
+      "time": "周三清晨"
+    },
+    {
+      "id": "system_silence",
+      "description": "李疯狂尝试呼唤系统，发现系统已消失，自身的高维权限和序列能力全部失效。",
+      "time": "周三清晨"
+    },
+    {
+      "id": "v_me_50_message",
+      "description": "手机屏幕短暂展示乱码后重组为“V我50！”字样，暗示重置并非免费。",
+      "time": "周三清晨"
+    },
+    {
+      "id": "san_value_reveal",
+      "description": "李疯狂看到自己视网膜上的San值状态显示为“已脱敏，但未结账”，意识到重置是透支消费。",
+      "time": "周三清晨"
+    },
+    {
+      "id": "delivery_encounter",
+      "description": "李疯狂在门外的无限长走廊遇到无面外卖员，面对威胁，他选择接过滴血的保温箱并宣战。",
+      "time": "清晨"
+    }
+  ],
+  "time_period": "世界重置后的第一天（原初时间线的2024年10月某周三清晨）",
+  "locations": [
+    "李疯狂的出租屋",
+    "扭曲的楼道走廊"
+  ],
+  "key_facts": [
+    {
+      "id": "reset_mechanism",
+      "content": "此次“世界重置”并非免费，李疯狂以透支未来痛苦和疯狂为代价换取了暂时的宁静，目前处于“已脱敏，但未结账”的状态。"
+    },
+    {
+      "id": "protagonist_status",
+      "content": "李疯狂目前肉体凡胎，无超自然能力，但保留了记忆，且在凝视或情绪激动时左眼深处仍能浮现黑光。"
+    },
+    {
+      "id": "hidden_reality",
+      "content": "虽然表象是世界回归正常，但在阳光死角和阴影处仍有高维物质（如蠕动的东西）存在，门外的走廊也已异化。"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

@@ -1,0 +1,96 @@
+{
+  "characters_present": [
+    {
+      "name": "萧严",
+      "age": "未知",
+      "role": "演员/重生定北侯",
+      "description": "身材修长，眼神深邃冷冽，穿风衣和西裤",
+      "status": "active"
+    },
+    {
+      "name": "王胖子",
+      "age": "未知",
+      "role": "经纪人/司机",
+      "description": "身材微胖，表情谄媚，开二手大众帕萨特",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "未知",
+      "role": "影后",
+      "description": "身穿白衬衫牛仔裤，素面朝天，长相酷似前世长公主李瑾",
+      "status": "active"
+    },
+    {
+      "name": "小满",
+      "age": "未知",
+      "role": "林清雪助理",
+      "description": "神色焦急，穿着雨衣",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "林清雪",
+    "小满"
+  ],
+  "character_exits": [
+    {
+      "name": "林清雪",
+      "reason": "乘车离开"
+    },
+    {
+      "name": "王胖子",
+      "reason": "驾车带萧严离开"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "car_accident_encounter",
+      "description": "萧严和王胖子在雨夜发现林清雪的迈巴赫陷在泥潭中",
+      "time": "深夜"
+    },
+    {
+      "id": "pushing_car",
+      "description": "萧严利用前世的力量和技巧，单人将迈巴赫推出泥坑",
+      "time": "深夜"
+    },
+    {
+      "id": "umbrella_interaction",
+      "description": "林清雪为萧严撑伞并递纸巾，两人产生短暂的情感交流",
+      "time": "深夜"
+    },
+    {
+      "id": "refusing_ride",
+      "description": "萧严以避免绯闻为由，拒绝了林清雪送他回家的提议",
+      "time": "深夜"
+    },
+    {
+      "id": "decision_to_drink",
+      "description": "萧严决定去喝酒以平复心绪",
+      "time": "深夜"
+    }
+  ],
+  "time_period": "2024年秋，深夜",
+  "locations": [
+    "横店影视城外街道",
+    "便利店屋檐下"
+  ],
+  "key_facts": [
+    {
+      "id": "xiaoyan_past_identity",
+      "content": "萧确信自己是重生后的定北侯，拥有超乎常人的力量技巧和前世记忆"
+    },
+    {
+      "id": "lin_qingxue_resemblance",
+      "content": "林清雪的容貌与萧严前世的长公主李瑾完全一致，且使用相同的沉水香"
+    },
+    {
+      "id": "xiaoyan_physicality",
+      "content": "尽管现代身体缺乏锻炼，但萧严依然能凭借技巧发挥出巨大的力量"
+    },
+    {
+      "id": "wang_fattys_attitude",
+      "content": "王胖子在见识萧严的演技和“手段”后，对其极度敬畏并视其为财神"
+    }
+  ]
+}

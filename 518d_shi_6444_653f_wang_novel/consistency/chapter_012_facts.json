@@ -1,0 +1,89 @@
+{
+  "characters_present": [
+    {
+      "name": "萧严",
+      "age": "",
+      "role": "男演员",
+      "description": "英俊略显阴郁，身穿灰色太监戏服",
+      "status": "active"
+    },
+    {
+      "name": "林清雪",
+      "age": "",
+      "role": "影后",
+      "description": "卸妆后柔弱，身穿风衣，佩戴墨镜",
+      "status": "active"
+    },
+    {
+      "name": "陈宇",
+      "age": "",
+      "role": "男演员",
+      "description": "身穿花哨的现代私服",
+      "status": "active"
+    },
+    {
+      "name": "王胖子",
+      "age": "",
+      "role": "经纪人",
+      "description": "体态肥胖",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "night_intimacy",
+      "description": "萧严与林清雪在保姆车内深夜交谈，两人关系升温，萧严表达了想利用林清雪的资源并在暗处保护她的意愿。",
+      "time": "深夜"
+    },
+    {
+      "id": "selecting_script",
+      "description": "萧严拒绝了《弈剑天下》和《迷雾追踪》，选择了小众剧本《暗夜行者》中的哑巴杀手角色“陈默”。",
+      "time": "深夜"
+    },
+    {
+      "id": "exchange_deal",
+      "description": "林清雪答应给萧严《暗夜行者》的资源，作为交换，萧严需负责买南街的臭豆腐并剥壳。",
+      "time": "深夜"
+    },
+    {
+      "id": "morning_confrontation",
+      "description": "次日清晨，陈宇在片场嘲讽萧严演太监没出息，萧严用言语犀利回击。",
+      "time": "次日清晨"
+    },
+    {
+      "id": "qingxues_support",
+      "description": "林清雪现身片场维护萧严，斥责陈宇并将其赶走。",
+      "time": "次日清晨"
+    },
+    {
+      "id": "cooking_plan",
+      "description": "萧严决定亲自下厨为林清雪做饭，并吩咐王胖子去买菜。",
+      "time": "次日清晨"
+    }
+  ],
+  "time_period": "深夜至次日清晨",
+  "locations": [
+    "横店影视城·林清雪私人保姆车内",
+    "片场/仿古街道"
+  ],
+  "key_facts": [
+    {
+      "id": "role_chenmo",
+      "content": "萧严选定的新角色名为“陈默”，出自剧本《暗夜行者》，是一个因童年创伤失语的哑巴双重间谍，全剧仅有两句台词。"
+    },
+    {
+      "id": "relationship_progress",
+      "content": "萧严与林清雪确立了某种互助且暧昧的私密关系，萧严直呼其名“清雪”。"
+    },
+    {
+      "id": "chenyu_antagonism",
+      "content": "陈宇是萧严的竞争对手，此前曾在演技上输给萧严，目前嫉妒林清雪对萧严的关照。"
+    },
+    {
+      "id": "wang_fatty",
+      "content": "王胖子是萧严的经纪人，性格懦弱，被萧严认为只会挡酒。"
+    }
+  ]
+}

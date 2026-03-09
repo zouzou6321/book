@@ -1,0 +1,84 @@
+{
+  "characters_present": [
+    {
+      "name": "萧寒",
+      "age": "未知",
+      "role": "定北侯 / 太师",
+      "description": "身穿宽大绯色官袍，面色蜡黄，眼下乌青，伪装成被酒色掏空的样子，实则内心深沉",
+      "status": "active"
+    },
+    {
+      "name": "老皇帝",
+      "age": "年过半百",
+      "role": "皇帝",
+      "description": "久居上位，心思深沉，把玩玉核桃，目光浑浊锐利",
+      "status": "active"
+    },
+    {
+      "name": "张远",
+      "age": "未知",
+      "role": "御史大夫",
+      "description": "文官之首，对萧寒幸灾乐祸",
+      "status": "active"
+    },
+    {
+      "name": "王崇",
+      "age": "未知",
+      "role": "兵部尚书",
+      "description": "对萧寒的装病行为感到嫌弃和惊吓",
+      "status": "active"
+    },
+    {
+      "name": "李瑾",
+      "age": "未知",
+      "role": "长公主",
+      "description": "身着素净长裙，外罩狐裘披风，气质清冷高贵",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "emperor_trap_test",
+      "description": "老皇帝在大殿上试探萧寒，提议设立‘兵马大元帅’一职意图捧杀",
+      "time": "巳时一刻"
+    },
+    {
+      "id": "xiao_han pretending_illness",
+      "description": "萧寒装作惊悸症发作，口吐白沫、撒泼打滚，在大殿上公开拒绝大元帅职位",
+      "time": "巳时一刻"
+    },
+    {
+      "id": "promotion_to_taishi",
+      "description": "老皇帝打消疑虑，任命萧寒为‘太师’，位极人臣但无实权，双倍俸禄，并解除其兵部事务",
+      "time": "巳时一刻"
+    },
+    {
+      "id": "secret_meeting_jin",
+      "description": "萧寒退朝后在宫墙角落与长公主李瑾秘密会面，李瑾看穿其伪装，二人约定晚上听雨榭相见",
+      "time": "退朝后"
+    }
+  ],
+  "time_period": "建安二十三年秋，巳时一刻至退朝后",
+  "locations": [
+    "大梁皇宫",
+    "太极殿",
+    "午门侧旁休整角",
+    "听雨榭"
+  ],
+  "key_facts": [
+    {
+      "id": "xiao_han_strategy",
+      "content": "萧寒通过伪装成贪生怕死、惊悸发作的废人，成功化解了皇帝的政治试探和捧杀陷阱"
+    },
+    {
+      "id": "new_position_taishi",
+      "content": "萧寒被任命为太师，拥有双倍俸禄但无实权，被皇帝和百官视为无威胁的庸俗权贵"
+    },
+    {
+      "id": "conspiracy_with_jin",
+      "content": "长公主李瑾知晓萧寒是在演戏，并与其达成同盟，萧寒表示连人带钱都归李瑾"
+    }
+  ]
+}

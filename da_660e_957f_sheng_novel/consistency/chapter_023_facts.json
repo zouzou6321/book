@@ -1,0 +1,77 @@
+{
+  "characters_present": [
+    {
+      "name": "陈默",
+      "age": "长生者（外表年轻）",
+      "role": "神机营左营指挥官、一品武官",
+      "description": "身穿猩红披风和一品武官朝服，因服用朱砂药丸而受剧痛折磨，眼神带有冷峻与沧桑，拥有现代记忆",
+      "status": "active"
+    },
+    {
+      "name": "青儿",
+      "age": "23",
+      "role": "陈默的贴身护卫、敢死队统领",
+      "description": "面容冷艳，左脸颊有一道对抗西班牙间谍时留下的浅浅刀疤，身披暗铁色山文甲，手持雁翎刀",
+      "status": "deceased"
+    }
+  ],
+  "new_characters_introduced": [],
+  "character_exits": [
+    {
+      "name": "青儿",
+      "reason": "死亡/牺牲"
+    }
+  ],
+  "major_events": [
+    {
+      "id": "kaifeng_siege_battle",
+      "description": "陈默率领神机营在开封城外土岗利用红夷大炮和燧发枪三段击，整夜抵御李自成数万义军的进攻",
+      "time": "崇祯十五年冬夜"
+    },
+    {
+      "id": "grain_interception",
+      "description": "信使回报，王承恩调运的五千石粮草在野猪林被李自成亲卫营左哨截获，神机营面临断粮危机",
+      "time": "次日黎明"
+    },
+    {
+      "id": "qingers_sacrifice",
+      "description": "青儿率领百名敢死队携带特制高爆火药（震天雷）突袭野猪林并引爆，制造混乱掩护主力撤退，全军覆没",
+      "time": "次日正午"
+    },
+    {
+      "id": "strategic_retreat",
+      "description": "青儿引爆后，陈默下令神机营全军向襄阳方向撤退，河南战场战败",
+      "time": "次日正午"
+    }
+  ],
+  "time_period": "崇祯十五年（1642年）冬",
+  "locations": [
+    "河南开封府城外土岗",
+    "朱仙镇",
+    "野猪林",
+    "襄阳"
+  ],
+  "key_facts": [
+    {
+      "id": "shenjiying_equipment",
+      "content": "神机营左营拥有三千名士兵、二十门红夷大炮，装备改良棉甲和清一色的神机一式燧发枪"
+    },
+    {
+      "id": "chen_mo_condition",
+      "content": "陈默依靠朱砂药丸续命，剧痛频发，且拥有长生体质和极度敏锐的夜视能力"
+    },
+    {
+      "id": "henan_strategic_situation",
+      "content": "开封城内断绝粮食，出现“两脚羊”现象，河南全省基本失守"
+    },
+    {
+      "id": "qinger_background",
+      "content": "青儿是陈默在乱葬岗捡到的孤儿，左脸刀疤源于对抗西班牙间谍，对陈默极度忠诚"
+    },
+    {
+      "id": "qinger_death",
+      "content": "青儿在野猪林执行必死任务，引爆火药阵亡"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}

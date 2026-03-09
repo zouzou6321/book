@@ -1,0 +1,90 @@
+{
+  "characters_present": [
+    {
+      "name": "李疯狂",
+      "age": "",
+      "role": "主角，篡改者",
+      "description": "左眼有倒“V”符号，使用黄金手枪（由烂香蕉篡改），嗅觉系统大部分金属化",
+      "status": "active"
+    },
+    {
+      "name": "苏浅",
+      "age": "",
+      "role": "方舟人员/目标",
+      "description": "当前以粗糙棉布制成的布偶形态存在，关节有缝合线，脸部为画着笑脸的空白画布，胸口裂口露出燃烧的火柴",
+      "status": "active"
+    },
+    {
+      "name": "幸存者（壮汉）",
+      "age": "",
+      "role": "方舟安保人员/雇佣兵",
+      "description": "半张脸曾有瓷器化小丑妆容，经篡改后变为类似纳米战术迷彩的几何图案涂层",
+      "status": "active"
+    },
+    {
+      "name": "幸存者（矮个子女人）",
+      "age": "",
+      "role": "方舟安保人员/雇佣兵",
+      "description": "双腿已转化为生锈铁管，深深插在水泥地里",
+      "status": "active"
+    }
+  ],
+  "new_characters_introduced": [
+    "幸存者（壮汉）",
+    "幸存者（矮个子女人）",
+    "苏浅（布偶形态）"
+  ],
+  "character_exits": [],
+  "major_events": [
+    {
+      "id": "enter_mute_zone",
+      "description": "李疯狂在14:58进入游乐园，触发“非用餐时间”规则，世界陷入绝对死寂",
+      "time": "周五下午 14:58"
+    },
+    {
+      "id": "survivor_rescue",
+      "description": "李疯狂利用“篡改者”能力将壮汉的致命异化修正为保护色，救下幸存者，副作用为说话被迫押韵",
+      "time": "周五下午 14:58"
+    },
+    {
+      "id": "tea_party_discovery",
+      "description": "李疯狂在旋转木马中心发现化为布偶的苏浅，她正通过燃烧自己进行“茶会”以躲避“主厨”搜索",
+      "time": "周五下午 15:00"
+    },
+    {
+      "id": "break_silence",
+      "description": "李疯狂使用黄金手枪对天空射击，利用差评价噪音粉碎“静音”规则，强行介入茶会",
+      "time": "周五下午 15:00"
+    }
+  ],
+  "time_period": "周五下午 14:58 至 15:00",
+  "locations": [
+    "城西游乐园遗址",
+    "“静音”前场",
+    "旋转木马广场",
+    "游乐园深处"
+  ],
+  "key_facts": [
+    {
+      "id": "rule_mute_zone",
+      "content": "游乐园“非用餐时间”规则禁止交谈，违规将被粉碎；该区域会剥夺所有声波传播"
+    },
+    {
+      "id": "phenomenon_tuesday",
+      "content": "“周二现象”会导致异化，将充满变量的人类“修正”为稳定安静的物体（如瓷器、铁管）"
+    },
+    {
+      "id": "skill_tampering",
+      "content": "李疯狂的“篡改者”能力可修改逻辑定义，将转化修改为伪装，但无法消除世界的“幽默感”等逻辑基调"
+    },
+    {
+      "id": "item_banana_gun",
+      "content": "李疯狂的主武器是由烂香蕉篡改而成的黄金手枪，能发射逻辑层面的“差评”噪音"
+    },
+    {
+      "id": "su_qian_status",
+      "content": "苏浅目前存在率仅0.01%，以概念容器（布偶）形式藏身于时间死角，通过燃烧体内火柴维持茶会"
+    }
+  ],
+  "within_chapter_name_conflicts": []
+}
